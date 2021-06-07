@@ -1,0 +1,90 @@
+### YamlMime:Course
+title: Operationalize Cloud Analytics Solutions with Microsoft Azure
+metadata:
+  title: 'Course 552242-A: Operationalize Cloud Analytics Solutions with Microsoft Azure'
+  description: 'Course 552242-A: Operationalize Cloud Analytics Solutions with Microsoft Azure'
+uid: course.552242
+courseNumber: '552242-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create a Data Factory
+- skill: Orchestrate data processing activities in a data-driven workflow
+- skill: Monitor and Manage a Data Factory
+- skill: Move, Transform or Analyze data
+- skill: Design a deployment strategy for end-to-end solutions with Azure Portal or PowerShell
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  552242A is a two-day instructor-led course intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure.Students will learn how to operationalize end-to-end cloud analytics solutions using the Azure Portal and Azure PowerShell.It can be used on its own or with 552241A, Microsoft Azure Big Data Analytics, to prepare for exam 70-475.
+
+  #### Audience profile
+  This course is intended for experienced data professionals who design and build big data analytics solutions on Microsoft Azure.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience processing and querying bulk data
+  - Experience analyzing real-time and historical data
+  - Experience using SQL and data analysis / visualization tools (e.g. Power BI)
+  - Experience using PowerShell (Note&#58; A basic PowerShell tutorial is included in 552241A.)
+outlineSection: |-
+  ### Module 1&#58; Operationalize end-to-end cloud analytics solutions
+  This module explains how to Azure Data Factory to centrally manage data from different sources.
+  #### Lessons
+  - Create a data factory
+  - Create a data-driven workflow
+  - Monitor and manage the data factory
+  - Move, Transform and Analyze Data
+  - Design a deployment strategy for an end-to-end solution
+  - Review
+
+
+  #### Lab &#58; Operationalize end-to-end cloud analytics solutions
+  - Create a data factory
+  - Create a data-driven workflow
+  - Monitor and manage the data factory
+  - Move, Transform and Analyze Data
+  - Design a deployment strategy for an end-to-end solution
+
+  After completing this module, students will be able to&#58;
+  - Create, Manage & Monitor a data factory
+  - Create a data driven workflow
+  - Move, Transform and Analyze Data
+  - Create a deployment strategy using the Azure Portal or PowerShell
+
+
+  ### Module 2&#58; Appendix B&#58; PowerShell for Technology Professionals (Optional)
+  This module explains how to use PowerShell to administer computer, network, application and Azure resources.
+  #### Lessons
+  - Introduction
+  - Compared to Other Scripting Languages
+  - Configuring and Using PowerShell
+  - Creating and Running Scripts
+  - Administering Local Resources
+  - Administering Network Resources
+  - Resolve PowerShell Scripting Problems.
+
+
+  #### Lab &#58; Lab B&#58; Operationalize end-to-end cloud analytics solutions
+  - Use PowerShell to get Computer Information
+  - Use PowerShell documentation to understand and use cmdlets
+  - Create and execute scripts
+  - Configure and test Remote Management
+  - Create and Azure VM with Azure PowerShell
+
+  After completing this module, students will be able to use PowerShell to&#58;
+  - Use PowerShell to get Computer Information
+  - Use PowerShell documentation to understand and use cmdlets
+  - Create and execute scripts
+  - Configure and test Remote Management
+  - Create and Azure VM with Azure PowerShell
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - 55224-1A - Microsoft Azure Big Data Analytics Solutions

@@ -1,0 +1,142 @@
+### YamlMime:Course
+title: Maximizing PivotTable Using Microsoft Excel 2007
+metadata:
+  title: 'Course 50482-B: Maximizing PivotTable Using Microsoft Excel 2007'
+  description: 'Course 50482-B: Maximizing PivotTable Using Microsoft Excel 2007'
+uid: course.50482
+courseNumber: '50482-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Making Data Work For You
+- skill: A Quick Tour
+- skill: Manipulating the PivotTable
+- skill: Digging Deeper
+- skill: Beyond the Basics
+- skill: More PivotTable Calculations
+- skill: Optional Topics
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  Course retirement date&#58; November 30, 2012
+
+  For a complete list of courseware retirements, see&#58;
+  
+  https://www.microsoft.com/learning/retired-courses.aspx
+  
+  This one day course provides students with the knowledge and skills to use the features and functions of Microsoft Office Excel PivotTable 2007 to accomplish analysis tasks.
+
+  #### Audience profile
+  This course is intended for users of Microsoft Office Excel who want to learn about the features of Microsoft Office Excel PivotTable 2007.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A basic working knowledge of Microsoft Office Excel
+outlineSection: |-
+  ### Module 1&#58; Making Data Work For You
+  This module explains how to make use of Excel data and maximize it through the use of PivotTable.
+  #### Lessons
+  - Maximize the Power of PivotTable
+  - Ask the Questions
+  - Get the Answer
+
+  After completing this module, students will be able to&#58;
+  - Maximize the Power of PivotTable
+
+
+  ### Module 2&#58; A Quick Tour--Creating the Pivot Table
+  This module explains how to use determine the source needed to create its PivotTable report.
+  #### Lessons
+  - Determine What You Need to Know
+  - Identify the Source
+  - Creating the Pivot Table
+  - Working with Pivot Table Layout
+
+  After completing this module, students will be able to&#58;
+  - Determine the source needed for its PivotTable
+  - Create the PivotTable
+  - Working with the PivotTable
+
+
+  ### Module 3&#58; Manipulating the PivotTable
+  This module explains how to rearrange the layout of the PivotTable.
+  #### Lessons
+  - Rearranging the Layout
+  - Adding New Field
+  - Renaming a Field
+  - Formatting Numbers
+  - Changing Sorting Order
+  - Showing Top 10
+  - Refreshing Data
+
+  After completing this module, students will be able to&#58;
+  - Rearrange the layout of the PivotTable
+  - Adding, renaming New Field within the PivotTable
+  - Formatting Number in the PivotTable reports
+  - Changing Sorting Order
+  - Showing Top 10 values
+  - Refreshing Source data within the PivotTable
+
+
+  ### Module 4&#58; Digging Deeper
+  This module explains how to group item, display subtotals and grandtotals within the PivotTable.
+  #### Lessons
+  - Grouping Items
+  - Displaying Subtotals
+  - Hiding/Showing Grand Totals
+  - Formatting PivotTable
+
+  After completing this module, students will be able to&#58;
+  - Display grouping and subtotals for PivotTable
+  - Formatting PivotTable
+
+
+  ### Module 5&#58; Beyond the Basics
+  This module explains how to create a second data field and changing the summary function with the PivotTable.
+  #### Lessons
+  - Creating Second Data Field
+  - Changing the Summary Function
+  - Displaying Numerical Value as a Percentage of the Total
+  - Creating a Custom Calculation
+  - More Function in Custom Calculation
+
+  After completing this module, students will be able to&#58;
+  - Create a Second Data Field within the PivotTable
+  - Changing Summary Function
+  - Displaying Numerical Value as a Percentage of the Total
+  - Create custom calculation within the PivotTable
+
+
+  ### Module 6&#58; More PivotTable Calculations
+  This module explains how to insert formula within the PivotTable.
+  #### Lessons
+  - Using Formulas
+  - Creating a Calculated Field
+  - Creating a Calculated Item
+  - Using GetPivotData Function
+  - Turn off GetPivotData Function
+
+  After completing this module, students will be able to&#58;
+  - Use Formulas with the PivotTable
+  - Create a calculated field and item
+  - Using GetPivotData Function
+  - Turn off GetPivotData Function
+
+
+  ### Module 7&#58; Optional Topics
+  This module explains how to create a PivotChart, Publishing PivotTable to the Web and using multiple source range for the PivotTable.
+  #### Lessons
+  - Creating PivotChart
+  - Publishing PivotTable to the Web
+  - Using Multiple Source Ranges
+
+  After completing this module, students will be able to&#58;
+  - Creating PivotChart
+  - Publishing PivotTable to the Web
+  - Using Multiple Source Ranges to create PivotTable

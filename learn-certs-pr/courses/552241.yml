@@ -1,0 +1,132 @@
+### YamlMime:Course
+title: Microsoft Azure Big Data Analytics Solutions
+metadata:
+  title: 'Course 552241-A: Microsoft Azure Big Data Analytics Solutions'
+  description: 'Course 552241-A: Microsoft Azure Big Data Analytics Solutions'
+uid: course.552241
+courseNumber: '552241-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design big data batch processing and interactive solutions (552241A)
+- skill: Design big data real-time processing solutions (552241A)
+- skill: Operationalize end-to-end cloud analytics solutions (552242A)
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  552241A is a two-day instructor-led course is intended for data professionals who want to expand their knowledge about creating big data analytic solutions on Microsoft Azure. Students will learn how to design solutions for batch and real-time data processing. Different methods of using Azure will be discussed and practiced in lab exercises, such as Azure CLI, Azure PowerShell and Azure Portal.
+  552241A labs and exercises will cover the first two objectives of exam 70-475 (Designing Big Data batch, interactive & real-time solutions). The other objective (Operationalize end-to-end cloud analytics solutions) is covered in 552242A.
+
+  #### Audience profile
+  This course is intended for experienced data professionals who design big data analytics solutions on Microsoft Azure.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience processing and querying bulk data
+  - Experience analyzing real-time and historical data
+  - Experience using SQL and data analysis / visualization tools (e.g. Power BI)
+  - Experience using PowerShell (Note&#58; A basic PowerShell tutorial is included in the course.)
+outlineSection: |-
+  ### Module 1&#58; Design big data batch processing and interactive solutions (552241A)
+  This module explains how to load data into Microsoft Azure for batch processing.
+  #### Lessons
+  - Module Objectives
+  - Lesson 1&#58; Ingest data for batch processing
+  - Lesson 2&#58; Design for batch processing
+  - Lesson 3&#58; Design interactive queries
+  - Review
+
+
+  #### Lab &#58; Design big data batch processing and interactive solutions
+  - Exercise 1&#58; Load data into Microsoft Azure
+  - Exercise 2&#58; Prepare data for batch processing
+  - Exercise 3&#58; Query the data
+
+  After completing this module, students will be able to use PowerShell to&#58;
+  - Load data into Microsoft Azure
+  - Prepare data for batch processing
+  - Query the data
+
+
+  ### Module 2&#58; Design Big Data Real-Time Processing Solutions (552241A)
+  This module explains how to load data into Microsoft Azure for real-time processing.
+  #### Lessons
+  - Module Objectives
+  - Lesson 1&#58; Ingest data for Real-Time Processing
+  - Lesson 2&#58; Designing for Real-Time Processing
+  - Lesson 3&#58; Design interactive queries for Big Data
+  - Review
+
+
+  #### Lab &#58; Design Big Data Real-Time Processing Solutions
+  - Exercise 1&#58; Load data into Microsoft Azure
+  - Exercise 2&#58; Prepare data for Real-Time Event Processing
+  - Exercise 3&#58; Visualize the Data
+
+  After completing this module, students will be able to use PowerShell to&#58;
+  - Load data into Microsoft Azure
+  - Prepare data for real-time event processing
+  - Visualize the data
+
+
+  ### Module 3&#58; Operationalize end-to-end cloud analytics solutions (552242A)
+  This module explains how to Azure Data Factory to centrally manage data from different sources.
+  #### Lessons
+  - Module Objectives
+  - Lesson 1&#58; Create a data factory
+  - Lesson 2&#58; Create a data-driven workflow
+  - Lesson 3&#58; Monitor and Manage the data factory
+  - Lesson 4&#58; Move, Transform and Analyze Data
+  - Lesson 5&#58; Design a deployment strategy for an end-to-end solution
+  - Review
+
+
+  #### Lab &#58; Operationalize end-to-end cloud analytics solutions
+  - Exercise 1&#58; Create a data factory
+  - Exercise 2&#58; Create a data-driven workflow
+  - Exercise 3&#58; Monitor and Manage the data factory
+  - Exercise 4&#58; Move, Transform and Analyze Data
+  - Exercise 5&#58; Design a deployment strategy for an end-to-end solution
+
+  After completing this module, students will be able to use PowerShell to&#58;
+  - Create, Manage & Monitor a data factory
+  - Create a data driven workflow
+  - Move, Transform and Analyze Data
+  - Create a deployment strategy using PowerShell
+
+
+  ### Module 4&#58; PowerShell for Technology Professionals (552241A Optional)
+  This module explains how to use PowerShell to administer computer, network, application and Azure
+  resources.
+  #### Lessons
+  - Introduction
+  - Compared to Other Scripting Languages
+  - Configuring and Using PowerShell
+  - Creating and Running Scripts
+  - Administering Local Resources
+  - Administering Network Resources
+  - Resolve PowerShell Scripting Problems
+
+
+  #### Lab &#58; Operationalize end-to-end cloud analytics solutions
+  - Exercise 1&#58; Use PowerShell to get Computer Information
+  - Exercise 2&#58; Use PowerShell documentation to understand and use cmdlets
+  - Exercise 3&#58; Create and execute scripts
+  - Exercise 4&#58; Configure and test Remote Management
+  - Exercise 5&#58; Create and Azure VM with Azure PowerShell
+
+  After completing this module, students will be able to use PowerShell to&#58;
+  - Use PowerShell to get Computer Information
+  - Use PowerShell documentation to understand and use cmdlets
+  - Create and execute scripts
+  - Configure and test Remote Management
+  - Create and Azure VM with Azure PowerShell
+
+  #### Additional Reading
+  552242A - Operationalize Cloud Analytics Solutions with Microsoft Azure

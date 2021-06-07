@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Azure로 애플리케이션 워크로드 마이그레이션
+metadata:
+  title: 'Course WS-050T00KO-A: Azure로 애플리케이션 워크로드 마이그레이션'
+  description: 'Course WS-050T00KO-A: Azure로 애플리케이션 워크로드 마이그레이션'
+uid: course.ws-050t00ko
+courseNumber: 'WS-050T00KO-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 각 마이그레이션 단계에서 사용되는 도구와 서비스 파악
+- skill: 각 마이그레이션 단계에서 사용되는 도구와 서비스 파악
+- skill: Azure로 마이그레이션할 온-프레미스 워크로드 검색 및 평가
+- skill: 앱 종속성 매핑 및 평가 사용자 지정 기능을 통해 환경의 심층 프로파일링 정보 파악
+- skill: Azure Migrate를 사용하여 온-프레미스 워크로드를 Azure로 마이그레이션하는 전체 과정 수행
+- skill: 온-프레미스 데이터 센터에서 Azure 또는 보조 사이트로 데이터 복제
+- skill: Database Migration Service를 사용하여 기존 데이터 원본에서 Azure 데이터 플랫폼으로 데이터 마이그레이션
+- skill: Azure Security Center, Azure Backup 및 Log Analytics를 사용하여 마이그레이션된 워크로드 보호/관리
+- skill: 고가용성/재해 복구를 포함한 효율적인 비즈니스 연속성 전략 보장
+- skill: Azure Backup 서비스를 사용하여 어떤 위치에서나 Azure IaaS 가상 머신 백업/보호
+- skill: 전체 장애 조치(failover) 실행 전에 가상 머신이 적절하게 장애 조치(failover)되도록 복구 계획 정의
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 워크샵에서는 IT 전문가를 대상으로 기존 온-프레미스 워크로드와 자산을 클라우드(구체적으로는 Microsoft Azure 플랫폼)로 마이그레이션 하는 방법과 관련된 교육을 진행합니다. 워크샵 참가자는 클라우드 마이그레이션 준비를 위해 기존 온-프레미스 환경을 평가하는 방법을 파악합니다. 또한 ROI(투자 수익률) 최대화를 위해 Azure 기반 워크로드를 모니터링/최적화하는 방법과, Azure 서비스를 사용하여 가상 머신/애플리케이션/데이터를 보호하고 관리하는 방법도 알아봅니다.
+
+  #### Audience profile
+  이 워크샵은 온-프레미스 리소스를 Azure로 마이그레이션하는 과정을 계획/구현/관리해야 하거나 다른 Azure 위치로 Azure 가상 머신을 복제해야 하는 IT 관리자와 관련 직원을 대상으로 진행됩니다. 워크로드 소유자는 기존 데이터 센터 방식이 아닌 클라우드 지원 전략을 사용하는 경우 제공되는 이점을 활용하기 위해 이러한 IT 관리자와 직원에게 클라우드로 워크로드를 마이그레이션할 것을 요청합니다. 이 역할은 조직 IT 부서/비즈니스 그룹 및 공급업체 내의 여러 개별 직원과 정보를 교환하고 의견을 조율해야 합니다.
+prerequisitesSection: |-
+  - 이 역할을 처음 맡는 IT 관리자에게는 운영 체제/가상화/클라우드 인프라/스토리지 구조/네트워킹 관련 경험이 있어야 합니다. 또한 IaaS Azure 인프라 관리 경험이나 그에 해당하는 관련 지식을 보유하고 있어야 합니다.
+  - VM, 가상 네트워킹, 가상 하드 디스크와 같은 온-프레미스 가상 기술에 대해 파악하고 있어야 합니다.
+  - TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽, 암호화 기술 등의 네트워크 구성을 파악하고 있어야 합니다.
+  - 도메인, 포리스트, 도메인 컨트롤러, 복제, Kerberos 프로토콜, LDAP(Lightweight Directory Access Protocol) 등의 Active Directory 개념에 대해 파악하고 있어야 합니다.
+  - 백업/복원 작업 등의 복원 및 재해 복구 과정에 대해 파악하고 있어야 합니다.
+  - Azure Portal, CloudShell, Azure PowerShell, CLI, ARM 템플릿 등 Azure의 기능을 숙지하고 있어야 합니다.
+  - Azure Active Directory 및 클라우드 ID 관리 방식을 파악하고 있어야 합니다.
+  - 구독/사용자/그룹/청구/Azure 정책 관리 방식을 파악하고 있어야 합니다.
+outlineSection: |-
+  ### 모듈 1&#58; Azure 마이그레이션 계획 및 평가
+  이 모듈에서는 클라우드 마이그레이션을 선택하는 주요 업무상/기술적 요인, Azure 마이그레이션의 단계, 그리고 각 단계에 사용되는 도구와 서비스에 대해 알아봅니다. 그리고 적절한 워크로드를 Azure로 마이그레이션할 준비를 하는 과정에서 온-프레미스 환경을 검색하고 평가하는 방법도 알아봅니다.
+  #### 과목
+  - 클라우드 마이그레이션 - 업무상의 동기, 목표, 결과
+  - 검색 및 평가
+
+
+  ### 연습실 &#58; 마이그레이션할 온-프레미스 리소스 검색 및 평가
+
+  ### 모듈 2&#58; 데이터 마이그레이션 소개
+  이 모듈에서는 대량의 데이터(TB 단위)를 Azure로 안전하게 전송해야 할 때 사용할 수 있는 솔루션에 대해 알아봅니다. 구체적으로는 온/오프라인 전송 옵션이 포함된 Azure Data Box 제품군에 대해 살펴봅니다. 그 후에는 Azure DMS(Database Migration Service)를 사용하여 Azure SQL Database MI(Managed Instance)로 온-프레미스 SQL Server 2008R2 데이터베이스를 마이그레이션하는 방법을 알아봅니다.
+  #### 과목
+  - Azure Data Box
+  - 데이터베이스 마이그레이션
+
+
+  ### 연습실 &#58; 온-프레미스 SQL Server Database를 Azure SQL Managed Instance로 마이그레이션
+
+  ### 모듈 3&#58; Azure Migrate 서비스를 사용하여 마이그레이션 구현
+  이 모듈에서는 계획된 마이그레이션을 수행하기 전에 온-프레미스 인프라 및 Azure 구성 요소를 준비하는 방법을 알아봅니다. 또한 Azure Migrate 서비스를 사용하여 종단 간 마이그레이션을 수행하는 방법도 알아봅니다.
+  #### 과목
+  - Azure Migrate 서버 마이그레이션 개요
+  - VMware - 에이전트 없는 마이그레이션
+  - VMware - 에이전트 기반 마이그레이션
+  - 마이그레이션된 워크로드 보호
+  - Microsoft 마이그레이션 팩터리를 사용하는 데이터 센터 마이그레이션
+
+
+  ### 연습실 &#58; Azure로 가상 머신 복제
+
+  ### 모듈 4&#58; Azure의 백업 및 재해 복구
+  이 모듈에서는 비즈니스 연속성 전략의 주요 구성 요소와 항상 사용 가능한 솔루션에 필요한 요소에 대해 알아봅니다. 또한 Azure Backup 서비스를 사용하여 Azure IaaS 가상 머신 백업을 구현하는 방법과, Azure Site Recovery를 사용해 다른 Azure 위치로 Azure VM을 복제하는 방법도 알아봅니다.
+  #### 과목
+  - Azure Backup 개요
+  - Azure IaaS 백업 구현
+  - Azure to Azure Site Recovery
+  - 애플리케이션 재해 복구

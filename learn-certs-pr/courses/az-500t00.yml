@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: Microsoft Azure Security Technologies
+metadata:
+  title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  iltScheduling: true
+uid: course.az-500t00
+courseNumber: 'AZ-500T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implement enterprise governance strategies including role-based access control, Azure policies, and resource locks.
+- skill: Implement an Azure AD infrastructure including users, groups, and multi-factor authentication.
+- skill: Implement Azure AD Identity Protection including risk policies, conditional access, and access reviews.
+- skill: Implement Azure AD Privileged Identity Management including Azure AD roles and Azure resources.
+- skill: Implement Azure AD Connect including authentication methods and on-premises directory synchronization.
+- skill: Implement perimeter security strategies including Azure Firewall.
+- skill: Implement network security strategies including Network Security Groups and Application Security Groups.
+- skill: Implement host security strategies including endpoint protection, remote access management, update management, and disk encryption.
+- skill: Implement container security strategies including Azure Container Instances, Azure Container Registry, and Azure Kubernetes.
+- skill: Implement Azure Key Vault including certificates, keys, and secretes.
+- skill: Implement application security strategies including app registration, managed identities, and service endpoints.
+- skill: Implement storage security strategies including shared access signatures, blob retention policies, and Azure Files authentication.
+- skill: Implement database security strategies including authentication, data classification, dynamic data masking, and always encrypted.
+- skill: Implement Azure Monitor including connected sources, log analytics, and alerts.
+- skill: Implement Azure Security Center including policies, recommendations, and just in time virtual machine access.
+- skill: Implement Azure Sentinel including workbooks, incidents, and playbooks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+exams:
+- uid: exam.az-500
+summary: |-
+  This course provides IT Security Professionals with the knowledge and skills needed to implement security controls, maintain an organization’s security posture, and identify and remediate security vulnerabilities. This course includes security for identity and access, platform protection, data and applications, and security operations.
+
+  #### Audience profile
+  This course is for Azure Security Engineers who are planning to take the associated certification exam, or who are performing security tasks in their day-to-day job. This course would also be helpful to an engineer that wants to specialize in providing security for Azure-based digital platforms and play an integral role in protecting an organization's data.
+prerequisitesSection: |-  
+  Successful learners will have prior knowledge and understanding of&#58;
+  - Security best practices and industry security requirements such as defense in depth, least privileged access, role-based access control, multi-factor authentication, shared responsibility, and zero trust model.
+  - Be familiar with security protocols such as Virtual Private Networks (VPN), Internet Security Protocol (IPSec), Secure Socket Layer (SSL), disk and data encryption methods.
+  - Have some experience deploying Azure workloads. This course does not cover the basics of Azure administration, instead the course content builds on that knowledge by adding security specific information.
+  - Have experience with Windows and Linux operating systems and scripting languages. Course labs may use PowerShell and the CLI.
+  
+  Prerequisite courses (or equivalent knowledge and hands-on experience):
+  
+  This free online training will give you the experience you need to be successful in this course.
+  
+  - [AZ-104: Manage identities and governance in Azure - Learn | Microsoft Docs](/learn/paths/az-104-manage-identities-governance/)
+  - [AZ-104: Implement and manage storage in Azure - Learn | Microsoft Docs](/learn/paths/az-104-manage-storage/)
+  - [AZ-104: Configure and manage virtual networks for Azure administrators - Learn | Microsoft Docs](/learn/paths/az-104-manage-virtual-networks/)
+  - [AZ-104: Monitor and back up Azure resources - Learn | Microsoft Docs](/learn/paths/az-104-monitor-backup-resources/)
+  - [AZ-104: Deploy and manage Azure compute resources - Learn | Microsoft Docs](/learn/paths/az-104-manage-compute-resources/)
+outlineSection: |-
+  ### Module  1&#58; Manage Identity and Access
+  This module covers Azure Active Directory, Azure Identity Protection, Enterprise Governance, Azure AD PIM, and Hybrid Identity.
+  #### Lessons
+  - Azure Active Directory
+  - Azure Identity Protection
+  - Enterprise Governance
+  - Azure AD Privileged Identity Management
+  - Hybrid Identity
+
+  #### Lab &#58; Role-Based Access Control
+  
+  #### Lab &#58; Azure Policy
+  
+  #### Lab &#58; Resource Manager Locks
+  
+  #### Lab &#58; MFA, Conditional Access and AAD Identity Protection
+  
+  #### Lab &#58; Azure AD Privileged Identity Management
+  
+  #### Lab &#58; Implement Directory Synchronization
+  
+  After completing this module, students will be able to&#58;
+  - Implement enterprise governance strategies including role-based access control, Azure policies, and resource locks.
+  - Implement an Azure AD infrastructure including users, groups, and multi-factor authentication.
+  - Implement Azure AD Identity Protection including risk policies, conditional access, and access reviews.
+  - Implement Azure AD Privileged Identity Management including Azure AD roles and Azure resources.
+  - Implement Azure AD Connect including authentication methods and on-premises directory synchronization.
+  
+  
+  ### Module  2&#58; Implement Platform Protection
+  This module covers perimeter, network, host, and container security.
+  #### Lessons
+  - Perimeter Security
+  - Network Security
+  - Host Security
+  - Container Security
+  
+  #### Lab &#58; Network Security Groups and Application Security Groups
+  
+  #### Lab &#58; Azure Firewall
+  
+  #### Lab &#58; Configuring and Securing ACR and AKS
+  
+  After completing this module, students will be able to&#58;
+  - Implement perimeter security strategies including Azure Firewall.
+  - Implement network security strategies including Network Security Groups and Application Security Groups.
+  - Implement host security strategies including endpoint protection, remote access management, update management, and disk encryption.
+  - Implement container security strategies including Azure Container Instances, Azure Container Registry, and Azure Kubernetes.
+  
+  
+  ### Module  3&#58; Secure Data and Applications
+  This module covers Azure Key Vault, application security, storage security, and SQL database security.
+  #### Lessons
+  - Azure Key Vault
+  - Application Security
+  - Storage Security
+  - SQL Database Security
+  
+  #### Lab &#58; Key Vault (Implementing Secure Data by setting up Always Encrypted)
+  
+  #### Lab &#58; Securing Azure SQL Database
+  
+  #### Lab &#58; Service Endpoints and Securing Storage
+  
+  After completing this module, students will be able to&#58;
+  - Implement Azure Key Vault including certificates, keys, and secretes.
+  - Implement application security strategies including app registration, managed identities, and service endpoints.
+  - Implement storage security strategies including shared access signatures, blob retention policies, and Azure Files authentication.
+  - Implement database security strategies including authentication, data classification, dynamic data masking, and always encrypted.
+  
+  
+  ### Module  4&#58; Manage Security Operations
+  This module covers Azure Monitor, Azure Security Center, and Azure Sentinel.
+  #### Lessons
+  - Azure Monitor
+  - Azure Security Center
+  - Azure Sentinel
+  
+  #### Lab &#58; Azure Monitor
+  
+  #### Lab &#58; Azure Security Center
+  
+  #### Lab &#58; Azure Sentinel
+  
+  After completing this module, students will be able to&#58;
+  - Implement Azure Monitor including connected sources, log analytics, and alerts.
+  - Implement Azure Security Center including policies, recommendations, and just in time virtual machine access.
+  - Implement Azure Sentinel including workbooks, incidents, and playbooks.

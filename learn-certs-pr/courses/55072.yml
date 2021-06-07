@@ -1,0 +1,162 @@
+### YamlMime:Course
+title: Visualizing Data with SharePoint 2013, Report Builder, PowerPivot & PowerView with NO CODE
+metadata:
+  title: 'Course 55072-A: Visualizing Data with SharePoint 2013, Report Builder, PowerPivot & PowerView with NO CODE'
+  description: 'Course 55072-A: Visualizing Data with SharePoint 2013, Report Builder, PowerPivot & PowerView with NO CODE'
+uid: course.55072
+courseNumber: '55072-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Perform all of the actions and answer all of the questions listed in: Why this course may be for you.'
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  What do we mean by no code? It is a matter of perspective. In today’s world the successful software vendor needs to develop software that is easily customizable by casual users. In the realm of business intelligence that means offering a variety of tools to different types of users that, depending on their experience, they can utilize to rapidly create the visualization of data that suits their needs. Microsoft has produced a great array of such tools that target different users. These tools are various Wizards, Dialog Boxes, Forms, Web Pages Designers and so forth. In this course we utilize the built in tools and do not write a single line of code! 
+
+  No Code visualization means using the data structures that exist already to get the job done. You don’t have the time or maybe the inclination to learn how to code but you need answers. I.T., if you haven’t already noticed, is always working through a backlog but your business situation is dynamic and rapidly changing and will not wait for any backlog. In this course you will learn how to get those answers without submitting a request and waiting.
+
+  #### Audience profile
+  The target audience of this course is for Business Analysts, Report Designers, Team Leads, SharePoint Administrators, Business Intelligence Developers and Project Managers that will be tasked with the implementation, support, management or training needed to rapidly empower the users to take advantage of the exploding world of Data V.
+
+  Why this course may be for you&#58; 
+  
+  You have the infrastructure but getting reports generated out of I.T. just takes too long. 
+  
+  Lack of insight into what has happened is hampering your ability to move forward. 
+  
+  You need or want to use the web browser as your source of information so that it is as accessible as the internet.
+  
+  You want to take advantage of the SharePoint deployment to manage the data connections, report objects, dashboards KPI’s etc. 
+  
+  You need to rapidly prototype reports for changing conditions. 
+  
+  You want to move from textual reports to graphical reporting. 
+  
+  You are tasked with implementing Six Sigma type reports using Visio Data Driven objects.
+  
+  Your organization wants to implement analysis based on automatically updating data. 
+  
+  You need to implement a “Single Source of The Truth” structure. 
+  
+  You need to understand the effectiveness of the reports and dashboards. 
+  
+  You need an understanding of the tools that are available and how to determine which is the target audience for those tools.
+  
+  You need to implement actionable dashboards to allow line managers to rapidly take action.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module explains how the class will be structured and introduces course materials and additional administrative information. 
+  What you will get out of this module&#58;
+  Introduction to the instructor and your peers
+  A review of what we mean by NO CODE
+  How to work in the course environment
+  #### Lessons
+  - What does NO Code mean?
+  - How to get the most out of this course
+  - The course setup
+  - What is not covered?
+
+
+  #### Lab &#58; Introduction
+
+  ### Module 2&#58; Data Visualizations
+  This module explains concepts of data visualizations.
+  #### Lessons
+  - Data Visualization Fundamentals
+  - The Microsoft Toolsets for Visualizations
+
+
+  #### Lab &#58; Data Visualizations
+
+  ### Module 3&#58; Dashboard Design Principles
+  This module is an introduction to successful design principles for Dashboard design.
+  #### Lessons
+  - Successful dashboards
+  - Quantitative relationships
+  - Summary numbers
+  - Tables or graphs?
+  - Types of graphs
+  - Key performance indicators
+  - Dashboard taxonomies
+  - Pitfalls in dashboard design
+
+
+  #### Lab &#58; Group Review of Design Problems
+
+  ### Module 4&#58; Microsoft Business Intelligence Stack
+  This module covers the Microsoft Business Intelligence stack including SQL 2012, Extract-Transform-Load, Reporting Services, Tabular Data, Analysis Services and SharePoint 2013.
+  #### Lessons
+  - Microsoft Business Intelligence Overview
+  - Business Intelligence in three ways
+  - SQL Integration Services ETL
+  - Reporting Services
+  - Master Data Services
+  - Data Quality Services
+  - SharePoint 2013 Business Intelligence
+
+
+  #### Lab &#58; Tour of the Microsoft Business Intelligence Stack
+
+  ### Module 5&#58; Report Builder 3.0
+  This module explains Report Builder 3.0 wizards, basics of report design, intermediate reports with report parameters and report expressions, report visualizations including graphs, charts, images, and gauges, advanced reporting including the utilization of maps, interactive reports, Report Parts and sub-reports.
+  #### Lessons
+  - Introduction to Report Builder 3.0
+  - Report Builder 3.0 Wizards
+  - Report Builder 3.0 Graphics
+  - Intermediate Reports
+
+
+  #### Lab &#58; Report Builder 3.0
+
+  ### Module 6&#58; PowerPivot and PowerView
+  In this module, we will explore PowerPivot and its analytical capabilities. PowerPivot is a data analysis add-on for  Microsoft Excel that allows large amounts of data to be collected, aggregated, and analyzed in one workbook. Sounds powerful? It is! We’ll cover everything you need to know to get you up, running, and analyzing.
+  #### Lessons
+  - PowerPivot
+  - DAX
+  - PowerView
+
+
+  #### Lab &#58; PowerPivot and PowerView
+
+  ### Module 7&#58; SharePoint 2014 Excel Services
+  In this module, we will go over all the new 2013 Excel Services features, and we will explore the core components of Excel Services. We will cover Excel Web Access and its capabilities along with any differences you may encounter in the browser as opposed to the desktop client. There is coverage of the Power View add-in for Excel, and then lastly we will explain the save and share process and have a look at best practices.
+  #### Lessons
+  - New 2013 Excel Services Features
+  - Core Components
+  - Excel Web Access (EWA)
+  - What Excel Web Access is Not
+  - Differences in the Browser vs. Desktop
+  - SharePoint Libraries to Store Workbooks
+  - Power View Add-in for Excel
+  - The Save and Share Process
+  - Excel Web App
+  - Best Practices
+
+
+  #### Lab &#58; SharePoint 2014 Excel Services
+
+  ### Module 8&#58; SharePoint 2013 PerformancePoint Services
+  In this module, we will give you an overview of the new 2013 PerformancePoint Services features. Dashboard Designer is explored along with many of the objects and connections available within.
+  #### Lessons
+  - New 2013 Overview of PerformancePoint Services
+  - Dashboard Designer
+  - Data Sources
+  - Indicators
+  - KPIs
+  - Visual Reports
+  - Filters
+  - Scorecards
+  - Dashboards
+
+
+  #### Lab &#58; PerformancePoint 2013

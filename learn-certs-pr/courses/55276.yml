@@ -1,0 +1,247 @@
+### YamlMime:Course
+title: Advanced Microsoft PowerPoint 2019
+metadata:
+  title: 'Course 55276-A: Advanced Microsoft PowerPoint 2019'
+  description: 'Course 55276-A: Advanced Microsoft PowerPoint 2019'
+uid: course.55276
+courseNumber: '55276-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create customized presentations with templates.
+- skill: Add special effects.
+- skill: Use the slide, notes, and handout masters.
+- skill: Create, edit, and import charts.
+- skill: Manage hyperlinks.
+- skill: Create custom shows.
+- skill: Secure and share presentations.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Advanced Microsoft PowerPoint 2019 training class is for PowerPoint 2019 users who want to build upon their basic skills. Students will use advanced techniques such as working with Masters and Special Effects within their presentations.
+
+  #### Audience profile
+  Students who have basic skills with Microsoft PowerPoint 2019 who want to learn advanced-level skills or students who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  Experience in the following is required for this Microsoft PowerPoint class&#58;
+  - Basic PowerPoint 2019 experience.
+outlineSection: |-
+  ### Module 1&#58; Customizing Presentations
+  This module explains how to customize presentations in Microsoft PowerPoint.
+  #### Lessons
+  - Applying a Theme
+  - Applying a Background Style
+  - Adding a Footer
+  - Arranging and Printing Sections
+
+
+  #### Lab &#58; Customizing Presentations Exercises
+  - Adding a Background Image
+  - Customizing Your Presentation
+
+  After completing this module, students will be able to&#58;
+  - Apply a theme.
+  - Apply a background style.
+  - Add a footer.
+  - Add a background image.
+  - Save a custom theme.
+  - Arrange and print sections of a presentation.
+
+
+  ### Module 2&#58; Presentation Masters
+  This module explains how to work with presenatation masters in Microsoft Power.
+  #### Lessons
+  - Working with the Slide Master
+  - Slide Layouts
+  - Formatting Slide Masters and Layouts
+  - Adding a Watermark to Your Presentation
+  - Adding Slide numbers Using the Slide Master
+  - Preserving a Slide Master
+  - Modifying the Handout Master
+  - Adding a Header and Footer to Notes and Handouts
+
+
+  #### Lab &#58; Using the Slide Master
+  After completing this module, students will be able to&#58;
+  - Work with the slide master.
+  - Work with layouts.
+  - Format slide masters and slide layouts.
+  - Add a watermark.
+  - Add slide numbers.
+  - Insert a new slide master.
+  - Preserve a slide master.
+  - Modify the notes master.
+  - Modify the handout master.
+  - Add a header and footer to notes and handouts.
+
+
+  ### Module 3&#58; Working with Special Effects
+  This module explains how to work with special effects in Microsoft PowerPoint.
+  #### Lessons
+  - Animating Text and Objects
+  - Motion Paths
+  - Working with the Animation Painter
+  - Setting Animation Timing
+  - Animating a Chart
+
+
+  #### Lab &#58; Applying Special Effects to a Presentation
+  After completing this module, students will be able to&#58;
+  - Animate text and objects.
+  - Work with the Animation Painter.
+  - Set animation timing.
+  - Animate a chart.
+
+
+  ### Module 4&#58; Using SmartArt
+  This module explains how to use SmartArt in Microsoft PowerPoint.
+  #### Lessons
+  - Inserting SmartArt Graphics
+  - Modifying SmartArt Graphics
+  - Resizing/Repositioning a SmartArt Object
+  - Formatting Text in a SmartArt Object
+  - Adding Shapes to a SmartArt Object
+  - Ungrouping SmartArt Objects
+
+
+  #### Lab &#58; Working with SmartArt
+  After completing this module, students will be able to&#58;
+  - Insert SmartArt graphics into your presentations.
+  - Modify SmartArt graphics.
+  - Resize and reposition SmartArt graphics.
+  - Add text to a SmartArt object.
+  - Format text within a SmartArt object.
+  - Add shapes to a SmartArt graphic.
+  - Ungroup SmartArt objects.
+
+
+  ### Module 5&#58; Multimedia
+  This module explains how work with multimedia in Microsoft PowerPoint.
+  #### Lessons
+  - Creating a Photo Album
+  - Adding Captions
+  - Applying a Theme to Your Album
+  - Customizing an Album
+  - Inserting Sounds and Video
+  - Editing Media Clips
+
+
+  #### Lab &#58; Multimedia Exercises
+  - Creating and Modifying a Photo Album
+  - Adding Video to a Presentation
+
+  After completing this module, students will be able to&#58;
+  - Create a photo album.
+  - Add captions to photos in an album.
+  - Apply a theme to an album.
+  - Customize the photo album layout.
+  - Insert sound and video in a presentation.
+  - Edit media clips in PowerPoint.
+  - To change multimedia settings.
+
+
+  ### Module 6&#58; Setting Up the Slide Show
+  This module explains how to set up a slide show in Microsoft PowerPoint.
+  #### Lessons
+  - Setting Up a Ccustom Show
+  - Creating a Hyperlink
+  - Adding an Action Button
+  - Jumping to Another Presentation
+  - Using Rehearse Timings
+  - Navigating within a Slide Show
+  - Annotating a Presentation
+  - Recording a Slide show
+  - Setting Up a Slide Show to Repeat Automatically
+
+
+  #### Lab &#58; Setting Up the Slide Show Exercises
+  - Presenting a Custom Show
+  - Preparing the Slide Show
+
+  After completing this module, students will be able to&#58;
+  - Set up a custom slide show.
+  - Create a hyperlink.
+  - Add an action button.
+  - Jump to another presentation.
+  - Rehearse the timing of your presentation.
+  - Navigate within a slide show.
+  - Annotate a presentation.
+  - Create a presenter-independent slide show.
+  - Set up a slide show to repeat automatically.
+
+
+  ### Module 7&#58; Outlines and Slides
+  This module explains how to work with outlines and slides in Microsoft PowerPoint.
+  #### Lessons
+  - Exporting Notes and Handouts to Word
+  - Exporting an Outline to Word
+  - Saving a Presentation as an Outline
+  - Saving a Slide as an Graphic
+
+
+  #### Lab &#58; Exporting an Outline to Word
+  After completing this module, students will be able to&#58;
+  - Export notes and handouts to Word documents.
+  - Export an outline to a Word document.
+  - Save your presentation as an outline.
+  - Save a slide in your presentation as a graphic.
+
+  ### Module 8&#58; Managing Multiple Presentations
+  This module explains how to manage multiple presentations.
+  #### Lessons
+  - Merging Multiple Presentations
+  - Reusing Slides from Other Presentations
+  - Viewing Multiple Presenations
+  - Tracking Changes in PowerPoint
+
+
+  #### Lab &#58; Reviewing Changes in PowerPoint
+  After completing this module, students will be able to&#58;
+  - Merge multiple presentations.
+  - Reuse slides from other presentations.
+  - View multiple presentations.
+  - Track and manage changes in PowerPoint.
+
+
+  ### Module 9&#58; Sharing and Securing a Presentation
+  This module explains how to share and secure a presentation in Microsoft PowerPoint.
+  #### Lessons
+  - Sharing a Presentation with Remote Audience
+  - Embedding the Fonts in a Presentation
+  - Inspecting the Presentation
+  - Using Comments
+  - Packaging a Presentation for CD
+  - Using the PowerPoint Viewer
+  - Encrypting a Presentation
+  - Adding a Digital Signature
+  - Marking a Presenation as Final
+  - Compressing Pictures
+  - Sending a Presenation iin PDF Format
+
+
+  #### Lab &#58; Sharing and Securing Exercises
+  - Sharing a Presentation
+  - Securing a Presentation
+
+  After completing this module, students will be able to&#58;
+  - Share your presentation with a remote audience.
+  - Embed fonts in a presentation.
+  - Inspect the presentation.
+  - Package your presentation for a CD.
+  - Use PowerPoint Viewer.
+  - Save your presentation for web viewing.
+  - Encrypt your presentation.
+  - Add a digital signature to your presentation.
+  - Grant permissions.
+  - Compress the pictures in your file.
+  - Send your presentation in PDF format.
+
+  #### Additional Reading
+  - N/A

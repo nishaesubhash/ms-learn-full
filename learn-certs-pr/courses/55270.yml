@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2019
+metadata:
+  title: 'Course 55270-A: Advanced Microsoft Excel 2019'
+  description: 'Course 55270-A: Advanced Microsoft Excel 2019'
+uid: course.55270
+courseNumber: '55270-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create pivot tables and charts.
+- skill: Learn to trace precedents and dependents.
+- skill: Convert text and validate and consolidate data.
+- skill: Collaborate with others by protecting worksheets and workbooks.
+- skill: Create, use, edit, and manage macros.
+- skill: Import and export data.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Advanced Microsoft Excel 2019 training class is designed for students to gain the skills necessary to use pivot tables, audit and analyze worksheet data, utilize data tools, collaborate with others, and create and manage macros.
+
+  #### Audience profile
+  Students who have intermediate skills with Microsoft Excel 2019 who want to learn more advanced skills or students who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic and Intermediate Excel experience.
+outlineSection: |-
+  ### Module 1&#58; Using Pivot Tables
+  This module explains how to use pivot tables in Microsoft Excel.
+  #### Lessons
+  - Creating Pivot Tables
+  - More PivotTable Functionality
+  - Inserting Slicers
+  - Multi-Select Option in Slicers
+  - PivotTable Enhancements
+  - Working with Pivot Tables
+  - Inserting Pivot Charts
+  - More Pivot Table Functionality
+  - Working with Pivot Tables
+
+
+  #### Lab &#58; Working with Pivot Tables
+  After completing this module, students will be able to&#58;
+  - Use pivot tables to analyze data.
+  - Edit pivot tables.
+  - Format pivot tables.
+  - Insert pivot charts.
+  - Use Slicers.
+
+
+  ### Module 2&#58; Auditing Worksheets
+  This module explains how to audit worksheets.
+  #### Lessons
+  - Tracing Precedents
+  - Tracing Dependents
+  - Showing Formulas
+
+
+  #### Lab &#58; Auditing Worksheets Exercises
+  - Tracing Precedents
+  - Tracing Dependents
+
+  After completing this module, students will be able to&#58;
+  - Audit formulas.
+  - Trace precedents to determine which cells impact a specific cell.
+  - Trace dependents to determine which cells are impacted by a specific cell.
+  - Remove precedent and dependent arrows.
+  - Show formulas.
+  - Check for errors frequently found in formulas
+
+
+  ### Module 3&#58; Data Tools
+  This module explains how to work with data tools.
+  #### Lessons
+  - Converting Text to Columns
+  - Linking to External Data
+  - Controlling Calculation Options
+  - Data Validation
+  - Using Data Validation
+  - Consolidating Data
+  - Goal Seek
+  - Using Goal Seek
+
+
+  #### Lab &#58; Data Tools Exercises
+  - Converting Text to Columns
+  - Using Data Validation
+  - Consolidating Data
+  - Using Goal Seek
+
+  After completing this module, students will be able to&#58;
+  - Convert text to columns.
+  - Use Data Validation to restrict the type of data that can be entered into a cell.
+  - Consolidate data from a number of different ranges into one new range.
+  - Use Goal Seek to figure out the value to input to obtain a specific result
+
+
+  ### Module 4&#58; Working with Others
+  This module explains how work with others in Microsoft Excel.
+  #### Lessons
+  - Protecting Worksheets and Workbooks
+  - Password Protecting a Workbook
+  - Password Protecting a Worksheet
+  - Password Protecting Ranges in a Worksheet
+  - Marking a Workbook as Final
+
+
+  #### Lab &#58; Working with Others Exercises
+  - Password Protecting a Workbook
+  - Passsword Protecting a Worksheet
+  - Password Protecting Ranges in a Worksheet
+
+  After completing this module, students will be able to&#58;
+  - Password protect a workbook.
+  - Password protect a worksheet.
+  - Password protect ranges in a worksheet.
+  - Track changes.
+  - Accept and reject changes.
+  - List all changes on a new sheet
+
+
+  ### Module 5&#58; Recording and Using Macros
+  This module explains how record and use macros.
+  #### Lessons
+  - Recording Macros
+  - Recording a Macro
+  - Running Macros
+  - Editing Macros
+  - Adding Macros to the Quick Access Toolbar
+  - Adding a Macro to the Quick Access Toolbar
+
+
+  #### Lab &#58; Recording and Using Macros Exercises
+  - Recording a Macro
+  - Adding a Macro to the Quick Access Toolbar
+
+  After completing this module, students will be able to&#58;
+  - Record macros.
+  - Run macros.
+  - Edit macros (kind of).
+  - Add macros to the Quick Access Toolbar
+
+
+  ### Module 6&#58; Random Useful Items
+  This module explains how to use sparklines and other useful random features.
+  #### Lessons
+  - Sparklines
+  - Inserting and Customizing Sparklines
+  - Using Microsoft Translator
+  - Preparing a Workbook for Internationalization and Accessibility
+  - Importing and Exporting Files
+  - Importing Text Files
+  - Copying Data from Excel to Word
+  - Copying Charts from Excel to Word
+
+
+  #### Lab &#58; Random Useful Items Exercises
+  - Inserting and Customizing Sparklines
+  - Importing Text Files
+  - Copying Data from Excel to Word
+  - Copying Charts from Excel to Word
+
+  After completing this module, students will be able to&#58;
+  - Insert sparklines into worksheets.
+  - Customize sparklines by&#58;
+  - Change the type of sparkline.
+  - Highlight key points.
+  - Change colors.
+  - Change the axis.
+  - Prepare a workbook for internationalization, accessibility, and compatibility.
+  - Import text files into Microsoft Excel.
+  - Copy cells from a worksheet into Microsoft Word.
+  Copy and paste a chart into Microsoft Word.
+
+  ### Module 7&#58; Cloud
+  This module explains how to save, share, and collaborate with others using the cloud.
+  #### Lessons
+  - Using the Cloud.
+
+
+  #### Lab &#58; Using the Cloud
+  After completing this module, students will be able to&#58;
+  - Use Excel in the Cloud.
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

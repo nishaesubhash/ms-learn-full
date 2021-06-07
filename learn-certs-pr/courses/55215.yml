@@ -1,0 +1,279 @@
+### YamlMime:Course
+title: SharePoint Online Power User
+metadata:
+  title: 'Course 55215-B: SharePoint Online Power User'
+  description: 'Course 55215-B: SharePoint Online Power User'
+uid: course.55215
+courseNumber: '55215-B'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the benefits of using SharePoint in real world scenarios
+- skill: Create new SharePoint sites to store business information
+- skill: Create pages to share news and documents
+- skill: Customise the structure of a site to meet specific business requirements
+- skill: Create and mange view, columns and apps
+- skill: Manage the security of a site
+- skill: Use social tools to communicate with groups of people or the entrie organization
+- skill: Use search to find business information including people to documents
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  This course delivers the complete site owner story from start to finish in an engaging and practical way to ensure you have the confidence to plan and create new sites or manage your existing sites in SharePoint Online. Your goal is to learn how to make SharePoint online relevant to your team by using a sites functionality to help you share information and collaborate with your colleagues. During the class, you will also learn best practices and ‘what not to do’ as you watch live, interactive demonstrations and put theory into practice with hands on exercises in SharePoint Online.
+
+  #### Audience profile
+  This course is intended for both novice and experienced SharePoint users who wish to make full use of SharePoint Online.
+prerequisitesSection: |-
+  No previous experience is required.
+outlineSection: |-
+  ### Module 1&#58; An Introduction to SharePoint Online
+  Let’s get started with SharePoint online by letting you know about its fantastic selection of features. We will demonstrate popular uses of SharePoint Online to manage and share content, create engaging web page, automate business processes and make good business decisions with Business intelligence. We will also discuss who will be the typical users in our sites and the role of the site collection administrator. Site Owners are trusted with functionality that in other business systems would normally only be available to developers. As a new Site Owner, we’re sure that you will be amazed with the potential that SharePoint Online has to offer an end user.
+
+  #### Lessons
+  - Introducing Office 365 and SharePoint
+  - Getting started with Office 365
+  - The cloud revolution
+  - Login to Office 365
+  - What is Office 365
+  - Using the app launcher
+  - What is SharePoint
+  - Office 365 settings
+  - Introducing Office 365 Groups
+  - Delve
+  - Ownership and Access
+  - OneDrive
+
+
+  #### Lab &#58; Introduction to SharePoint Online
+  - Log in to Office 365
+  - Uploading to OneDrive
+  - Customising your app launcher
+  - Updating your Delve Profile
+
+  After completing this module, students will be able to&#58;
+  - Describe popular reasons to use SharePoint Online
+  - Understand user roles in SharePoint Online
+  - Log in to Office 365
+  - Navigate to SharePoint Online
+
+
+  ### Module 2&#58; Creating Sites
+  Whether you are managing existing sites or you have not yet started, we will complement your current situation by discussing site hierarchy and planning your SharePoint sites. This will allow you to understand existing sites that other people have created as well as making good decisions when building new sites. As a site owner, you will be presented with a selection of site templates. You will use a variety of popular site templates to develop an enhanced understanding of each sites function and appropriate use. Once your site is ready, we will then change the look and feel of your site. You can even try applying your business brand to your test site. We will also build our navigation bar, a simple but powerful way to help users move between websites.
+
+  #### Lessons
+  - Planning your sites
+  - Create new subsites
+  - The Office 365 tenant
+  - Site templates
+  - Web addresses
+  - Apply a them
+  - Site collections
+  - Building your navigation
+  - Create a new site
+  - Delete subsites
+  - Team site navigation
+  - User interface&#58; classic vs modern
+  - Site contents&#58; classic vs modern
+  - Where does classic come from?
+
+
+  #### Lab &#58; Creating Sites
+  - Create two sub sites
+  - Delete a sub site
+  - Restore a site
+  - Update the navigation
+
+  After completing this module, students will be able to&#58;
+  - Understand the benefits of using site templates when creating new sites
+  - Correctly use Site Collections and Sites
+  - Control site navigation
+  - Delete and Restore sites
+
+
+  ### Module 3&#58; Creating and Managing Web Pages
+  SharePoint boasts a rich selection of ways to build web pages. You will learn how to update the home page of your SharePoint site with text, links, images, videos and web parts. We will also show you best practices when creating multiple pages and linking them together. In most site templates, creating and managing web pages is a simple, fast and rewarding way to present essential information and apps. SharePoint can also be used as an Intranet for internal news. Due to the high visibility of these web sites, it is common to place more control over the release of new web pages or updates to existing pages. For this reason, SharePoint has publishing sites and communication sites.
+
+  #### Lessons
+  - The types of pages found in SharePoint
+  - Classic SharePoint pages
+  - Modern SharePoint pages
+  - How to use classic team site pages
+  - Create news and site pages
+  - Review features of publishing sites
+  - Web parts
+  - Save, publish, share and delete pages
+  - Communication sites
+
+
+  #### Lab &#58; Create and Manage Web Pages
+  - Tidy up the Training home page
+  - Add rich content
+  - Optional - Add a YouTube video
+
+  After completing this module, students will be able to&#58;
+  - Know when to create pages
+  - Create all types of pages
+  - Add content to a page including images and videos
+  - Use publishing page content such as renditions and reusable content
+
+
+  ### Module 4&#58; Working with Apps
+  Apps are required to store information such as events, contacts and files in a site. SharePoint provides a selection of apps for different scenarios, all with the option to be customized for a specific business requirement. Apps can be broken down into Lists, Libraries and Market Place Apps. SharePoint lists serve as the structure for calendars, discussion boards, contacts, and tasks. This module explains the concept of lists, and then reviews popular options.
+  A document library is a location on a site where you can create, collect, update, and share files including Word, Excel, PowerPoint and PDF. We will show you the benefits of using a library and teach you how best to work with files in a library. An introduction to on premises and SharePoint Marketplace apps is provided to show how to extend site functionality beyond what Microsoft has provided in the SharePoint Online platform.
+  #### Lessons
+  - An introduction to apps
+  - Co-authoring
+  - Marketplace apps
+  - Check In – Out
+  - Adding apps to a site
+  - Edit and view file properties
+  - Create and manage columns
+  - Quick edit view
+  - Public and personal views
+  - File commands
+  - Managing app settings
+  - Copy link and Share
+  - Content approval
+  - Folders
+  - Major and minor versioning
+  - The recycle bin
+  - Document sets
+  - Alerts
+  - Working with files in a library
+  - OneDrive sync
+  - Create, Upload and edit files
+  - Working with classic lists
+
+
+  #### Lab &#58; Working with Apps
+  - Creating a new library
+  - Setting up columns and views
+  - Uploading content
+  - Setting up alerts and using versioning
+  - Creating a list
+  - Deleting and restoring an app
+
+  After completing this module, students will be able to&#58;
+  - Understand the App template available in SharePoint Online
+  - Create new apps to store business information
+  - Customize apps with Columns, Views and App settings, to make them relevant to specific businesses
+  - Use SharePoint Apps with other Office applications including Excel and Outlook
+  - Sort and Filter documents
+
+
+  ### Module 5&#58; Building processes with Flow and PowerApps
+  Building your business processes into SharePoint has been made simple and powerful with the introduction of code-free solutions to capture information and automate tasks. From SharePoint, discover Flow, a workflow designer that allows you to integrate lists and libraries into your other favourite Office 365 apps and business services. Additionally, we will show you PowerApps, a form designer that allows you to bring a tailored experience to your SharePoint lists, allowing users to document information from their web browser on their PC or even on a mobile app! This module is designed to show you the integration capabilities between SharePoint, Flow and PowerApps. We offer a full 2-day class for building Flow and PowerApp solutions that connect to other services. This module will also cover SharePoint’s classic workflows, allowing users to build simple approval processes within lists and libraries.
+  #### Lessons
+  - What are business processes?
+  - Design and publish a Flow
+  - Classic tools for designing processes
+  - Getting started with PowerApps in SharePoint
+  - Design and test a classic workflow
+  - Enhance data capture with PowerApps
+  - Getting started with Flow in SharePoint
+  - Test a Flow and PowerApps enriched list
+
+
+  #### Lab &#58; Building processes with Flow and PowerApps
+  - Creating a new approval flow
+  - Creating a new PowerApp
+  - Initiating a business process
+
+  After completing this module, students will be able to&#58;
+  - Understand how to create a new approval flow
+  - Understand how to create a new PowerApp
+  - Understand an instating a business process
+
+
+  ### Module 6&#58; Customising Security
+  Security is an important element of any site. You will see instructor-led demonstrations of the best practices for adding and removing colleagues from your site and defining their level of access. As a site owner, you can customise permission levels. This means that you can create levels of access that are aligned with the responsibilities of your sites users. An example of this would be allowing a group of users the ability to upload content but not delete content. You will also see how to use the Share button to quickly share documents with other users.
+
+  #### Lessons
+  - Office 365 Group access
+  - Share a file
+  - Updating Office 365 Group Security
+  - Remove a user
+  - Managing access to SharePoint
+  - Customizing SharePoint security
+  - New sites private vs public
+  - Create permission levels and groups
+  - Setup access requests
+  - Security inheritance
+  - Share a site
+  - Security best practices
+
+
+  #### Lab &#58; Customising Security
+  - ShareContent in a library
+  - Create new permission levels
+  - Create a new security group
+  - Add and remove users
+  - Modifying inheritance of sites/apps
+
+  After completing this module, students will be able to&#58;
+  - Understand how to share content in a library and the associated permissions
+  - Understand how to create new permission levels and security groups
+  - Understand how to add and remove users
+
+
+  ### Module 7&#58; Working with Search
+  SharePoint provides the ability to store vast amounts of content in a variety of locations. This module covers a set of tools which help you to efficiently locate the information you need. In Office 365, as well as searching SharePoint, Delve offers a more personalized experience by identifying useful and trending content and bringing it to you. While SharePoint’s search is rich and intelligent, site owners can make customisations to search to improve its relevance to an organisation. We will show common techniques used by site owners to improve search results by promoting specific content when a certain keyword is used.
+
+  #### Lessons
+  - Delve
+  - Search tips
+  - An introduction to SharePoint search
+  - Accessing classic search
+  - Search in folders, libraries and sites
+  - Promoted results
+  - Search results
+
+
+  #### Lab &#58; Customising Security
+  - Add staff to your site
+  - Create permission levels and groups
+  - Remove access for a user
+  - Lock down to open up apps
+  - Optional - Add the auditors to a workflow
+
+  After completing this module, students will be able to&#58;
+  - Understand security objects in SharePoint Online
+  - Invite and remove people to and from their SharePoint Online Site
+  - Use Share options
+  - Customise security using SharePoint Groups and Permission Levels
+
+
+  ### Module 8&#58; Enterprise Content Management
+  Traditionally teams make use of file templates or manual processes to ensure information is collected and retained correctly. This may be a choice your team makes or a decision that is more universal across your organisation. In this module, we will help your team establish reusable file templates and automate document lifecycle management. An example of this would be removing old unwanted content from your site automatically. To achieve this, you will learn about a variety of SharePoint features including managed metadata, content types, policies, in-place records management and the content organizer.
+
+  #### Lessons
+  - Managed metadata service
+  - Information management policies
+  - An introduction to content types
+  - The records center
+  - Create and manage content type
+  - In-place records management
+  - Deploy content types
+  - The content organizer
+  - Using content types in apps
+  - Durable links
+  - The content type hub
+
+
+  #### Lab &#58; Social
+  - Post an update to the Training newsfeed
+  - Update your profile
+
+  After completing this module, students will be able to&#58;
+  - Describe the benefits of using SharePoint social tools
+  - Create social content including blog posts, discussions and newsfeed posts
+
+  #### Additional Reading
+  None

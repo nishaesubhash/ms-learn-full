@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Office 365 SharePoint Onlineの活用
+metadata:
+  title: 'Course 50582-A: Office 365 SharePoint Onlineの活用'
+  description: 'Course 50582-A: Office 365 SharePoint Onlineの活用'
+uid: course.50582
+courseNumber: '50582-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: SharePoint Online の使い方の基礎が理解できる。
+- skill: サイトを作成したり、ドキュメントライブラリを活用したりすることができる。
+- skill: お知らせや予定表を活用することができる。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  この講義形式による1日のコースでは、エンドユーザー向けに SharePoint Onlineのドキュメントライブラリの活用方法ついて説明します。
+
+  #### Audience profile
+  SharePoint Onlineの基本的な使い方を理解しようとしている初心者
+prerequisitesSection: |-
+  - Office を使ってビジネス文書が作成できること。
+outlineSection: |-
+  ### セクション 1&#58; Office 365 の概要
+  #### レッスン
+  - 本テキストについて
+  - 本テキストで学習すること
+  - クラウドコンピューティングとは
+  - Office 365 とは
+  - SharePoint Online とは
+
+
+  #### ラボ &#58; Office 365 の概要
+
+  ### セクション 2&#58; セミナー環境の確認
+  #### レッスン
+  - 本テキストで想定されている企業と業務
+
+
+  #### ラボ &#58; セミナー環境の確認
+
+  ### セクション 3&#58; SharePoint Online のサイト
+  #### レッスン
+  - SharePoint Online の起動と終了
+  - SharePoint Online のサイトの概要
+  - SharePoint Online の画面構成
+
+
+  #### ラボ &#58; SharePoint Online の起動
+
+  ### セクション 4&#58; サイトの作成
+  #### レッスン
+  - サイトの作成
+  - サイトのテーマ
+
+
+  #### ラボ &#58; サイトの作成
+
+  ### セクション 5&#58; ドキュメント管理
+  #### レッスン
+  - ファイルサーバーのドキュメント管理
+  - SharePoint Online のドキュメント管理
+  - ドキュメントの共有
+  - ドキュメントライブラリの活用
+  - 列の活用
+  - ドキュメントの保存とアップロード
+
+
+  #### ラボ &#58; ドキュメント管理
+
+  ### セクション 6&#58; 検索の活用
+  #### レッスン
+  - ドキュメントの検索
+  - 検索センターの活用
+
+
+  #### ラボ &#58; すぐにファイルを見つける
+
+  ### セクション 7&#58; ビューの活用
+  #### レッスン
+  - ビューとは
+  - ビューの例
+  - ビューの作成
+  - ビューの切り替え
+
+
+  #### ラボ &#58; ビューの作成と表示
+
+  ### セクション 8&#58; ドキュメントの編集
+  #### レッスン
+  - 公開されたドキュメント
+  - ドキュメントを編集するときの簡単なルール
+  - 複数ユーザーによるドキュメントの編集
+  - 複数ユーザーによるドキュメントの同時編集
+
+
+  #### ラボ &#58; 複数ユーザーによるドキュメントの編集
+
+  ### セクション 9&#58; バージョン管理
+  #### レッスン
+  - SharePoint Online の優れたバージョン管理
+  - メジャーバージョンによるバージョン管理
+
+
+  #### ラボ &#58; バージョン管理
+
+  ### セクション 10&#58; お知らせの活用
+  #### レッスン
+  - 企業ポータルとしての SharePoint Online
+  - お知らせの登録
+
+
+  #### ラボ &#58; お知らせの登録
+
+  ### セクション 11&#58; 章予定表の活用
+  #### レッスン
+  - 予定表リストとは
+  - 予定表の共有
+
+
+  #### ラボ &#58; 予定表の共有

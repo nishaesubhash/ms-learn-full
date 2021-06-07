@@ -1,0 +1,250 @@
+### YamlMime:Course
+title: Introduction to Microsoft Excel 2013
+metadata:
+  title: 'Course 55130-A: Introduction to Microsoft Excel 2013'
+  description: 'Course 55130-A: Introduction to Microsoft Excel 2013'
+uid: course.55130
+courseNumber: '55130-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create basic worksheets using Microsoft Excel 2013.
+- skill: Perform calculations in an Excel worksheet.
+- skill: Modify an Excel worksheet.
+- skill: Modify the appearance of data within a worksheet.
+- skill: Manage Excel workbooks.
+- skill: Print the content of an Excel worksheet.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  In this Introduction to Microsoft Excel 2013 training class, students will create and edit basic worksheets and workbooks. This course is designed for students who want to gain the necessary skills to create, edit, format, and print basic Microsoft Excel 2013 worksheets. This course helps prepare students to take the MOS&#58; Microsoft Office Excel 2013 certification exam 420.
+
+  #### Audience profile
+  Students who have little or no familiarity with Microsoft Excel 2013 or more experienced Excel users who want to learn the topics covered in this course in the 2013 interface.
+prerequisitesSection: |-
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment.
+  - Ability to launch and close programs; navigate to information stored on the computer; and manage files and folders.
+outlineSection: |-
+  ### Module 1&#58; Creating a Microsoft Excel Workbook
+  This module explains how to get started creating Microsoft Excel workbooks.
+  #### Lessons
+  - Starting Microsoft Excel
+  - Creating a Workbook
+  - Saving a Workbook
+  - The Status Bar
+  - Adding and Deleting Worksheets
+  - Copying and Moving Worksheets
+  - Changing the Order of Worksheets
+  - Splitting the Worksheet Window
+  - Closing a Workbook
+
+
+  #### Lab &#58; Creating a Microsoft Excel Workbook
+  - Start Microsoft Excel. 
+  - Create a Microsoft Excel workbook.
+  - Save a Microsoft Excel workbook.
+  - Work with the Status Bar.
+  - Add and delete Microsoft Excel worksheets.
+  - Copy and move worksheets.
+  - Split the worksheet window.
+  - Close a Microsoft Excel workbook.
+
+
+  ### Module 2&#58; The Ribbon
+  The Ribbon is the display you see at the top of the Microsoft Excel window. It is your primary interface with Excel. It allows you to access most of the commands available to you in Excel. The Ribbon is composed of three parts&#58; Tabs, Groups and Commands. In this lesson, you will learn about all three.
+  #### Lessons
+  - Tabs
+  - Groups
+  - Commands
+
+
+  #### Lab &#58; Exploring the Ribbon
+  - Work with tabs.
+  - Work with groups.
+  - Work with commands.
+  - Understand which groups and commands are found on which tabs.
+
+
+  ### Module 3&#58; The Backstage View (The File Menu)
+  This module explains how to work with the Backstage View (The File Menu).
+  #### Lessons
+  - Introduction to the Backstage View
+  - Opening a Workbook
+  - New Workbooks and Excel Templates
+  - Printing Worksheets
+  - Adding Your Name to Microsoft Excel
+  - Managing Workbook Versions
+
+
+  #### Lab &#58; Exercises in This Lesson
+  - Open a Microsoft Excel workbook.
+  - Start a new Microsoft Excel workbook.
+  - Use Microsoft Excel templates.
+  - Print a Microsoft Excel workbook.
+  - Personalize your copy of Microsoft Excel.
+
+
+  ### Module 4&#58; The Quick Access Toolbar
+  This module explains how to work with the Quick Access Toolbar.
+  #### Lessons
+  - Adding Common Commands
+  - Adding Additional Commands with the Customize Dialog Box
+  - Adding Ribbon Commands or Groups
+  - Placement
+
+
+  #### Lab &#58; Customize the Quick Access Toolbar
+  - Add common commands to the Quick Access Toolbar.
+  - Add additional commands to the Quick Access Toolbar.
+  - Move the Quick Access Toolbar.
+
+
+  ### Module 5&#58; Entering Data in Microsoft Excel Worksheets
+  This module explains how to enter data.
+  #### Lessons
+  - Entering Text
+  - Expand Data across Columns
+  - Adding and Deleting Cells
+  - Adding an Outline
+  - Adding a Hyperlink
+  - Add WordArt to a Worksheet
+  - Using AutoComplete
+  - Entering Numbers and Dates
+  - Using the Fill Handle
+
+
+  #### Lab &#58; Exercises in This Lesson
+  - Enter text in Microsoft Excel worksheets.
+  - Add or delete cells in worksheets.
+  - Add an outline for your data.
+  - Enter a hyperlink in a worksheet.
+  - Use AutoComplete.
+  - Enter numbers and dates in Microsoft Excel worksheets.
+  - Use the Fill Handle to add data to cells.
+
+
+  ### Module 6&#58; Formatting Microsoft Excel Worksheets
+  This module explains how to format Microsoft Excel Worksheets.
+  #### Lessons
+  - Selecting Ranges of Cells
+  - Hiding Worksheets
+  - Adding Color to Worksheet Tabs
+  - Adding Themes to Workbooks
+  - Adding a Watermark
+  - The Font Group
+  - The Alignment Group
+  - The Number Group
+
+
+  #### Lab &#58; Exercises in This Lesson
+  - Understand the various ways you can format Microsoft Excel worksheets.
+  - Select a range of cells within a worksheet.
+  - Hide worksheets.
+  - Add color to workbook tabs.
+  - Add themes to worksheets.
+  - Add bold, italics, and underlining to text.
+  - Add borders to cells.
+  - Change text and cell colors.
+  - Change the font and font size.
+  - Align text.
+  - Wrap text.
+  - Indent text.
+  - Merge and center text.
+  - Change number formats.
+  - Change date formats.
+  - Show decimals.
+
+
+  ### Module 7&#58; Using Formulas in Microsoft Excel
+  This is the math lesson, and whether you love or hate math, by the end of this lesson you will agree that Excel makes math easy. We will start by explaining some of the basic concepts you need to understand regarding how Excel does math and then will get into entering formulas.
+  #### Lessons
+  - Math Operators and the Order of Operations
+  - Entering Formulas
+  - AutoSum (and Other Common Auto-Formulas)
+  - Copying Formulas and Functions
+  - Relative, Absolute, and Mixed Cell References
+
+
+  #### Lab &#58; Working with Formulas
+
+
+  - Use math operators and the order of operations.
+  - Enter basic formulas.
+  - Use AutoSum to sum data with one click.
+  - Use absolute, relative, and mixed cell references.
+  - Copy formulas and functions.
+
+
+  ### Module 8&#58; Working with Rows and Columns
+  This module explains how to work with rows and columns.
+  #### Lessons
+  - Inserting Rows and Columns
+  - Deleting Rows and Columns
+  - Transposing Rows and Columns
+  - Setting Row Height and Column Width
+  - Hiding and Unhiding Rows and Columns
+  - Freezing Panes
+
+
+  #### Lab &#58; Working with Rows and Columns
+  - Insert rows and columns in Microsoft Excel worksheets.
+  - Delete rows and columns in Microsoft Excel worksheets.
+  - Transpose rows and columns.
+  - Change row heights.
+  - Change column widths.
+  - Hide and unhide rows and columns.
+  - Freeze panes.
+
+
+  ### Module 9&#58; Editing Worksheets
+  This module explains how to edit worksheets.
+  #### Lessons
+  - Find
+  - Find and Replace
+  - Using the Clipboard
+  - Managing Comments
+
+
+  #### Lab &#58; Exercises in This Lesson
+  - Locate information in your worksheet using Find.
+  - Use Find and Replace to quickly replace data with other data.
+  - Use the Cut, Copy, Paste, and Format Painter commands to edit worksheets.
+
+
+  ### Module 10&#58; Finalizing Microsoft Excel Worksheets
+  This module explains how to finalize Microsoft Excel Worksheets.
+  #### Lessons
+  - Setting Margins
+  - Setting Page Orientation
+  - Setting the Print Area
+  - Print Scaling (Fit Sheet on One Page)
+  - Printing Headings on Each Page/Repeating Headers and Footers
+  - Headers and Footers
+
+
+  #### Lab &#58; Preparing to Print
+  - Set margins in Microsoft Excel worksheets.
+  - Set the page orientation to portrait or landscape.
+  - Set the print area in a worksheet.
+  - Scale a worksheet so that all data prints on one page.
+  - Add headers and footers to a worksheet.
+
+
+  ### Module 11&#58; Microsoft Excel 2013 New Features
+  Excel 2013 provides some new features to make working with spreadsheets easier and more efficient.
+  #### Lessons
+  - One Workbook Per Window Feature
+  - Using Flash Fill
+
+
+  #### Lab &#58; Using Flash Fill
+  - Learn about the one workbook per window feature.
+  - Learn how to use Flash Fill.

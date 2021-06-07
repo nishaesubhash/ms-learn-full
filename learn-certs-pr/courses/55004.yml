@@ -1,0 +1,246 @@
+### YamlMime:Course
+title: Installing and Configuring System Center 2012 Operations Manager
+metadata:
+  title: 'Course 55004-A: Installing and Configuring System Center 2012 Operations Manager'
+  description: 'Course 55004-A: Installing and Configuring System Center 2012 Operations Manager'
+uid: course.55004
+courseNumber: '55004-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install Operations Manager 2012 and configure global and Management Server specific settings.
+- skill: Utilize Resource Pools for high availability.
+- skill: Navigate the Operations Manager Console and Web Console.
+- skill: Perform both automated and manual agent installation on managed systems.
+- skill: Import and export management packs.
+- skill: Configure Rules, Events, Monitors and Tasks.
+- skill: Configure Reporting and create reports.
+- skill: Monitor workstations and servers using Agentless Monitoring and Agentless Exception Monitoring.
+- skill: Configure and manage Audit Collection Services.
+- skill: Create Synthetic Transactions.
+- skill: Create Distributed Applications.
+- skill: Multi-home an agent.
+- skill: Configure a Gateway server for monitoring untrusted environments.
+- skill: Configure communication between management groups.
+- skill: Migrate from Operations Manager 2007 to 2012 Operations Manager.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This five-day instructor-led course provides students with the knowledge and skills to install and configure System Center 2012 Operations Manager. In addition this class will prepare the student for managing their 2012 Operations Manager infrastructure.
+
+  #### Audience profile
+  This course is intended for IT professionals with basic Windows Server, Active Directory and network configuration and management experience.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Familiarity with PC hardware and devices.
+  - Experience supporting Windows-based systems.
+  - Basic experience authoring and editing batch and script files.
+  - Experience reviewing Windows application and service logs.
+  - Experience configuring or supporting distributed application environments.
+  - Working knowledge of Windows Server 2008 operating system and network configuration.
+  - Working Knowledge of Active Directory.
+outlineSection: |-
+  ### Module 1&#58; Overview of System Center 2012 Operations Manager
+  This module gives the student a high-level view of System Center 2012 Operations Manager. Students new to the value of SCOM will learn about its benefits. Students familiar with SCOM 2007 will also benefit with an introductory look at the changes manifested in SCOM 2012.
+  #### Lessons
+  - Operations Manager Introduction and Basic Concepts
+  - What’s New in 2012 Operations Manager
+  - System Requirements
+
+
+  After completing this module, students will be able to&#58;
+  - Understand the purposes of System Center Operations Manager.
+  - Note the changes from Operations Manager 2007 to 2012 Operations Manager.
+  - Identify the System Requirements for 2012 Operations Manager.
+
+
+  ### Module 2&#58; Installing the 2012 Operations Manager Infrastructure
+  This module explains how Active Directory and SQL Server 2008 R2 integrate with and support System Center 2012 Operations Manager. In addition this module allows students the opportunity to plan deployment of SCOM and do a SCOM install in a virtual environment which simulates what is often seen in today’s enterprises.
+  #### Lessons
+  - Active Directory Integration
+  - SQL Server Configuration
+  - Security Considerations
+  - Operations Manager Deployment Scenarios
+  - Installing Operations Manager 2012
+
+
+  After completing this module, students will be able to&#58;
+  - Create Active Directory objects required for System Center 2012 Operations Manager.
+  - Configure connectivity between SQL Server 2008 R2 and 2012 Operations Manager.
+  - Create SQL databases required by 2012 Operations Manager.
+  - Plan an Operations Manager Deployment.
+  - Install Operations Manager 2012.
+
+
+  ### Module 3&#58; Navigating Operations Manager
+  This module introduces students to the System Center 2012 Operations Manager Console and Web Console. Each workspace will be accessed and students will see how changes in security settings affect the available workspaces and views. In addition the capabilities of the Web Console will be covered.
+  #### Lessons
+  - Operations Manager Console Overview
+  - Customizing the Operations Manager Console
+  - Securing the Operations Manager Console
+  - Operations Manager Web Console Overview
+
+
+  After completing this module, students will be able to&#58;
+  - Navigate the Operations Manager console
+  - Understand how the Workspaces in the Console are interrelated
+  - Apply security to the SCOM Console to follow the Principle of Least Privilege
+  - Utilize the capabilities of the SCOM Web Console
+
+
+  ### Module 4&#58; Global Management Group Settings and Notifications
+  This module covers the creation and value of Management Groups. In addition Resource Pools will be demonstrated as a way to provide for high availability. Applying Global Management Group settings and Management Server specific settings used to override Global settings can allow for more customized System Center 2012 Operations Manager deployments. Finally Notifications will be used to ensure that those information technology professionals tasked with maintaining the enterprise systems have real time access to anomalous conditions.
+  #### Lessons
+  - Connected Management Groups and Management Services
+  - Configuring Global Management Group Settings
+  - Overriding Global Management Group Settings
+  - Creating Notifications
+
+
+  After completing this module, students will be able to&#58;
+  - Create Management Groups and configure Management Servers to be members of Management Groups.
+  - Specify settings which are global to all members of a Management Group.
+  - Exclude Management Servers from certain global settings.
+  - Create notifications based on specific alert thresholds.
+
+
+  ### Module 5&#58; Installing and Configuring Agents
+  This module explains the prerequisites for installing Agents on systems to be managed and the settings which allow Agents to report on and make changes to these systems. Students will learn about different methods for deploying Agents and the preferred methods based on different scenarios.
+  #### Lessons
+  - Agent Installation Prerequisites
+  - Agent Installation Methods
+  - Managing Agent Settings
+
+
+  After completing this module, students will be able to&#58;
+  - Determine if a system meets the requirements for Agent installation.
+  - Use various methods for deploying Agents to managed systems.
+  - Configure Agent settings in order to gather information about system health.
+
+
+  ### Module 6&#58; Management Packs
+  This module explains how Management Packs can be used to more granularly monitor events throughout the organization. Learning to import, export and author of Management Packs will improve the student’s ability to fully utilize the capabilities of System Center 2012 Operations Manager.
+  #### Lessons
+  - Management Pack Overview
+  - Pre-Installed Management Packs
+  - Importing and Exporting Management Packs
+  - Management Pack Authoring
+
+
+  After completing this module, students will be able to&#58;
+  - Use Management Packs to monitor operating system, application and service specific events.
+  - Import Management Packs downloaded from the Internet or other Management Groups.
+  - Create Management Packs and export them for archiving or use in other Management Groups.
+
+
+  ### Module 7&#58; Operations Manager Monitoring
+  This module explains how to utilize System Center 2012 Operations Manager for its core purpose, monitoring systems. Unit monitors, aggregate rollup monitors and dependency rollup monitors will be covered. Also included are the many new network monitoring features.
+  #### Lessons
+  - Monitoring Overview
+  - Types of Monitors
+  - Network Monitoring
+
+
+  After completing this module, students will be able to&#58;
+  - Monitor system health.
+  - Choose the type of monitor based on desired information.
+  - Monitor network devices for improving true core to edge availability.
+
+
+  ### Module 8&#58; Monitoring without Agents
+  For systems which do not, or cannot have, agents installed, this module explains how to use Agentless Monitoring to gather basic information. For access to crash information and related Windows Error Reporting data students will work with Agentless Exception Monitoring.
+  #### Lessons
+  - Agentless Monitoring
+  - Agentless Exception Monitoring
+
+
+  After completing this module, students will be able to&#58;
+  - Monitor systems without agents by using Management Packs which support Agentless monitoring.
+  - Use Agentless Exception Monitoring to gather information about crash reports and resolve the underlying cause.
+
+
+  ### Module 9&#58; Operations Manager Reporting
+  This module explains how to use SQL Reporting Services and System Center 2012 Operations Manager Reporting to create reports either on demand or in a scheduled approach.
+  #### Lessons
+  - Installing SQL Reporting Services
+  - Installing Operations Manager Reporting
+  - Creating, Viewing and Customizing Reports
+
+
+  After completing this module, students will be able to&#58;
+  - Install SQL Reporting Services and integrate SRS with System Center 2012 Operations Manager.
+  - Install Operations Manager Reporting.
+  - Access built-in reports and create reports specific to organizational requirements.
+
+
+  ### Module 10&#58; Operations Manager Audit Collection Services
+  This module explains how Audit Collection Services allows for overall improvement in information security by gathering, filtering, analyzing and reporting on security log information from throughout the organization. The module also covers how ACS can be used in a non-homogeneous environment.
+  #### Lessons
+  - Overview of ACS
+  - Installing and Configuring ACS
+  - Forwarders and Collectors
+  - ACS on non-Windows Systems (Unix/Linux)
+
+
+  After completing this module, students will be able to&#58;
+  - Install ACS, create the ACS database and set up forwarders and collectors.
+  - Access Audit Collection Services data for purposes of maintaining information security.
+  - Understand how to use ACS in conjunction with Unix and Linux.
+
+
+  ### Module 11&#58; Synthetic Transactions
+  This module explains how Synthetic Transactions are used to check for reactions to changes in demand on system resources. Students will create Synthetic Transactions, associate Watcher Nodes and view response information.
+  #### Lessons
+  - Synthetic Transactions Overview
+  - Creating Synthetic Transactions
+
+
+  After completing this module, students will be able to&#58;
+  - Understand how Synthetic Transactions can be used to plan for potential growth.
+  - Create Synthetic Transactions to test various ‘What If’ scenarios.
+
+
+  ### Module 12&#58; Distributed Applications
+  This module explains how to use the power of Distributed Applications to monitor not just a system, but rather all of the infrastructure components necessary for Line of Business applications to function reliably. Students will see a big picture view of how applications, systems and network devices work together to insure consistent behavior.
+  #### Lessons
+  - Distributed Applications Overview
+  - Design and Creation of Distributed Applications
+
+
+  After completing this module, students will be able to&#58;
+  - Analyze the components necessary for consistent behavior of Line of Business Applications.
+  - Determine interrelationships between components.
+  - Create Distributed Applications to monitor interdependent components.
+
+
+  ### Module 13&#58; Monitoring Complex Environments
+  This module explains how to use multihoming to allow systems to be managed by more than one Management Group. The benefits and potential issues related to multihoming will also be discussed. In addition the module covers how to gather information from other untrusted environments via Gateway Servers.
+  #### Lessons
+  - Management Groups and Multihomed Agents
+  - Gateway Servers and Untrusted Environments
+
+
+  After completing this module, students will be able to&#58;
+  - Multihome an Agent to allow for management by multiple Management Groups.
+  - Create a Gateway Server for monitoring untrusted environments.
+
+
+  ### Module 14&#58; Backup and Disaster Recovery
+  This module enables students to plan, perform and secure backups of System Center 2012 Operations Manager information. Database backups, although not necessarily directly backed up by System Center 2012 Operations Manager methods, will be touched upon. Finally students will learn best practices for recovery from SCOM failures.
+  #### Lessons
+  - Backup Overview and Planning
+  - Configuring and Performing Backups
+  - Recovery Planning
+
+
+  After completing this module, students will be able to&#58;
+  - Determine which backup type(s) best fit different System Center 2012 Operations Manager deployments.
+  - Backup the critical System Center 2012 Operations Manager components.
+  - Recover from a Management Server failure.

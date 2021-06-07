@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Intermediate Microsoft Excel 2013
+metadata:
+  title: 'Course 55131-A: Intermediate Microsoft Excel 2013'
+  description: 'Course 55131-A: Intermediate Microsoft Excel 2013'
+uid: course.55131
+courseNumber: '55131-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to use formulas and functions.
+- skill: Create and modify charts.
+- skill: Convert, sort, filter, and manage lists.
+- skill: Insert and modify illustrations in a worksheet.
+- skill: Learn to work with tables.
+- skill: Learn to use conditional formatting and styles.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Intermediate Microsoft Excel 2013 training class is meant for students who want to advance their skill set by learning to work with advanced formulas, lists, and illustrations. Students will also work with charts and advanced formatting including styles. This course helps prepare students to take the MOS&#58; Microsoft Office Excel 2013 certification exam 420.
+
+  #### Audience profile
+  Students who have basic skills with Microsoft Excel 2013 who want to learn intermediate-level skills or students who want to learn the topics covered in this course in the 2013 interface.
+prerequisitesSection: |-
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment.
+  - Ability to launch and close programs; navigate to information stored on the computer; and manage files and folders.
+  - Basic Excel 2013 skills.
+outlineSection: |-
+  ### Module 1&#58; Advanced Formulas
+  This module explains how to work with advanced formulas in Excel.
+  #### Lessons
+  - Using Named Ranges in Formulas
+  - Using Formulas That Span Multiple Worksheets
+  - Using the IF Function
+  - Using the PMT Function
+  - Using the LOOKUP Function
+  - Using the VLOOKUP Function
+  - Using the HLOOKUP Function
+  - Using the CONCATENATE Function
+  - Using the TRANSPOSE Function
+  - Using the PROPER, UPPER, and LOWER Functions
+  - Using the LEFT, RIGHT, and MID Functions
+  - Using Date Functions
+  - Creating Scenarios
+
+
+  #### Lab &#58; Advanced Formulas
+
+  - Name and label cells and ranges of cells.
+  - Use names and labels in formulas.
+  - Create formulas that span multiple worksheets.
+  - Use the conditional IF function and its variants in formulas.
+  - Use the PMT function to calculate payments for loans.
+  - Use the VLOOKUP function.
+  - Use the HLOOKUP function.
+  - Use the CONCATENATE function to join the contents of numerous cells.
+  - Use the PROPER, UPPER, and LOWER functions to alter the casing of text.
+  - Use the LEFT, RIGHT, and MID functions to return characters from the start or end of a string, or a specific number of text characters.
+  - Use various date functions.
+
+
+  ### Module 2&#58; Working with Lists
+  This module explains how to work with lists in Microsoft Excel 2013.
+  #### Lessons
+  - Converting a List to a Table
+  - Removing Duplicates from a List
+  - Sorting Data in a List
+  - Filtering Data in a List
+  - Adding Subtotals to a List
+
+
+  #### Lab &#58; Working with Lists
+  - Convert data into tables.
+  - Remove duplicates from tables.
+  - Sort data in Excel.
+  - Filter data in Excel.
+  - Use subtotals to automatically total related data.
+  - Group and ungroup data.
+
+
+  ### Module 3&#58; Working with Illustrations
+  Adding illustrations to Microsoft Excel worksheets is a great way to improve their look and feel, and also to illustrate your points. Fortunately, it's easy to add pictures (your own or choose from a large library of pictures provided by Microsoft) and shapes.
+  #### Lessons
+  - Working with Clip Art
+  - Using Shapes
+  - Working with SmartArt
+
+
+  #### Lab &#58; Working with Illustrations
+  - Add pictures to your worksheets.
+  - Use Clip Art to illustrate your worksheets.
+  - Insert shapes into Microsoft Excel worksheets.
+  - Use SmartArt to illustrate your worksheets.
+
+
+  ### Module 4&#58; Visualizing Your Data
+  This module explains how to use techniques for visualizing your data.
+  #### Lessons
+  - Inserting Charts
+  - Add and Format Objects
+  - Insert a Text Box
+  - Create a Custom Chart Template
+
+
+  #### Lab &#58; Visualizing Your Data
+  - Create charts that enable you to visualize your data.
+  - Choose what data is displayed in your charts.
+  - Show and hide data labels.
+  - Show and hide the legend.
+  - Show and hide the chart title.
+  - Add a picture or shape to a chart.
+  - Change the way text displays in a chart.
+  - Change the fill color of a chart.
+  - Add and format objects in a worksheet.
+
+
+  ### Module 5&#58; Working with Tables
+  This Working with tables in Excel 2013 can help you organize your data. In Excel, you can group data together into a table and then manipulate that table.
+  #### Lessons
+  - Format Data as a Table
+  - Move between Tables and Ranges
+  - Modify Tables
+  - Define Titles
+
+
+  #### Lab &#58; Working with Tables
+  - Format data in Excel as a table.
+  - Modify Excel tables.
+
+
+  ### Module 6&#58; Advanced Formatting
+  This module explains how to use advanced formatting techniques in Excel 2013.
+  #### Lessons
+  - Applying Conditional Formatting
+  - Working with Styles
+  - Creating and Modifying Templates
+
+
+  #### Lab &#58; Advanced Formatting
+  - Use conditional formatting to display cells differently based on their values.
+  - Quickly format tables using styles.
+  - Format cells using styles.
+
+
+  ### Module 7&#58; Microsoft Excel 2013 New Features
+  Excel 2013 provides a number of new functions and tools to help make working with worksheets easier and more efficient.
+  #### Lessons
+  - New Functions in Excel 2013
+  - Using New Chart Tools
+  - Using the Quick Analysis Tool
+  - Using the Chart Recommendation Feature
+
+
+  #### Lab &#58; Microsoft Excel 2013 New Features
+  - Use new functions available in Excel 2013.
+  - Use the new chart tools in Excel 2013.
+  - Use the Quick Analysis tool.
+  - Use the Chart Recommendation feature.

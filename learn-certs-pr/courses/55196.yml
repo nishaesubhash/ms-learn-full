@@ -1,0 +1,314 @@
+### YamlMime:Course
+title: Mastering Microsoft Project 2016
+metadata:
+  title: 'Course 55196-A: Mastering Microsoft Project 2016'
+  description: 'Course 55196-A: Mastering Microsoft Project 2016'
+uid: course.55196
+courseNumber: '55196-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'After completing this course, students will be able to:'
+- skill: Know how MS project 2016 help to project management professional discipline
+- skill: Create a new project
+- skill: Create and maintain project calendars
+- skill: Create a custom fields, formula and Graphical indicators
+- skill: Set Project Information
+- skill: Understand the usefulness of manual and auto Scheduling
+- skill: Create and know the EDT utility
+- skill: Scheduling tasks, their duration and their logical interrelationships
+- skill: Establish repetitive tasks
+- skill: Manage multiple projects and create resources pool
+- skill: Documenting and edit information resources
+- skill: Assign tasks to resources
+- skill: Resolving Over allocations
+- skill: Allocate human resource, materials and know total project cost
+- skill: Establish the cost and duration of the project
+- skill: Establish and maintain baselines
+- skill: Update and compare the project progress
+- skill: Set data presentation by applying filters, groups, views, or tables
+- skill: Set and display reports
+learningPartnersLink: /learn/certifications/partners
+locales:
+- es
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This course is designed with the intention that  the participant learn how to use this tool and use it to make a detailed  planning of each project element, to be useful in the tasks tracking during  execution, and focused on the facilities you have in the generation of reports and communications; monitor the completion of tasks, use of resources, and the total project cost.
+
+  #### Audience profile
+  This course is intended for Project Managers, managers, schedulers and other project stakeholders who need learn how make planning, manage and control projects with MS Project 2016.
+outlineSection: |-
+  ### Módulo 1&#58; Introduction to Project 2016
+  This module main function is to know the contribution of this tool in project management, learn the new features of 2016 version and a general visit to the tool.
+  #### Lecciones
+  - Contributions of MS Project 2016 to the project management
+  - MS Project 2016 Upgrades and a quick view of the menus
+  - Main views and tables
+  - Choose the views showing tasks, resources and assignment information
+  - Combination between the table and the views
+
+
+  #### Lab &#58; Introduction to Project 2016
+  - Introduction to Project 2016
+
+  After completing this module, students will be able to&#58;
+  - Link this tool with the Project Management processes
+  - Identify this version enhancement
+  - Identify the various combinations between tables, views and menus that provide valuable information for monitoring the project.
+
+
+  ### Módulo 2&#58; MS Project 2016 Adjustment
+  The purpose of this module is that students know the different ways to create a new Project and import data from other tools for easy data entry, and the recommended initial configuration to avoid confusion in the development of schedule.
+
+
+  #### Lecciones
+  - Introduction to MS Project adjustment
+  - Using different methods to create a new project from an Excel file
+  - Establish the general calendar
+  - Establish a project start and finish date
+  - Set Project 2013 to calculate the project from the start date forward or from the end date backwar
+  - Establish different calendars
+
+
+  #### Lab &#58; MS Project 2016 Adjustment
+  - MS Project 2016 Adjustment
+
+  After completing this module, students will be able to&#58; 
+  - Create a new project using a template, Excel or a new project file
+  - Configure Project to calculate the schedule from the start date forward or from the Finish date backward
+  - Establish one or more calendars to constrain resource availability
+
+  ### Módulo 3&#58; Auto mode and Manual mode
+  This carpet describe auto mode and manual mode advantage and when us it.
+  #### Lecciones
+  - Introduction to auto and Manual mode
+  - Change the programation modes
+  - Advantages of programation modes
+
+
+  #### Lab &#58; Auto mode and Manual mode
+  - Auto mode and manual mode
+
+  After completing this module, students will be able to&#58;
+  - Modify manual mode or auto mode from various options for tasks or for the entire project
+  - Know when it is useful or each of the programs.
+
+
+  ### Módulo 4&#58; Creating the Work Breakdown Structure (WBS)
+  Explain the usefulness of the Work Breakdown Structure as an indispensable tool for planning and how it is configured and deployed in Project 2016. As to insert information for proper monitoring tasks
+  #### Lecciones
+  - Utility of work breakdown structure WBS
+  - Build and use subordinate tasks and summary tasks.
+  - Configuring the WBS
+  - Assign allocation criteria
+  - Understand and use milestones
+  - Understand and use templates for WBS
+
+
+  #### Lab &#58; Creating the Work Breakdown Structure (WBS)
+  - Creating work breakdown structure WBS
+
+  After completing this module, students will be able to&#58;
+  - Build tasks or summary tasks to subordinate settings EDT
+  - Display and evaluate EDT
+  - Create notes, hyperlinks and objects related to the task
+  - Create recurring tasks
+
+
+  ### Módulo 5&#58; Documenting task and their interrelationships
+  In this module explains rules to identify tasks, connect, set the duration to every task and the total duration of the project also display the network diagram generated with the task interrelations.
+
+
+  #### Lecciones
+  - Types of task sequences
+  - Common methods for creating dependencies
+  - Other methods of sequence
+  - Utility of use lag, Lead and delay
+  - Programation of use lag, Lead and delay
+  - Show the task sequences
+  - Network diagram format
+  - Modifying dependency lines
+
+
+  #### Lab &#58; Documenting task and their interrelationships
+  - Documenting task and their interrelationships
+
+  After completing this module, students will be able to&#58;
+  - Establish tasks and interrelate with the various methods
+  - Schedule advances, delays and delays to tasks
+  - Display the critical path and modify elements that display on this route
+
+
+  ### Módulo 6&#58; Define resources within project
+  Explain the different resources types that can be recognized in Project 2016 and additional data for specific resources and their impact in the programming and cost of the tasks, in other hand assign resource to task
+  #### Lecciones
+  - Definition of the types of resources
+  - Registry of the resourses
+  - schedule for each type of resource
+  - Analize the impact in the schedule
+
+
+  #### Lab &#58; Define resources within project
+  - Define resources within project
+
+  After completing this module, students will be able to&#58;
+  - Record the different resources types
+  - Establish resource-related data and the group to which they belong, the cost per hour of resource use and availability
+  - Establish schedules for each resource
+
+
+  ### Módulo 7&#58; Estimates Work packages
+  The aim of this module is set as the duration of tasks depending on the effort and resources assigned task is calculated.
+  #### Lecciones
+  - Terms of task and resource programation
+  - Estimates of work packages
+  - Effort and task types
+  - Implications of task types
+  - Assign resources to the tasks
+  - Tasks driven by efford
+  - Assign quantity and cost for the resources in the tasks
+  - Team organizator
+
+
+  #### Lab &#58; Estimates Work packages
+  - Estimates work packages
+
+  After completing this module, students will be able to&#58;
+  - Assign quantity and cost for the resources in the tasks
+  - Know the importance of effort-driven tasks and how to program from the program options and from the particular view.
+  - Change work, units and duration in the task form view
+  - Assign tasks from the team plan view
+
+
+  ### Módulo 8&#58; Creating the initial schedule
+  This module explains how project total duration is calculated based on relationships and task durations as schedules assigned
+  #### Lecciones
+  - Utility of the project critical path.
+  - Check the slack in the detailed Gantt diagram
+  - Check the slack adding the column of permited lag
+  - Constraints
+  - Configurate milestones
+  - The inspector tasks
+  - Quick access to the inspector tasks
+
+
+  #### Lab &#58; Creating the initial schedule
+  - Creating the initial schedule
+
+  After completing this module, students will be able to&#58;
+  - Identify the task slacks and reallocate if is necessary
+  - Understand the usefulness of knowing and managing Slacks
+  - Create milestones in the schedule
+  - Solve programming mistake using Task Inspector
+  - Evaluate changes to the final date derived from duration task and resource assigned changes
+
+
+  ### Módulo 9&#58; Resource Leveling
+  This module aims to identify over allocated resources and methods to solve this problem
+  #### Lecciones
+  - Requirement to level the resources
+  - Graphics resource and resource use
+  - Use of the task
+  - Team organizator
+  - Redistribution option with slack
+  - Redistribution options
+  - Stats of the proyect
+
+
+  #### Lab &#58; Resource Leveling
+  - Evaluate the project resources by resource views
+  - Manually adjust the schedule
+  - Adjust the schedule using the option of leveling
+
+  After completing this module, students will be able to&#58;
+  - View over allocated resources in different views
+  - Identify the tasks cost arising from the cost of resources allocated
+  - Use and understand the option of leveling
+
+
+  ### Módulo 10&#58; Managing the project
+  This module explains how the final plan as a basis for management, monitoring and control of the project and the different options for controlling the same set.
+  #### Lecciones
+  - Management of the proyect
+  - Establish the project baseline
+  - Establish multiple project baselines
+  - Definition of monitoring the project
+  - Record the advance of a task using real work
+  - How does the task advance impact in the project advance
+  - Detailed format of the task
+  - Task use format
+  - Different data tables
+  - Inactive task and interrupted task
+
+
+  #### Lab &#58; Managing the project
+  - Managing the project
+
+  After completing this module, students will be able to&#58;
+  - Record the base line of the initial project and establish other base line, if is necessary, to the whole project or some tasks
+  - Documenting data or project progress
+  - Analyze the variations in each task
+  - Use statistics project to monitor changes in the project
+  - Combine different views
+
+
+  ### Módulo 11&#58; Configure and print reports
+  The purpose of this module is to show the options to generate reports according to the needs of the project
+  #### Lecciones
+  - Different ways to print
+  - Print
+  - Time scale
+  - Gantt diagram format
+  - Entry tables aggrupation format
+  - Call, create and configure a new column
+  - Reports
+  - Visual reports
+
+
+  #### Lab &#58; Configure and print reports
+  - Configure and print reports
+
+  After completing this module, students will be able to&#58;
+  - Modify or create new fields to enter additional data
+  - Create various reports using the default templates
+  - Create reports developed by the user
+  - Create visual reports that can be used in other tools
+
+
+  ### Módulo 12&#58; Managing multiple projects
+  This module explains how you can manage multiple projects in a single file and use a repository of shared resources.
+  #### Lecciones
+  - Add a subproject
+  - Create a master file
+  - Share resources
+
+
+  #### Lab &#58; Managing multiple projects
+  - Managing multiple projects
+
+  After completing this module, students will be able to&#58;
+  - Create a master file, where different projects or phases of the project developed by different teams will be managed
+  - Link or other schedules to the master file
+  - Integrate a group of shared resources for various projects
+
+
+  ### Módulo 13&#58; Advanced Topics
+  This module describes some useful features in the management and control of projects but is not necessary for all projects
+  #### Lecciones
+  - Project management
+  - Add quick access menus and options menus
+  - Customize WBS
+  - Formulas and graphical indicators
+  - Record macros
+  - Create templetes
+
+
+  #### Lab &#58; Advanced Topics
+  - Advanced topics
+
+  After completing this module, students will be able to&#58;
+  - Edit menus to be displayed in the desired view
+  - Modify columns to display the formula result or a graphic indicator.

@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: Azure のデータ サイエンス ソリューションの設計と実装
+metadata:
+  title: 'Course DP-100T01JA-A: Azure のデータ サイエンス ソリューションの設計と実装'
+  description: 'Course DP-100T01JA-A: Azure のデータ サイエンス ソリューションの設計と実装'
+uid: course.dp-100t01ja
+courseNumber: 'DP-100T01JA-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+summary: |-
+  Azure サービスを使用して機会学習ソリューションの開発、トレーニング、およびデプロイを行う方法についての必要な知識を得ます。 このコースは、データ サイエンスをサポートする Azure サービスの概要から開始します。 そこから、Azure の最高のデータ サイエンス サービス、Azure Machine Learning service を使用して、データ サイエンス パイプラインを自動化することに集中します。 このコースは Azure に特化しています。データ サイエンスを実践する方法は指導しません。 受講者がその方法を既に知っていることを前提としています。
+
+  #### Audience profile
+  このコースの対象はデータ サイエンティストであり、彼らは機会学習モデルのトレーニングとデプロイにおけて重要な責任を負っています。
+prerequisitesSection: |-
+  このコースを受講する前に、以下を習得している必要があります。
+  - Azure の基本
+  - データを準備し、モデルのトレーニングを行い、競合モデルを評価して最適なモデルを選択する方法を含めたデータ サイエンスの理解。
+  - Python プログラミング言語でプログラミングを行い、Python ライブラリ、pandas、scikit-learn、matplotlib、および seaborn を使用する方法。
+outlineSection: |-
+  ### セクション 1&#58; Azure でデータ サイエンスを行う
+  受講者はデータ サイエンス プロセス、データ サイエンティストの役割について学習します。  その後、Azure サービスでデータ サイエンス プロセスをサポートし、補強する方法を理解するためにこれが適用されます。
+  #### レッスン
+  - データ サイエンス プロセスの概要
+  - Azure データ サイエンス オプションの概要
+  - Azure Notebooks の概要
+
+
+  ### セクション 2&#58; Azure Machine Learning service でデータ サイエンスを実行する
+  受講者は Azure Machine Learning service を使用して、データ サイエンス プロセスをエンドツーエンドで自動化する方法を学習します。
+  #### レッスン
+  - Azure 機械学習 (AML) サービスの概要
+  - AML サービスを使用して ML モデルを登録およびデプロイする
+
+
+  ### セクション 3&#58; Azure Machine Learning service で機械学習を自動化する
+  このモジュールでは、機械学習パイプラインの内容と、多大な労力を要する部分について Azure Machine Learning service の AutoML および HyperDrive で自動化する方法について説明します。
+  #### レッスン
+  - 機械学習モデルの選択を自動化する
+  - HyperDrive によるハイパーパラメーター調整の自動化
+
+
+  ### セクション 4&#58; Azure Machine Learning service を使用して機械学習モデルを管理および監視する
+  このモジュールでは、受講者が Azure Machine Learning service で機会学習モデルを自動的に管理して監視する方法について学習します。
+  #### レッスン
+  - 機会学習モデルを管理して監視する

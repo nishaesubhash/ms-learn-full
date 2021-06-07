@@ -1,0 +1,173 @@
+### YamlMime:Course
+title: Upgrading your End User Skills to SharePoint 2013
+metadata:
+  title: 'Course 55026-A: Upgrading your End User Skills to SharePoint 2013'
+  description: 'Course 55026-A: Upgrading your End User Skills to SharePoint 2013'
+uid: course.55026
+courseNumber: '55026-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore every new aspect that will be visible to an end user in SharePoint 2013.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 3-day Instructor Lead course Explore all the new end user features exposed in SharePoint 2013. Learn to work with new Social computing features like newsfeeds and communities, metadata navigation, cross-site publishing, Image Renditions, Embedded Code, UI Enhancements, Composed Looks, Community Sites and Reputation, Apps for SharePoint, eDiscovery, Education and Office Web Apps.
+
+  #### Audience profile
+  Anyone that works with SharePoint 2007, 2010 team sites, libraries, lists and items that wants to learn what is new in SharePoint 2013.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Understanding of SharePoint 2010 basics.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  Understand your course, classroom, classmates, facility and instructor.
+
+  ### Module 2&#58; SharePoint Introduction
+  In this module, we are going to take a high-level look at SharePoint 2013 features. These features will not just be End User focused in order to help you understand why your company should move to SharePoint 2013.
+  #### Lessons
+  - What's New in SharePoint 2013
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the new features and capabilities of SharePoint 2013
+  - Understand why your company should move to SharePoint 2013
+
+
+  ### Module 3&#58; Collaboration Experience
+  In this module we take a look at the new features introduced in SharePoint 2013 from a UI perspective.
+  #### Lessons
+  - New SharePoint Features
+
+
+  #### Lab &#58; SharePoint 2013 UI
+
+  #### Lab &#58; SharePoint 2013 Features
+
+  After completing this module, students will be able to&#58;
+  - Describe the new UI features of SharePoint 2013
+  - Understand how to setup Metadata Navigation
+  - Understand search enhancements
+  - Describe Minimal Download Strategy (MDS)
+  - How to use the Embed Code feature
+
+
+  ### Module 4&#58; Apps and App Management
+  In this module, we are going to take a look at lists, which are now called apps, from an end user standpoint. We will explore the new Appsof SharePoint 2013 and what things have changed when performing App management.
+  #### Lessons
+  - Apps
+  - App Management
+
+
+  #### Lab &#58; What's New With SharePoint Lists and Sites
+
+  After completing this module, students will be able to&#58;
+  - Describe and use SharePoint Apps
+  - Understand how to manage SharePoint Apps
+  - Learn what's new with managing &quot;Apps&quot;
+  - Learn how to install Apps from local AppCatalog
+  - Learn how to download and install Apps from the SharePoint Store
+
+
+  ### Module 5&#58; New SharePoint Sites
+  In this module we are going to review the newSharePoint 2013 site definitions.
+  #### Lessons
+  - SharePoint Foundation Sites
+
+
+  #### Lab &#58; New SharePoint Sites
+
+  After completing this module, students will be able to&#58;
+  - Understand what new sites are available in SharePoint 2013
+  - Understand how to create and what a Developer site is
+  - Understand how to create and what a Community site is
+
+
+  ### Module 6&#58; Office Integration
+  In this module we are going to take a look at how SharePoint and Office interact.
+  #### Lessons
+  - Office Web Applications
+  - Office 2013
+
+
+  #### Lab &#58; Office Integration
+
+  #### Lab &#58; Office Web Applications
+
+  After completing this module, students will be able to&#58;
+  - Describe how SharePoint integrates with Office (from SharePoint and to SharePoint)
+  - How to describe and use Office Web Applications
+  - How to use Machine Translation Services
+
+
+  ### Module 7&#58; My Site
+  In this module we will review the new Social Computing features in SharePoint 2013 and the many social improvements made to the My Site feature.
+  #### Lessons
+  - My Site and Social Features
+  - What is Social Computing
+
+
+  #### Lab &#58; My Site
+
+  After completing this module, students will be able to&#58;
+  - Describe what a My Site is
+  - How to work with My Site social networking features
+  - How to protect yourself in the Social Computing realm
+  - Describe the new improved Newsfeed
+  - How to utilize the Following features
+  - What SkyDrive Pro is and how to use it
+  - How the My Tasks aggregation feature works
+
+
+  ### Module 8&#58; SharePoint Workflows
+  In this module we will review the new workflow features of SharePoint 2013.
+  #### Lessons
+  - Workflows in SharePoint 2013
+
+
+  #### Lab &#58; Creating Simple 2013 Workflows
+
+  #### Lab &#58; Creating Visio-based Workflows
+
+  After completing this module, students will be able to&#58;
+  - How to utilize the new Windows Workflow 4.0 in SharePoint 2013
+  - How to build Windows Azure based Workflows
+
+
+  ### Module 9&#58; SharePoint eDiscovery
+  In this module we will review the new eDiscovery features of SharePoint 2013.
+  #### Lessons
+  - SharePoint eDiscovery
+
+
+  #### Lab &#58; SharePoint eDiscovery
+
+  After completing this module, students will be able to&#58;
+  - Describe SharePoint eDiscovery
+  - Learn to create eDiscovery Center
+  - Learn to create new Cases
+  - Learn to create discovery queries
+
+
+  ### Module 10&#58; SharePoint Education
+  In this module we will review the new SharePoint Education feature of SharePoint 2013.
+  #### Lessons
+  - SharePoint Education
+
+
+  #### Lab &#58; SharePoint Education
+
+  After completing this module, students will be able to&#58;
+  - Describe SharePoint Education Features
+  - How to create new courses and assignments
+  - How to add items to the Academic Library

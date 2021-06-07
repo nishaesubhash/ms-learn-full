@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Microsoft Azure 向けソリューションの開発
+metadata:
+  title: 'Course AZ-204T00JA-A: Microsoft Azure 向けソリューションの開発'
+  description: 'Course AZ-204T00JA-A: Microsoft Azure 向けソリューションの開発'
+uid: course.az-204t00ja
+courseNumber: 'AZ-204T00JA-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このコースでは、Microsoft Azure でエンドツーエンド ソルーションを作成する方法を開発者向けに説明します。受講者は、Azure コンピューティング ソリューションの実装、Azure Functions の作成、Web Apps の実装と管理、Azure Storage を使用したソリューションの開発、認証と承認の実装、KeyVault およびマネージド ID の使用によるソリューションのセキュリティ保護を行う方法について学習します。また、Azure サービスやサードパーティ サービスに接続して利用し、ソリューションにイベントベースおよびメッセージベース モデルを追加する方法についても学習します。このコースでは、Azure ソリューションの監視、トラブルシューティング、および最適化についても説明します。
+
+  #### Audience profile
+  このコースの受講者は、Azure の開発または Microsoft Azure Developer アソシエイト認定試験に合格することに興味がある人です。
+prerequisitesSection: |-
+  1 - 2 年の専門的な開発経験、および Microsoft Azure の経験が前提条件です。Azure でサポートされる言語でのプログラミングを行える必要があります。
+outlineSection: |-
+  ### セクション 1&#58; Azure App Service Web Apps の作成
+  受講生は、Azure App Service プラットフォームで Web アプリケーションを構築する方法を学習します。プラットフォームの仕組みを学び、App Service プラットフォーム の作成、構成、スケーリング、セキュリティの保護、およびデプロイを行う方法についても学習します。
+  #### レッスン
+  - Azure App Service のコア概念
+  - Azure App Service Web Apps の作成
+  - App Service アプリの構成および監視
+  - App Service アプリのスケーリング
+  - Azure App Service のステージング環境
+
+
+  ### セクション 2&#58; Azure Functions の実装
+  このモジュールでは、Functions アプリを作成し、トリガーと入力/出力をアプリに統合する方法について説明します。
+  #### レッスン
+  - Azure Functions の概要
+  - Azure Functions の開発
+  - Durable Functions の実装
+
+
+  ### セクション 3&#58; Blob Storage を使用するソリューションの開発
+  受講生は、Azure Blob Storage の仕組みについて学習するほか、ホット/コールド/アーカイブ Blob Storage ライフサイクルを通じてデータを管理する方法、および Azure Blob Storage クライアント ライブラリを使用してデータとメタデータを管理する方法についても学習します。
+  #### レッスン
+  - Azure Blob Service のコア概念
+  - Azure Blob Storage ライフサイクルの管理
+  - Azure Blob Storage の操作
+
+
+  ### セクション 4&#58; Cosmos DB ストレージを使用するソリューションの開発
+  受講生は、Cosmos DB の構造、およびデータ整合性の管理方法について学習します。受講生は、Cosmos DB アカウントの作成方法、および Azure portal および .NET SDK を組み合わせて、、データベース、コンテナーを作成する方法についても学習します。
+  #### レッスン
+  - Azure Cosmos DB の概要
+  - Azure Cosmos DB データ構造
+  - Azure Cosmos DB リソースとデータの操作
+
+
+  ### セクション 5&#58; IaaS ソリューションの実装
+  このモジュールでは、VM およびコンテナー イメージを使用および作成して、ソリューションで使用する方法について説明します。VM の作成、ARM テンプレートを使用した自動リソース デプロイ、Docker イメージの作成と管理、Azure Container Registry へのイメージの発行、Azure　Container Instances でのコンテナーの実行を行う方法について学習します。
+  #### レッスン
+  - Azure での VM のプロビジョニング
+  - ARM テンプレートの作成およびデプロイ
+  - ソリューション用のコンテナー イメージの作成
+  - コンテナー イメージを Azure Container Registry に発行する
+  - Azure Container Instances でコンテナー イメージを作成して実行する
+
+
+  ### セクション 6&#58; ユーザー認証および承認の実装
+  受講生は、Microsoft ID プラットフォーム v2.0 を使用する方法を学習し、認証を管理してリソースにアクセスする方法を学習します。受講生は、Microsoft Authentication Library と Microsoft Graph を使用して、ユーザーを認証して Azure に保存されている情報を取得する方法を学習します。また Shared Access Signature を使用する方法およびそのタイミングについても学習します。
+  #### レッスン
+  - Microsoft ID プラットフォーム v2.0
+  - Microsoft Authentication Library を使用した認証
+  - Microsoft Graph の使用
+  - Azure Storage でのデータ操作の承認
+
+
+  ### セクション 7&#58; セキュアなクラウド ソリューションの実装
+  このモジュールでは、アプリケーションがリソースへのアクセスに使用する情報をセキュリティ保護する方法 (キー、シークレット、証明書) について説明します。また、アプリケーション構成の情報をセキュリティ保護する方法についても説明します。
+  #### レッスン
+  - KeyVault API を使用したキー、シークレット、証明書の管理
+  - Azure リソースのマネージ ID の実装
+  - Azure App Configuration を使用した App Configuration データのセキュリティ保護
+
+
+  ### セクション 8&#58; API 管理の実装
+  受講者は、API を発行する方法、ポリシーを作成して API から共有された情報を管理し、API を Azure 管理サービスを使用する方法について学習します。
+  #### レッスン
+  - API Management の概要
+  - API のポリシーの定義
+  - API のセキュリティ保護
+
+
+  ### セクション 9&#58; App Service Logic Apps の開発
+  このモジュールでは、Azure Logic Apps を使用して、タスク、ビジネス処理、ワークフロー、サービスをスケジュール、自動化、およびオーケストレーションする方法について説明します。
+  #### レッスン
+  - Azure Logic Apps の概要
+  - Logic Apps のカスタムコネクタの作成
+
+
+  ### セクション 10&#58; イベントベース ソリューションの開発
+  受講者は、イベントベースのアーキテクチャを使用して、アプリケーションを構築する方法について学習します。
+  #### レッスン
+  - Azure イベント グリッドを使用するソリューションの実装
+  - Azure イベント グリッドを使用するソリューションの実装
+  - Azure Notification Hubs を使用するソリューションの実装
+
+
+  ### セクション 11&#58; メッセージベースのソリューションの開発
+  受講者は、メッセージベースのアーキテクチャを使用して、アプリケーションを構築する方法について学習します。
+  #### レッスン
+  - Azure Service Bus を使用するソリューションの実装
+  - Azure Queue storage を使用するソリューションの実装
+
+
+  ### セクション 12&#58; Azure ソリューションの監視と最適化
+  このモジュールでは、テレメトリのコードをインストルメント化し、アプリを分析およびトラブルシューティングする方法について説明します。
+  #### レッスン
+  - Azure での監視の概要
+  - 監視のアプリのインストルメント化
+  - アプリの分析およびトラブルシューティング
+  - 一時的な障害を処理するコードの実装
+
+
+  ### セクション 13&#58; ソリューション内のキャッシングとコンテンツ デリバリーの統合
+  受講者は、異なるキャッシングを使用する方法について学習します。
+  #### レッスン
+  - Azure Cache for Redis の開発
+  - CDN 上のストレージ用の開発

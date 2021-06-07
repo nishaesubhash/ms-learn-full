@@ -1,0 +1,173 @@
+### YamlMime:Course
+title: Basic SharePoint Server 2013 Branding
+metadata:
+  title: 'Course 55081-A: Basic SharePoint Server 2013 Branding'
+  description: 'Course 55081-A: Basic SharePoint Server 2013 Branding'
+uid: course.55081
+courseNumber: '55081-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand The Ribbon
+- skill: Work with images
+- skill: Use Videos
+- skill: Customizing the site navigation
+- skill: Use themes
+- skill: Use composed looks
+- skill: Customize Page layouts
+- skill: Convert a HTML page to a Master Page
+- skill: Working with Master Pages using Design Manager
+- skill: Use the Snippet Gallery
+- skill: Use Design Manager with Page Layouts
+- skill: Create a Design Package
+- skill: Understand Cascading Style Sheets
+- skill: How SharePoint server uses CSS
+- skill: Using CSS in SharePoint
+- skill: Explain Web Content Management
+- skill: Utilize Web Parts for Content Rollups
+- skill: Create Display Templates
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This two-day instructor led course is intended for those interested in learning how to customize the look of SharePoint Server 2013 through the concept of Branding. Although some coding is involved we strive to keep it to a minimum in this introductory level course. Though we use minimum code you will be surprised at the ease with which SharePoint can be branded to your environment for internet, intranet and extranet sites. The level of expertise you gain coupled with the built-in SharePoint tools may be all your company ever needs for great looking branded sites.  
+  
+  This course uses an instructor led topic explanation, instructor performing detailed demonstrations then the student performing exercises to duplicate what the instructor demonstrated. This style of training is a combination of traditional classroom training and mentored learning. Additionally videos of the demonstrations performed by the course author are included with the course as a take-away.
+
+  #### Audience profile
+  This course is intended for those interested in or tasked with the branding of SharePoint 2013 Server.
+prerequisitesSection: |-
+  Before attending this course, students should have&#58;
+  - A basic knowledge of HTML
+  - A basic understanding of CSS
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module introduces the course and the modules we will be covering.
+  #### Lessons
+  - Welcome
+
+
+  ### Module 2&#58; Key concepts for Branding in SharePoint server 2013
+  This module explains the components that are necessary for you to understand to work with the branding components in SharePoint Server 2013).
+  #### Lessons
+  - Branding Levels
+  - Master Pages and the Gallery
+  - Composed Looks
+  - Different types of pages
+  - What is Design Manager
+  - Catalogs
+
+
+  #### Lab &#58; Tour the tools
+
+  After completing this module, students will be able to&#58;
+
+  - Explain Levels
+  - Understand the key components of branding
+
+
+  ### Module 3&#58; Editing via the User Interface
+  In this module you we learn how to use the user interface to brand your site.
+  #### Lessons
+  - The Ribbon
+  - Working with images
+  - Videos
+  - Customizing the site navigation
+  - Using themes
+  - Using composed looks
+  - Page layouts
+
+
+  #### Lab &#58; Editing via the User Interface
+
+  After completing this module, students will be able to&#58;
+
+  - Understand The Ribbon
+  - Work with images
+  - Use Videos
+  - Customizing the site navigation
+  - Use themes
+  - Use composed looks
+  - Customize Page layouts
+
+
+  ### Module 4&#58; SharePoint 2013 Design Manager
+  In this module we take a deep dive look at the SharePoint 2013 Design Manager which should be considered as you hub for your design and branding efforts.
+  #### Lessons
+  - Conversion of a HTML page to a Master Page
+  - Working with Master Pages using Design Manager
+  - The Snippet Gallery
+  - Design Manager and Page Layouts
+  - Creating a Design Package
+
+
+  #### Lab &#58; SharePoint 2013 Design Manager
+
+  After completing this module, students will be able to&#58;
+
+  - Convert a HTML page to a Master Page
+  - Working with Master Pages using Design Manager
+  - Use the Snippet Gallery
+  - Use Design Manager with Page Layouts
+  - Create a Design Package
+
+
+  ### Module 5&#58; Cascading Style Sheets and SharePoint Server 2013
+  This module introduces cascading style sheets, explains their purpose and how to use them in SharePoint Server 2013.
+  #### Lessons
+  - Understand Cascading Style Sheets
+  - How SharePoint server uses CSS
+  - Using CSS in SharePoint
+
+
+  #### Lab &#58; Cascading Style Sheets and SharePoint Server 2013
+
+  After completing this module, students will be able to&#58;
+
+  - Understand Cascading Style Sheets
+  - How SharePoint server uses CSS
+  - Using CSS in SharePoint
+
+
+  ### Module 6&#58; Master Pages and Page Layouts with Content Types
+  This module explains how to create, edit and work with Master pages and Page layouts with Content Types. This module is more advanced than the previous modules but all labs have included the code necessary to complete if the student prefers not to enter the code their selves.
+  #### Lessons
+  - Understand Master Pages
+  - Use SharePoint Designer 2013 to work with Master Pages
+  - Create a Master Page
+  - Edit a Master Page
+  - Content Types and Page Layouts
+
+
+  #### Lab &#58; Master Pages
+
+  After completing this module, students will be able to&#58;
+
+  - Understand Master Pages
+  - Use SharePoint Designer 2013 to work with Master Pages
+  - Create a Master Page
+  - Edit a Master Page
+  - Content Types and Page Layouts
+
+
+  ### Module 7&#58; Using SharePoint Web Content Management to perform Content Rollups
+  This is another advanced module where you will explore using the capabilities of SharePoint to surface your content. As in the previous module all code is provided if a student does not care to enter it.
+  #### Lessons
+  - Web Content Management
+  - Utilizing Web Parts for Content Rollups
+  - Display Templates
+
+
+  #### Lab &#58; Using SharePoint Web Content Management to perform Content Rollups
+
+  After completing this module, students will be able to&#58;
+
+  - Explain Web Content Management
+  - Utilize Web Parts for Content Rollups
+  - Create Display Templates

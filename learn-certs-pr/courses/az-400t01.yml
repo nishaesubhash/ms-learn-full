@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Implementing DevOps Development Processes
+metadata:
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the benefits of using source control
+- skill: Migrate from TFVC to Git
+- skill: Scale Git for Enterprise DevOps
+- skill: Implement and manage build infrastructure
+- skill: Manage application config and secrets
+- skill: Implement a mobile DevOps strategy
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides the knowledge and skills to implement DevOps processes. Students will learn how to use source control, scale Git for an enterprise, and implement and manage build infrastructure.
+
+  #### Audience profile
+  Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+outlineSection: |-
+  ### Module  1&#58; Getting started with Source Control
+  #### Lessons
+  - What is Source Control?
+  - Benefits of Source Control
+  - Types of Source Control systems
+  - Introduction to Azure Repos
+  - Migrating from Team Foundation Version Control (TFVC) to Git
+  - Authenticating to your Git Repos
+
+  After completing this module, students will be able to&#58;
+  - Describe the benefits of using Source Control
+  - Migrate from TFVC to Git
+
+
+  ### Module  2&#58; Scaling git for enterprise DevOps
+  #### Lessons
+  - How to structure your Git repo
+  - Git Branching workflows
+  - Collaborating with Pull Requests
+  - Why care about GitHooks?
+  - Fostering Internal Open Source
+  - Git Version
+  - Public projects
+  - Files in Git
+
+  After completing this module, students will be able to&#58;
+  - Scale Git for Enterprise DevOps
+
+
+  ### Module  3&#58; Implement & Manage Build Infrastructure
+  #### Lessons
+  - The concept of pipelines in DevOps
+  - Azure Pipelines
+  - Evaluate use of Hosted vs Private Agents
+  - Agent pools
+  - Pipelines and concurrency
+  - Azure DevOps and Open Source projects
+  - Azure Pipelines YAML vs Visual Designer
+  - Setup private agents
+  - Integrate Jenkins with Azure Pipelines
+  - Integration external source control with Azure Pipelines
+  - Analyze and integrate Docker multi-stage builds
+
+  After completing this module, students will be able to&#58;
+  - Implement and manage build infrastructure
+
+
+  ### Module  4&#58; Managing application config & secrets
+  #### Lessons
+  - Introduction to Security
+  - Implement secure and compliant development process
+  - Rethinking application config data
+  - Manage secrets, tokens, and certificates
+  - Implement tools for managing security and compliance in a pipeline
+
+  After completing this module, students will be able to&#58;
+  - Manage application config and secrets
+
+
+  ### Module  5&#58; Implement a mobile DevOps strategy
+  #### Lessons
+  - Introduction to Mobile DevOps
+  - Introduction to Visual Studio App Center
+  - Manage mobile target device sets and distribution groups
+  - Manage target UI test device sets
+  - Provision tester devices for deployment
+  - Create public and private distribution groups
+
+  After completing this module, students will be able to&#58;
+  - Implement a mobile DevOps strategy

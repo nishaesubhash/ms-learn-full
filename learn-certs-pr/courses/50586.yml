@@ -1,0 +1,179 @@
+### YamlMime:Course
+title: Building Flexible Project Plans with Microsoft Project 2010
+metadata:
+  title: 'Course 50586-A: Building Flexible Project Plans with Microsoft Project 2010'
+  description: 'Course 50586-A: Building Flexible Project Plans with Microsoft Project 2010'
+uid: course.50586
+courseNumber: '50586-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create project schedules
+- skill: Sequence activities
+- skill: Describe project resources and assign them to tasks
+- skill: Manage well changes in the project plan
+- skill: Print, format and extract project information
+- skill: Save project versions
+- skill: Report and analyse project information
+- skill: Manage connected projects
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This two-day instructor-led course provides students with the knowledge and skills to create projects with Microsoft Project 2010. It is structured in the form of modules that contain theory, instructor-led and self-paced exercises.
+
+  #### Audience profile
+  The course is intended for information workers with basic understanding of project management concepts.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic experience working with Windows Vista/7
+  - Basic knowledge how to work with files
+  - Basic knowledge for team work and project management
+outlineSection: |-
+  ### Module 1&#58; Introduction to Microsoft Project 2010
+  This module explains basic definitions and concepts in project management. It provides an initial overview of the types of files in Microsoft Project 2010, the product interface, and the use of Help Function.
+  #### Lessons
+  - Project Management Definitions
+  - Enterprise Project Management with Microsoft Project and Microsoft Project Server 2010
+  - Microsoft Project 2010 Overview
+
+
+  #### Lab &#58; Introduction to Microsoft Project 2010
+
+  After completing this module, students will be able to&#58;
+  - Understand basic project management definitions such as project, program, portfolio etc.
+  - Understand the Microsoft enterprise solution for managing projects
+  - Work with the various types of Project 2010 files
+  - Navigate well the new Project 2010 interface
+  - Use the Help function
+  - Configure Project 2010
+
+
+  ### Module 2&#58; Starting a project
+  This module explains what are the initial steps when starting a project.
+  #### Lessons
+  - Create and save projects
+  - Define project settings
+  - Manage project calendars
+
+
+  After completing this module, students will be able to&#58;
+  - Create and save projects
+  - Define project settings
+  - Manage project calendars
+
+
+  ### Module 3&#58; Creating tasks
+  This module explains how to create tasks in Microsoft Project 2010.
+  #### Lessons
+  - Manual and Auto-scheduled tasks
+  - How to create tasks
+
+
+  #### Lab &#58; Create a project and insert tasks
+
+  After completing this module, students will be able to&#58;
+  - Differentiate when to use manual and auto-scheduled tasks
+  - Insert tasks and milestones
+  - Import tasks from files
+  - Define tasks properties
+  - Work with task inspector
+
+
+  ### Module 4&#58; Adding deadlines, constraints, and calendars
+  This module explains how to add deadlines, constraints or calendars to tasks.
+  #### Lessons
+  - Deadlines
+  - Constraints
+  - Calendars
+
+
+  #### Lab &#58; Adding deadlines, constraints, and calendars
+
+  After completing this module, students will be able to&#58;
+  - Differentiate when to use a deadline, constraint, or calendar
+  - Insert deadlines, constraints, and calendars to tasks
+
+
+  ### Module 5&#58; Define resources
+  This module explains how to create project resources.
+  #### Lessons
+  - Types of resources
+  - Resource description
+  - Assignment of resources to tasks
+
+
+  #### Lab &#58; Define resources
+
+  After completing this module, students will be able to&#58;
+  - Differentiate among the project recourse types
+  - Define work, material, and cost resources with their properties
+  - Assign resources to tasks
+
+
+  ### Module 6&#58; Manage project changes
+  This module explains how to manage various types of project changes.
+  #### Lessons
+  - Scheduling formula
+  - Effort-driven scheduling
+  - Task types
+
+
+  After completing this module, students will be able to&#58;
+  - Understand the scheduling formula
+  - Understand effort-driven scheduling and task types
+
+
+  ### Module 7&#58; Project baseline and tracking progress
+  This module explains how to save a baseline of a project and how to track project progress.
+  #### Lessons
+  - Project baseline
+  - Tracking project progress
+
+
+  #### Lab &#58; Project baseline and tracking progress
+
+  After completing this module, students will be able to&#58;
+  - Set project baseline
+  - Understand critical path
+  - Track project progress using various methods
+
+
+  ### Module 8&#58; Project analysis
+  This module explains how to analyze the project information that you have.
+  #### Lessons
+  - Sort, group and filter data
+  - Format Gantt Chart
+  - Print project
+  - Use Visual Reports
+
+
+  #### Lab &#58; Project analysis
+
+  After completing this module, students will be able to&#58;
+  - Sort, group and filter data
+  - Format Gantt Chart
+  - Print project
+  - Use Visual Reports
+
+
+  ### Module 9&#58; Manage connected projects
+  This module explains how to manage connected projects.
+  #### Lessons
+  - Create a master project
+  - Link tasks in different projects
+  - Use shared resource pool
+
+
+  #### Lab &#58; Manage connected projects
+
+  After completing this module, students will be able to&#58;
+  - Create a master project
+  - Link tasks in different projects
+  - Use shared resource pool

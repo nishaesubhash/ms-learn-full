@@ -1,0 +1,191 @@
+### YamlMime:Course
+title: Writing Reports with Report Designer and SSRS 2014 Level 1
+metadata:
+  title: 'Course 55204-A: Writing Reports with Report Designer and SSRS 2014 Level 1'
+  description: 'Course 55204-A: Writing Reports with Report Designer and SSRS 2014 Level 1'
+uid: course.55204
+courseNumber: '55204-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore the Report Designer environment.
+- skill: Create table reports.
+- skill: Format reports.
+- skill: Create basic and complex expressions.
+- skill: Group report data.
+- skill: Create matrix reports.
+- skill: Sort and filter report data.
+- skill: Summarize data with charts.
+- skill: Print and export reports.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-analyst
+products:
+- sql-server
+summary: |-
+  In this 2-day course, students are introduced to the foundations of report writing with Microsoft® SQL Server® Report Designer and SSRS. The focus will be on report writing by connecting to a database and manipulating the data for presentation including&#58; creating table and matrix reports, formatting reports, grouping report data, creating simple and complex expressions, displaying aggregated data, sorting and filtering data, charting data, and preparing reports for printing and exporting. Report Designer is available for all supported versions of Microsoft® SQL Server®.
+
+  #### Audience profile
+  The primary audience for this course are persons who are new to reporting with Microsoft® SQL
+  Server® Report Designer and SSRS, persons who are transitioning from another reporting software application, and persons who are existing Report Designer and SSRS report authors.
+  
+  The secondary audience for this course are persons who are using Report Builder (SSRS).
+  
+  Course participants may be business analysts, programmer analysts, data analysts, database administrators, or IT professionals and may or may not have experience with Microsoft® SQL Server® Report Designer and SSRS, programming (Visual Basic), and/or Transact-Structured Query Language
+  (T-SQL) experience.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Familiarity with Windows.
+  - Creating and navigating folders.
+  - Opening programs.
+  - Manipulating windows.
+  - Copying and pasting objects.
+  - Formatting text.
+  - Saving files.
+  - Microsoft® Office Access 2013&#58; Level 1 or have equivalent experience with basic database concepts.
+outlineSection: |-
+  ### Module 1&#58; Exploring the Report Designer Environment
+  This module introduces the Report Designer application and its features. You will explore the Menu bar, the Toolbox, and the available Window panes for creating and manipulating reports, and the report design surface using Design and Preview modes.
+  #### Lessons
+  - SQL Server Reporting Services
+  - The Report Designer Environment
+  - Working with Existing Reports
+
+
+  #### Lab &#58; Exploring the Report Designer Application
+  - Navigating the Menu bar and the Toolbox
+  - View Existing Reports in Design and Preview modes
+
+  After completing this module, students will be able to&#58;
+  - Describe the purpose of SQL Server Reporting Services.
+  - Describe and navigate the graphical elements of the Report Designer application.
+  - Work with existing reports and navigate between Design and Run modes.
+
+
+  ### Module 2&#58; Adding Data to Table Reports
+  This module introduces report writers to populating a report with data and displaying the data in a table data region on the report. We will begin with defining the data source and continue with query building through data sets to bring data into the report. Next, we will explore the elements of the Tablix including rows, columns, cells, handles, and field choosers.
+  #### Lessons
+  - Create Report Data Sources
+  - Create Report Datasets
+  - Create Table Reports
+
+
+  #### Lab &#58; Creating Table Reports
+  - Create Queries using the Report Designer Query Designer
+  - Create a Table Report using a Single Table
+  - Create Table Relationships using Query Designer
+  - Create a Table Report using Multiple Tables
+
+  After completing this module, students will be able to&#58;
+  - Create report data sources.
+  - Create report datasets.
+  - Work with the tablix data region.
+  - Create a table report.
+
+
+  ### Module 3&#58; Formatting Data and Creating Expressions in Reports
+  This module introduces report formatting techniques which allow a report writer to control how and where data displays in the report. Additional data may also be required and this can be accomplished by adding data
+  from a source or adding a calculated field to the dataset. Simple and complex expressions will also be introduced in this topic.
+  #### Lessons
+  - Formatting Reports
+  - Sorting and Filtering Report Data
+  - Adding Data to a Dataset
+  - Creating Simple and Complex Expressions
+
+
+  #### Lab &#58; Formatting Reports
+  - Format Tablix Columns
+  - Format Data in a Tablix Cell using Properties
+  - Format Data in a Tablix Cell using Simple and Complex Expressions
+  - Sort Data using Expressions
+  - Use Simple and Complex Expressions to Display Data in a Tablix
+
+  After completing this module, students will be able to&#58;
+  - Format data in a report using the Report Designer Properties dialog boxes.
+  - Add data to a report and make changes to column names in the dataset query.
+  - Format data in a report using simple and complex expressions.
+  - Display data in a report using simple and complex
+
+
+  ### Module 4&#58; Grouping Report Data
+  This module introduces data groupings in reports using dataset fields and expressions. This module also discusses group hierarchies and adding aggregates to summarize grouped data.
+  #### Lessons
+  - Group Data in Reports
+  - Group Data using an Expression
+  - Creating a Grouping Hierachy and using Group Aggregates
+
+
+  #### Lab &#58; Creating Reports with Groups and Aggregates
+  - Display Grouped Data in a Report
+  - Create a Group Hierarchy in a Report
+  - Group Data using a Complex Expression
+  - Add Aggregates to Tablix Rows
+
+  After completing this module, students will be able to&#58;
+  - Group data in reports using fields.
+  - Group data in reports using expressions.
+  - Create group hierarchies.
+  - Aggregate grouped data in a report
+
+
+  ### Module 5&#58; Matrix Reports
+  This module introduces matrix data regions which are used in reports to control how crosstabular data can be used. While table reports rely on rows and columns, matrix reports rely on row groupings, column
+  groupings, and aggregated values.
+  #### Lessons
+  - Create and Modify Matrix Data Regions
+  - Create and Modify Column Groups
+
+
+  #### Lab &#58; Creating Matrix Reports
+  - Create Matrix Reports
+  - Create Column Groups
+  - Use Expressions to Sort Group Data
+  - Use Expressions to Display Group Names
+  - Create Matrix Reports with Grouping Hierarchies
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of using a matrix in a report.
+  - Create and modify matrix reports.
+  - Define column group hierarchies.
+  - Use expressions to define matrix headings and sort orders.
+
+
+  ### Module 6&#58; Charts
+  This module introduces charting and the ability to create and add charts to reports. Chart reports allow us to visualize data with or without the details.
+  #### Lessons
+  - Create and Modify Charts in Reports
+  - Modify Charts in Reports
+
+
+  #### Lab &#58; Creating Charts and Chart Reports
+  - Create a Chart Report
+  - Add a Chart to an Existing Report
+  - Format Chart Elements
+  - Use Expressions in Charts
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of charts.
+  - Create charts.
+  - Modify chart data and the format of chart elements.
+  - Use expressions in charts
+
+
+  ### Module 7&#58; Printing and Exporting Reports
+  This module introduces report printing and exporting. Reports can be created for electronic display, paper display, or display in another application. This module covers the basics of those three scenarios.
+  #### Lessons
+  - Print Features and Print Options
+  - Export Reports
+
+
+  #### Lab &#58; Printing and Exporting Reports
+  - Explore Page Layout view, Report Formatting, and Page Setup Options
+  - Export Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of electronic reporting vs. print reporting.
+  - Prepare a report for paper printing.
+  - Export reports in supported formats.

@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Microsoft Azure 를 위한 솔루션 개발
+metadata:
+  title: 'Course AZ-204T00KO-A: Microsoft Azure 를 위한 솔루션 개발'
+  description: 'Course AZ-204T00KO-A: Microsoft Azure 를 위한 솔루션 개발'
+uid: course.az-204t00ko
+courseNumber: 'AZ-204T00KO-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 과정에서 개발자들은 Microsoft Azure에서 E2E 솔루션을 개발하는 방법을 학습합니다. 학생들은 Azure 컴퓨팅 솔루션을 구현하고, Azure Functions을 생성하고, 웹 앱을 구현 및 관리하고, Azure 저장소를 활용하여 솔루션을 개발하고, 인증 및 권한 부여를 구현하고, KeyVault 및 관리 ID를 사용하여 솔루션을 보호하는 방법을 배웁니다. 또한 Azure 서비스와 타사 서비스를 연결하고 소비하는 방법과 솔루션에 이벤트 기반 모델 및 메시지 기반 모델을 포함하는 방법도 배웁니다. 이 과정에서는 모니터링, 문제 해결, Azure 솔루션 최적화도 다룹니다.
+
+  #### Audience profile
+  이 과정의 학생들은 Azure 개발에 관심이 있거나 Microsoft Azure 개발자 어소시에이트 인증 시험을 통과하는 데 관심이 있습니다.
+prerequisitesSection: |-
+  1-2년의 전문적 개발 경력과 Microsoft Azure 경험이 필요합니다. Azure 지원 언어로 프로그래밍할 수 있어야 합니다.
+outlineSection: |-
+  ### 모듈 1&#58; Azure App Service 웹앱 만들기
+  학생들은 Azure App Service 플랫폼에서 웹 애플리케이션을 빌드하는 방법을 학습합니다. 플랫폼이 기능하는 방법과 App Service 플랫폼을 생성, 구성, 크기 조정, 보호, 배포하는 방법을 배웁니다.
+  #### 과목
+  - Azure App Service 핵심 개념
+  - Azure App Service 웹앱 만들기
+  - App Service 앱 구성 및 모니터링
+  - App Services 앱 크기 조정
+  - Azure App Service 스테이징 환경
+
+
+  ### 모듈 2&#58; Azure Functions 구현
+  이 모듈은 Functions 앱 생성을 다루며 트리거 및 입력/출력을 앱에 통합하는 방법도 다룹니다.
+  #### 과목
+  - Azure Functions 개요
+  - Azure Functions 개발
+  - Durable Functions 구현
+
+
+  ### 모듈 3&#58; Blob Storage를 사용하는 솔루션 개발
+  학생들은 Azure Blob Storage의 작동 방법, 핫/콜드/보관 Blob 저장소 수명 주기를 통해 데이터를 관리하는 방법, 그리고 Azure Blob Storage 클라이언트 라이브러리를 사용하여 데이터와 메타데이터를 관리하는 방법을 배웁니다.
+  #### 과목
+  - Azure Blob Storage 핵심 개념
+  - Azure Blob Storage 수명 주기 관리
+  - Azure Blob Storage 작업
+
+
+  ### 모듈 4&#58; Cosmos DB Storage를 사용하는 솔루션 개발
+  학생들은 Cosmos DB를 구조화하고 데이터 일관성을 관리하는 방법을 배웁니다. 또한 Cosmos DB 계정을 생성하고 Azure Portal 및 .NET SDK의 조합을 사용하여 데이터베이스, 컨테이너, 항목을 생성하는 방법도 배웁니다.
+  #### 과목
+  - Azure Cosmos DB 개요
+  - Azure Cosmos DB 데이터 구조
+  - Azure Cosmos DB 리소스 및 데이터 작업
+
+
+  ### 모듈 5&#58; IaaS 솔루션 구현
+  이 모듈에서는 VM 및 컨테이너 이미지를 생성하여 솔루션에서 사용하는 방법을 학습합니다. VM 생성, ARM 템플릿 사용을 통한 리소스 배포 자동화, Docker 이미지 생성 및 관리, Azure Container Registry에 이미지 게시, Azure Container Instances에서의 컨테이너 실행을 다룹니다.
+  #### 과목
+  - Azure에서 VM 프로비전
+  - ARM 템플릿 생성 및 배포
+  - 솔루션용 컨테이너 이미지 만들기
+  - Azure Container Registry에 컨테이너 이미지 게시
+  - Azure Container Instances에서 컨테이너 이미지 만들기 및 실행
+
+
+  ### 모듈 6&#58; 사용자 인증 및 권한 부여 구현
+  학생들은 Microsoft ID 플랫폼 v2.0을 활용하여 인증 및 리소스에 대한 액세스를 관리하는 방법을 배웁니다. 또한 Microsoft 인증 라이브러리와 Microsoft Graph를 사용하여 사용자를 인증하고 Azure에 저장된 정보를 검색하는 방법을 학습하고, 공유 액세스 서명의 사용 방법과 사용 시점에 대해서도 배웁니다.
+  #### 과목
+  - Microsoft ID 플랫폼 v2.0
+  - Microsoft 인증 라이브러리를 사용한 인증
+  - Microsoft Graph 사용
+  - Azure Storage에서 데이터 작업 권한 부여
+
+
+  ### 모듈 7&#58; 보안 클라우드 솔루션 구현
+  이 모듈은 애플리케이션이 리소스에 액세스하기 위해 사용하는 정보를 보호하는 방법(키, 비밀, 인증서)을 배웁니다. 또한 애플리케이션 구성 정보 보안에 대해서도 다룹니다.
+  #### 과목
+  - KeyVault API를 사용한 키, 비밀, 인증서 관리
+  - Azure 리소스용 관리 ID 구현
+  - Azure App Configuration을 사용한 앱 구성 데이터 보안
+
+
+  ### 모듈 8&#58; API Management 구현
+  학생들은 Azure API Management 서비스를 사용하여 API를 게시하고, API를 통해 공유된 정보를 관리하는 정책을 만들고, API에 대한 액세스를 관리하는 방법을 배웁니다.
+  #### 과목
+  - API Management 개요
+  - API 정책 정의
+  - API 보안
+
+
+  ### 모듈 9&#58; App Service Logic Apps 개발
+  이 모듈에서는 Azure Logic Apps를 사용하여 모든 기업 또는 조직에서 작업, 비즈니스 프로세스, 워크플로, 서비스를 예약, 자동화, 오케스트레이션하는 방법을 배웁니다.
+  #### 과목
+  - Azure Logic Apps 개요
+  - Logic Apps용 사용자 지정 커넥터 만들기
+
+
+  ### 모듈 10&#58; 이벤트 기반 솔루션 개발
+  학생들은 이벤트 기반 아키텍처로 애플리케이션을 빌드하는 방법을 배웁니다.
+  #### 과목
+  - Azure Event Grid를 사용하는 솔루션 구현
+  - Azure Event Hubs를 사용하는 솔루션 구현
+  - Azure Notification Hubs를 사용하는 솔루션 구현
+
+
+  ### 모듈 11&#58; 메시지 기반 솔루션 개발
+  학생들은 메시지 기반 아키텍처로 애플리케이션을 빌드하는 방법을 배웁니다.
+  #### 과목
+  - Azure Service Bus를 사용하는 솔루션 구현
+  - Azure Queue Storage 큐를 사용하는 솔루션 구현
+
+
+  ### 모듈 12&#58; Azure 솔루션 모니터링 및 최적화
+  이 모듈에서는 원격 분석의 코드를 계측하는 방법과 앱을 분석하고 문제를 해결하는 방법을 배웁니다.
+  #### 과목
+  - Azure의 모니터링 개요
+  - 모니터링용 앱 계측
+  - 앱 분석 및 문제 해결
+  - 일시적인 오류를 처리하는 코드 구현
+
+
+  ### 모듈 13&#58; 솔루션 내에서 캐싱 및 콘텐츠 배달 통합
+  학생들은 다양한 캐싱 서비스를 사용하여 앱의 성능을 향상하는 방법을 배웁니다.
+  #### 과목
+  - Redis용 Azure Cache 개발
+  - DCDN에서 저장소 개발

@@ -1,0 +1,355 @@
+### YamlMime:Course
+title: SharePoint 2010 Advanced Foundation Development
+metadata:
+  title: 'Course 50478-B: SharePoint 2010 Advanced Foundation Development'
+  description: 'Course 50478-B: SharePoint 2010 Advanced Foundation Development'
+uid: course.50478
+courseNumber: '50478-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to extend many of the core features that SharePoint Foundation provides. These include event handlers, site definitions, features, solutions and web parts!
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 5-day Instructor led, group-paced, classroom-delivery learning model with structured hands-on activities. course This course focuses on SharePoint Foundation 2010 fundamental building blocks such as features, application pages, site pages, Web Parts, custom list types, site columns, content types, custom workflows and site definitions. Other advanced topics include extending the Ribbon and writing custom Service Applications.
+
+  #### Audience profile
+  This course is intended for anyone looking to develop SharePoint customizations at a core level. This includes event handlers, features, site definitions, web parts, timer jobs and workflows!
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Attendees should have professional development experience with Visual Studio 2010, the .NET 3.0 Framework and ASP.NET 2.0. Attendees should also be familiar with Microsoft Office products such as Word, Excel and InfoPath.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  #### Lab &#58; Foundation Site Definitions
+  After completing this module, students will be able to&#58; 
+  
+  Understand your course, classroom, classmates, facility and instructor.
+
+  ### Module 2&#58; Collaboration Experience
+  In this module we take a look at the new features introduced in SharePoint 2010 from a collaboration and UI perspective.
+  #### Lessons
+  - New SharePoint Features
+
+
+  #### Lab &#58; User interface
+  After completing this module, students will be able to&#58;
+  - Describe the new UI features of SharePoint 2010
+  - Understand how the Ribbon works
+
+
+  ### Module 3&#58; Object Model
+  In this model we explore the SharePoint Server programming model. We will explore several basic SharePoint assemblies and classes.
+  #### Lessons
+  - Debugging SharePoint
+  - Server Object Model
+
+
+  #### Lab &#58; Object Model
+
+  #### Lab &#58; Debugging SharePoint
+
+  #### Lab &#58; Developer Dashboard
+
+  #### Lab &#58; SharePoint Web Development
+  After completing this module, students will be able to&#58;
+  - How to create applications using the Server Object Model
+  - Understand the basic SharePoint assemblies
+  - Be able to search and find SharePoint classes and methods
+  - Be able to debug code with custom ULS Logging
+  - Understand how to test web page performance with Developer Dashboard
+
+
+  ### Module 4&#58; Client Object Model
+  In this module we will explore the various Client Object Models. This includes the Client (.NET), ECMAScript and Silverlight Object Models.
+  #### Lessons
+  - Silverlight Object Model
+  - Client Object Model
+  - ECMA Object Model
+
+
+  #### Lab &#58; Client Object Model
+
+  #### Lab &#58; ECMA Script
+
+  #### Lab &#58; Silverlight
+  After completing this module, students will be able to&#58;
+  - Describe and use the Client Object Model
+  - Describe and use the JavaScript Object Model
+  - Describe and use the Silverlight Object Model
+
+
+  ### Module 5&#58; SharePoint Permissions
+  In this module we take a look at SharePoint permissions. We will explore the default groups, how SharePoint gets usernames and groups from an authentication system, as well has what type of permissions we can assign to those users and groups. We will explore setting up custom permission levels and how permissions are inherited. We will follow that up with SharePoint Security Trimming!
+  #### Lessons
+  - SharePoint Security
+
+
+  #### Lab &#58; SharePoint Permissions
+
+  #### Lab &#58; Security Trimmed Interface
+
+  #### Lab &#58; SPSecurity
+  After completing this module, students will be able to&#58;
+  - Describe where usernames and domain groups come from
+  - What a permission level is
+  - How to assign permissions to a user or group
+  - What is means to say permissions are cumulative
+  - Why SharePoint has no deny
+  - How to use the SPSecurityTrimmed control
+  - How to programmatically set permission on SharePoint objects
+
+
+  ### Module 6&#58; Authentication with Custom and Claims
+  In this module we will explore how to setup Forms based authentication, how claims based authentication works and how to use the Secure Store Service in our own applications.
+  #### Lessons
+  - Secure Store Service
+  - Custom Authentication
+  - Claims Based Authentication
+
+
+  #### Lab &#58; Custom Authentication
+
+  #### Lab &#58; Claims Based Auth
+
+  #### Lab &#58; Secure Store Programming
+  After completing this module, students will be able to&#58;
+  - Setup Forms based authentication in SharePoint 2010
+  - How to create a Claims based authentication system
+  - Program Secure Store applications
+
+
+  ### Module 7&#58; Features and Solutions
+  In this module we explore Features and Solutions.
+  #### Lessons
+  - Features
+
+
+  #### Lab &#58; Creating Features
+
+  #### Lab &#58; Feature Dependencies
+
+  #### Lab &#58; Feature Sequences
+
+  #### Lab &#58; Features with Visual Studio
+
+  #### Lab &#58; Solutions
+
+  #### Lab &#58; Custom Deployment Steps
+  After completing this module, students will be able to&#58;
+  - What can be deployed as features
+  - How to create several types of features
+  - How to package your features into Solutions
+  - Advanced Solution packaging techniques
+
+
+  ### Module 8&#58; Sandboxed Solutions
+  In this module we are going to take a look at SandBoxed Solutions, Solution validators and Full Trust Proxies.
+  #### Lessons
+  - Sandboxed Solutions
+
+
+  #### Lab &#58; Sandboxed Solutions
+
+  #### Lab &#58; Solution Validators
+
+  #### Lab &#58; Full Trust Proxy
+  After completing this module, students will be able to&#58;
+  - How to create a SandBoxed Solution
+  - What the limitations are of SandBoxed Solutions
+  - What Resource Measures are and how to modify them
+  - How to create Solution Validators
+  - How to create Full Trust Proxies
+
+
+  ### Module 9&#58; Web Services
+  In this module we explore the web services that come out of the box with SharePoint.
+  #### Lessons
+  - Web Services
+
+
+  #### Lab &#58; Foundation Web Services 2007
+  After completing this module, students will be able to&#58;
+  - Find and describe the various SharePoint Web Services
+  - Be able to consume SharePoint Web Services in custom applications
+
+
+  ### Module 10&#58; LINQ and REST
+  In this module we are going to take a look at the new REST and LINQ features of SharePoint 2010.
+  #### Lessons
+  - REST
+  - LINQ
+
+
+  #### Lab &#58; REST
+
+  #### Lab &#58; LINQ
+  After completing this module, students will be able to&#58;
+  - How to use REST Services
+  - How to generate and use LINQ
+
+
+  ### Module 11&#58; Web Parts
+  In this module we explore Web Parts. We will take a look at basic web parts and then transition to more complex topics like Tool Parts and Web Part Connections.
+  #### Lessons
+  - Web Parts
+
+
+  #### Lab &#58; Manual Web Part
+
+  #### Lab &#58; Visual Studio Web Part
+
+  #### Lab &#58; Web Parts Connections
+
+  #### Lab &#58; Asynchronous Web Parts
+  After completing this module, students will be able to&#58;
+  - Describe how web parts work
+  - Create web parts with connections
+  - Create web parts with Tool Parts
+  - Design and develop asynchronous web parts
+
+
+  ### Module 12&#58; Custom Site Definitions
+  In this module we explore Site Definitions and Collaborative Markup Language (CAML).
+  #### Lessons
+  - Site Definitions
+
+
+  #### Lab &#58; Custom Site Definitions
+  After completing this module, students will be able to&#58;
+  - Know CAML when you see it!
+  - Understand what a site definition is and how to modify it
+  - How to create custom site definitions manually and with Visual Studio
+  - How to add branding via site definitions
+
+
+  ### Module 13&#58; Content Types
+  In this module we explore content types, content type lineage and content type hubs.
+  #### Lessons
+  - Content Types
+
+
+  #### Lab &#58; Content Types
+
+  #### Lab &#58; Content Types Lineage
+
+  #### Lab &#58; Content Type Hub
+  After completing this module, students will be able to&#58;
+  - Understand and describe content types and their properties
+  - Be able to create content types
+  - Understand Content Type Lineage
+  - Understand how to setup Content Type Hubs
+
+
+  ### Module 14&#58; Custom Field Types
+  In this module we explore how to create your own column types for your lists. SharePoint calls these Custom Field Types.
+  #### Lessons
+  - Field Types
+
+
+  #### Lab &#58; Custom Field Types
+  After completing this module, students will be able to&#58;
+  - Understand and describe Custom Field Types
+  - Be able to create custom field types with and without a UI
+
+
+  ### Module 15&#58; Events and TimerJobs
+  In this module we will explore SharePoint Events and how to create and assign them to lists and sites. We will also explore how to create custom Timer Jobs to implement your own monitoring applications.
+  #### Lessons
+  - SharePoint Timer Jobs
+  - SharePoint Events
+
+
+  #### Lab &#58; SharePoint Events
+
+  #### Lab &#58; Custom Timer Job
+
+  #### Lab &#58; SharePoint Events Encrypt
+  After completing this module, students will be able to&#58;
+  - Understand and describe SharePoint Events
+  - Understand and describe SharePoint Timer Jobs
+  - Be able to create and deploy SharePoint Events
+  - Be able to create and deploy SharePoint Timer Jobs
+
+
+  ### Module 16&#58; Service Applications
+  In this module we are going to take a look at Service Applications that come out of the box with SharePoint and how to build your own service applications.
+  #### Lessons
+  - Service Applications
+
+
+  #### Lab &#58; Custom Service Applications
+  After completing this module, students will be able to&#58;
+  - Describe Service Applications
+  - Understand how the Service Application architecture works
+  - Create and install custom Service Applications
+
+
+  ### Module 17&#58; Workflows With SharePoint Designer
+  In this module we are going to take a look at implementing workflows with SharePoint Designer 2010.
+  #### Lessons
+  - Workflows
+
+
+  #### Lab &#58; Custom Activities
+
+  #### Lab &#58; Custom Conditions
+  After completing this module, students will be able to&#58;
+  - Describe SharePoint Designer workflows
+  - Understand what a looping workflow is
+  - Understand common workflow patterns
+  - Build custom actions for SharePoint Designer
+  - Build custom conditions for SharePoint Designer
+  - Implement logging in your workflows
+
+
+  ### Module 18&#58; Workflows With Visual Studio
+  In this module we will explore how to use Windows Workflow Foundation to create highly customized and reusable workflows.
+  #### Lessons
+  - Visual Studio Workflows
+
+
+  #### Lab &#58; Custom Visual Studio Workflow
+  After completing this module, students will be able to&#58;
+  - How to create custom workflows with Visual Studio
+
+
+  ### Module 19&#58; Business Connectivity Services
+  In this module we are going to take a look at the new Business Connectivity Services.
+  #### Lessons
+  - Business Connectivity Services
+
+
+  #### Lab &#58; BCS
+
+  #### Lab &#58; BCS Connectors
+  After completing this module, students will be able to&#58;
+  - Understand how BCS works
+  - How to build new BCS applications
+  - How to Upgrade your older BDC applications
+  - How to create BCS Connectors
+
+
+  ### Module 20&#58; Extending the User Interface
+  In this module we are going to take a look at extending the new Ribbon and how to work with the new Dialog platform.
+  #### Lessons
+  - Extending the Ribbon
+  - Dialogs
+
+
+  #### Lab &#58; Extending the Ribbon
+
+  #### Lab &#58; Creating Dialogs
+  After completing this module, students will be able to&#58;
+  - Understand how to extend the SharePoint UI
+  - Customize and extend the Ribbon
+  - Create custom Dialogs

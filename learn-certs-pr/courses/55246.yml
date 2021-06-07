@@ -1,0 +1,288 @@
+### YamlMime:Course
+title: SQL 2016 ALWAYSON HIGH AVAILABILITY
+metadata:
+  title: 'Course 55246-A: SQL 2016 ALWAYSON HIGH AVAILABILITY'
+  description: 'Course 55246-A: SQL 2016 ALWAYSON HIGH AVAILABILITY'
+uid: course.55246
+courseNumber: '55246-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understaand AlwasyOn High Availability
+- skill: Employ Server 2016 Failover Clustering
+- skill: Deploy SQL Failover Clusters
+- skill: Work with Availability Groups
+- skill: Perform maintenance
+- skill: Monitor and Troubleshoot Availability Groups
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This three-day instructor-led course is designed for database administrators and Windows engineers to familiarize them with the concepts in SQL AlwaysOn and High Availability. The course utilizes SQL 2016, but explains the differences from SQL 2012- SQL 2014.
+
+  #### Audience profile
+  Experienced DBAs, Windows Server pros, team leads. This is a lab intense course! 
+  We designed this course based on our experience of having taught hundreds of classes to literally thousands of students. We tried very hard to make the labs, of which there are over 30, very oriented to a single concept such as Adding a Replica or Transferring Logons. We did this because it is common in technical courses to write long labs with multiple exercises which in our opinion is not effective as they turn into ?click streams?. We assume the student is new to the technology and that the instructor is knowledgeable in it.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience as SQL DBA
+  - Experience as Windows IT PRO
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module explains the course and objectives.
+  #### Lessons
+  - Course introduction
+
+  After completing this module, students will be able to&#58;
+  - Course introduction
+
+
+  ### Module 2&#58; ALWAYSON AND HIGH AVAILABILITY CONCEPTS AND TERMINOLOGY
+  This module will introduce the participants to the concepts and terminology used in the course.
+  #### Lessons
+  - Concepts and Terminology
+  - Table of Availability
+  - High Availability
+  - Causes of Downtime
+  - Planned downtime
+  - Unplanned downtime
+  - Disaster Recovery
+  - Recovery Time Objective (RTO)
+  - Recovery Point Objective (RPO)
+  - Recovery Level Objective (RLO)
+  - Storage Area Networks (SAN)
+  - Edition Changes from SQL 2012
+  - SQL Server 2014 Changes
+  - SQL Server 2016 Changes
+  - Legacy Solutions prior to Always On
+  - Failover Cluster Instances
+  - Log Shipping
+  - A Typical Log Shipping Configuration
+  - Monitor Server
+  - Replication
+  - Database Mirroring
+  - Database Mirroring Terminology
+  - Principle
+  - Mirror
+  - Witness (red box in image above)
+  - Database Snapshots
+  - Limitations of legacy solutions&#58;
+  - What do we mean by Always On?
+  - Table of Always On Comparison
+
+  After completing this module, students will be able to&#58;
+  - Terminology
+  - SQL 2014 Changes
+  - SQL2016 Changes
+  - Understand the role of the SANS
+
+
+  ### Module 3&#58; WINDOWS SERVER 2016 FAILOVER CLUSTERING
+  Failover clustering is covered in this module and is a critical feature of AlwaysOn High Availability.
+  #### Lessons
+  - Understanding Failover Clustering in Server 2016
+  - Statefull High Availability Solution
+  - Supported in both Standard and Datacenter
+  - Servers should run similar hardware
+  - Should run same edition
+  - Hyper-V best with datacenter
+  - Certified for Windows server logo
+  - Shared Storage
+  - Quorums
+  - Node Majority
+  - Node and Disk Majority configuration&#58;
+  - Node and File Share Majority
+  - No Majority
+  - Configuration
+  - Cluster Networks Best Practices
+  - Connection to nodes to shared storage
+  - Private network for internal cluster
+  - Public network for client connections
+  - Cluster Aware Updating
+  - Virtual Machine Failover Clustering
+  - Preferred Owners
+  - Failover Failback
+  - Resources
+  - Dependences
+  - Heartbeat
+
+
+  #### Lab &#58; Set up iSCSI Server
+
+  #### Lab &#58; Install the iSCSI VMS
+
+  #### Lab &#58; Add Servers to Server Manager for Ease of Management
+
+  #### Lab &#58; Add the Windows Cluster Feature to SQL1, SQL2 And SQL3
+
+  #### Lab &#58; Create the iSCSI Initators to add the shared storage
+
+  #### Lab &#58; Create the Windows Cluster
+
+  #### Lab &#58; Add a Clustered Service
+
+  #### Lab &#58; Test The Failover Of The Windows Service
+
+  #### Lab &#58; Delete Role
+
+  #### Lab &#58; Examine the Quorum Settings
+  After completing this module, students will be able to&#58;
+  - ISCSI Setup
+  - Work with Roles
+  - Understand Quorums
+  - Understand Windows Failover
+  - Understand Cluster Service
+  - Understand Preferred Owners
+  - Understand Node Majority
+
+
+  ### Module 4&#58; SQL 2016 FAILOVER CLUSTER INSTANCES
+  In this module we move from the generic failover clustering to the specifics involving SQL.
+  #### Lessons
+  - Failover Cluster Instance
+  - As A FCI Appears To A Client
+
+
+  #### Lab &#58; Create A Configuration File By Running The Advanced Cluster Preparation Wizard
+
+  #### Lab &#58; Complete The SQL Cluster Installation On SQL1
+
+  #### Lab &#58; Install The Cluster On SQL2 And SQL3
+
+  #### Lab &#58; Test the SQL Cluster
+  After completing this module, students will be able to&#58;
+  - Cluster Testing
+  - Understand Configuration Files
+  - Install Clusters
+
+
+  ### Module 5&#58; SQL 2016 ALWAYS ON AVAILABILITY GROUPS
+  Within the failover clusters of SQL are the concept of Availability groups and their enhancements with the release of SQL 2016 which is the focus of this module.
+  #### Lessons
+  - Availability Groups and Replicas
+  - Primary Replica
+  - Secondary Replicas
+  - Availability Group Listener
+  - Availability Mode
+  - Synchronous Commit Mode
+  - Asynchronous Commit Mode
+  - Failover Modes
+  - Automatic Failover Without Data Loss
+  - Automatic Failover Requirements&#58;
+  - Manual
+  - Manual Failover Requirements
+  - Common Topologies
+
+
+  #### Lab &#58; Create a SQL Instance For The Availability Group
+
+  #### Lab &#58; Enable the SQL Server AlwaysOn Availability Group Feature
+
+  #### Lab &#58; Set Up For Availability Groups
+
+  #### Lab &#58; The Availability Group Wizard
+
+  #### Lab &#58; SSMS and Availability Groups
+  After completing this module, students will be able to&#58;
+  - Enable AlwaysOn
+  - Understand and work with availability Groups
+
+
+  ### Module 6&#58; The Dasboard
+  Managing AlwaysOn High Availability groups wit SQL 2016 is accomplished with the Dashboard. This module will demonstrate the skills necessary for the accomplishment of the management tasks.
+  #### Lessons
+  - The Dashboard
+  - How to view logs
+  - Using replication with Logins
+  - Using partially contained databases
+
+
+  #### Lab &#58; The Dashboard
+
+  #### Lab &#58; Replicating Logins and Jobs
+
+  #### Lab &#58; Contained or Partially Contained Databases
+  After completing this module, students will be able to&#58;
+  - Understand the Dashboard
+  - Perform Logon and Job replication
+
+
+  ### Module 7&#58; Active Secondary Availability Group Actions
+  Within Availability groups you may have Active secondary SQL which is covered and demonstrated in this module.
+  #### Lessons
+  - Reporting with Secondary Replicas
+  - Configuring a Readable secondary
+  - Read-Only Routing
+  - Load Balancing
+  - Lab&#58; Configure a Read-Only Secondary
+  - Database Backups with Secondary
+  - Steps of Backup Using secondary
+  - Backup Preference Options
+
+
+  #### Lab &#58; Database Backup Using Secondary Replica
+
+  #### Lab &#58; Configure a Read-Only secondary
+  After completing this module, students will be able to&#58;
+  - Perform backups with Secondary Replicas
+  - Configure a Read-Only Replica
+
+
+  ### Module 8&#58; Maintenance
+  In this module you explore maintenance procedures for AlwaysOn High Availability Groups.
+  #### Lessons
+  - DBCC Checks
+  - Database Adding and Removing
+
+
+  #### Lab &#58; Add a Database
+
+  #### Lab &#58; Remove a Database
+
+  #### Lab &#58; Add a Replica
+
+  #### Lab &#58; Remove a Replica
+  After completing this module, students will be able to&#58;
+  - Add and Remove Databases
+  - Add and Remove Replicas
+
+
+  ### Module 9&#58; MONITORING AND TROUBLESHOOTING AVAILABILITY GROUPS
+  In this the final module you will learn how to monitor the clusters and Availability groups and various common troubleshooting procedures.
+  #### Lessons
+  - The Dashboard in Depth
+  - Events
+  - Policy Based Managemnt for Availability Groups
+
+
+  #### Lab &#58; Dashboard Wizards
+
+  #### Lab &#58; Create an Extended Event Session
+
+  #### Lab &#58; Using T-SQL
+
+  #### Lab &#58; Policy based management for Availability Groups
+
+  #### Lab &#58; Observe a Policy In Action
+
+  #### Lab &#58; Create Three Conditions To Be Used In The  RTO And RPO Policies
+
+  #### Lab &#58; Create Two Policies RTO and RPO
+
+  #### Lab &#58; Test The Policies
+
+  #### Lab &#58; Change Endpoint Owner
+  - Migrating Settings by using Windows Easy Transfer
+  - Configuring a Reference Image of Windows 7
+  - Configuring a Reference Image
+
+  After completing this module, students will be able to&#58;
+  - Change Owners
+  - Work with Policies
+  - Work with Extended Events

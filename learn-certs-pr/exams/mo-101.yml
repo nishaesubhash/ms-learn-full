@@ -20,7 +20,8 @@ locales:
 - de
 - ja
 - ko
-levels: 
+- zh-cn
+levels:
 - intermediate
 skills:
 - Manage document options and settings
@@ -38,7 +39,7 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification dashboard
   description: Review and manage your scheduled appointments, certificates, and transcripts.
   href: https://www.microsoft.com/learning/dashboard.aspx

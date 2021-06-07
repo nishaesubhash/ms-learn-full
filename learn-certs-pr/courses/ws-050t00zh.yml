@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 将应用程序工作负荷迁移到 Azure
+metadata:
+  title: 'Course WS-050T00ZH-A: 将应用程序工作负荷迁移到 Azure'
+  description: 'Course WS-050T00ZH-A: 将应用程序工作负荷迁移到 Azure'
+uid: course.ws-050t00zh
+courseNumber: 'WS-050T00ZH-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 确定特定于每个迁移阶段的工具和服务。
+- skill: 确定特定于每个迁移阶段的工具和服务
+- skill: 发现并评估本地工作负荷以迁移到 Azure
+- skill: 使用应用依赖项映射和评估自定义，收集更深层次的环境资料
+- skill: 使用 Azure Migrate 将本地工作负荷端到端迁移到 Azure
+- skill: 将数据从本地数据中心复制到 Azure 或辅助站点
+- skill: 使用数据库迁移服务将数据从现有数据源迁移到 Azure 数据平台
+- skill: 使用 Azure 安全中心、Azure 备份和 Log Analytics 保护和管理已迁移的工作负荷
+- skill: 确保有效的业务连续性策略，包括高可用性、灾难恢复
+- skill: 使用 Azure 备份服务从任何位置备份和保护 Azure IaaS 虚拟机
+- skill: 定义恢复计划，确保虚拟机在运行完整的故障转移之前能够正确地进行故障转移
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  该研讨会教授 IT 专业人员如何将现有的本地工作负荷和资产迁移到云，特别是迁移到 Microsoft Azure 平台。学生了解如何评估现有的本地环境，为云迁移做好准备。学生还将了解如何监视和优化基于 Azure 的工作负荷，从而最大程度提高投资回报率 (ROI)，以及如何使用 Azure 服务来保护和管理虚拟机、应用程序和数据。
+
+  #### Audience profile
+  该研讨会面向需要计划、实施和管理本地资源到 Azure 的迁移或将 Azure 虚拟机复制到其他 Azure 位置的 IT 管理员和员工。他们接受工作负荷所有者的业务请求，将工作负荷迁移到云中，以利用云启用的策略所提供的优势，而不是采用传统的数据中心方法。此角色需要与组织的 IT 部门和业务组中的不同人员及供应商进行沟通和协调。
+prerequisitesSection: |-
+  - IT 管理员凭借操作系统、虚拟化、云基础结构、存储结构和网络方面的经验，开始担任此角色。此外，IT 管理员应具有管理 IaaS Azure 基础结构的经验或同等知识。
+  - 了解本地虚拟化技术，包括&#58; VM、虚拟网络和虚拟硬盘。
+  - 了解网络配置，包括 TCP/IP、域名系统 (DNS)、虚拟专用网络 (VPN)、防火墙和加密技术。
+  - 了解 Active Directory 概念，包括域、林、域控制器、复制、Kerberos 协议和轻型目录访问协议 (LDAP)。
+  - 了解恢复能力和灾难恢复，包括备份和还原操作。
+  - 熟悉 Azure 的使用，包括 Azure 门户、Cloud Shell、Azure PowerShell、CLI 和 ARM 模板。
+  - 了解 Azure Active Directory 和云标识管理。
+  - 了解订阅、用户、组和账单的管理，以及 Azure 策略。
+outlineSection: |-
+  ### Module 1&#58; 规划、评估以及 Azure 迁移
+  本模块介绍导致云迁移的关键业务和技术驱动因素、Azure 迁移的各个阶段，以及每个阶段所使用的工具和服务。你将了解如何发现和评估本地环境，从而准备好将适当的工作负荷迁移到 Azure。
+  #### Lessons
+  - 云迁移 - 业务动机、目标和成果
+  - 发现与评估
+
+
+  #### Lab &#58; 发现和评估本地资源以进行迁移
+
+  ### Module 2&#58; 数据迁移简介
+  本模块介绍当需要安全地将 TB 级数据发送到 Azure 时可以使用的解决方案。你将了解具有联机和脱机传输选项的 Azure Data Box 产品系列。然后，你将了解如何使用 Azure 数据库迁移服务 (DMS) 将本地 SQL Server 2008R2 数据库迁移到 Azure SQL 数据库托管实例 (MI)。
+  #### Lessons
+  - Azure Data Box
+  - 数据库迁移
+
+
+  #### Lab &#58; 将本地 SQL Server 数据库迁移到 Azure SQL 托管实例
+
+  ### Module 3&#58; 使用 Azure Migrate 服务实施迁移
+  在本模块中，你将了解如何在计划的迁移之前准备好本地基础结构和 Azure 组件。你还将了解如何使用 Azure Migrate 服务执行端到端迁移。
+  #### Lessons
+  - Azure Migrate 服务器迁移概述
+  - VMware - 无代理迁移
+  - VMware - 基于代理的迁移
+  - 保护已迁移的工作负荷
+  - 使用 Microsoft 迁移工厂进行数据中心迁移
+
+
+  #### Lab &#58; 将虚拟机复制到 Azure
+
+  ### Module 4&#58; Azure 中的备份和灾难恢复
+  本模块介绍业务连续性策略的关键组成部分，以及高可用性解决方案的要求。你还将了解如何使用 Azure 备份服务实现 Azure IaaS 虚拟机备份。此外，你将了解如何使用 Azure Site Recovery 将 Azure VM 复制到任何其他 Azure 位置。
+  #### Lessons
+  - Azure 备份概述
+  - 实施 Azure IaaS 备份
+  - Azure 到 Azure Site Recovery
+  - 应用程序灾难恢复

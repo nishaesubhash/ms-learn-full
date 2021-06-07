@@ -1,0 +1,217 @@
+### YamlMime:Course
+title: 'MDX with Microsoft Analysis Services: How to ask questions and get accurate answers from your Data'
+metadata:
+  title: 'Course 50578-A: MDX with Microsoft Analysis Services: How to ask questions and get accurate answers from your Data'
+  description: 'Course 50578-A: MDX with Microsoft Analysis Services: How to ask questions and get accurate answers from your Data'
+uid: course.50578
+courseNumber: '50578-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: In the parlance of my beloved Marine Corp, you will go from raw recruit to Marine Rifleman. (God bless the Marines!) Or in the business world you will be at a mid-level of competence in MDX. You should be able with practice to get to expert on your own with experience. Yes Bunkie, you have to work!
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This instructor-led course is designed to take a person from the very beginning of MDX queries to journeyman. The first chapters (1-4) get you well-grounded, then from there we expand out. You won’t know how to do every MDX query. You won’t look at every function. But you will understand the patterns, and from them you can examine examples and build on them to code your own sophisticated queries.
+
+  Queries such as&#58; 
+
+  What are the top 5 customers by country over the last 8 quarters?
+
+  What is our reorder point based on inventory levels?
+
+  What are our best customers in terms of volume and gross profit?
+
+  What effect does shipping cost have on profitability on a geographical distribution?
+
+  How do we calculate the Year to Date value?
+
+  How do we do Year-over-Year growth?
+
+  When looking at manufacturing how do we account only for workdays?
+
+  #### Audience profile
+  If the past is any indicator of the future then this course will be attended mainly by SQL Professionals, Microsoft Analysis Service cube and report developers and Business Intelligence Professionals coming from competing platforms. But you do not need those skills. The course was not written assuming those skills.
+
+  Why this course may be for you&#58;
+
+  Your company is moving or implementing Microsoft SQL Server Analysis Services.
+
+  Your organization is implementing Department Business Intelligence with a Data Mart.
+
+  You want to develop a skillset in high demand.
+
+  The current reports from the cubes do not provide the answers.
+  
+  Your organization wants you to get grounding in MDX so you can build out advanced analytics.
+prerequisitesSection: |-
+  Before attending this course, students should have&#58;
+  - A good idea of what direction their organization wants to go with Business Intelligence
+  - Basic Microsoft interface skills such as working with Excel.
+outlineSection: |-
+  ### Module 1&#58; The Microsoft Business Intelligence Stack
+  This module walks through the entire Microsoft stack showing step by step how raw data is extracted, transformed then loaded into the various technologies where it is presented for analysis. 
+
+  What you will get out of this module&#58;
+  - An overview of the Microsoft Business Intelligence Stack 
+  - An understanding of the available technologies
+  #### Lessons
+  - What Business Intelligence can do for your organization
+  - What to watch out for in implementation
+  - The Scope and what types of tools address each?
+
+
+  #### Lab &#58; The Microsoft Business Intelligence Stack
+
+  ### Module 2&#58; Getting Started with MDX. We walk then run. Learn this and you won’t trip.
+  This is the Hello World experience in MDX. This is where you will learn why you can get an answer without really asking a question. And this is where you say goodbye to SQL habits.
+  
+  What you will get out of this module&#58;
+  - The difference between multidimensional and flat or tabular space
+  - The importance of schemas in SQL Server Analysis Services
+  - Basic syntax of MDX
+  #### Lessons
+  - MultiDimensional VS Tabular Space
+  - Data Warehouse Data Mart
+  - MDX Introduction
+  - The Editors
+
+
+  #### Lab &#58; Getting Started with MDX. We walk then run. Learn this and you won’t trip.
+
+  ### Module 3&#58; The all-important Dimensions. The bearers of truth.
+  What you will get out of this module&#58;
+  - Working knowledge of Dimensions
+  - The ability to explain what a tuple does
+  - Why SSAS cells are important and their properties
+  - How to construct a MDX Set
+  - Utilize built in Set Functions
+  #### Lessons
+  - Dimensions
+  - Dimension Attributes
+  - Hierarchies
+  - Referencing Members
+  - Tuples
+  - Cells
+  - Sets
+  - Set Functions
+
+
+  #### Lab &#58; The all-important Dimensions. The bearers of truth.
+
+  ### Module 4&#58; Navigation and the secrets of relatives!
+  What you will get out of this module&#58;
+  - Importance of Navigation to reporting
+  - How to locate a cells relatives
+  - How to use Navigational Functions in reporting
+  - Controlling Sorting of reports
+  - Filtering the results of a report
+  - How to combine a sets
+  #### Lessons
+  - Navigation in reporting
+  - Relatives
+  - Navigational Functions
+  - Controlling Sorting
+  - Filtering the results
+  - How to combine a set
+
+
+  #### Lab &#58; Navigation and the secrets of relatives!
+
+  ### Module 5&#58; MDX Calculations.
+  What you will get out of this module&#58;
+  - How to utilize expressions
+  - How to use MDX functions in Calculations
+  - Variances through the With clause
+  - How to use sets in expressions
+  - How to work with statistical functions
+  #### Lessons
+  - Expressions
+  - Calculated members
+  - Formatting output through the With clause
+  - Dynamic Expressions
+  - IIF function
+  - Statistical Functions
+  - Determining which tuples satisfy a parameter in a report
+
+
+  #### Lab &#58; MDX Calculations.
+
+  ### Module 6&#58; Working with Time. Multiple calendars, divergent horizons.
+  What you will get out of this module&#58;
+  - Understanding of time in SSAS
+  - How to perform time based calculations
+  - Navigating Time Dimensions
+  - How to use a calculated measure in a time Dimension
+  - How to Sum and Aggregate data over time
+  #### Lessons
+  - Time Dimension
+  - Multiple calendars
+  - Time based Functions
+  - ParallelPeriod
+  - OpeningPeriod
+  - ClosingPeriod
+  - LastPeriod
+  - Year-To-Date
+  - Calculated Measures and a time Dimension
+  - Comparing Periods
+  - Sum Function
+  - Aggregate Function
+  - Max and Min Function in Time
+
+
+  #### Lab &#58; Working with Time. Multiple calendars, divergent horizons.
+
+  ### Module 7&#58; Business Insights. Now let’s put it to work and get some situational answers.
+  What you will get out of this module&#58;
+  - This module combines techniques from the other modules and expands where necessary.
+  - You should develop an understanding of how to approach and solve MDX problems.
+  #### Lessons
+  - Or logic
+  - And Logic
+  - Combining Or and And logic from different hierarchies
+  - Logical And with members from the Same
+  - Using the NonEmpty function
+  - Moving Averages
+  - Last date with data
+  - ParallelPeriod for Multiple Dates
+  - Testing current context
+  - Options of the Descendants function
+  - Ranking Values
+
+
+  #### Lab &#58; Business Insights. Now let’s put it to work and get some situational answers.
+
+  ### Module 8&#58; Where else will MDX work? SQL Reports
+  What you will get out of this module&#58;
+  - How to use MDX in a SQL Server Reporting Services Report 
+  - MDX in PerformancePoint Services 2010
+  #### Lessons
+  - Create a SSRS report
+  - Create a connection into the cube
+  - Create a MDX query with the query designer
+  - Create a custom query
+  - Pass a parameter
+  - PerformancePoint Services Dashboard Designer (Not installed PowerPoint and Video demonstration)
+
+
+  #### Lab &#58; Where else will MDX work? SQL Reports
+
+  ### Module 9&#58; KPIs and MDX in the Business Intelligence Development Studio Editor
+  What you will get out of this module&#58;
+  - How to use MDX in a Business Intelligence Development Studio Editor
+  - MDX in Calculations in Form view
+  - How to create KPIs
+  #### Lessons
+  - Use Business Intelligence Development Studio to create a named calculation in the cube
+  - Use Business Intelligence Development Studio to create KPIs
+
+
+  #### Lab &#58; PerformancePoint Services

@@ -1,0 +1,197 @@
+### YamlMime:Course
+title: Intermediate Microsoft Excel 2019
+metadata:
+  title: 'Course 55269-A: Intermediate Microsoft Excel 2019'
+  description: 'Course 55269-A: Intermediate Microsoft Excel 2019'
+uid: course.55269
+courseNumber: '55269-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use formulas and functions.
+- skill: Create and modify charts.
+- skill: Convert, sort, filter, and manage lists.
+- skill: Insert and modify illustrations in a worksheet.
+- skill: Work with tables.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Intermediate Microsoft Excel 2019 training class is meant for students who want to advance their skill set by learning to work with advanced formulas, lists, and illustrations. Students will also work with charts and advanced formatting including styles.
+
+  #### Audience profile
+  This course is intended for students who have basic skills with Microsoft Excel 2019 who want to learn intermediate-level skills or students who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic experience with Excel
+outlineSection: |-
+  ### Module 1&#58; Advanced Formulas
+  This module explains how to work with advanced formulas in Microsoft Excel.
+  #### Lessons
+  - Using Named Ranges in Formulas
+  - Using Formulas That Span Multiple Worksheets
+  - Entering a Formula Using Data in Multiple Worksheets
+  - Using the IF Function
+  - Using the PMT Function
+  - Using the LOOKUP Function
+  - Using the VLOOKUP Function
+  - Using the HLOOKUP Function
+  - Using the CONCAT Function
+  - Using the TRANSPOSE Function
+  - Using the PROPER, UPPER, and LOWER Functions
+  - Using the PROPER Function
+  - Using the LEFT, RIGHT, and MID Functions
+  - Using the LEFT and RIGHT Functions
+  - Using Date Functions
+  - Using the YEAR, MONTH, and DAY Functions
+  - Creating Scenarios
+
+
+  #### Lab &#58; Advanced Formulas Exercises
+  - Using Named Ranges in Formulas
+  - Entering a Formula Using Data in Multiple Worksheets
+  - Using the IF Function
+  - Using the PMT Function
+  - Using the VLOOKUP Function
+  - Using the CONCAT Function
+  - Using the PROPER Function
+  - Using the LEFT and RIGHT Functions
+  - Using the YEAR, MONTH, and DAY Functions
+
+  After completing this module, students will be able to&#58;
+  - Name and label cells and ranges of cells.
+  - Use names and labels in formulas.
+  - Create formulas that span multiple worksheets.
+  - Use the conditional IF function and its variants in formulas.
+  - Use the PMT function to calculate payments for loans.
+  - Use the LOOKUP function.
+  - Use the VLOOKUP function.
+  - Use the HLOOKUP function.
+  - Use the CONCAT function to join the contents of numerous cells.
+  - Use the TRANSPOSE function.
+  - Use the PROPER, UPPER, and LOWER functions to alter the casing of text.
+  - Use the LEFT, RIGHT, and MID functions to return characters from the start or end of a string, or a specific number of text characters.
+  - Use various date functions.
+
+
+  ### Module 2&#58; Working with Lists
+  This module explains how to work with lists.
+  #### Lessons
+  - Converting a List to a Table
+  - Removing Duplicates from a List
+  - Sorting Data in a List
+  - Filtering Data in a List
+  - Adding Subtotals to a List
+
+
+  #### Lab &#58; Work with Lists Exercises
+  - Converting a List to a Table
+  - Removing Duplicates from a List
+  - Sorting Data in a List
+  - Filtering Data in a List
+  - Adding Subtotals to a List
+
+  After completing this module, students will be able to&#58;
+  - Convert data into tables.
+  - Remove duplicates from tables.
+  - Sort data in Excel.
+  - Filter data in Excel.
+  - Use subtotals to automatically total related data.
+  - Group and ungroup data.
+
+
+  ### Module 3&#58; Working with Illustrations
+  This module explains how to work with Illustrations in Microsoft Excel.
+  #### Lessons
+  - Working with Clip Art
+  - Using Shapes
+  - Adding Shapes
+  - Working with Icons
+  - Working with SmartArt
+  - Using Office Ink
+
+
+  #### Lab &#58; Working with Illustrations Exercises
+  - Working with Clip Art
+  - Adding Shapes
+
+  After completing this module, students will be able to&#58;
+  - Add pictures to your worksheets.
+  - Use Clip Art to illustrate your worksheets.
+  - Insert shapes into Microsoft Excel worksheets.
+  Use SmartArt to illustrate your worksheets.
+
+  ### Module 4&#58; Visualizing Your Data
+  This module explains how to work with various types of charts in Microsoft Excel.
+  #### Lessons
+  - Inserting Charts
+  - Using the Chart Recommendation Feature
+  - Editing Charts
+  - Using Chart Tools
+  - Using the Quick Analysis Tool
+  - Add and Format Objects
+  - Create a Custom Chart Template
+
+
+  #### Lab &#58; Visualizing Your Data Exercises
+  - Inserting Charts
+  - Editing Charts
+
+  After completing this module, students will be able to&#58;
+  - Create charts that enable you to visualize your data.
+  - Choose what data is displayed in your charts.
+  - Show and hide data labels.
+  - Show and hide the legend.
+  - Show and hide the chart title.
+  - Add a picture or shape to a chart.
+  - Change the way text displays in a chart.
+  - Change the fill color of a chart.
+  - Add and format objects in a worksheet.
+  - Create a custom chart template.
+
+
+  ### Module 5&#58; Working with Tables
+  This module explains how to work with tables in Microsoft Excel.
+  #### Lessons
+  - Format Data as a Table
+  - Move between Tables and Ranges
+  - Modify Tables
+  - Define Titles
+  - Creating and Modifying a Table in Excel
+
+
+  #### Lab &#58; Creating and Modifying a Table in Excel
+  - Creating and Modifying a Table in Excel
+
+  After completing this module, students will be able to&#58;
+  - Format data in Excel as a table.
+  - Modify Excel tables
+
+
+  ### Module 6&#58; Advanced Formatting
+  This module explains how to work with advanced formatting features in Microsoft Excel.
+  #### Lessons
+  - Applying Conditional Formatting
+  - Using Conditional Formatting
+  - Working with Styles
+  - Creating and Modifying Templates
+
+
+  #### Lab &#58; Advanced Formatting Exercises
+  - Using Conditional Formatting
+  - Working with Styles
+
+  After completing this module, students will be able to&#58;
+  - Use conditional formatting to display cells differently based on their values.
+  - Quickly format tables using styles.
+  - Format cells using styles
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

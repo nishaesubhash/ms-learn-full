@@ -1,0 +1,504 @@
+### YamlMime:Course
+title: Windows Client, Enterprise Desktop Support Technician
+metadata:
+  title: 'Course 50331-D: Windows Client, Enterprise Desktop Support Technician'
+  description: 'Course 50331-D: Windows Client, Enterprise Desktop Support Technician'
+uid: course.50331
+courseNumber: '50331-D'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Manage and Maintain Windows devices locally or remotely
+- skill: Manage Windows devices using a GUI or a command-line interface
+- skill: Identify the Cause of and Resolve Networking Issues
+- skill: Identify the Cause of and Resolve Security Issues
+- skill: Manage Windows devices locally or remotely
+- skill: Manage Windows Clients with Windows PowerShell & Azure PowerShell
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows
+summary: |- 
+  (Updated for Windows 10 and Windows Server 2016) 
+  This three-day instructor-led course provides students with the knowledge and skills needed to isolate, document and resolve problems on Windows Desktops in a corporate domain. The material is geared towards corporate IT technicians that support Windows 7, 8 or 10 devices.
+
+  PowerShell scripts and support files are now included to
+  allow students to perform classroom lab exercises on their own time using
+  Azure Virtual Machines.
+
+  #### Audience profile
+  This course is intended for technicians that support Windows 7, 8 or 10 devices. Tier 1 and  2 problems are the focus of this material. Windows PowerShell and Azure PowerShell tutorials and labs are now a part of the course.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - TCP/IP Troubleshooting skills
+  - Experience working in a corporate domain environment
+  - Experience using GUI and command-line troubleshooting tools
+  - Experience installing and troubleshooting applications
+outlineSection: |-
+  ### Module 1&#58; Identify and Resolve New Software Installation Issues (Required)
+  This module explains how to fix problems that occur during the installation of new software.
+  #### Lessons
+  - Overview
+  - Planning New Software Deployment
+  - Multilingual Deployment
+  - Using Group Policy to install software
+  - Using Software Restriction Policies
+  - Digitally Signing Software
+  - Using WMI
+  - Using Applocker
+  - Using Virtualization for Testing
+  - Resolve Software Installation Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve New Software Installation Issues
+  - Create a Repair Disk and Installation Partitions
+  - Install and Configure Windows
+  - Install Programs and test Applocker
+  - Configure Compatibility Settings
+
+  After completing this module, students will be able to&#58;
+  - Understand the different installation options for Windows 7
+  - Understand the different installation options for Windows 7 applications
+  - Resolve Windows 7 installation problems
+  - Prevent users from running unapproved applications
+
+
+  ### Module 2&#58; Resolve Software Configuration Issues (Required)
+  This module explains how to fix application installation and configuration issues.
+  #### Lessons
+  - Overview
+  - Change Default Settings on the Image
+  - Enable and Disable Features
+  - Pointing to a Network Resource
+  - Configuring Updates
+  - Resolve Configuration Issues with Group Policy
+  - Driver Updates
+  - Problem Steps Recorder
+  - Resolve Software Configuration Issues
+  - Review
+
+
+  #### Lab &#58; Resolve Software Configuration Issues
+  - Install the Windows Automated Installation Kit
+  - Create a Windows PE bootable image
+  - Create a VHD disk
+  - Install Windows on a VHD
+  - Boot Windows from a VHD
+  - Use the Problem Steps Recorder
+
+  After completing this module, students will be able to&#58;
+  - Create a Windows 7 VHD disk
+  - Configure operating system features
+  - Understand the impact of Driver Updates
+  - Fix software configuration problems
+  - Use the Problem Steps Recorder tool
+
+
+  ### Module 3&#58; Resolve Software Failure (Required)
+  This module explains how to fix application problems that come up during their use and configuration.
+  #### Lessons
+  - Overview
+  - Event Viewer
+  - Event Forwarding
+  - Application Compatibility Toolkit
+  - Windows Troubleshooting Platform
+  - Windows Experience Index
+  - Testing Compatibility with Safe Mode
+  - System Restore
+  - Resolve Software Failure
+  - Review
+
+
+  #### Lab &#58; Resolve Software Failure
+  - Install applications written for older versions of Windows
+  - Use the Program Compatibility Tool to configure settings for older applications
+  - Use PowerShell scripts to configure Network Adapters
+  - Use the Troubleshooter to enable the network adapter
+  - Install Windows SDK
+  - Create a Troubleshooting Pack with the SDK
+  - Configure Event Forwarding
+  - Use System Restore
+
+  After completing this module, students will be able to&#58;
+  - Configure Event Forwarding
+  - Use System Restore to fix desktop problems.
+  - Create a Windows 7 Troubleshooter
+
+
+  ### Module 4&#58; Identify and Resolve Logon Issues (Required)
+  This module explains how to fix logon problems and configure local and roaming profiles.
+  #### Lessons
+  - Overview
+  - Authentication Process
+  - Machine Accounts
+  - Trust Relationships
+  - Network Services
+  - User Account Properties
+  - User Profiles
+  - Resolve Logon Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Logon Issues
+  - Join a computer to the domain
+  - Install Remote Server Administration Tools (RSAT)
+  - Test and Verify Domain User Account Properties
+  - Create Logoff script using PowerShell
+  - Test the use of Roaming Profiles
+  - Test the use of Mandatory Profiles
+
+  After completing this module, students will be able to&#58;
+  - Create Roaming and Mandatory User Profiles
+  - Configure Machine Accounts in Active Directory
+  - Configure User Account Properties in Active Directory
+
+
+  ### Module 5&#58; Identify and Resolve Network Connectivity Issues (Required)
+  This module explains how to troubleshoot network and connectivity problems for client computers.
+  #### Lessons
+  - Overview
+  - Scope of the Problem
+  - Hardware Issues
+  - TCP/IP Configuration
+  - Network Routing
+  - IPSec Configuration
+  - Network Connectivity Tools
+  - Branch Cache
+  - Resolve Network Connectivity Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Network Connectivity Issues
+  - Use command-line tools to identify and fix network connectivity problems
+  - Fix connectivity problems deliberately created by problem scripts
+
+  After completing this module, students will be able to&#58;
+  - Use command-line tools to troubleshoot connectivity problems.
+  - Use the Windows Troubleshooters to fix configuration issues.
+  - Configure Advanced TCP/IP options on a client computer
+
+
+  ### Module 6&#58; Identify and Resolve Name Resolution Issues (Required)
+  This module explains how to use network and local computer services to resolve IP and computer naming issues.
+  #### Lessons
+  - Overview
+  - DNS Name Resolution
+  - Using a Hosts files
+  - WINS Configuration
+  - Using LMHOSTS files
+  - Name Resolution Order
+  - Manual vs DHCP Configuration
+  - Resolve Name Resolution Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Name Resolution Issues
+  - Configure and Test DNS Resolution
+  - Configure and Test Hosts File Resolution
+  - Configure and Test NetBIOS Resolution
+
+  After completing this module, students will be able to&#58;
+  - Configure records on a DNS Server
+  - Configure HOSTS records
+  - Using command-line and scripting tools to configure TCP/IP settings
+
+
+  ### Module 7&#58; Identify and Resolve Network Printer Issues (Optional)
+  This module explains how to implement printer configuration and security settings.
+  #### Lessons
+  - Overview
+  - Connecting to a Network Printer
+  - Managing the Print Spooler
+  - Setting Printer Priorities
+  - Creating Printer Pools
+  - Configuring Drivers
+  - Printer Schedules
+  - Printer Permissions
+  - Manage Printers with Group Policy Settings
+  - Resolve Network Printer Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Network Printer Issues
+  - Install local and network printers
+  - Create and use a separator page
+  - Configure Printer Redirection and Printer Pooling
+  - Move the Print Spooler Directory
+
+  After completing this module, students will be able to&#58;
+  - Optimize the performance of the Print Spooler
+  - Redirect Print Jobs from non-functioning Printers
+  - Manage Active Directory registration of Printers
+  - Manage Printer Permissions
+
+
+  ### Module 8&#58; Identify and Resolve Performance Issues (Required)
+  This module explains how to improve the performance of a system by monitoring and controlling the use of computer resources.  Methods of auditing and reporting the use of computer resources are also
+  demonstrated.
+  #### Lessons
+  - Overview
+  - Analyzing Event Logs
+  - Setting Power Management
+  - Optimize Processor Usage
+  - Optimizing Memory Usage
+  - Optimize Hard Drive Usage
+  - Optimize Network Usage
+  - Performance Tools
+  - Resolve Performance Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Performance Issues
+  - Schedule and Perform a Disk Defragmentation
+  - Using Task Manager
+  - Using Resource Monitor
+  - Display a message when a Service stops
+
+  After completing this module, students will be able to&#58;
+  - Configure automatic responses to Service failure
+  - Manage the use of Processing resources by applications
+  - View and control active connections to a computer
+  - Optimize Hard-Disk performance.
+
+
+  ### Module 9&#58; Identify and Resolve Hardware Failure Issues (Optional)
+  This module explains how to diagnose hardware problems on a computer.
+  #### Lessons
+  - Overview
+  - Diagnosing Memory Failure Issues
+  - Hard Drive Issues
+  - Network Card Issues
+  - Power Supply Issues
+  - Windows Hardware Diagnostic Tools
+  - Resolve Hardware Failure Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Hardware Failure Issues
+  - Use the Windows Memory Diagnostics Tool
+  - Fix Hard Disk Errors
+  - Use the Reliability Monitor
+  - Use Event Viewer to Find Hardware Information
+
+  After completing this module, students will be able to&#58;
+  - Understand how to be proactive in dealing with hardware problems
+  - Use Windows 7 hardware diagnostic tools
+
+
+  ### Module 10&#58; Identify and Resolve Wireless Connectivity Issues (Optional)
+  This module explains how to configure reliable and secure wireless connectivity for client computers.
+  #### Lessons
+  - Overview
+  - Signal Strength
+  - Wireless Security
+  - Wireless Profiles
+  - Management Options for Wireless Devices
+  - Resolve Wireless Connectivity Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Wireless Connectivity Issues
+  - No lab exercises. (Interactive Video Simulation is provided to practice this skill.)
+
+  After completing this module, students will be able to&#58;
+  - Understand the encryption options available for wireless networks
+  - Use Windows Wireless security options
+  - Fix client connectivity problems
+
+
+  ### Module 11&#58; Identify and Resolve Remote Access Issues (Optional)
+  This module explains how to configure remote network connections for client computers.
+  #### Lessons
+  - Overview
+  - Remote Access Methods
+  - Dial-up Configuration
+  - VPN Configuration
+  - DirectAccess Configuration
+  - Authentication Protocols
+  - Resolve Remote Access Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Remote Access Issues
+  - Configure Remote Access settings for a domain user account
+  - Create and Test a VPN Connection
+
+  After completing this module, students will be able to&#58;
+  - Understand the security options available when creating remote access connections
+  - Understand the new capabilities of VPN connections that use DirectAccess
+  - Resolve connectivity problems for VPN and Dial-Up connections
+
+
+  ### Module 12&#58; Manage File Synchronization (Required)
+  This module explains how to allow end-users to work with network files that are being synchronized on their local devices.
+  #### Lessons
+  - Overview
+  - Configuring Offline File Access
+  - Synchronization Settings
+  - Transparent Caching
+  - Roaming Profiles
+  - Restoring Network Files
+  - Resolve File Synchronization Problems
+  - Review
+
+
+  #### Lab &#58; Manage File Synchronization
+  - Configure and Test Offline Files
+  - Restore the Previous Version of a File
+
+  After completing this module, students will be able to&#58;
+  - Configure Transparent Caching
+  - Restore deleted network files
+
+
+  ### Module 13&#58; Identify and Resolve Internet Explorer Security Issues (Optional)
+  This module explains how to configure the security features in Internet Explorer to protect user information and privacy.
+  #### Lessons
+  - Overview
+  - Configure Security Zone
+  - Configure Security Levels
+  - Configure Privacy Settings
+  - Managing Add-ons
+  - Configure Smart Screen Filter
+  - Other Security Issues
+  - Resolve Internet Explorer Security Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Internet Explorer Security Issues
+  - Configure Trusted Security Zone
+  - Configure the Security and Privacy Features in IE
+  - Configure Group Policy Settings for Internet Explorer
+
+
+  After completing this module, students will be able to&#58;
+  - How to use new security features like Smart Screen Filtering
+  - Manage Internet Explorer Add-ons
+  - Use IE features to warn the user about potential security problems
+
+
+  ### Module 14&#58; Identify and Resolve Firewall Issues (Optional)
+  This module explains how to configure Windows Firewall to secure application and network traffic on a computer.
+  #### Lessons
+  - Overview
+  - Securing Network Applications and Features
+  - Program and Port Exceptions
+  - Configuring Notifications and Logging
+  - Network Security Tools
+  - Resolve Firewall Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Firewall Issues
+  - Configure and Test Firewall Rules for an application
+  - Fix Application Problems Caused by Firewall Rules
+
+  After completing this module, students will be able to&#58;
+  - Block/Allow applications from communicating over the network
+  - Audit and record unapproved network communication with a Windows device
+  - Fix problems caused by improper configuration of Windows Firewall
+
+
+  ### Module 15&#58; Identify and Resolve Issues Due To Malicious Software (Optional)
+  This module explains how to restore a computer system after an attack by viruses or other malicious software.
+  #### Lessons
+  - Overview
+  - Proactive Malware Protection
+  - Protecting Internet Explorer
+  - Windows and Anti-Virus Updates
+  - Recovering From Malware Infection
+  - Resolve Issues Due To Malicious Software
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Issues Due To Malicious Software
+  - Use the Action Center to manage UAC settings
+  - Use System File Checker
+  - Use the Malicious Software Removal Tool
+  - Install Microsoft Security Essentials
+
+  After completing this module, students will be able to&#58;
+  - Identify problems caused by viruses and other malware.
+  - How to protect Internet Explorer and E-mail applications from malware attack
+  - How to prevent data loss and fix a computer after a malware attack
+  - Install and configure Microsoft Security Essentials
+
+
+  ### Module 16&#58; Identify and Resolve Encryption Issues (Optional)
+  This module explains how to configure data encryption options available on Windows devices and troubleshoot problems related to it.
+  #### Lessons
+  - Overview
+  - Configuring a Recovery Agent
+  - Using EFS
+  - Using BitLocker
+  - Encryption Tools
+  - Resolve Encryption Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Encryption Issues
+  - Encrypt Files using EFS
+  - Configure EFS Sharing
+  - Configure a Recovery Agent
+
+  After completing this module, students will be able to&#58;
+  - Recover from lost encryption keys
+  - How to encrypt individual files using EFS
+  - Use BitLocker to protect laptops and insecure computers
+
+
+  ### Module 17&#58; Identify and Resolve Software Update Issues (Optional)
+  This module explains how to configure and use the operating system and application update features available on Windows devices.
+  #### Lessons
+  - Overview
+  - Types of Windows Updates
+  - Using Windows Update
+  - Using Microsoft Update
+  - Resolve Software Update Issues
+  - Review
+
+
+  #### Lab &#58; Identify and Resolve Software Update Issues
+  - Configure Windows Updates using desktop settings
+  - Configure Windows Updates using Group Policy settings
+
+  After completing this module, students will be able to&#58;
+  - Configure client computers to get updates from the local network instead of the Internet
+  - Understand the different options available when updating the operating system
+  - Understand how to configure automatic updates for Microsoft applications
+
+
+  ### Module 18&#58; PowerShell for Desktop Support Technicians   (Appendix B)
+  This module explains how to use PowerShell for information gathering and troubleshooting tasks.
+  #### Lessons
+  - Overview
+  - Compared to other Scripting Languages
+  - Creating and Running Scripts
+  - Administering Local Resources
+  - Administering Network Resources
+  - Connect to Microsoft Azure with PowerShell
+  - Review
+
+
+  #### Lab &#58; PowerShell for Desktop Support Technicians
+  - Use PowerShell to get System Information and change Computer Settings
+  - Use PowerShell documentation to understand and use Cmdlets
+  - Create and Execute Scripts
+  - Configure and Test remote device configuration
+  - Create an Azure VM with Azure PowerShell
+
+  After completing this module, students will be able to&#58;
+  - Extract system information and modify computer settings using PowerShell
+  - Use PowerShell help features to learn cmdlet options
+  - Create and execute PowerShell scripts
+  - Remotely administer Windows devices using PowerShell
+  - Create Microsoft Azure Virtual Machines with Azure PowerShell
+
+  #### Additional Reading
+  Classroom Training&#58; Course 20697-1B

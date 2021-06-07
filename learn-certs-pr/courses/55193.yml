@@ -1,0 +1,197 @@
+### YamlMime:Course
+title: Introduction to SharePoint 2016 for Collaboration and Document Management
+metadata:
+  title: 'Course 55193-A: Introduction to SharePoint 2016 for Collaboration and Document Management'
+  description: 'Course 55193-A: Introduction to SharePoint 2016 for Collaboration and Document Management'
+uid: course.55193
+courseNumber: '55193-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate SharePoint sites.
+- skill: Manage content in lists and libraries.
+- skill: Create and edit Alerts.
+- skill: Collaborate using Tasks lists, Calendars and Document libraries.
+- skill: Work with libraries, including upload, download, editing, content approval, check out/in and versioning.
+- skill: Use the SharePoint social features.
+- skill: Use OneDrive for Business.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This one day class is designed for SharePoint team members and end users who need to know how to use the team collaboration, document management and social features of Microsoft SharePoint 2016. This class features live inline interactive labs where the student interacts with both SharePoint and other students.
+
+  #### Audience profile
+  - SharePoint end users.
+  - SharePoint Site Owners and Power Users who will be attending a SharePoint 2016 Site Owner class.
+  - SharePoint administrators and developers.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic Microsoft Office skills.
+outlineSection: |-
+  ### Module 1&#58; SharePoint Overview
+  This module provides an overview of SharePoint and Office 365. It explores the use of SharePoint for team collaboration and document management.
+  #### Lessons
+  - SharePoint
+  - Team Collaboration
+  - Document Management
+  - SharePoint Web Sites
+  - SharePoint Security
+
+  After completing this module, students will be able to&#58;
+  - Explain the core SharePoint feature sets.
+  - Explain the primary uses of SharePoint.
+  - Know that SharePoint content is security trimmed.
+
+
+  ### Module 2&#58; Accessing SharePoint
+  This module explains how connect to SharePoint, find your way around sites and libraries, follow sites and use the App Launcher.
+  #### Lessons
+  - Accessing SharePoint
+  - Following Sites
+  - SharePoint Navigation
+  - Quick Launch and Other Links
+  - List and Library Navigation
+  - The Ribbon
+  - Regional Settings
+
+
+  #### Lab &#58; Accessing SharePoint
+  - Working with the App Launcher and Following Sites.
+  - Navigating Libraries.
+  - Changing your Time Zone settings.
+
+  After completing this module, students will be able to&#58;
+  - Navigate SharePoint sites, lists and libraries.
+  - Follow and return to sites.
+  - Customize Language and Region settings.
+
+
+  ### Module 3&#58; SharePoint Libraries
+  This module explains how work with SharePoint libraries, from uploading files to working with versioning and check out/in. You will learn how to create and edit documents in SharePoint using Office Online and how to use the co-authoring features.
+  #### Lessons
+  - Libraries
+  - Document Libraries
+  - Document Library Pages and Web Parts
+  - Document Library Ribbons and Menus
+  - Opening and Downloading Documents
+  - Following Documents
+  - Working with Office Online server and Co-authoring
+
+
+  #### Lab &#58; SharePoint Libraries
+  - Exploring Libraries and Office Online.
+  - Working with the Co-authoring features of Excel.
+  - Working with Checked Out Files.
+  - Creating and Managing Alerts.
+  - Uploading Files.
+  - Creating a New Document with Office Online and Working with Content Approval.
+  - Working with Versioning.
+
+  After completing this module, students will be able to&#58;
+  - Explore Libraries and Office Online.
+  - Work with the Co-authoring features of Excel.
+  - Work with Checked Out Files.
+  - Create and Managing Alerts.
+  - Upload Files.
+  - Create New Documents with Office Online and Work with Content Approval.
+  - Work with Versioning.
+
+
+  ### Module 4&#58; SharePoint Lists
+  This module explains how to work with both the out of the box sample lists and custom lists. Here we will add, edit and delete list items, work with list views and synchronize Task and Calendar lists to Outlook.
+  #### Lessons
+  - SharePoint Lists
+  - Working with a Custom SharePoint List
+  - Working with SharePoint Task Lists
+  - Adding and Updating Tasks
+  - Using Task Views
+  - Synchronizing Task Lists with Outlook
+  - Working with SharePoint Calendars
+  - Calendar Navigation and Views
+  - Add Calendar Events
+  - Synchronizing SharePoint Calendars with Outlook
+
+
+  #### Lab &#58; SharePoint Lists
+  - Adding items to a custom list.
+  - Working with the Quick Edit view.
+  - Creating and Updating Tasks.
+  - Working with List Views.
+  - Working with Calendar Events.
+
+  After completing this module, students will be able to&#58;
+  - Understand the role and uses of SharePoint lists, both out of the box and custom.
+  - Add, edit and delete list items.
+  - Use Tasks lists in a team project.
+  - Create and work with Calendar Events.
+  - Synchronize SharePoint Task Lists and Calendars to Outlook.
+
+
+  ### Module 5&#58; SharePoint Search
+  This module explains how to use SharePoint Search to find sites, documents and list items.
+  #### Lessons
+  - SharePoint Search
+  - What is Searchable
+  - Search Tips and Tricks
+
+
+  #### Lab &#58; SharePoint Search
+  - Searching by keywords
+  - Searching by property
+  - Searching for people
+
+  After completing this module, students will be able to&#58;
+  - Know what SharePoint Search can Index and Retrieve.
+  - Perform keyword and property searches.
+
+
+  ### Module 6&#58; SharePoint Social Features
+  This module introduces the SharePoint 2016 social features.
+  #### Lessons
+  - SharePoint Social Features
+  - Interacting with People
+  - About Me
+
+
+  #### Lab &#58; None
+  After completing this module, students will be able to&#58;
+  - Describe and use the SharePoint social features.
+
+
+  ### Module 7&#58; Newsfeed
+  This module explorers the SharePoint Newsfeed page, explorers the Follow features for sites, documents, users and tags, and introduces SharePoint Micro-blogging.
+  #### Lessons
+  - Your Newsfeed
+  - Micro-blogging
+
+
+  #### Lab &#58; None
+  After completing this module, students will be able to&#58;
+  - Find and use the Newsfeed page.
+  - Use Microblogging, including mentions and hash tags.
+  - Follow sites, documents, people and hash tags.
+
+
+  ### Module 8&#58; One Drive for Business
+  This module explains how to use OneDrive for Business to store and share files.
+  #### Lessons
+  - OneDrive
+  - OneDrive in SharePoint 2016 vs. OneDrive in Office 365
+  - Sharing Files
+  - Sync’ing Files to Your Device
+
+
+  #### Lab &#58; None
+  After completing this module, students will be able to&#58;
+  - Use OneDrive for Business to store and share documents.
+  - Sync OneDrive for Business to a local device.
+
+  #### Additional Reading
+  NA

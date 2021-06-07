@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: Introduction to SharePoint for Office 365 Training
+metadata:
+  title: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+  description: 'Course 55262-A: Introduction to SharePoint for Office 365 Training'
+uid: course.55262
+courseNumber: '55262-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate a SharePoint Team Site.
+- skill: Create SharePoint lists.
+- skill: Customize SharePoint lists.
+- skill: Create SharePoint libraries.
+- skill: Manage library document versions.
+- skill: Create SharePoint list and library views.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 1-day Introduction to SharePoint for Office 365 class is for end users working in a SharePoint environment. It is an abbreviated version of our complete SharePoint for Office 365 End User class and is intended for people new to using SharePoint who will not be responsible for managing a SharePoint site.
+
+  #### Audience profile
+  This course is intended for end users working in a SharePoint environment.
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### Module 1&#58; SharePoint 365 Setup
+  This module explains how to set up the sample site for class.
+  #### Lessons
+  - SharePoint Online
+
+  After completing this module, students will be able to&#58;
+  - Set up the sample site for class.
+
+
+  ### Module 2&#58; SharePoint 365 Introduction
+  SharePoint 365 is a collaboration tool at its heart. Its primary goal is to make it easy for users to find and share information, and there are many features built into SharePoint to facilitate this. SharePoint's library system feature can provide a superior alternative to the traditional file server. SharePoint lists can be an easy-to-design and easy-to-use alternative to sharing spreadsheet files or more formal database tables.
+  Both lists and libraries can be customized and extended to provide enhanced appearances and functionality. All of this collaboration can be done through a browser interface.
+  #### Lessons
+  - SharePoint Online
+  - Site Layout and Navigation
+  - Navigation
+
+
+  #### Lab &#58; Team Site Navigation
+  After completing this module, students will be able to&#58;
+  - Learn abbout SharePoint online.
+  - Learn about SharePoint site hierarchy.
+
+
+  ### Module 3&#58; SharePoint List Basics
+  Lists are a fundamental building block in SharePoint that provides a way for users to store and view data. SharePoint comes "out of the box" with many predefined list templates that are easy to use. Lists can be further customized by adding columns to store just about any type of information. Additionally, list columns can be validated as well as linked between other lists. Lists are a very flexible and powerful tool in SharePoint.
+
+  #### Lessons
+  - Creating Apps Using List Templates
+  - Creating Lists
+  - List Columns
+  - Column Validation
+
+
+  #### Lab &#58; Working with Team Site Lists
+
+  #### Lab &#58; Create Custom Lists and Columns
+  After completing this module, students will be able to&#58;
+  - Understand List Templates.
+  - Work with default lists in a Team Site.
+  - Create a new list from a List Template.
+  - Create a custom list.
+  - Add columns to a list.
+  - Control and validate input into list fields.
+  - Link data from separate lists.
+
+
+  ### Module 4&#58; Library Basics
+  SharePoint Libraries share the same characteristics as SharePoint lists such as columns, views, and validation to name a few. What distinguishes SharePoint libraries is that each item in a library has a underlying document. So in addition to the data stored in library columns, the document stores its own data based on the type of document. Because of the extra data that can be stored in columns that can be used to filter and search by and features such as versioning, libraries are considered a great replacement for the more traditional file server system. Libraries are, like lists, a fundamental building block in a SharePoint site.
+  #### Lessons
+  - Library Templates
+  - Creating Libraries
+  - Managing Documents and Versioning
+
+
+  #### Lab &#58; Working with Team Site Libraries
+
+  #### Lab &#58; Creating Libraries
+
+  #### Lab &#58; Document Versioning
+  After completing this module, students will be able to&#58;
+  - Create new libraries using library templates.
+  - Work with the different libraries in a default Team Site.
+  - Add columns to a library.
+  - Check out documents for editing.
+  - Delete and restore documents from document libraries.
+  - Enable versioning on a library.
+  - Revert a library document to a an earlier version.
+
+
+  ### Module 5&#58; Working with Lists and Library Views
+  Views provide a flexible system to display SharePoint list and library data in an easy-to-read and easy-to-use manner. Every SharePoint list and library can have multiple views created and configured, and some list and library templates come with special views preconfigured. Views can be defined for personal use or shared use.
+  #### Lessons
+  - Default Views
+  - Custom Views
+
+
+  #### Lab &#58; Working with Views
+
+  #### Lab &#58; Creating Public and Personal Views
+  After completing this module, students will be able to&#58;
+  - Use default views built into lists and libraries.
+  - Create personal views.
+  - Create shared views.
+  - Configure views.
+  - Set the default view for a list or library.
+
+
+  ### Module 6&#58; Working with Sites
+  All SharePoint content is accessed through a site. A SharePoint site is the container for lists and libraries and provides a starting point for basic administration. The content, lists, libraries, and basic look and feel of a site is initially determined by the Site Template used to create the site.
+  #### Lessons
+  - Site Templates
+  - Creating Sites
+  - Site Navigation
+
+
+  #### Lab &#58; Creating Team Sites
+
+  #### Lab &#58; Creating a Blog Site
+  After completing this module, students will be able to&#58;
+  - Understand what Site Templates are.
+  - Understand different types of Site Templates that come "out of the box" with different versions of SharePoint.
+  - Create a new site using Site Templates.
+  - Create a Project site.
+  - Create a Team site.
+  - Create a Blog site.
+  - Manage the sites listed in the top link bar.
+
+  #### Additional Reading
+  N/A

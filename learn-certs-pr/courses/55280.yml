@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Advanced Microsoft Access 2019
+metadata:
+  title: 'Course 55280-A: Advanced Microsoft Access 2019'
+  description: 'Course 55280-A: Advanced Microsoft Access 2019'
+uid: course.55280
+courseNumber: '55280-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand database relationships.
+- skill: Work with table relationships.
+- skill: Work with queries at an advanced level.
+- skill: Work with forms at an advanced level.
+- skill: Work with reports at an advanced level.
+- skill: Work with macros.
+- skill: Complete the desktop application with the navigation form.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Advanced Access 2019 training class is for students who intend to design databases at an advanced level and/or want to improve existing Access 2019 or Access 365 databases.
+
+  #### Audience profile
+  This course is intended for students who have basic skills with Microsoft Access 2019 who want to learn advanced-level skills or students who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  - Introductory-level knowledge and skills working with Microsoft Access.
+outlineSection: |-
+  ### Module 1&#58; Relationships
+  This module explains how to work with relationships in Microsoft Access.
+  #### Lessons
+  - Review
+  - Referential Integrity
+  - Relationships
+  - A Few Words about Naming Conventions
+
+
+  #### Lab &#58; Installing and Configuring Windows 7
+  After completing this module, students will be able to&#58;
+  - Understand referential integrity.
+  - Establish relationships between tables.
+
+
+  ### Module 2&#58; Queries
+  This module explains how to work with queries in Microsoft Access.
+  #### Lessons
+  - Query Design View
+  - Review of Select Queries
+  - Review of Select Queries with Criteria
+  - Logical Operators
+  - Parameter Queries
+  - Action Queries
+
+
+  #### Lab &#58; Queries Exercises
+  - Creating Select and Action Queries
+  - Creating a Parameter Query
+
+  After completing this module, students will be able to&#58;
+  - Work with select and action queries.
+  - Work with logical operators.
+  - Create and run select, parameter, make table, append, update, and delete queries.
+
+
+  ### Module 3&#58; Table Functions
+  This module explains how to work with table functions.
+  #### Lessons
+  - Importing Data
+  - Linking Tables from External Sources
+  - Import Tables from Other Databases
+  - Tables from Templates and Application Parts
+
+
+  #### Lab &#58; Table Functions Exercises
+  - Importing Data from Excel
+  - Exporting Data to Excel
+
+  After completing this module, students will be able to&#58;
+  - Import data from Excel.
+  - Export data to Excel.
+
+
+  ### Module 4&#58; Forms
+  This module explains how to work with forms in Microsoft Access.
+  #### Lessons
+  - Design View
+  - Formatting
+  - Tab Order
+  - Create Forms with Application Parts
+  - Creating a Subform
+  - Alter a Form
+
+
+  #### Lab &#58; Creating Forms
+  After completing this module, students will be able to&#58;
+  - Understand the parts of a form.
+  - Add objects to a form.
+  - Add, move, format, and order fields on a form.
+  - Understand controls available for forms.
+  Work with form properties, section properties
+
+  ### Module 5&#58; Reports
+  This module explains how to work with reports in Microsoft Access.
+  #### Lessons
+  - Design View
+  - Report Sections
+  - Arranging Fields on a Report
+  - Resizing the Detail Section
+  - Grouping and Sorting
+  - Setting Properties on a Report
+  - Special Report Fields
+  - Controls
+  - Subreports
+  - Application Parts
+  - Deleting a Report
+  - Formatting a Report
+
+
+  #### Lab &#58; Creating Reports
+  After completing this module, students will be able to&#58;
+  - Create and format Access reports.
+  - Work with the various sections of a report.
+  - Group, sort, and add totals for records on a report.
+  - Work with the Expression Builder.
+  - Work with property sheets.
+
+
+  ### Module 6&#58; Macros
+  This module explains how to work with macros in Microsft Access.
+  #### Lessons
+  - Macro Basics
+  - Running a Macro
+
+
+  #### Lab &#58; Creating Simple Macros
+  After completing this module, students will be able to&#58;
+  - Create several simple macros.
+  - Run macros.
+
+
+  ### Module 7&#58; Completing the Desktop Application
+  This module explains how to complete the desktop application in Microsoft Access.
+  #### Lessons
+  - The Navigation Form
+  - Running Macros from a Navigation Form
+  - Setting the Navigation Form as the Default Form
+  - Splitting the Database
+  - Distributing the Front-end Database
+  - Database Maintenance
+
+
+  #### Lab &#58; Creating a Navigation Form
+  After completing this module, students will be able to&#58;
+  - Create navigation forms.
+  - Split an Access database into front-end and back-end databases.
+  - Distribute an Access database front end to your users.
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

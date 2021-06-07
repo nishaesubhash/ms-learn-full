@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: LOOKUP FUNCTIONS - example by example
+metadata:
+  title: 'Course 50559-A: LOOKUP FUNCTIONS - example by example'
+  description: 'Course 50559-A: LOOKUP FUNCTIONS - example by example'
+uid: course.50559
+courseNumber: '50559-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: List LOOKUP function in Excel.
+- skill: Recognize the opportunities for LOOKUP function use.
+- skill: Decide which lookup function is best in the given scenario.
+- skill: Always keep in mind a wide range of functions and have the ability to combine their use.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This two-day instructor-led course provides students with the knowledge and skills to write basic Excel lookup formulas as well as in depth nesting of advanced array and reference functions. The purpose of the course is not only to show that certain functions exist and how they look like, but to show the diversity and usefulness of those functions. This is a very hands-on approach with constant examples, practices and problem solving provided to the audience.
+
+  #### Audience profile
+  This course is intended for both novice and experienced information worker who have the understanding and knowledge of basic Excel formulas and functions. A minimum one year experience with Excel is recommended before attending.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic knowledge of Excel formulas and functions.
+outlineSection: |-
+  ### Module 1&#58; Introducing LOOKUP functions
+  In this module students are shown a variety of lookup function and examples where lookup functions are needed. The basic knowledge given here is then extended throughout the course. The whole spectrum of functions that are explained in detail in future Modules are introduced here.
+  #### Lessons
+  - Example by using the IF function
+  - Which LOOKUP functions are at our disposal
+  - Other functions we will use during this course
+  - What knowledge should we possess before moving on
+
+
+  After completing this module, students will be able to&#58;
+  - What are we trying to accomplish.
+  - Why should we use LOOKUP functions.
+  - What LOOKUP functions are at my disposal.
+  - Which reference functions should I know.
+  - Which Array functions should I know.
+  - Recognize the situations where lookup functions are used.
+
+
+  ### Module 2&#58; The LOOKUP Functions Basics
+  In the course of this module, all lookup functions will be introduced step by step. With the knowledge of the syntax, we will examine examples of use and then test our knowledge in Lab 1.
+  #### Lessons
+  - LOOKUP function
+  - VLOOKUP function
+  - HLOOKUP function
+
+
+  #### Lab &#58; LOOKUP function
+
+  #### Lab &#58; VLOOKUP function
+
+  #### Lab &#58; HLOOKUP function
+
+  After completing this module, students will be able to&#58;
+  - Recognize a LOOKUP function syntax.
+  - Recognize situations when we use the LOOKUP function.
+  - List how does LOOKUP differ from other lookup functions.
+  - Recognize a VLOOKUP function syntax.
+  - Recognize what kinds of examples are solved using VLOOKUP function.
+  - List all differences from other lookup functions.
+  - Recognize a HLOOKUP function syntax.
+  - Tell when to use HLOOKUP.
+
+
+  ### Module 3&#58; Advanced LOOKUP examples with function nesting
+  This module will be instructor led example by example upgrading of lookup functions with other functions and data validation. Each function will be followed by practices. Also array functions and their use will be mentioned.
+  #### Lessons
+  - MATCH function
+  - How can we use MATCH with VLOOKUP
+  - INDEX function
+  - Combining MATCH and INDEX functions
+  - INDIRECT function
+  - CHOOSE function
+  - CELL function
+  - OFFSET function
+  - ROW and COLUMN functions
+
+
+  After completing this module, students will be able to&#58;
+  - Enhance lookup formulas with many new functions and tools.
+  - Recognize the need for MATCH function.
+  - Face any situation where lookup functions are required at their daily faceoff with Excel.

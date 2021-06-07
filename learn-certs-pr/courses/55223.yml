@@ -1,0 +1,232 @@
+### YamlMime:Course
+title: Nintex Workflow 2010/2013/2016
+metadata:
+  title: 'Course 55223-A: Nintex Workflow 2010/2013/2016'
+  description: 'Course 55223-A: Nintex Workflow 2010/2013/2016'
+uid: course.55223
+courseNumber: '55223-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install and configure Nintex Workflow
+- skill: Understand workflow fundamentals and use the Nintex Workflow designer
+- skill: Create rich Workflows with loops and user interaction
+- skill: Create List Workflows, Site Workflows and Reusable Workflows
+- skill: Advanced Workflow Design capabilities including Error Handling and connecting to databases
+- skill: Create State Machine workflows with Nintex Workflow
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  The course starts with an overview of the product, giving insight into potential uses, followed by an installation module to familiarize you with how the product works behind the scenes. The rest of the course is dedicated to learning how to build and manage workflows, starting small with simple approval workflows but soon growing in sophistication as the workflows grow and you learn how to work with a variety of techniques including serial approval, loops, variables, database connections, error handling and state machines.
+
+  #### Audience profile
+  This course will suit a varied audience from developers to sales people.
+prerequisitesSection: |-
+  This course is a demanding three days aimed at delegates that are already experienced users of SharePoint. No prior knowledge of Nintex Workflow is needed but some previous experience of Nintex Workflow would be an advantage. It would also be an advantage if you have experience of creating workflows in Microsoft SharePoint Designer or Visual Studio.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Nintex Workflow
+  This first module introduces Nintex Workflow explaining how SharePoint and Nintex Workflow are related, useful workflow terminology and how to become part of the growing Nintex community online.
+  #### Lessons
+  - Overview of Nintex Workflow
+  - Workflow logic - defining workflow
+  - Nintex Workflow and SharePoint
+  - Nintex Web Site and Support
+
+
+  #### Lab &#58; Further Help
+  - Visit the Nintex Support Site
+
+  After completing this module, students will be able to&#58;
+  - Understand the benefits of using Nintex Workflow compared to the out of the box workflow options
+  - Describe key feature of Nintex Workflow
+
+
+  ### Module 2&#58; Installation and Configuration
+  Learn how Nintex Workflow is installed and configured. You will also learn about the editions of Nintex workflow that are available.
+  #### Lessons
+  - Product versions and features
+  - Installation requirements and setup
+  - Central Administration Configuration
+  - Upgrading
+
+  After completing this module, students will be able to&#58;
+  - Describe the version of Nintex Workflow
+  - Install Nintex Workflow
+  - Configure Nintex workflow settings
+
+
+  ### Module 3&#58; Getting Started with Nintex Workflow
+  Now that you understand what Nintex Workflow is for and how to install it the next step is to start building workflows. This module teaches you the basic techniques that will be required to build a simple workflow.
+  #### Lessons
+  - Activating Nintex Workflow Site Features
+  - Introducing the Nintex Workflow designer
+  - Create a workflow
+  - Managing the Workflows
+  - Working with Templates
+  - Managing Site level Settings
+
+
+  #### Lab &#58; Nintex Feature Activation, Simple Workflow and Nintex Web Parts
+  - Activate Nintex Features
+  - Create Simple Workflows
+  - Use the "My Workflow Tasks" web part
+
+  After completing this module, students will be able to&#58;
+  - Enable Nintex workflow features
+  - Create simple Nintex workflows with multiple workflow actions
+  - Save, Publish and test workflows
+  - Use Nintex web parts to track workflow progress
+
+
+  ### Module 4&#58; Creating Rich Workflows
+  This module shows you important building blocks that will be needed to create more sophisticated workflows. These include variables, error handling and decision making. The workflows get larger, more realistic and
+  more useful in the real world.
+  #### Lessons
+  - Conditions and Action Sets
+  - Working with Snippets
+  - Using Workflow Variables
+  - Rich Workflow Actions
+  - Error Handling
+
+
+  #### Lab &#58; Rich Workflows
+  - Use Simple Logic in Workflows
+  - Configure Workflow Start up Options
+  - Use Workflows to Create Sites
+  - Use the Set a Condition Action
+  - Configure Error Handling
+  - Use Variables in a Workflow
+
+  After completing this module, students will be able to&#58;
+  - Create workflows that include decision making logic similar to if
+  - Set workflow to trigger automatically and manually
+  - Add error handling to workflows to suppress standard error behaviors
+  - Use variables to pass data between workflow actions
+
+
+  ### Module 5&#58; Advanced Workflows
+  This module explains how to create workflows.
+  #### Lessons
+  - Working with Publishing Actions
+  - Provisioning Active Directory Object
+  - Managing Audiences and Profiles
+  - Enterprise Integration
+  - Enterprise Reporting
+
+
+  #### Lab &#58; Advanced Workflows
+  - Price Check in SQL - a workflow that validates data entry against a SQL database and flags any mista
+  - Management Approval - Hierarchical approval process that dynamically seeks approval from each manage
+  - New Starters - the workflow will create a user in AD and add them to appropriate security groups
+
+  After completing this module, students will be able to&#58;
+  - Interact with SQL Databases
+  - Use 'Run if' actions
+  - Perform calculations in workflows
+  - Query LDAP databases such as Active Directory
+  - Create AD Users
+  - Add AD Users to Security Group
+  - Use Branch structures
+
+
+  ### Module 6&#58; State Machine Workflows
+  This module explains how to create workflows that can move backwards as well as forwards. This allows you to revisit earlier parts of a workflow multiple times and jump to later sections of a process without following
+  the entire process.
+  #### Lessons
+  - The State Machine Action
+  - Building a simple State Machine workflow
+
+
+  #### Lab &#58; State Machine Workflow
+  - Import a Workflow
+  - Review the State Machine settings
+  - Test the Workflow
+  - Update the Workflow to include an additional State
+
+  After completing this module, students will be able to&#58;
+  - Know when to use State Machine workflows
+  - Import Workflow Templates
+  - Create State Machine Workflows
+
+
+  ### Module 7&#58; User Interface
+  This module identifies many of the updates that have been added to Nintex Workflow as it has developed over several years. Some updates are minor while others are major improvements. These include improvements to the users interface and options to allow site owners to control when new changes to workflows can go live.
+  #### Lessons
+  - Click less and do more
+  - The Ribbon
+  - Zoom and Print
+  - Association Columns
+  - Workflow Approval
+
+
+  #### Lab &#58; User Interface
+  - Enable and Configure Workflow Approval
+
+  After completing this module, students will be able to&#58;
+  - Print hard copies of a workflow
+  - Help make workflows easier to reuse thanks to association columns
+  - Control when updates to workflows go live with workflow approval
+
+
+  ### Module 8&#58; User Defined Actions, Site Workflows and Reusable Workflows
+  This module explains how to bring together combinations of workflow actions to reuse in the future. This will help you to standardize and centrally manage some of the most complex workflow actions saving you time and making your workflows easier to create and maintain.
+
+  You will also learn about site workflows - these enable you to create scheduled workflows that can run independently from any documents or apps.
+  #### Lessons
+  - User Defined actions overview
+  - Creating User Defined actions without programming
+  - Create and Manage Site Workflows
+  - Schedule Workflows
+  - Create Reusable Workflows
+  - Assign a workflow to a SharePoint Content Type
+
+
+  #### Lab &#58; UDAs and Site Workflows
+  - Create User Defined actions
+  - Test User Defined actions
+  - Promote User Defined actions
+  - Create Site Workflows
+  - Schedule Site Workflows
+
+  After completing this module, students will be able to&#58;
+  - Create every type of Nintex workflow including list, site and reusable
+  - Know when to use each type of workflow
+  - Schedule workflows to run multiple times
+  - Create workflow components to share with other users
+
+
+  ### Module 9&#58; Further Workflow Actions
+  This module introduces more important workflow actions to help you create an even wider range of workflows. You will also learn how to create a workflow that can run other workflows, this can be useful when create large business processes.
+  #### Lessons
+  - Store data and Retrieve data actions
+  - Capture document set version
+  - Delete previous versions
+  - Delete drafts
+  - Delete multiple items
+  - Convert document
+  - Create item in another site
+  - Update CRM record
+  - Delete/Disable CRM record
+  - Query CRM
+  - Read document
+  - Send document set to repository
+  - Submit record
+  - Declare as record
+  - Undeclare as record
+  - Update document
+  - Wait for check out status change
+  - Get meeting suggestion
+
+
+  #### Lab &#58; Store and Retrieve Data
+  - Create two workflows that share information between one another to process holiday request
+
+  After completing this module, students will be able to&#58;
+  - Create workflows that can start other workflows and pass data to them
+  - Use workflows to work with in place records
+  - Use all workflow actions

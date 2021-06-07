@@ -1,0 +1,299 @@
+### YamlMime:Course
+title: SharePoint 2019 Power User
+metadata:
+  title: 'Course 55286-A: SharePoint 2019 Power User'
+  description: 'Course 55286-A: SharePoint 2019 Power User'
+uid: course.55286
+courseNumber: '55286-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the benefits of using SharePoint in real world scenarios
+- skill: Create new SharePoint sites to store business information
+- skill: Create pages to share news and documents
+- skill: Customise the structure of a site to meet specific business requirements
+- skill: Create and mange view, columns and apps
+- skill: Manage the security of a site
+- skill: Use social tools to communicate with groups of people or the entrie organization
+- skill: Use search to find business information including people to documents
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This course delivers the complete site owner story from start to finish in an engaging and practical way to ensure you have the confidence to plan and create new sites or manage your existing sites. Your goal is to learn how to make SharePoint relevant to your team by using a sites functionality to help you share information and collaborate with your colleagues. During the class you will also learn best practices and ‘what not to do’ as you watch live, interactive demonstrations and put theory into practice with hands on exercises.
+
+  #### Audience profile
+  This course is intended for both novice and experienced SharePoint users who wish to make full use of SharePoint 2019.
+prerequisitesSection: |-
+  No previous experience is required.
+outlineSection: |-
+  ### Module 1&#58; An Introduction to SharePoint 2019
+  Let’s get started with SharePoint 2019 by letting you know about its fantastic selection of features. We will demonstrate popular uses of SharePoint 2019 to manage and share content, create engaging web page, automate business processes and work in real time with co-authoring. We will also discuss who will be the typical users in our sites and the role of the site collection administrator. Site Owners are trusted with functionality that in other business systems would normally only be available to developers. As a new Site Owner we’re sure that you will be amazed with the potential that SharePoint 2019 has to offer an end user.
+
+  #### Lessons
+  - What is SharePoint?
+  - Centrally Manage
+  - Web Pages
+  - Team Work
+  - Search
+  - Social Experience
+  - Automate and Capture
+  - Office Integration
+  - Ownership and Access
+  - Who Might be a Good Site Owner?
+  - Other Unique Roles
+  - Site Collection Administrator
+  - Farm Administrator
+
+
+  #### Lab &#58; Introduction to SharePoint 2019
+  - Navigating SharePoint
+  - Using your app launcher
+  - Uploading to OneDrive
+  - Updating your MySite Profile
+
+  After completing this module, students will be able to&#58;
+  - Describe popular reasons to use SharePoint 2019
+  - Understand user roles in SharePoint 2019
+  - Navigate SharePoint 2019
+  - Manage your OneDrive and MySite
+
+
+  ### Module 2&#58; Creating Sites
+  Whether you are managing existing sites or you have not yet started, we will complement your current situation by discussing site hierarchy and planning your SharePoint sites. This will allow you to understand existing sites that other people have created as well as making good decisions when building new sites. As a site owner, you will be presented with a selection of site templates. You will use a variety of popular site templates to develop an enhanced understanding of each sites function and appropriate use. Once your site is ready, we will then change the look and feel of your site. You can even try applying your business brand to your site. We will also build our navigation bar, a simple but powerful way to help users move between websites.
+
+  #### Lessons
+  - Planning your sites
+  - The Farm, Site Collections and Subsites Explained
+  - Hybrid Configuration
+  - Web Addresses
+  - Site Collections Explained
+  - Why Create Subsutes?
+  - Creating a Site Collection&#58; Classic and Modern
+  - Requesting a New Site
+  - Navigating your Team Site
+  - User Interface&#58; Classic vs Modern
+  - Where does Classic come from?
+  - Creating Subsites
+  - Site Templates
+  - Apply a new Theme
+  - Building your Navigation
+  - Deleting Sites
+
+
+  #### Lab &#58; Creating Sites
+  - Create two sub sites
+  - Delete a sub site
+  - Restore a site
+  - Update the navigation
+
+  After completing this module, students will be able to&#58;
+  - Understand the benefits of using site templates when creating new sites
+  - Correctly use Site Collections and Sites
+  - Control site navigation
+  - Delete and Restore sites
+
+
+  ### Module 3&#58; Creating and Managing Web Pages
+  SharePoint boasts a rich selection of ways to build web pages. You will learn how to update the home page of your SharePoint site with text, links, images, videos and web parts. We will also show you best practices when creating multiple pages and linking them together. In most site templates, creating and managing web pages is a simple, fast and rewarding way to present essential information and apps. SharePoint can also be used as an Intranet for internal news. Due to the high visibility of these web sites, it is common to place more control over the release of new web pages or updates to existing pages. For this reason, SharePoint has publishing sites and communication sites.
+
+  #### Lessons
+  - An Introduction to Web Pages
+  - Types of Web Page
+  - Add a Site or News Page
+  - Sections
+  - Web Parts
+  - Page Details
+  - Save, Publish, Promote and Delete Pages
+  - Communication Sites
+  - Classic Team Site Pages
+  - Add & Modify Wiki Page Content
+  - Adding Rich Content
+  - App Parts and Web Parts
+  - Page Management
+  - Delete a Page
+  - Web Part Pages
+  - Publishing Sites
+  - Create Pages
+  - Page Layouts
+  - Renditions
+  - Reusable Content
+  - Finalizing a Publishing Page
+  - Scheduling a Publishing Page
+  - Publishing Approval
+
+
+  #### Lab &#58; Create and Manage Web Pages
+  - Tidy up the Training home page
+  - Add rich content
+  - Create a new page
+  - Optional - Create a Communication site
+
+  After completing this module, students will be able to&#58;
+  - Know when to create pages
+  - Create all types of pages
+  - Add content to a page including images and videos
+  - Use publishing page content such as renditions and reuable content
+
+
+  ### Module 4&#58; Working with Apps
+  Apps are required to store information such as events, contacts and files in a site. SharePoint provides a selection of apps for different scenarios, all with the option to be customised for a specific business requirement. Apps can be broken down into Lists, Libraries and Market Place Apps. SharePoint lists serve as the structure for calendars, discussion boards, contacts, and tasks. This module explains the concept of lists, and then reviews popular options.
+  A document library is a location on a site where you can create, collect, update, and share files including Word, Excel, PowerPoint and PDF. We will show you the benefits of using a library and teach you how best to work with files in a library. An introduction to on premises and SharePoint Marketplace apps is provided to show how to extend site functionality beyond what Microsoft has provided in the SharePoint 2019 platform.
+
+  #### Lessons
+  - An Introduction to Apps
+  - An Introduction to Libraries
+  - An Introduction to Lists
+  - On-Premises and Marketplace Apps
+  - Adding Apps to a Site
+  - Creating and Managing Columns
+  - Public and Personal Views
+  -	Managing App Settings
+  - Content Approval
+  - Major and Minor Versioning
+  - Document Sets
+  - Uploading Files to a Library
+  - Create and Edit Files
+  - File Templates
+  - Co-Authoring
+  - Check Out - In
+  - File Properties, Sort, Filter and Details
+  - Quick Edit View
+  - File Commands
+  - Copy Link and Share
+  - Folders
+  - The Recycle Bin
+  - Tracking Content
+  - OneDrive Sync
+  - Working with Classic Lists
+
+
+  #### Lab &#58; Working with Apps
+  - Creating a new library
+  - Setting up columns and views
+  - Uploading content
+  - Setting up alerts and using versioning
+  - Creating a list
+  - Deleting and restoring an app
+
+  After completing this module, students will be able to&#58;
+  - Understand the App template available in SharePoint 2019
+  - Create new apps to store business information
+  - Customize apps with Columns, Views and App settings to make them relevant to specific business
+  - Use SharePoint Apps with other Office applications including Excel and Outlook
+  - Sort and Filter documents
+
+
+  ### Module 5&#58; Building processes with Workflow
+  Workflows are a powerful efficiency tool which can be used to organise and track process driven tasks including approval processes. Workflows will be demonstrated using real world examples. You will be given the opportunity to build workflows and review workflow progress.
+  #### Lessons
+  - An Introduction to Workflows
+  - Adding Workflows
+  - Workflow Scenarios
+  - Removing Workflows
+  - Creating Workflows
+  - Third Party Workflow Tools
+  - Configuring Workflow Settings
+
+
+  #### Lab &#58; Create and Run Workflows
+  - Enable the workflow feature
+  - Create a library for procedures
+  - Add a new publishing workflow
+  - Test the workflow
+
+  After completing this module, students will be able to&#58;
+  - Understand how to create a new approval flow
+  - Understand how to create a new powerapp
+  - Understand and instating a business process
+
+
+  ### Module 6&#58; Customizing Security
+  Security is an important element of any site. You will see instructor-led demonstrations of the best practices for adding and removing colleagues from your site and defining their level of access. As a site owner, you can customize permission levels. This means that you can create levels of access that are aligned with the responsibilities of your sites users. An example of this would be allowing a group of users the ability to upload content but not delete content. You will also see how to use the Share button to quickly share documents with other users.
+
+  #### Lessons
+  - SharePoint Roles
+  - Managing Access to SharePoint
+  - Setup Access Requests
+  - Sharing a Site
+  - Sharing Files
+  - Removing a User
+  - Customizing SharePoint Security
+  - Create Permission Levels
+  - Creating a SharePoint Security Group
+  - Managing Inheritance
+
+
+  #### Lab &#58; Customizing Security
+  - Share Content in a library
+  - Create new permission levels
+  - Create a new security group
+  - Add and remove users
+  - Modifying inheritance of sites/apps
+
+  After completing this module, students will be able to&#58;
+  - Understand how to share content ina library and associated permissions
+  - Understand how to create new permission levels and security groups
+  - Understand how to add and remove users
+
+
+  ### Module 7&#58; Working with Search
+  SharePoint provides the ability to store vast amounts of content in a variety of locations. This module covers a set of tools which help you to efficiently locate the information you need. While SharePoint’s search is rich and intelligent, site owners can make customisations to search to improve its relevance to an organisation. We will show common techniques used by site owners to improve search results by promoting specific content when a certain keyword is used.
+
+  #### Lessons
+  - Profiles
+  - An Introduction to SharePoint Search
+  - Search Apps, Document Sets and Folders
+  - Local Site Search
+  - Search Results
+  - Search Tips
+  - Promoted Results
+
+
+  #### Lab &#58; Searching in SharePoint
+  - Search for content in your library
+  - Find content from your site
+  - Search across all sites
+  - Optional - Create a promoted result
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of search
+  - Use search to find content including people, sites and videos
+  - Use search web parts to roll up content from multiple locations
+
+
+  ### Module 8&#58; Enterprise Content Management
+  Traditionally teams make use of file templates or manual processes to ensure information is collected and retained correctly. This may be a choice your team makes or a decision that is more universal across your organisation. In this module, we will help your team establish reusable file templates and automate document lifecycle management. An example of this would be removing old unwanted content from your site automatically. To achieve this, you will learn about a variety of SharePoint features including managed metadata, content types, policies, in-place records management and the content organizer.
+
+  #### Lessons
+  - Managed metadata service
+  - Information management policies
+  - An introduction to content types
+  - The records center
+  - Create and manage content type
+  - In-place records management
+  - Deploy content types
+  - The content organizer
+  - Using content types in apps
+  - Durable links
+  - The content type hub
+
+
+  #### Lab &#58; Designing an Information Architecture
+  - Create site columns
+  - Design a Content Type
+  - Deploy a Content Type
+  - Setup In Place Records Management
+
+  After completing this module, students will be able to&#58;
+  - Describe the benefits of using SharePoint social tools
+  - Create social content including blog posts, discussions and newsfeed posts
+
+  #### Additional Reading
+  None

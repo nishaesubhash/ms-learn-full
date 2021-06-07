@@ -1,0 +1,247 @@
+### YamlMime:Course
+title: Nintex 2013 Administrator
+metadata:
+  title: 'Course 55221-A: Nintex 2013 Administrator'
+  description: 'Course 55221-A: Nintex 2013 Administrator'
+uid: course.55221
+courseNumber: '55221-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn how to fully install and configure Nintex in your SharePoint environment.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  How to install and configure all the components of the Nintex Workflow and Forms offerings.
+
+  #### Audience profile
+  Anyone that is tasked with installing and managing a SharePoint Farm with Nintex installed or needing to be installed.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58; 
+  
+  Understanding of SharePoint Administration is helpful, but not required.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; Introduction to Nintex
+  In this module, you will learn about the various Nintex products and how they work together to provide a cohesive software solution that complements SharePoint Server. You will also review the Nintex Licensing models.
+  #### Lessons
+  - Nintex Introduction
+  - Nintex Licensing
+
+  After completing this module, students will be able to&#58;
+  - Describe the various Nintex Products
+  - Describe the licensing models for Nintex
+  - Understand how Nintex integrates with SharePoint
+
+
+  ### Module 3&#58; Installing and Configuring Nintex Workflow
+  In this module, you will learn how to install and configure Nintex Workflow; this included creating databases, enabling workflow actions on web applications, configuring LazyApproval, message templates, workflow constants and holidays.
+  #### Lessons
+  - Hardware and Software Requirements
+  - Installing Nintex Workflow
+  - Configuring Nintex Workflow
+  - Enabling Workflow Actions
+  - Lazy Approval
+  - Misc Configuration Topics
+
+
+  #### Lab &#58; Installing Nintex Workflow
+  - Install Nintex Workflow on on-premises SharePoint Farm
+  - Install the Nintex Exchange Connector Service
+
+
+  #### Lab &#58; Configuring Nintex Workflow
+  - Configure Nintex Workflow
+  - Installing a License
+  - Managing Nintex Databases
+  - Enabling Workflow Actions
+  - Configuring Global Settings
+  - Manage LazyApproval Settings
+  - Message templates
+  - Workflow Constants
+  - Adding holidays
+  - Exploring Miscellaneous farm configuration settings
+
+
+  #### Lab &#58; Configuring Nintex Workflow for Sites
+  - Configure Nintex Workflow for Site Collection
+
+
+  #### Lab &#58; Working with NWADMIN
+  - Explore features of NWADMIN.exe
+
+
+  #### Lab &#58; Installing Custom Components (Optional)
+  - Adding user defined actions
+
+  After completing this module, students will be able to&#58;
+  - Install Nintex Workflow Licenses
+  - Configure Nintex Databases
+  - Enable Workflow on Web applications
+  - Enable Workflow Actions
+  - Describe and manage Lazy Approval
+  - Manage Holidays
+  - Add Workflow Constants
+
+
+  ### Module 4&#58; Installing and Configuring Nintex Forms
+  In this module, you will learn how to install and configure Nintex Forms and what form controls and device templates are and how to configure them.
+  #### Lessons
+  - Installing Nintex Forms
+  - Configuring Nintex Forms
+  - Form Controls
+  - Device Layouts
+
+
+  #### Lab &#58; Installing Nintex Forms
+  - Install Nintex Forms
+
+
+  #### Lab &#58; Configuring Nintex Forms
+  - Manage Licensing
+  - Manage the Forms Databases
+  - Explore out of box forms controls
+  - Explore device layouts
+
+
+  #### Lab &#58; Custom Nintex Form components
+  - Install Custom Form Control
+  - Import Custom Forms Controls
+  - Add new Device Layout
+  - Import new Device Template
+
+
+  #### Lab &#58; Configure Nintex Forms for Sites
+  - Configure Nintex Forms on a Web Application
+  - Configure Nintex Forms on a Site Collection
+
+  After completing this module, students will be able to&#58;
+    Install and configure Nintex Forms
+    Describe the out of box Form Controls
+    Describe the out of box Device Templates
+    Import custom form controls and device templates
+
+  ### Module 5&#58; Installing and Configuring Nintex Live
+  In this module, you will learn about Nintex Live and how to install and configure it into your environment.
+  #### Lessons
+  - Introduction to Nintex Live
+  - Installing Nintex Live
+  - Configuring Nintex Live
+
+
+  #### Lab &#58; Installing and Configuring Nintex Live
+  - Install Nintex Live
+  - Configure and Enable Nintex Live for Workflows
+  - Configure and Enable Nintex Live for Forms
+
+  After completing this module, students will be able to&#58;
+  - Describe Nintex Live features
+  - Install and configure Nintex Live
+
+
+  ### Module 6&#58; Testing Your Configuration
+  In this module, you will learn how to create workflows, forms and use Nintex Live.
+  #### Lessons
+  - Creating and Using Workflows
+  - Creating and Using Forms
+  - Nintex Mobile
+
+
+  #### Lab &#58; Creating a Nintex Workflow
+  - Create a Nintex Site Workflow
+  - Create a Nintex List Workflow
+  - Explore Nintex Actions
+
+
+  #### Lab &#58; Creating a Nintex Form
+  - Create Nintex List Form
+  - Create Nintex Workflow Form
+  - Use out of box Form Controls
+  - Use custom Form Controls
+  - Explore Device Templates
+
+
+  #### Lab &#58; Using Nintex Live
+  - Using Nintex Live to download new Actions
+
+  After completing this module, students will be able to&#58;
+  - Create and use Nintex Workflows
+  - Create and use Nintex Forms
+  - Work with Nintex Live features
+
+
+  ### Module 7&#58; Workflow Reporting
+  In this module, you will learn about the out of box reports provided by Nintex and how to create your own reports.
+  #### Lessons
+  - Administrative Reporting
+  - Workflow Reporting
+
+
+  #### Lab &#58; Working with Nintex Reports
+  - Explore Administration Reports
+  - Add a new custom Report
+
+
+  #### Lab &#58; Creating custom reports
+  - Create a more advanced Workflow Report
+
+  After completing this module, students will be able to&#58;
+  - Describe and use the out of box Administrative Reports
+  - Describe and use the out of box Workflow Reports
+  - Create your own custom workflow reports
+
+
+  ### Module 8&#58; Backup, Restore and Upgrades
+  In this module, you will learn how to backup, restore and upgrade Nintex Components.
+  #### Lessons
+  - Backup
+  - Restore
+  - Upgrading
+
+
+  #### Lab &#58; Backup Nintex
+  - Backup Nintex Workflow and Forms databases
+  - Backup SharePoint Content Databases
+
+
+  #### Lab &#58; Restore Nintex
+  - Restore Nintex Workflow & Forms
+
+
+  #### Lab &#58; Upgrade Nintex
+  - Upgrade a Nintex Instance
+
+  After completing this module, students will be able to&#58;
+  - Backup Nintex and SharePoint components
+  - Restore Nintex and SharePoint components
+
+
+  ### Module 9&#58; Nintex for Project Server
+  In this module, you will learn to install and configure Nintex for Project Server.
+  #### Lessons
+  - Nintex For Project Server Intro
+
+
+  #### Lab &#58; Installing and Configuring Nintex For Project Server
+  - Install Nintex for Project Server
+  - Configure Nintex for Project Server
+  - Test Nintex for Project Server
+
+
+  #### Lab &#58; Creating Nintex Project Server Workflows
+  - Create a Nintex Project Server Workflow
+
+  After completing this module, students will be able to&#58;
+  - Describe the features of Nintex for Project Server
+  - Install and configure Nintex for Project Server
+  - Create workflows for Project Server projects

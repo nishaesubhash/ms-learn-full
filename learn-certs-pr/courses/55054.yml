@@ -1,0 +1,346 @@
+### YamlMime:Course
+title: Mastering Microsoft Project 2013
+metadata:
+  title: 'Course 55054-A: Mastering Microsoft Project 2013'
+  description: 'Course 55054-A: Mastering Microsoft Project 2013'
+uid: course.55054
+courseNumber: '55054-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the discipline of project management as it applies to using Microsoft Project 2013.
+- skill: Create a Work Breakdown Structure.
+- skill: Identify Task Types & Relationships.
+- skill: Define Resources within Project.
+- skill: Make Work Package Estimates.
+- skill: Create an Initial Schedule.
+- skill: Create a Resource Leveled Schedule.
+- skill: Create Projects from templates, Excel files.
+- skill: Create Global templates.
+- skill: Create formulas and graphical indicators.
+- skill: The steps to record a macro.
+- skill: Format Output and Print Reports.
+- skill: Integrate Multiple Projects.
+- skill: Set up a Project with a Calendar, Start date, and scheduling method.
+- skill: Understand Manually Schedule vs. Auto Schedule.
+- skill: Manage multiple projects.
+- skill: Be able to create a master project list with shared resources.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This three-day, instructor-led course is intended for individuals who are interested in expanding their knowledge base and technical skills about Microsoft Project. The course begins with the basic concepts and leads students through all the functions they’ll need to plan and manage a small to medium-size project, including how to level resources and capture both cost and schedule progress.
+  
+  This course will also help students prepare for Microsoft Project 2013 Exam 74-343 Managing Projects with Microsoft Project 2013.
+
+  #### Audience profile
+  This course is intended for both novice and experienced project managers, managers, schedulers, and other project stake holders who need to incorporate the discipline of project management with Microsoft Project 2013.
+prerequisitesSection: |-
+  There are no prerequisites for this course. However, it is helpful to have taken an introductory project management course, such as Versatile’s Principles of Project Management.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Microsoft Project
+  This module provides an overview of how the features of Project relate to the job of the project manager. The module also teaches the student how to access different features by navigating through the ribbon.
+  #### Lessons
+  - Describe how Project relates to the discipline of Project management.
+  - Learn what the new features are in Project 2013.
+  - Navigate to the primary views available using the Ribbon.
+  - Choose Views that display task, resource, or assignment information.
+  - Select table within views to change the information that is available to see and edit.
+  - Relate the features of Project to the 5 steps for building a plan in Project.
+
+
+  #### Lab &#58; Introduction to Mastering Microsoft Project
+
+  After completing this module, students will be able to&#58;
+
+  - Have a fundamental understanding of how Microsoft Project will help them track their projects.
+  - Understand what is new in Project 2013 and how it will increase their productivity.
+  - Learn how the ribbon will help them get the most of out of this productivity tool.
+  - Learn how to quickly change views and see what is going on with their projects.
+  - Understand the 5 essential steps in building a successful project plan.
+
+
+  ### Module 2&#58; A Quick and Easy Overview of Managing with Project
+  This module demonstrates the required steps to create and use Microsoft Project 2013 through the life cycle of a project.
+  #### Lessons
+  - Create a new project and prepare it for data entry.
+  - Enter project tasks.
+  - Sequence the tasks.
+  - Define resources.
+  - Estimate Task duration and assign resources.
+  - Baseline the project.
+  - Track project progress.
+
+
+  #### Lab &#58; Creating a Basic Project with a template
+
+  #### Lab &#58; Creating a Basic Project
+
+  After completing this module, students will be able to&#58;
+
+  - Prepare a new project plan and set the date and other basic information.
+  - Enter detailed project information.
+  - Understand how to sequence tasks.
+  - Understand and define basic resource types.
+  - Assign resources to tasks.
+  - Understand the benefits of baselining a project or specific tasks.
+  - Understand the basics of how to track project progress.
+
+
+  ### Module 3&#58; Setting Up a Project
+  This module explains how to create a new project and establish the basic constraints that Microsoft Project 2013 will use for its calculations.
+  #### Lessons
+  - Use multiple methods to create a new project from an Excel file and a SharePoint Tasks list.
+  - Establish one or more calendars to constrain resource availability.
+  - Configure Project to calculate the schedule from the Start Date forward, or from the Finish Date backward.
+
+
+  #### Lab &#58; Setting Up a Project
+
+  After completing this module, students will be able to&#58;
+
+  - Create a new project using a template, Excel, a SharePoint Tasks List or a new Project file.
+  - Establish one or more calendars to constrain resource availability.
+  - Configure Microsoft Project to calculate the schedule from the Start Date forward or from the Finish Date backward.
+
+
+  ### Module 4&#58; Manually Schedule vs. Auto Schedule
+  This module explains how to how to manually schedule project tasks and how to leverage the auto schedule feature.
+  #### Lessons
+  - Students practice switching tasks between Manually Schedule and Auto Schedule modes. By switching modes, students learn the impact made on the project schedule and the individual tasks.
+
+
+  #### Lab &#58; Explore Task Modes
+
+  After completing this module, students will be able to&#58;
+
+  - Understand how to turn on Manually Schedule and Auto Schedule.
+  - Understand when to use Manually Schedule.
+  - Understand the limitations of Manually Scheduling.
+
+
+  ### Module 5&#58; Creating a Work Breakdown Structure
+  This module explains how to create a useful work breakdown structure and enter it into Microsoft Project.
+  #### Lessons
+  - Build and use summary and subordinate tasks.
+  - Understand and use milestones.
+  - Develop WBS Outlines.
+  - Assign completion criteria.
+  - Evaluate the WBS.
+  - Understand and use WBS templates.
+
+
+  #### Lab &#58; Manipulate a WBS
+
+  #### Lab &#58; Supporting the Project Plan
+
+  After completing this module, students will be able to&#58;
+
+  - Build and use summary and subordinate tasks.
+  - Understand and use milestones.
+  - How to organize the WBS.
+  - How to format the WBS.
+  - Develop WBS outlines.
+  - Assign completion criteria.
+  - Evaluate the WBS.
+  - Understand and use WBS outlines.
+  - Understand how to link Project artifacts to their projects.
+  - Understand how to create notes on tasks.
+
+
+  ### Module 6&#58; Identifying Task Relationships
+  This module explains the rules for establishing dependency links between tasks and how to use Project to display these dependencies.
+  #### Lessons
+  - Understand the different types of task relationships.
+  - Understand and use various methods to create relationships.
+  - Determine and display task sequence.
+  - Understand and use lag, lead, and delay.
+  - Understand the new feature of Task Paths.
+
+
+  #### Lab &#58; Display the sequence
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the different types of task relationships.
+  - Understand and use various methods to create relationships.
+  - Determine and display task sequence.
+  - Understand how to use Lag, Lead and Delay.
+
+
+  ### Module 7&#58; Defining Resources within Project
+  This module explains how to enter resources and specific resource information in Microsoft Project and assign resources to specific tasks.
+  #### Lessons
+  - Define resource types.
+  - Define individual resources that will be used on the project.
+  - Record the cost(s) of using each type of resource.
+  - Record the limit of availability for each type of resource by establishing a resource calendar and defining the maximum units of that resource.
+
+
+  #### Lab &#58; Resource Calendar and Availability
+
+  After completing this module, students will be able to&#58;
+
+  - Define the different types of resources.
+  - Define individual resources that will be used on the project.
+  - Record the cost(s) of using each type of resource.
+  - Record the limit of availability for each type of resource by establishing a resource calendar and defining the maximum units of that resource.
+
+
+  ### Module 8&#58; Making Work Package Estimates
+  This module explains how Microsoft Project calculates task duration, task work (effort) and task resources.  Students will be able to choose among three task types as they enter task estimates and they will know which task type is appropriate for the type of estimate they are making.
+  #### Lessons
+  - Enter estimates for duration and costs for each task.
+  - Distinguish between task types and describe when each is appropriate.
+  - Describe the relationship between work, units, and duration.
+  - Describe the way Effort Driven scheduling is affected by work, units, and duration.
+  - Assign tasks to resources using the Team Planner view.
+
+
+  #### Lab &#58; Work, Duration and Labor
+
+  After completing this module, students will be able to&#58;
+
+  - Assign values for resources, duration and work.
+  - Understand task types.
+  - Understand Effort Driven scheduling.
+  - Understand material resources and their costs to a project plan.
+
+
+  ### Module 9&#58; Creating an Initial Schedule
+  This module explains how Project calculates a schedule based on task relationships and task duration. Students will understand the purpose of identifying critical path tasks and will be able to identify schedule float within the project.
+  #### Lessons
+  - Calculate float and identify a project’s critical path.
+  - Understand and identify task constraints.
+  - Create milestones.
+  - Use the Task Inspector to troubleshoot the initial schedule.
+
+
+  #### Lab &#58; Calculating an Initial schedule
+
+  After completing this module, students will be able to&#58;
+
+  - Identify the critical path.
+  - Understand difference between slack and slippage.
+  - Calculate float.
+  - How to leverage constraints.
+  - How to get the benefit from the Task Inspector, and the impact of changes on a project schedule.
+
+
+  ### Module 10&#58; Create a Resource Leveled Schedule
+  This module explains how over-allocated resources create unrealistic schedules and shows methods for rescheduling in order to create a realistic schedule based on resource availability.
+  #### Lessons
+  - Adjust a project schedule to account for limited people and other resources.
+  - View the overall cost and schedule of a project.
+  - Identify resources that have been overallocated for a project schedule.
+  - Use multiple ways to adjust tasks and assignments to remove over allocation for any resource.
+
+
+  #### Lab &#58; Resource Leveling
+
+  After completing this module, students will be able to&#58;
+
+  - Adjust a project schedule to account for limited resources.
+  - View the overall cost and schedule of a project.
+  - Identify resources that are over- allocated for a project schedule.
+  - Use multiple ways to adjust tasks and assignments to remove over- allocation for any resource.
+
+
+  ### Module 11&#58; Managing the Project
+  This module explains how to use Microsoft Project to control a project.  Students will save their plan to a baseline and see how entering actual task performance data enables them to view differences between planned and actual performance.
+  #### Lessons
+  - Learn how to set a baseline.
+  - Lean how to enter and track project performance data.
+  - Learn how to apply different tracking methods.
+  - Learn how to perform a variance analysis on a project.
+
+
+  #### Lab &#58; The Baseline
+
+  #### Lab &#58; Baselining & Tracking Performance
+
+  #### Lab &#58; Variance
+
+  After completing this module, students will be able to&#58;
+
+  - Set a baseline.
+  - Enter and manage project performance data.
+  - Pick a tracking method.
+  - Perform variance analysis.
+  - Sync Projects results with SharePoint.
+
+
+  ### Module 12&#58; Formatting Output and Printing Reports
+  Participants will be able to control project output by creating and using Custom Fields, Sorting, Filtering, and Grouping of the project data.
+  #### Lessons
+  - Print
+  - Views
+  - Formats
+  - Sorting
+  - Filtering
+  - Grouping
+  - Custom Fields
+  - Reporting
+  - Other File Formats
+
+
+  #### Lab &#58; Use the Grouping Feature
+
+  #### Lab &#58; Create Reports in Project 2013
+
+  After completing this module, students will be able to&#58;
+
+  - Create standardized views, with the power of sorting, filtering and grouping.
+  - Customize a variety of standard reports.
+  - Learn how to use Visual Reports.
+  - Export reports in a variety of formats.
+
+
+  ### Module 13&#58; Managing Multiple Projects
+  This module explains how to view many projects as parts of one very large project in order to gain new views on resource availability and task relationships among projects.
+  #### Lessons
+  - Learn how to use common resources among multiple projects.
+  - Learn how to link tasks between multiple projects.
+  - Learn how to create a consolidated view of multiple projects.
+
+
+  #### Lab &#58; Identifying Overallocated Resources from a Resource Pool and Consolidated File
+
+  After completing this module, students will be able to&#58;
+
+  - Use common resources among multiple projects.
+  - Link tasks between multiple projects.
+  - Create a consolidated view of multiple projects and shared resources.
+
+
+  ### Module 14&#58; Advanced Topics
+  This module explains how to leverage some of the advanced features of Microsoft Project.
+  #### Lessons
+  - Learn how to customize the Ribbon and the Quick Access Toolbar.
+  - Learn how to customize WBS numbering.
+  - Learn the concepts of Formulas and Graphical indicators.
+  - Learn the purpose of the Global template and Organizer.
+  - Learn how to use Task Deadlines.
+
+
+  #### Lab &#58; Recording a Macro in Project 2013
+
+  After completing this module, students will be able to&#58;
+
+  - Take advantage of the advance features of Microsoft Project 2013.
+  - Be able to create a Macro.
+  - Share common settings among all future projects.
+
+
+  ### Module 15&#58; Summary
+  This module provides an overview of the topics presented in the course and how to prepare for Microsoft’s exam 74-343 Microsoft Project 2013, Managing Projects with Project 2013.
+  #### Lessons
+  - Learn how to access the Office App Store.
+  - Learn what 74-343 Microsoft Project 2013, Managing Projects with Project 2013 exam will cover and what is in the objective domain.
+  - A sample study guide to help students prepare for the Microsoft Project 2013 exam.

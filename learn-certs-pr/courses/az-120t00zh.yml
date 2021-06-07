@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: 计划和管理 Microsoft Azure for SAP 工作负荷
+metadata:
+  title: 'Course AZ-120T00ZH-A: 计划和管理 Microsoft Azure for SAP 工作负荷'
+  description: 'Course AZ-120T00ZH-A: 计划和管理 Microsoft Azure for SAP 工作负荷'
+uid: course.az-120t00zh
+courseNumber: 'AZ-120T00ZH-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 将 SAP HANA、S/4HANA 和 SAP NetWeaver 迁移到 Azure
+- skill: 利用 Azure 门户、Cloud Shell、Azure PowerShell、CLI 和资源管理器
+- skill: 使用站点互连功能，包括 VNet 对等互联和 VNet 到 VNet 连接
+- skill: 使用 Azure Active Directory (AAD) 和 Azure AD 连接
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  本课程教导在 SAP 解决方案方面经验丰富的 IT 专业人员如何利用 Azure 资源，包括部署和配置虚拟机、虚拟网络、存储帐户和 Azure AD，Azure AD 包括实施和管理混合身份。本课程的学生将通过概念、方案、过程和动手实验室学习如何最好地规划和实施 Azure 上 SAP 解决方案的迁移和操作。你将接受有关以下内容的指导：订阅、创建和缩放虚拟机、实现存储解决方案、配置虚拟网络、备份和共享数据、连接 Azure 和本地站点、管理网络流量、实现 Azure Active Directory、保护标识安全以及监视解决方案。
+
+  #### Audience profile
+  本课程适用于负责迁移和管理 Azure 上 SAP 解决方案的 Azure 管理员。Azure 管理员管理跨越存储、网络和计算云功能的云服务，并对整个 IT 生命周期中的每项服务都有深入的了解。他们会接收最终用户对新的云应用程序的请求，并建议可用于实现最佳性能和规模以及根据需要预配、确定大小、监视和调整的服务。此角色需要与供应商进行沟通和协调。Azure 管理员最初会使用 Azure 门户，但当他们变得更加熟练时，他们会使用 PowerShell 和命令行接口。
+outlineSection: |-
+  ### Module 1&#58; 简介
+  包含 SAP 和 Microsoft 合作伙伴关系的概述。
+
+  ### Module 2&#58; Azure for SAP 工作负荷的基础知识
+  - 包含有关
+  - Azure 计算
+  - Azure 存储
+  - Azure 网络
+  - SAP HANA for Azure（大型实例）
+  - 标识服务
+  - 治理和可管理性
+  - 备份和数据保护服务及迁移服务的简要课程。
+
+  ### Module 3&#58; Azure 上的 SAP 认证产品
+  - 包含有关一般先决条件（公共云环境中的 SAP 支持）
+  - Azure for SAP 工作负荷的部署选项
+  - Azure 的 SAP 产品特定支持
+  - Azure for SAP 工作负荷的操作系统支持
+  - Azure for SAP 工作负荷的存储支持
+  - SAP 的网络支持
+  - SAP 的数据库支持
+  - SAP 的高可用性和灾难恢复支持以及
+  - SAP 的监视要求的课程。
+
+  #### Lab &#58; 在线实验室：在 Azure VM 上实施 Linux 群集
+
+  #### Lab &#58; 在线实验室：在 Azure VM 上实施 Windows 群集
+
+  ### Module 4&#58; Azure 上的 SAP 参考架构
+  - 包含有关使用 AnyDB 的 NetWeaver
+  - SAP S4 HANA 和 Azure VM 上的
+  - Azure SAP HANA（大型实例）的课程。
+
+
+  ### Module 5&#58; 规划在 Azure 上实施 SAP 解决方案
+  - Azure VM 计算、网络和存储注意事项的课程。还将介绍
+  - Azure VM 高可用性和灾难恢复
+  - Azure VM 备份注意事项
+  - Azure VM 监视注意事项
+  - Azure VM 安全性注意事项
+  - Azure VM 身份验证和访问控制注意事项。.
+  - SAP HANA on Azure (Large Instances) compute, network, and storage
+  - SAP HANA on Azure (Large Instances) HA and DR considerations
+  - SAP HANA on Azure (Large Instances) backup considerations
+  - SAP HANA on Azure (Large Instances) security
+
+  ### Module 6&#58; 规划将 SAP 工作负荷迁移到 Azure
+  - SAP 系统迁移到 Microsoft Azure 的策略以及
+  - SAP 工作负荷规划和部署清单。
+
+
+  ### Module 7&#58; 实施基于 Azure VM 的 SAP 解决方案
+  - Azure VM 部署方法、单个实例（2 层或 3 层）
+  - 在 Azure VM 上实施具备 AnyDB 的 HA SAP NetWeaver
+  - 在 Azure VM 上实施 HA SAP HANA
+  - 配置 Azure 增强监视扩展以及实施
+  - AD 和基于
+  - Azure AD 的身份验证的课程。
+
+  ### Module 8&#58; 模块 8 -部署 HANA 大型实例 (HLI)
+  包含有关实施 HANA 大型实例 (HLI) 的课程。
+
+
+  ### Module 9&#58; 将 SAP 工作负荷迁移至 Azure
+  - 包含有关迁移选项
+  - DMO 方法
+  - 云迁移选项和巨型数据库迁移到
+  - Azure 的课程。
+
+  #### Lab &#58; 在线实验室 - 在运行 Linux 的 Azure VM 上实施 SAP 架构
+
+  #### Lab &#58; 在线实验室 - 在运行 Windows 的 Azure VM 上实施 SAP 架构
+
+  ### Module 10&#58; 维护 Azure for SAP 工作负荷
+  - 包含有关远程管理
+  - 执行备份和恢复
+  - OS 和工作负荷更新
+  - 纵向和横向扩展以及灾难恢复
+  - (DR) 的课程。
+
+  ### Module 11&#58; 监控 Azure 上的 SAP 并排除故障
+  - 包含有关监视 Azure VM
+  - 监视 Azure SAP HANA（大型实例）和将
+  - SAP 解决方案与 Microsoft 云服务集成的课程。

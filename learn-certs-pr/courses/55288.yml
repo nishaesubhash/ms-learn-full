@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: 'Introduction to Microsoft Project 2019: Getting Started'
+metadata:
+  title: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+  description: 'Course 55288-A: Introduction to Microsoft Project 2019: Getting Started'
+uid: course.55288
+courseNumber: '55288-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to create and manage simple projects.
+- skill: Learn to enter and manage tasks.
+- skill: Learn to work with a project calendar.
+- skill: Learn to add and manage project resources and work with the resource sheet.
+- skill: Learn to create basic reports for your project.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  In this Introduction to Microsoft Project 2019&#58; Getting Started class, students will spend time getting comfortable with the Project 2019 or Project 365 user interface, including project views and the ribbon. They will also learn to enter, organize, and link tasks, work with resources, create basic reports, and create projects independently. The course allows time to practice fundamental basic skills essential for efficient use of this program.
+
+  #### Audience profile
+  This course is intended for new users of Microsoft Project.
+outlineSection: |-
+  ### Module 1&#58; Components of a Project
+  In this lesson, we will go over the components of a project that are covered in detail in this course and present the sample projects that will be used in this course.
+
+  #### Lessons
+  - Components of a Project.
+  - Demo and Exercise Projects Used in this course.
+
+  After completing this module, students will be able to&#58;
+  - Understand the components of a project.
+  - Map a project.
+  - Sample projects that are used in this course.
+
+
+  ### Module 2&#58; Getting Around in Microsoft Project
+  In this lesson, you will learn to start Project 2019 and you will get familiar with the Ribbon, including tabs, groups, and commands. A solid understanding of how the Ribbon works and being able to navigate to different parts of the Ribbon will get you off to the right start using Microsoft Project 2019.
+
+  #### Lessons
+  - Starting Project
+  - The Ribbon
+  - The Backstage View
+  - Tour of the Quick Access Toolbar
+  - Basic Formatting
+
+
+  #### Lab &#58; Exercises
+  - Understanding the Ribbon
+  - Open and Save a Project
+  - Enter Project Information
+  - Add and Delete Commands from the Quick Access Toolbar
+
+  After completing this module, students will be able to&#58;
+  - Start Project 2019.
+  - Work with tabs, groups, and commands on the Ribbon.
+  - Hide the Ribbon.
+  - Use the Backstage View.
+  - Enter project information.
+  - Customize the Quick Access Toolbar.
+  - Use basic formatting in Project 2019.
+
+
+  ### Module 3&#58; Calendars
+  This module explains how to work with calendars.
+  #### Lessons
+  - Project Start Date
+  - Creating the Project Calendar
+  - Connecting a Calendar to a Project
+  - Formatting the Timeline to Match a Custom Calendar
+
+  #### Additional Reading
+  None

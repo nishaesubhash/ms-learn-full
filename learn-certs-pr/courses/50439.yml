@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Working with Data using SQL Server 2008 R2 for Non-Database Administrators
+metadata:
+  title: 'Course 50439-B: Working with Data using SQL Server 2008 R2 for Non-Database Administrators'
+  description: 'Course 50439-B: Working with Data using SQL Server 2008 R2 for Non-Database Administrators'
+uid: course.50439
+courseNumber: '50439-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use SQL Server Management Studio (SSMS)
+- skill: Use SSMS to generate efficient queries
+- skill: Use the Object Browser in SSMS to locate objects and view their dependencies so you know the potential effect of a change.
+- skill: Use the Template manager in SSMS to quickly import correctly formatted code that was prewritten by the SQL community
+- skill: Customize the SSMS environment to match the users individual needs
+- skill: Run a trace in SQL Profiler to analyze performance of operations
+- skill: Use the debugger with a query to troubleshoot it
+- skill: Work with SQL Server Integration Services to do a basic package for import/export, how to save it and automatically execute it.
+- skill: Use the Database Tuning Advisor for faster queries
+- skill: Read an SSMS Execution Plan and understand it and learn why you need to understand it.
+- skill: Explain and perform single table queries and the proper method to develop them
+- skill: Perform various joins between tables to reunite data stored separately such as an order and its details, or a salesperson and their sales and the product in the sale.
+- skill: Understand indexing and its impact on speed of retrieval of data and when to not use it.
+- skill: Write code within the context of a transaction to prevent data corruption
+- skill: Utilize Try-Catch error handling and learn why to use it
+- skill: Use Stored Procedures to access data and understand the improved security of using them and how easy they are to create via the community templates in SSMS.
+- skill: Explain the new language features and how they improve the data environment and reporting
+- skill: Write a sub-query as an advanced technique
+- skill: Use common table expressions in a query
+- skill: Work with the XML datatype and the new methods especially for XML.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This instructor-led course provides students with the necessary knowledge to work with the data in SQL Server 2008R2. They will learn how to use the built in tools included with SQL Serverto construct queries, do tuning,analyze a query and it's performance along with how to modify existing data, perform joins, create indexes and work with XML.The new features are discussed and their impact is explained. See At Course Completion.
+
+  #### Audience profile
+  This course is intended for Power Users and IT Professionals that are called on to work with SQL Server in the retrieving, or modifying of data and need a good foundation to perform those functions. This would include those users that develop reports and need to create Data Sets that work efficiently.
+prerequisitesSection: |-
+  Before attending this course, students should have&#58;
+  - A working knowledge of databases but not necessarily Microsoft SQL.
+outlineSection: |-
+  ### Module 1&#58; The Toolsets
+  #### Lessons
+  - SQL Server Management Studio
+  - SQLCMD Utility
+  - Business Intelligence Development Studio (BIDS)
+  - SQL Profiler
+  - Bulk Copy
+  - Adventure Works Sample Database
+  - Data Definition Language
+
+
+  #### Lab &#58; The Toolsets
+
+  ### Module 2&#58; Data Types and New T-SQL Language Features
+  #### Lessons
+  - SQL Server Data Types
+  - New Data Types
+  - Hierarchyid Data Type
+  - Spatial Data
+  - Date and Time
+  - FileStream Storage
+  - Grouping Sets
+
+
+  #### Lab &#58; Data Types and New T-SQL Language Features
+
+  ### Module 3&#58; Single Table Queries
+  #### Lessons
+  - Logical Query Processing
+  - Query Clauses (Listed in Logical Processing Order)
+  - FROM
+  - WHERE
+  - GROUP BY
+  - HAVING
+  - SELECT
+  - ORDER BY
+  - CASE
+  - NULLS
+
+
+  #### Lab &#58; Single Table Queries
+
+  ### Module 4&#58; Joining Multiple Tables
+  #### Lessons
+  - Normalization
+  - Old Style vs. New Style
+  - Cross Join
+  - Inner Join
+  - Outer Join
+  - Self Join
+  - Joining Multiple Tables
+
+
+  #### Lab &#58; Joining Multiple Tables
+
+  ### Module 5&#58; Subqueries, Common Table Expressions and Ranking Functions
+  #### Lessons
+  - Subqueries
+  - Self-Contained Subqueries
+  - Correlated Subqueries
+  - EXISTS
+  - Views
+  - Derived Tables
+  - Common Table Expressions
+  - Analytic Ranking Functions
+
+
+  #### Lab &#58; Subqueries, Common Table Expressions and Ranking Functions
+
+  ### Module 6&#58; Indexing
+  #### Lessons
+  - Understanding Execution Plans
+  - Table and Index Structures
+  - Syntax
+  - Clustered Index
+  - Non Clustered Index on Heap
+  - Non Clustered Index on Clustered Index
+
+
+  #### Lab &#58; Indexing
+
+  ### Module 7&#58; Query Tuning
+  #### Lessons
+  - System Performance Analysis
+  - Query Analysis
+  - Database Engine Tuning Advisor
+  - Bookmark Lookup
+  - Statistics Analysis
+  - Query Design
+
+
+  #### Lab &#58; Query Tuning
+
+  ### Module 8&#58; Data Modification, Transactions and Error Processing
+  #### Lessons
+  - Modifying Data INSERT
+  - Modifying Data UPDATE
+  - Modifying Data DELETE
+  - Transactions
+  - Error Processing
+  - Debugging in SQL Server 2008
+
+
+  #### Lab &#58; Data Modification, Transactions and Error Processing
+
+  ### Module 9&#58; Stored Procedures and Triggers
+  #### Lessons
+  - Stored Procedures
+  - Triggers
+
+
+  #### Lab &#58; Stored Procedures and Triggers
+
+  ### Module 10&#58; XML
+  #### Lessons
+  - XML Introduction
+  - XML in SQL Server
+  - XML Data Type
+  - XML Indexes

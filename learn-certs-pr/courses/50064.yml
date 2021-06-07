@@ -1,0 +1,263 @@
+### YamlMime:Course
+title: Advanced SharePoint Development
+metadata:
+  title: 'Course 50064-C: Advanced SharePoint Development'
+  description: 'Course 50064-C: Advanced SharePoint Development'
+uid: course.50064
+courseNumber: '50064-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: After completing this course, students will be able to learn to extend many of the core features that WSS provides! These include event handlers, site definitions, features, solutions and web parts!
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 5-day Instructor led, group-paced, classroom-delivery learning model with structured hands-on activities. course This course focuses on Windows SharePointServices 3.0 (WSS) fundamental building blocks such as features, application pages,site pages, Web Parts, custom list types, site columns, content types, custom workflows and site definitions. You will also learn how to assemble and configure business solutions by using and extending the portal and web content management features of MOSS as well as other server-side services such as the Business DataCatalog, Forms Services, Excel Services and Report Center.
+
+  #### Audience profile
+  This course is intended for anyone looking to develop SharePoint customizations at a core level. This includes event handlers, features, site definitions, web parts, timer jobs and workflows!
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Attendees should have professional development experience with Visual Studio 2005, the .NET 2.0 Framework and ASP.NET 2.0. 
+  - Attendees should also be familiar with Microsoft Office products such as Word, Excel and InfoPath.
+outlineSection: |-
+  ### Module 1&#58; Overview
+
+  #### Lab &#58; SiteDefinitions
+
+  ### Module 2&#58; Custom Authentication
+  #### Lessons
+  - Debugging SharePoint
+  - ASP.NET Providers
+  - Single Sign On
+
+
+  #### Lab &#58; CustomAuthentication
+
+  #### Lab &#58; SingleSignOn
+
+  #### Lab &#58; DebuggingSharePoint
+
+  ### Module 3&#58; SharePoint Permissions
+  #### Lessons
+  - SharePoint Security
+
+
+  #### Lab &#58; SharePointPermissions
+
+  #### Lab &#58; SecurityTrimmedInterface
+
+  #### Lab &#58; SPSecurity
+
+  ### Module 4&#58; In Browser SharePoint Customization
+  #### Lessons
+  - Web Content Management
+  - In-Browser Customization
+
+
+  #### Lab &#58; InBrowserSharePointCustomization
+
+  #### Lab &#58; InBrowserSharePointCustomization
+
+  ### Module 5&#58; Basic SharePoint Designer
+  #### Lessons
+  - Basic SharePoint Designer
+
+
+  #### Lab &#58; BasicSharePointDesigner
+
+  #### Lab &#58; SharePointDesigner
+
+  #### Lab &#58; BasicSharePointDesigner
+
+  ### Module 6&#58; Advanced SharePoint Designer
+  #### Lessons
+  - Backup & Restore
+  - Reports
+  - Data Views
+
+
+  #### Lab &#58; AdvancedSharePointDesigner
+
+  #### Lab &#58; AdvancedSharePointDesigner
+
+  ### Module 7&#58; Content Types
+  #### Lessons
+  - Content Types
+
+
+  #### Lab &#58; ContentTypes
+
+  #### Lab &#58; ContentTypes
+
+  ### Module 8&#58; Custom Site Definitions
+  #### Lessons
+  - Site Definitions
+
+
+  #### Lab &#58; CustomSiteDefinitions
+
+  #### Lab &#58; CustomSiteDefinitions
+
+  #### Lab &#58; Themes
+
+  #### Lab &#58; Templates
+
+  #### Lab &#58; MS40
+
+  ### Module 9&#58; Features
+  #### Lessons
+  - Features
+
+
+  #### Lab &#58; Features
+
+  #### Lab &#58; Features
+
+  #### Lab &#58; Solutions
+
+  ### Module 10&#58; Object Model
+  #### Lessons
+  - Object Model
+
+
+  #### Lab &#58; ObjectModel
+
+  #### Lab &#58; SharePointWebDevelopment
+
+  ### Module 11&#58; Web Services
+  #### Lessons
+  - Web Services
+
+
+  #### Lab &#58; WebServicesAPI
+
+  #### Lab &#58; WebServicesAPI
+
+  ### Module 12&#58; SharePoint RPC
+  #### Lessons
+  - RPC Protocols
+
+
+  #### Lab &#58; SharePointRPC
+
+  ### Module 13&#58; Web Parts
+  #### Lessons
+  - Web Parts
+
+
+  #### Lab &#58; WebParts
+
+  #### Lab &#58; WebPartsConnectionsOld
+
+  #### Lab &#58; WebParts
+
+  #### Lab &#58; FilterWebParts
+
+  #### Lab &#58; WebPartsConnectionsNew
+
+  ### Module 14&#58; Client Side Scripts AJAX SilverLight
+  #### Lessons
+  - Client Side Scripts
+
+
+  #### Lab &#58; ClientSideScriptsAJAX
+
+  ### Module 15&#58; Custom Field Types
+  #### Lessons
+  - Field Types
+
+
+  #### Lab &#58; CustomFieldTypes
+
+  ### Module 16&#58; SharePointEventsTimerJobs
+  #### Lessons
+  - SharePoint Timer Jobs
+  - SharePoint Events
+
+
+  #### Lab &#58; SharePointEvents
+
+  #### Lab &#58; CustomTimerJob
+
+  #### Lab &#58; SharePointEvents_Encrypt
+
+  ### Module 17&#58; Shared Services
+  #### Lessons
+  - Shared Services
+
+
+  #### Lab &#58; SharedServices
+
+  #### Lab &#58; WebServicesAPI
+
+  ### Module 18&#58; Workflows With SharePoint Designer
+  #### Lessons
+  - Extending Designer
+  - WSS/MOSS Workflows
+  - SharePoint Designer Workflows
+
+
+  #### Lab &#58; MOSSWorkflows
+
+  #### Lab &#58; BuiltInActivities
+
+  #### Lab &#58; LoopingWorkflow
+
+  #### Lab &#58; CustomActivities
+
+  #### Lab &#58; CustomConditions
+
+  #### Lab &#58; MigrationWorkflow
+
+  ### Module 19&#58; Workflows With VisualStudio
+  #### Lessons
+  - Visual Studio Workflows
+
+
+  #### Lab &#58; CustomWorkflow
+
+  ### Module 20&#58; Localization
+  #### Lessons
+  - Localization
+
+
+  #### Lab &#58; Localization
+
+  #### Lab &#58; Localization
+
+  ### Module 21&#58; Excel Services
+  #### Lessons
+  - Excel Services
+
+
+  #### Lab &#58; ExcelServices
+
+  #### Lab &#58; ExcelServicesWS
+
+  ### Module 22&#58; Business Data Catalog
+  #### Lessons
+  - Business Data Catalog
+
+
+  #### Lab &#58; BusinessDataCatalog
+
+  #### Lab &#58; BDC_SingleSignOn
+
+  #### Lab &#58; BDCWebServices
+
+  ### Module 23&#58; Business Intelligence
+  #### Lessons
+  - Business Intelligence
+
+
+  #### Lab &#58; BusinessIntelligence
+
+  #### Lab &#58; BusinessIntelligence

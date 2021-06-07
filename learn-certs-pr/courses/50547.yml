@@ -1,0 +1,309 @@
+### YamlMime:Course
+title: Microsoft SharePoint 2010 Site Collection and Site Administration
+metadata:
+  title: 'Course 50547-B: Microsoft SharePoint 2010 Site Collection and Site Administration'
+  description: 'Course 50547-B: Microsoft SharePoint 2010 Site Collection and Site Administration'
+uid: course.50547
+courseNumber: '50547-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create and modify SharePoint 2010 objects.
+- skill: Understand SharePoint 2010 governance at the site collection and site levels.
+- skill: Understand SharePoint 2010 planning principals.
+- skill: Understand Office 2010 and SharePoint 2010 integration.
+- skill: Modify SharePoint 2010 to improve the built-in search.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This five-day instructor-led Site Collection and Site Administrator course gives students who have SharePoint 2010 Owner permissions for a site the ability to manage, administer and modify a SharePoint 2010 site based on business needs and objectives. This course also provides the IT Business Analyst the necessary information to advise business units on which features are a best fit for their business processes. The course will provide students necessary information on SharePoint 2010 features and capabilities including how to implement and Best Practices for implementing the feature. The course will also focus on different aspects of Governance, Office 2010 integration, workflows, web parts and much more, helping students to understand the depth and breadth of SharePoint 2010.
+
+  #### Audience profile
+  This course is intended for SharePoint Administrators, SharePoint Developers, Site Collection, Site Administrators and SharePoint Power Users who are tasked with working within the SharePoint environment.
+prerequisitesSection: |-
+  Before attending this course, students must have experience with&#58;
+  - Windows XP, Vista, or Windows 7.
+  - Office 2003, 2007, or 2010.
+  - Internet Explorer 7 or 8.
+outlineSection: |-
+  ### Module 1&#58; SharePoint 2010 General Overview
+  The SharePoint 2010 family of tools has expanded to include a wider variety of functionality that offers organizations a streamlined process and central location for document management, collaboration and information management. Module 1 provides an overview of the versions and functionalities. It also explains the site collection and site administrator roles.
+  #### Lessons
+  - SharePoint 2010 Site Collection and Site Administrator Roles
+  - SharePoint 2010 Wheel
+  - Comparing SharePoint 2010 Versions
+  - Expanded Browser Capabilities
+
+  After completing this module, students will be able to&#58;
+  - Understand the role of the SharePoint 2010 Site Collection and Site Administrator.
+  - Understand the SharePoint 2010 Wheel.
+  - Understand the differences between SharePoint Foundations 2010 and SharePoint 2010.
+  - Understand the expanded browser capabilities.
+
+
+  ### Module 2&#58; SharePoint 2010 Environment – Getting Started
+  This module will cover basic information for Site Collection and Site Administrators. Having a basic set of terminology and getting the “lay of the land” will help to understand the rest of the course.
+  #### Lessons
+  - SharePoint 2010 Environment
+  - Navigation
+  - SharePoint 2010 Ribbon
+  - Adding and Editing Content in SharePoint 2010
+  - Using Your Name Menu
+
+  After completing this module, students will be able to&#58;
+  - Understand SharePoint 2010 Terminology and the Environment.
+  - Navigate around SharePoint 2010.
+  - Be able to use the SharePoint 2010 Ribbon.
+  - Be able to add and edit basic content within SharePoint 2010.
+  - Use the Your Name Menu.
+
+
+  ### Module 3&#58; Organization and Development of SharePoint 2010 Sites
+  For organizations that are implementing or continuing to improve SharePoint 2010, the majority of the work is not found in the day-to-day activities of creating and managing SharePoint 2010 objects. It falls within the realm of governance and establishing best practices for how SharePoint 2010 is used within the organization. Without establishing these principals within the organization, SharePoint 2010 will fail.
+  #### Lessons
+  - Governance and Best Practices
+  - Information Architecture
+  - Site Structure
+  - User Education
+  - Resources
+
+  After completing this module, students will be able to&#58;
+  - Understand Governance and Best Practices within SharePoint 2010.
+  - Understand Information Architecture.
+  - Understand how site structure can help within SharePoint 2010.
+  - Understand how user education can help with SharePoint 2010.
+
+
+  ### Module 4&#58; Site Collections, Top Level Sites and Sites
+  The first major milestone after Governance is the creation of sites within a site collection. Understanding the types of sites available within SharePoint 2010, as well as the process of creating and understanding navigation, is the foundation for site collection and site managers.
+  #### Lessons
+  - Overview of SharePoint 2010 Hierarchy
+  - SharePoint 2010 Site Inventory
+  - Creating Sites and Subsites
+  - Modifying Site Navigation
+  - Specialty Sites
+  - Sites and Navigation Best Practices
+
+
+  #### Lab &#58; Site Collections, Top Level Sites and Sites
+  After completing this module, students will be able to&#58;
+  - Understand the different types of SharePoint 2010 sites available.
+  - Know how to create SharePoint 2010 sites.
+  - Know how to modify site navigation.
+
+
+  ### Module 5&#58; Creating and Modifying Libraries and Lists
+  Most of the administrating within SharePoint 2010 is done at the list or library level. This module will dig deeper into both lists and libraries and will help organizations determine what works best for a given situation.
+  #### Lessons
+  - Overview of Libraries
+  - Creating a Library in SharePoint 2010
+  - Library Inventory
+  - Overview of Lists
+  - Creating a List in SharePoint 2010
+  - List Inventory
+  - Library and List Best Practices
+
+
+  #### Lab &#58; Creating and Modifying Libraries and Lists
+  After completing this module, students will be able to&#58;
+  - Understand the purpose of lists and libraries.
+  - Understand the differences between the different lists and libraries.
+  - Create a list or library using multiple methods.
+  - Customize a list form using InfoPath 2010.
+
+
+  ### Module 6&#58; Managing Permissions for Users and Groups
+  This module will explain how permissions work within a site collection and the tools within SharePoint 2010 that are used to manage and maintain them. Being able to create and manage permissions within SharePoint 2010 is one of the more crucial elements that SharePoint 2010 Site Collection and Site Administrators need to know.
+  #### Lessons
+  - Overview of Permissions and Security in SharePoint 2010
+  - Permissions within SharePoint 2010
+  - Managing Permissions within SharePoint 2010
+  - Stop Inheriting Permissions
+  - Creating a New SharePoint 2010 Group
+  - Managing Users and Groups
+  - Other Permissions Management Tools
+  - Permissions Best Practices
+
+
+  #### Lab &#58; Managing Permissions for Users and Groups
+  After completing this module, students will be able to&#58;
+  - Understand how permissions work within SharePoint 2010.
+  - Manage permissions within the site collection and site.
+  - Understand the tools for permissions within SharePoint 2010.
+
+
+  ### Module 7&#58; Site/Content Management and Collaboration
+  When a new site is created, the site administrators will need to decide how content is managed within the site. They will also need to consider how sites flow between each other, how information is portrayed, especially at the Welcome Page level, and how content is managed within the site.
+  #### Lessons
+  - Overview of Site and Content Management
+  - Content Management
+  - Records Management with the Records Center
+  - Setting up Alerts and Real Simple Syndication
+  - Targeting Audiences with Content
+  - Site and Content Management Best Practices
+
+
+  #### Lab &#58; Site and Content Management
+  After completing this module, students will be able to&#58;
+  - Understand the concept of Site and Content Management.
+  - Implement aspects of Site and Content Management.
+  - Understand and implement Records Management through Records Center.
+  - Setup Alerts and Real Simple Syndication feeds.
+  - Implement Targeting Information for Users.
+
+
+  ### Module 8&#58; Office 2010 Integration with SharePoint 2010
+  The heavy integration of Microsoft Office 2010 is one of the main benefits of using SharePoint 2010. There are a myriad of ways to connect SharePoint 2010 to Microsoft Office 2010, whether it is connecting a SharePoint 2010 document library to Microsoft Outlook, linking an Access database or an Excel spreadsheet to a list in SharePoint 2010, using Microsoft InfoPath to build SharePoint 2010 lists, publishing a Visio diagram to be displayed in the web, or managing Microsoft PowerPoint slides in a SharePoint 2010 slide library.
+  
+  Since a majority of SharePoint 2010 users work out of Outlook most of the day, this integration with SharePoint 2010 helps to focus activities in one or two locations instead of four or five locations. All of these options provide significant improvements over using the products on their own. This module will cover the different ways in which SharePoint 2010 and the Office 2010 Suite work together to expose the full functionality of the products.
+  #### Lessons
+  - Overview of Office 2010 and Office Web App
+  - Collaborating Using Outlook 2010
+  - Connecting and Collaborating with Office 2010 Backstage
+  - Connecting, Managing and Editing Documents
+  - Collaborating with PowerPoint 2010
+  - Take Information Offline with SharePoint Workspace 2010
+  - Integration of Visio 2010
+  - Integration of Access 2010
+  - Using InfoPath 2010 with SharePoint 2010
+  - Office 2010 Integration Best Practices
+
+
+  #### Lab &#58; Office 2010 Integration with SharePoint 2010
+  After completing this module, students will be able to&#58;
+  - Understand the integration features between Office 2010 and SharePoint 2010.
+  - Understand how Office Web Apps works between the two products.
+  - Understand the collaboration features available with Outlook 2010.
+  - Understand how Excel and Word interact with SharePoint 2010.
+  - Understand how PowerPoint can expand collaboration and presentations.
+  - Understand how SharePoint 2010 can be taken offline with Workspace 2010.
+  - Understand the integration of Visio and Access with SharePoint 2010.
+  - Have a basic understanding of how InfoPath 2010 works with SharePoint 2010.
+
+
+  ### Module 9&#58; Creating Consistency Across Sites
+  When developing SharePoint 2010, it is necessary to create a consistent feel across sites within the site collection. This objective fits in to the Governance aspects of Module 3&#58; Organization and Development of SharePoint 2010 Sites.
+  #### Lessons
+  - Site Columns
+  - Site Content Types
+  - Implementing Document Sets
+  - Show/Hide the Server Ribbon
+  - SharePoint Site Themes
+  - Overview of SharePoint Templates
+  - Managing Through Site Templates
+  - Managing Through List and Library Templates
+  - Page Layout and Site Template Settings
+  - Consistency Best Practices
+
+
+  #### Lab &#58; Creating Consistency Across Sites
+  After completing this module, students will be able to&#58;
+  - Understand and use Site Content Types and Columns.
+  - Understand and Implement Document Sets.
+  - Implement and Customize SharePoint Site Themes.
+
+
+  ### Module 10&#58; Finding Information Using Search and Views
+  One common complaint within organizations is the difficulty finding documents in a timely manner. Many hours are wasted searching for a specific document. This module will show methods for searching and configuring views in order to assist SharePoint 2010 users in finding what they need in much less time.
+  #### Lessons
+  - Overview of Views
+  - Adding Columns to Lists and Libraries
+  - Creating Views in Lists and Libraries
+  - Configuring Per-Location View
+  - Overview of Metadata and Taxonomy for SharePoint 2010
+  - Implementing Managed Metadata
+  - Overview of Search
+  - Implementing Managed Keywords and Best Bets
+  - Using SharePoint Search
+  - Configuring Search Scope
+  - Configuring Search Visibility
+  - View and Search Best Practices
+
+
+  #### Lab &#58; Finding Information Using Search and Views
+  After completing this module, students will be able to&#58;
+  - Understand and configure multiple types of Views.
+  - Understand and configure Per-location Views.
+  - Understand and implement Metadata within SharePoint 2010.
+  - See how Search and Faceted Search work.
+  - Configure Search Scopes and Visibility within SharePoint 2010.
+
+
+  ### Module 11&#58; Displaying Data with Web Parts in SharePoint 2010
+  Displaying Data with Web Parts in SharePoint 2010One important feature within SharePoint 2010 is the many different Web Parts. Most of the SharePoint 2010 Web Parts can be customized. This module will cover the different types of Web Parts that are available and the process of embedding and configuring them.
+  #### Lessons
+  - Overview of Web Parts
+  - Web Part Inventory
+  - Managing a Web Part on a Page
+  - Managing a Web Part
+  - Customizing a Web Part
+  - Web Part Maintenance
+  - Web Parts Best Practices
+
+
+  #### Lab &#58; Displaying Data with Web Parts in SharePoint 2010
+  After completing this module, students will be able to&#58;
+  - Understand the different types of Web Parts.
+  - Understand how to display Web Parts within a SharePoint 2010 page.
+  - Understand basic properties used to configure Web Parts.
+  - Understand how to maintain Web Parts.
+
+
+  ### Module 12&#58; Document Management through Workflows
+  An integral part of SharePoint 2010 for document and information management is the ability to configure Workflows. By default, SharePoint 2010 comes with built-in Workflows to help organizations in a variety of different ways, including; approving a new item or document, collecting feedback from multiple users, or disposing of documents based on compliance policies.
+  #### Lessons
+  - Overview of SharePoint 2010 Workflows
+  - Approval - SharePoint 2010 Workflow
+  - Three-State Workflow
+  - Collect Feedback - SharePoint 2010 Workflow
+  - Collect Signatures - SharePoint 2010 Workflow
+  - Disposition Workflow
+  - Managing Workflows in SharePoint 2010
+
+
+  #### Lab &#58; Document Management through SharePoint 2010 Workflows
+  After completing this module, students will be able to&#58;
+  - Understand Workflows within SharePoint 2010.
+  - Implement and Configure the Approval – SharePoint 2010 Workflow.
+  - Implement and Configure the Three-State Workflow.
+  - Implement and Configure the Collect Feedback – SharePoint 2010 Workflow.
+  - Implement and Configure the Collect Signatures – SharePoint 2010 Workflow.
+  - Implement and Configure the Disposition Workflow.
+  - Understand how to Manage Workflows after created.
+
+
+  ### Module 13&#58; SharePoint 2010 Social Computing and Collaboration
+  An important advancement within SharePoint 2010 is the inclusion of Social Computing concepts. Many organizations have similar challenges when working with internal talent management, also known as knowledge management. One common challenge is finding an individual with the specific skills and knowledge needed to complete a task or project. SharePoint 2010 offers a viable platform to help organizations with talent or knowledge management.
+  #### Lessons
+  - Overview of Social Computing
+  - Using My Sites for Knowledge Management
+  - Configuring My Profile
+  - Using Social Tags and Note Boards
+  - SharePoint 2010 My Site Blog
+  - SharePoint 2010 Social Computing Best Practices
+
+  After completing this module, students will be able to&#58;
+  - Understand the different components of SharePoint 2010 My Sites.
+  - Understand how to configure SharePoint 2010 My Profile.
+  - Understand how Social Tags and Note Boards are integrated into SharePoint 2010.
+  - Understand how to implement and configure My Site Blogs.
+
+
+  ### Module 14&#58; Administrating a SharePoint 2010 Site Collection and Site
+  This module covers SharePoint 2010 topics that Site Collection or Site administrators will work with as part of their day to day activities.
+  #### Lessons
+  - Overview of Administrating of SharePoint 2010
+  - Additional Settings for Site Administration
+  - Additional Settings for Site Collection Administration
+
+  After completing this module, students will be able to&#58;
+  - Understand Governance for Site Administration.
+  - Understand additional settings available for Site Administrators.
+  - Understand additional settings available for Site Collection Administrators.

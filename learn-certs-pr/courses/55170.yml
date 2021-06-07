@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Writing Reports with Report Designer and SSRS 2016 Level 2
+metadata:
+  title: 'Course 55170-A: Writing Reports with Report Designer and SSRS 2016 Level 2'
+  description: 'Course 55170-A: Writing Reports with Report Designer and SSRS 2016 Level 2'
+uid: course.55170
+courseNumber: '55170-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create parameter reports.
+- skill: Create list reports.
+- skill: Format reports with complex expressions.
+- skill: Add images and subreports.
+- skill: Add drilldown and drillthrough functionality.
+- skill: Add sparklines, data bars, and indicators.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- sql-server
+summary: |-
+  In this 2-day course, students will continue their learning on the foundations of report writing with Microsoft® SQL Server® Report Designer and SSRS. The focus will be on report creation by connecting to a database and manipulating the data for presentation including&#58; creating parameter reports, creating list reports, adding complex expressions to reports, adding images and subreports to reports, adding drilldown and drillthrough functionality, and adding sparklines, data bars, and indicators to reports. Report Designer is available for all supported versions of Microsoft® SQL Server®.
+
+  #### Audience profile
+  The primary audience for this course are persons who are new to reporting with Microsoft® SQL Server® Report Designer and SSRS, persons who are transitioning from another reporting software application, and persons who are existing Report Builder and SSRS report authors. The secondary audience for this course are persons who are using Report Builder (SSRS). Course participants may be business analysts, programmer analysts, data analysts, database administrators, or IT professionals and may or may not have experience with Microsoft® SQL Server® Report Builder and SSRS, programming (Visual Basic), and/or Transact-Structured Query Language (T-SQL) experience.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Familiarity with Windows.
+  - Creating and navigating folders.
+  - Opening programs.
+  - Manipulating windows.
+  - Copying and pasting objects.
+  - Formatting text.
+  - Saving files.
+  - Microsoft® Office Access 2013&#58; Level 1 or have equivalent experience with basic database concepts.
+  - Course 55123&#58; Writing Reports with Report Builder and SSRS Level 1
+outlineSection: |-
+  ### Module 1&#58; Parameter Reports
+  This module introduces the use of the parameter in report writing. Parameters allow a level of self-service reporting wherein the report audience can choose the data to view (date range, department, geography, etc.).
+  #### Lessons
+  - Parameterized Reporting
+  - Create Report Parameters
+  - Modify Report Parameters
+  - Provide Default Parameter Values
+  - Provide Available Values for Parameters
+
+
+  #### Lab &#58; Creating Parameterized Reports
+  - Create Single Value Parameter Reports
+  - Create Multi-Value Parameter Reports
+  - Create an Available Values Parameter Report
+  - Create a Parameter Report with Default Values
+  - Modify Existing Parameter Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe the key benefits and features of report parameters.
+  - Create parameterized queries and parameterized reports.
+  - Create parameters which accept single values, multiple values, expose or hide the parameter value, provide a list of available parameter values, and provide parameters with default values.
+  - Modify existing parameters and parameter reports.
+
+
+  ### Module 2&#58; List Data Regions
+  This module introduces the list data region. List data regions allow report writers free-form control over their reports, whereas, table and matrix reports bind you to a table or matrix data presentation. This free-form feature affords the report writer the ability to truly customize the report.
+  #### Lessons
+  - Introducing the List Data Region
+  - Create Reports Using List Data Regions
+  - Modify Reports Which Use List Data Regions
+
+
+  #### Lab &#58; Creating List Reports
+  - Create a Multiple Column Report with List Data Regions
+  - Create a Report with Rectangles and Nested Data
+  - Create an Enhanced Report with Rectangles and List Data Regions
+
+  After completing this module, students will be able to&#58;
+  - Describe the benefits of list data regions and rectangles in reporting scenarios.
+  - Create reports which display data in multiple columns.
+  - Create reports which take advantage of nested data.
+  - Create enhanced reports using list data regions and rectangles.
+
+
+  ### Module 3&#58; Enhancing Reports with Complex Expressions
+  This module introduces several new report formatting techniques which allow the report writer better control over the data displayed in the report.
+  #### Lessons
+  - Formatting Reports
+  - Top N Reports
+  - Running Values
+
+
+  #### Lab &#58; Enhancing Reports with Complex Expressions
+  - Create Conditional Formats for Data
+  - Use Complex Expressions in Charts
+  - Calculate Running Values in Table and Matrix Data Regions
+  - Create TOP N Reports
+  - Add Row Banding in Table and Matrix Reports
+
+  After completing this module, students will be able to&#58;
+  - Create conditional formats for data displayed in a report.
+  - Use complex expressions in charts.
+  - Calculate running values for groups and datasets.
+  - Create TOP N reports for groups and datasets.
+  - Use row banding in a data region
+
+
+  ### Module 4&#58; Enhance Reports with Images and Subreports
+  In this module, students will add images and reports (subreports) to reports, tour  and students will be introduced to SSRS (SQL Server Reporting Services).
+  #### Lessons
+  - Add Images to Reports
+  - Retrieve Images from a Database
+  - Introducing SSRS (SQL Server Reporting Services) Report Server
+  - Add Subreports to Reports
+
+
+  #### Lab &#58; Working With Images and Subreports
+  - Add an Image to an Existing Report
+  - Display Images from a Database in a Report
+  - Format HTML5 Data to Display Properly in a Report
+  - Use SSRS Report Server to Facilitate Subreporting
+  - Add Subreports to a Report
+  - Add Parameterized Subreports to Reports
+  - Describe the available options for adding images to reports.
+  - Add images to reports.
+  - Describe the features of SSRS Report Server
+  - Add subreports and parameterized subreports to reports.
+
+
+  ### Module 5&#58; Drilldown and Drillthrough Reports
+  This module introduces the ToggleByItem and Action properties to incorporate drilldowns and drillthrough reporting.
+  #### Lessons
+  - Add and Configure Drilldown Reporting
+  - Add and Configure Drillthrough Reporting
+
+
+  #### Lab &#58; Add Drilldown and Drillthrough Functionality to Reports
+  - Add Drilldown Functionality to Text Boxes
+  - Add Drilldown Functionality to Groups
+  - Add Drilldown Functionality to Group Hierarchies
+  - Add Drillthrough Functionality to a Report
+  - Add Parameterized Drillthrough Functionality to a Chart
+  - Describe the key features of drilldowns and drillthroughs in a report
+  - Add drilldowns to Reports
+  - Add drillthroughs to Reports
+  - Add parameterized drillthroughs to Reports
+
+
+  ### Module 6&#58; Sparklines, Data Bars, and Indicators
+  This module introduces the ability to create and add charts to reports. Whether through wizard or individual effort, chart reports or charts as report components allow us to visualize data with or without the details.
+
+  #### Lessons
+  - Sparklines
+  - Data Bars
+  - Indicators
+
+
+  #### Lab &#58; Adding Sparklines, Data Bars, and Indicators to Reports
+  - Create Group Charts
+  - Add Indicators and Data Bars to a Report
+  - Add Sparklines to a Report
+  - Add Indicators to a Report
+  - Add Sparklines, Data Bars, and Indicators to a Report
+  - Describe the key features of incorporating mini-charts and mini-gauges in reports
+  - Add and modify sparklines, data bars, and indicators in reports

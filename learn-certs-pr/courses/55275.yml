@@ -1,0 +1,177 @@
+### YamlMime:Course
+title: Introduction to Microsoft Outlook 2019
+metadata:
+  title: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+  description: 'Course 55275-A: Introduction to Microsoft Outlook 2019'
+uid: course.55275
+courseNumber: '55275-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn about the new features in Outlook
+- skill: Learn about the Ribbon, Tabs, Groups, and Commands.
+- skill: Explore the Backstage View.
+- skill: Set up accounts and work with messages.
+- skill: Work with calendars and contacts.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Microsoft Outlook training class introduces the 2019 interface and gets students up and running quickly working with messages, calendars, and contacts.
+
+  #### Audience profile
+  Students who have little or no familiarity with Microsoft Outlook 2019 or more experienced Outlook users who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  Experience in the following is required for this Microsoft Outlook class&#58;
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment
+outlineSection: |-
+  ### Module 1&#58; The Outlook 2019 Interface
+  This module explains how to work with the Outlook 2019 interface.
+  #### Lessons
+  - Overview of the Outlook Interface
+  - The Ribbon
+  - Tabs, Groups, and Commands on the Ribbon
+  - The Backstage View
+
+
+  #### Lab &#58; Outlook Interface Exercises
+  - Exploring the Ribbon
+  - Exploring the Backstage View
+
+  After completing this module, students will be able to&#58;
+  - Work with the Microsoft Outlook interface.
+  - Work with the Outlook Ribbon.
+  - Work with the tabs, groups, and commands on the Ribbon.
+  - Work with the Backstage view.
+
+
+  ### Module 2&#58; Performing Popular Tasks in Outlook 2019
+  This module explains how to perform popular tasks in Outlook 2019.
+  #### Lessons
+  - Setting Up an Email Account
+  - Open Email Messages
+  - Reply to and Forward Email Messages
+  - Preview and Save an Attachment
+  - Print a Message
+  - Delete a Message
+  - Save a Message in an Alternate Format
+  - Delegate Access
+  - Customize the Navigation Pane
+
+
+  #### Lab &#58; Performing Popular Tasks Exercises
+  - Setting Up an Email Account
+  - Opening and Replying to a Message
+  - Printing a Message
+
+  After completing this module, students will be able to&#58;
+  - Set up an email account in Outlook.
+  - Open email messages.
+  - Reply to and forward email messages.
+  - Print and save an attachment.
+  - Print messages.
+  - Delete messages.
+  - Save a message in an alternate format.
+  - Delegate access.
+  - Customize the Navigation Pane.
+
+
+  ### Module 3&#58; Working with Messages
+  This module explains how to work with messages in Microsoft Outlook.
+  #### Lessons
+  - Compose a Message
+  - Add an Attachment
+  - Add Voting Options
+  - Check Spelling and Grammar
+  - Format Text
+  - Use Microsoft Word to Edit Messages
+  - Insert a Hyperlink or Image to a Message
+  - Send a Message
+
+
+  #### Lab &#58; Creating and Sending a New Message
+  After completing this module, students will be able to&#58;
+  - Compose a message.
+  - Add an attachment to a message.
+  - Add voting options to a message.
+  - Check the spelling and grammar in a message.
+  - Format text.
+  - Use Microsoft Word to edit email messages.
+  - Insert a hyperlink in a message.
+  - Send a message.
+
+
+  ### Module 4&#58; Working with the Calendar
+  This module explains how to work with the calendar in Microsoft Outlook.
+  #### Lessons
+  - Change Your Calendar View
+  - Set Up Availability Status
+  - Print Your Scedule
+  - Share Your Calendar
+  - Schedule a Meeting
+  - Make Updates to Meetings
+  - Cancel a Metting
+  - Reply to a Meeting Invitation
+  - Schedule an Appointment
+  - Make Upates to an Appointment
+  - Create Calendar Groups
+  - Delete a Calendar
+  - Work with Calendar Items
+  - Create and Add Calendars
+
+
+  #### Lab &#58; Working with the Calendar Exercises
+  - Setting Up Your Calendar
+  - Scheduling a Meeting
+
+  After completing this module, students will be able to&#58;
+  - Change your Calendar View.
+  - Set up availability status.
+  - Set up your calendar availability.
+  - Print your schedule.
+  - Schedule a meeting.
+  - Make updates to meetings.
+  - Reply to a meeting invitation.
+  - Schedule an appointment.
+  - Make updates to an appointment.
+  - Create calendar groups.
+  - Delete a calendar.
+  - Work with calendar items.
+  - Use multiple calendars.
+
+
+  ### Module 5&#58; Organzing Contacts
+  This module explains how to organize contacts in Microsoft Outlook.
+  #### Lessons
+  - Add, Delete, Import, and Print a Contact
+  - Update a Contact
+  - Locate a Contact
+  - Sort Contacts
+  - Work with Contact Groups
+  - Manage Multiple Address books
+  - Perform a Mail Merge
+
+
+  #### Lab &#58; Organizing Contact Exercises
+  - Adding and Updating a Contact
+  - Performing a Mail Merge
+
+  After completing this module, students will be able to&#58;
+  - Add a contact.
+  - Update a contact.
+  - Share a contact.
+  - Locate contacts.
+  - Sort and find contacts.
+  - Work with contact groups.
+  - Work with multiple address books.
+  - Perform a mail merge.
+
+  #### Additional Reading
+  - N/A

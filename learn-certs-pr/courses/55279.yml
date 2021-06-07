@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Introduction to Microsoft Access 2019
+metadata:
+  title: 'Course 55279-A: Introduction to Microsoft Access 2019'
+  description: 'Course 55279-A: Introduction to Microsoft Access 2019'
+uid: course.55279
+courseNumber: '55279-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gain an understanding of database concepts and terminology.
+- skill: Learn about the Access interface.
+- skill: Learn to work with table views, queries, forms, reports, and macros and modules.
+- skill: Learn to plan a database.
+- skill: Learn database design fundamentals.
+- skill: Learn to work with forms and the Form Wizard.
+- skill: Learn to work with reports and the Report Wizard.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Introduction to Microsoft Access 2019 training class starts by covering basic database concepts. Students will then learn to design and create databases and tables, query those tables, and create forms and reports.
+
+  #### Audience profile
+  This course is intended for students who have little or no familiarity with Microsoft Access 2019 or more experienced Access users who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment.
+  - Ability to launch and close programs; navigate to information stored on the computer; and manage files and folders.
+outlineSection: |-
+  ### Module 1&#58; Quick Overview of the Access User Interface
+  This module explains how to become familiar with the Access user interface.
+  #### Lessons
+  - Access Ribbon
+  - Quick Access Toolbar
+  - Object Navigation Pane
+  - Access Work Surface
+  - Object Overview
+  - Process Overview
+  - Create a Database Using a Wizard
+
+
+  #### Lab &#58; Getting Around the Access Environment
+  After completing this module, students will be able to&#58;
+  - Understand the organization of the Access ribbon.
+  - Understand context tabs in the ribbon.
+  - Understand the Quick Access Toolbar and how to customize.
+  - Understand the Navigation Pane.
+  - Understand the objects and creation process.
+  - Understand the Access work surface.
+  - Understand how to create databases using a wizard.
+
+  ### Module 2&#58; Fundamentals
+  This module explains how to think about some database fundamentals before diving into database creation.
+  #### Lessons
+  - Questions to Ask Before You Starat
+  - Approaches to Database Design
+  - Gathering Information
+  - A Few Words about Naming Conventions
+  - Normalization
+  - Table Relationships
+
+
+  #### Lab &#58; Fundamentals Exercises
+  - Asking Questions
+  - Normalizing Data
+
+  After completing this module, students will be able to&#58;
+  - Ask questions to consider before you create a database application.
+  - Understand common approaches to database design&#58; top-down and bottom-up.
+  - Go from paperwork and data samples to categorized data (data mapping).
+  - Understand naming conventions for tables and other objects.
+  - Understand what normalization is.
+  - Understand some basic concepts of normalization and how to apply them.
+  - Understand primary and foreign keys.
+  - Understand relationships and establishing them among tables.
+
+
+  ### Module 3&#58; Tables and Their Views
+  This module explains how to work with tables and their views in Microsoft Access.
+  #### Lessons
+  - Definition and Purpose
+  - Datasheet View
+  - Design View
+
+
+  #### Lab &#58; Working with Tables in Datasheet View
+  After completing this module, students will be able to&#58;
+  - Understand tables and table views in Access.
+  - Work with tables in Datasheet view.
+  - Add and Edit data records in Datasheet view.
+  - Understand the purpose of Design view.
+
+
+  ### Module 4&#58; Tables
+  This module explains how to work with tables in Microsoft Access.
+  #### Lessons
+  - Creating an Access Database
+  - Data Types
+  - Create a Table in Design View
+
+
+  #### Lab &#58; Tables Exercises
+  - Creating a New Database
+  - Determining Data Types
+  - Creating a Table in Design View
+
+  After completing this module, students will be able to&#58;
+  - Create an Access database.
+  - Create a table in Design view.
+  - Understand data types.
+  - Assign a key field.
+  - Understand input masks.
+  - Use expressions to define validation rules.
+
+
+  ### Module 5&#58; Queries
+  This module explains how to work with queries in Microsoft Access.
+  #### Lessons
+  - Queries
+  - Select Queries
+  - Select Queries with Criteria
+  - Logical Operators
+  - Group and Total with Queries
+
+
+  #### Lab &#58; Creating Select Queries
+  After completing this module, students will be able to&#58;
+  - Use queries and query views.
+  - Create a simple query.
+
+
+  ### Module 6&#58; Forms
+  This module explains how to work with forms in Microsoft Access.
+  #### Lessons
+  - Forms
+  - Alter a Form
+  - Form Record Navigation
+  - Layout View and Design View
+  - One-click Forms
+  - Form Wizard
+
+
+  #### Lab &#58; Forms Exercises
+  - Adding Data Records in Form View
+  - Creating a Form with the Form Wizard
+
+  After completing this module, students will be able to&#58;
+  - Understand types of forms.
+  - Add records using a form.
+  - Understand one-click forms.
+  - Create a form using the Form Wizard.
+
+
+  ### Module 7&#58; Reports
+  This module explains how to work with reports in Microsoft Access.
+  #### Lessons
+  - Reports
+  - Report Wizard
+
+
+  #### Lab &#58; Creating a Report with the Report Wizard
+  After completing this module, students will be able to&#58;
+  - Understand reports.
+  - Use the one-click report.
+  - Use the Report Wizard to create reports.
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

@@ -1,0 +1,168 @@
+### YamlMime:Course
+title: Microsoft SQL AlwaysOn and High Availability
+metadata:
+  title: 'Course 55153-A: Microsoft SQL AlwaysOn and High Availability'
+  description: 'Course 55153-A: Microsoft SQL AlwaysOn and High Availability'
+uid: course.55153
+courseNumber: '55153-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand and utilize AlwaysOn and high availability concepts and terminology.
+- skill: Understand edition changes from SQL 2012.
+- skill: Understand failover clusters.
+- skill: Understand log shipping.
+- skill: Understand replication.
+- skill: Understand database mirroring.
+- skill: Understand database snapshots.
+- skill: Understand SQL failover cluster implementation.
+- skill: Understand multi-site clustering.
+- skill: Understand flexible failover policy.
+- skill: Understand and utilize AlwaysOn.
+- skill: Understand node majority.
+- skill: Understand node and disk majority.
+- skill: Understand node and file share majority.
+- skill: Understand no majority.
+- skill: Understand configuration options.
+- skill: Understand and utilize quorums.
+- skill: Understand application failover.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This two-day instructor-led course is designed for database administrators to familiarize them with the concepts in SQL AlwaysOn and High Availability. The course utilizes SQL 2014, but explains the differences from SQL 2012.
+
+  #### Audience profile
+  This course is intended for SQL DBAs and IT Professionals.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - Course Overview
+
+
+  #### Lab &#58; Course Overview
+  - None
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; AlwaysOn and High Availability Concepts and Terminology
+  In this module, we will cover concepts and terminology to help you better understand the purpose of AlwaysOn and help you utilize its flexibility. We will also explain common methods used to provide high availability solutions.
+  #### Lessons
+  - Concepts and Terminology
+  - Edition Changes from SQL 2012
+  - Failover Clusters
+  - Log Shipping
+  - Replication
+  - Database Mirroring
+  - Database Snapshots
+
+
+  #### Lab &#58; AlwaysOn and High Availability Concepts and Terminology
+  - None
+  - Understand and utilize AlwaysOn and high availability concepts and terminology.
+  - Understand edition changes from SQL 2012.
+  - Understand failover clusters.
+  - Understand log shipping.
+  - Understand replication.
+  - Understand database mirroring.
+  - Understand database snapshots.
+
+
+  ### Module 3&#58; AlwaysOn
+  In this module, we will discuss SQL failover cluster implementation, multi-site clustering, and explain the flexible failover policy provided with SQL Server AlwaysOn.
+  #### Lessons
+  - SQL Failover Cluster Implementation
+  - Multi-Site Clustering
+  - Flexible Failover Policy
+
+
+  #### Lab &#58; AlwaysOn
+  - None
+  - Understand SQL failover cluster implementation.
+  - Understand multi-site clustering.
+  - Understand flexible failover policy.
+  - Understand and utilize AlwaysOn.
+
+
+  ### Module 4&#58; Understanding Quorums
+  Quorums determine the number of failures that a cluster can sustain, and if additional failures occur, the cluster will stop running. In this module, we discuss how to configure the quorum, and explain the options available.
+  #### Lessons
+  - Node Majority
+  - Node and Disk Majority
+  - Node and File Share Majority
+  - No Majority
+  - Configuration
+
+
+  #### Lab &#58; Understanding Quorums
+  - Creating a Windows Failover Cluster
+  - Understand node majority.
+  - Understand node and disk majority.
+  - Understand node and file share majority.
+  - Understand no majority.
+  - Understand configuration options.
+  - Understand and utilize quorums.
+
+
+  ### Module 5&#58; AlwaysOn Availability Groups
+  SQL Server AlwaysOn Availability Groups provide us the capability to group two or more databases and perform a failover of both as a logical unit. In this module, we will explore how to configure and utilize Availability Groups.
+  #### Lessons
+  - Application Failover
+  - Availability Group (AG)
+  - Availability Replica
+
+
+  #### Lab &#58; AlwaysOn Availability Groups
+  - Enable AlwaysOn in SQL Server
+  - Testing Failover Cluster and Adding Sample Databases
+  - Create the High Availability Group
+  - Add Replica and Listener
+  - Understand application failover.
+  - Understand availability groups.
+  - Understand availability replicas.
+  - Understand and utilize AlwaysOn availability groups.
+
+
+  ### Module 6&#58; Secondary Availability Group Actions
+  In AlwaysOn Availability Groups, an active secondary can be used for things like redirecting the read-only workload, off-loading the backup load, and other tasks. In this module, we discuss how an active secondary replica operates, and explore a few tasks that can be tackled using a secondary.
+  #### Lessons
+  - Active Secondary Replicas
+  - Readable Secondary Replicas
+  - Backups on Secondary Replicas
+
+
+  #### Lab &#58; Secondary Availability Group Actions
+  - None
+  - Understand active secondary replicas.
+  - Understand readable secondary replicas.
+  - Understand backups on secondary replicas.
+  - Understand and utilize secondary availability group actions.
+
+
+  ### Module 7&#58; Monitoring
+  In this module, we will explain monitoring AlwaysOn Availability Groups, explore and utilize the Dashboard, and discuss troubleshooting tools.
+  #### Lessons
+  - Monitoring AlwaysOn Availability Groups
+  - Dashboard
+  - Troubleshooting Tools
+
+
+  #### Lab &#58; Monitoring
+  - Dashboard
+  - Understand how to monitor AlwaysOn Availability Groups.
+  - Understand how to utilize the Dashboard.
+  - Understand the tools available for troubleshooting.

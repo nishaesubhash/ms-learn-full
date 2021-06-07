@@ -1,0 +1,239 @@
+### YamlMime:Course
+title: SharePoint 2016 Power User Training
+metadata:
+  title: 'Course 55200-A: SharePoint 2016 Power User Training'
+  description: 'Course 55200-A: SharePoint 2016 Power User Training'
+uid: course.55200
+courseNumber: '55200-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create custom workflows using SharePoint Designer 2016.
+- skill: Learn to use Content Approval settings and Workflow.
+- skill: Learn to use Term stores and managed Metadata.
+- skill: Learn to use the Document ID Service.
+- skill: Learn SharePoint Server Publishing Infrastructure.
+- skill: Learn to create and use Document Sets.
+- skill: Learn to route documents with Content Organizer.
+- skill: Learn to use Metadata Navigation.
+- skill: Learn to create external content types with Business Connectivity Services.
+- skill: Learn to use Information Management Policies.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This SharePoint 2016 Power User training class is designed for individuals who need to learn the fundamentals of managing SharePoint sites.
+
+  #### Audience profile
+  This course is intended for new and existing users of SharePoint.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic computer knowledge.
+outlineSection: |-
+  ### Module 1&#58; Content Approval
+  Content approval can be used on both lists and libraries in a SharePoint site. With content approval enabled, you have additional options to control the visibility of items. Content approval is enabled through the list/library settings page. Content can be approved manually through the context menu and toolbar of an item or it can be automated with workflows. SharePoint includes a workflow specifically for approving content.
+  #### Lessons
+  - Enabling Content Approval
+  - Content Approval Workflows
+
+
+  #### Lab &#58; Content Approval
+  - Enabling and Using SharePoint Content Approval
+  - Enablig and Using SharePoint Approval Workflow
+
+  After completing this module, students will be able to&#58;
+  - Enable content approval.
+  - Set the visibility of items that have not been approved.
+  - Approve items.
+  - Enable out-of-box workflows.
+  - Assign out-of-box approval workflow for a list/library item.
+  - Approve and item using a task created by the out-of-box approval workflow.
+
+
+  ### Module 2&#58; Creating Custom Workflows with SharePoint Designer 2013
+  Workflows are a popular way to perform automated work in SharePoint. The pay versions of SharePoint Server, Standard and Enterprise, come with extra out-of-box workflows that can be associated and configured with lists and libraries using just the browser. SharePoint Designer is a powerful and fairly easy to use tool for creating custom workflows and does not require any formal developer skills. Visual Studio, although extremely powerful in creating custom workflows, requires developer skills to use.
+  #### Lessons
+  - Workflow Basics
+  - Custom List Workflows
+  - Workflow Actions
+  - Workflow Conditions
+  - Workflow Initiation Form
+  - Resusable Workflows
+
+
+  #### Lab &#58; Creating Custom Workflows with SharePoint Designer 2016
+  - Creating Custom List Workflows
+  - Creating Resusable Workflows
+
+  After completing this module, students will be able to&#58;
+  - Understand workflow basics.
+  - Run a workflow.
+  - View a workflow's history.
+  - Add actions to a workflow.
+  - Add conditions to a workflow.
+  - Add parameters to a workflow intiation form.
+  - Create a reusable workflow.
+  - Accociate a reusable workflow with a list/library.
+
+
+  ### Module 3&#58; Working with Managed Metadata
+  The Managed Metadata service in SharePoint Server 2016 provides central term storage and management. The Term Store is what allows you to have common sets of terms that can be shared across all sites and site collections within a farm.Term Store terms are organized within a Term Set which is created within a Term Group forming a hierarchy nested within the Managed Metadata Service. The parent service defines Term Store Administrators that are responsible for creating the Term Groups. The Term Groups define the Group Managers and Contributors.
+  #### Lessons
+  - Creating a Term Store Group and Term Set
+  - Creating Metadata Columns in Lists and Libraries
+  - Publishing Content Types
+
+
+  #### Lab &#58; Working with Managed Metadata
+  - Creating a Term Store Group and Term Set
+  - Creating Managed Metadata Columns
+
+  After completing this module, students will be able to&#58;
+  - Understand managed metadata service basics.
+  - Create Term Store groups.
+  - Create Term Store sets.
+  - Create Managed Metadata columns is a list or library.
+  - Under the basics of content type publishing.
+
+
+  ### Module 4&#58; Business Connectivity Services
+  Business Connectivity Services is a free service that comes with the Foundation version of SharePoint. The service enables administrators to create external lists linked to data outside of SharePoint. Normal SharePoint lists expose data that is stored inside of a SQL content database that SharePoint creates and maintains.
+  #### Lessons
+  - Business Connectivity Service Basics
+  - Creating an External Content Type iwth SharePoint Designer
+  - Creating a List from an External Content Type
+
+
+  #### Lab &#58; Business Connectivity Services
+  - Working with Exerntal Content Types and Lists
+
+  After completing this module, students will be able to&#58;
+  - Understand the basics of Business Connectivity Services.
+  - Create an External Connection using SharePoint Designer.
+  - Create an External Content Type using SharePoint Designer.
+  - Define database operations using SharePoint Designer.
+  - Create a list using the Exernal List template.
+  - Create an External List using SharePoint Designer.
+
+
+  ### Module 5&#58; Information Management Policy
+  In this lesson, you will learn the basics of information management policy.
+  #### Lessons
+  - Information Management Policy Basics
+  - Defining Information Policy for a Content Type
+  - Defining Information Policy for a List
+
+
+  #### Lab &#58; Information Management Policy
+  - Create an information Management Policy for a List
+
+  After completing this module, students will be able to&#58;
+  - Understand the basics of Information Management Policy.
+  - Configure an information Management Policy for a Content Type.
+  - Define Information Management Policy Stages.
+  - Configure an Information Management Policy for a list/library.
+
+
+  ### Module 6&#58; Content Organizer
+  Content organizer is a SharePoint feature that only comes with the pay versions of SharePoint. It provides document routing from a drop-off library. The feature is enabled at the site level and the drop-off library is created as part of the feature activation. Once the drop-off library is created, you can define rules that route documents placed in the drop-off library to their final destination.
+  #### Lessons
+  - Activating the Content Organizer Feature
+  - Configuring Content Organizer Settings
+  - Confiugring content Organizer Rules
+
+
+  #### Lab &#58; Content Organizer
+  - Activating and Configuring the Content Organizer Feature
+
+  After completing this module, students will be able to&#58;
+  - Activate the Content Organizer site feature.
+  - Modify the Content Organizer settings.
+  - Create the Content Organizer rules.
+
+
+  ### Module 7&#58; Document ID Service
+  SharePoint's Document ID service, available with the pay versions of SharePoint, creates unique IDs for documents that are prefixed with text the Site Collection Administrator defines. What's more is that the ID assigned to the document creates a fixed URL that can be used to link to the document even if it is moved to another library or site.
+  The Document ID service can only be used on documents and cannot be used on list items. The Document ID service is enabled at the Site Collection level by activating a feature. Once the service is activated the Site Collection Administrator can define the prefix string to be used. SharePoint uses a Timer Job, Document ID assignment job, to set the IDs on existing documents once the Document ID Service has been activated. The Timer Job runs every 24 hours by default so existing documents will not have the IDs until the job has run. A Farm administrator can manually run the job to have the IDs created sooner. New documents will have IDs created when the document is saved to the library.
+  #### Lessons
+  - Activating the Document ID Feature
+  - Configuring Document ID Settings
+  - Linking Documents Using Their Document ID
+
+
+  #### Lab &#58; Document ID Service
+  - Activating and Confiuring the Document ID Service
+
+  After completing this module, students will be able to&#58;
+  - Understand what the Document ID feature does.
+  - Activate the Document ID feature in a Site Collection.
+  - Configure the Document ID feature settings.
+  - Force the Document ID feature timer jobs to run.
+  - Link to a document using the Document ID URL.
+
+
+  ### Module 8&#58; Document Sets
+  SharePoint's Documents Sets are like enhanced versions of folders. As with folders, you primarily use them to group similar documents together. They are enhanced with the ability to have their own metadata, workflows, and home page.
+
+  The Document Sets feature is only available with the pay versions of SharePoint Server 2013. To use Document Sets, the feature must be active at the Site Collection level. Once activated, there will be a new Document Set content type in the Site Collection's content type gallery. To best take advantage of the enhancements offered by Document Sets, you should create custom content types that inherit from the Document Set content type.
+  #### Lessons
+  - Activating the Document Sets Feature
+  - Creating a Document Set Content Type
+  - Adding a Document Set Content Type of a Library
+
+
+  #### Lab &#58; Document Sets
+  - Configuring Document Sets Feature
+
+  After completing this module, students will be able to&#58;
+  - Understand the advantage of using Document Sets.
+  - How to activate the Document Set feature.
+  - Create content types that inherit from the Document Set type.
+  - Add custom columns to an inherited Document Set.
+  - Modify the Welcome Page of a Document Set.
+  - Add Document Sets to a library.
+
+
+  ### Module 9&#58; SharePoint Server Publishing Infrastructure
+  SharePoint's publishing infrastructure provides an enhanced way to create and store information displayed through the site's Web pages. The publishing infrastructure is only available on the pay versions of SharePoint is can be enabled by activating features at both the site collection and site level.
+  #### Lessons
+  - Activating the SharePoint Server Publishing Infrastructure
+  - Publishing Infrastructure Basics
+  - Creating Pages with Page Layouts
+
+
+  #### Lab &#58; SharePoint Server Publishing Infrastructure
+  - Activating Publishing Infrastructure
+  - Creating Publishing Pages
+
+  After completing this module, students will be able to&#58;
+  - Activate the site collection's SharePoint Server Publishing Infrastructure feature
+  - Activate the site's SharePoint Server Publishing Infrastructure feature.
+  - Understand how the SharePoint Publishing Infrastructure works.
+  - Create a page using publishing layouts.
+  - Change the layout of a page.
+
+
+  ### Module 10&#58; Configuring and Consuming Site Search Results
+  SharePoint 2013 comes out-of-the-box with search capabilities, even the free Foundation version. The main difference with SharePoint Foundation 2013 version of search is its limited in scalability, everything has to run on a single server. Other than the scalability the Search services is internally the same for all versions of SharePoint 2013.
+  #### Lessons
+  - Search SharePoint for Content
+  - SharePoint Search Center
+
+
+  #### Lab &#58; Configuring and Consuming Site Search Results
+  - Basic SharePoint Search
+  - Advanced Search
+
+  After completing this module, students will be able to&#58;
+  - Perform a basic search in SharePoint.
+  - Add a Search Center.
+  - Configure the site's search box to use a Search Center.
+  - Crawl Content.
+
+  #### Additional Reading

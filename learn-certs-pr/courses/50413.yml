@@ -1,0 +1,339 @@
+### YamlMime:Course
+title: Mastering Microsoft Project 2010
+metadata:
+  title: 'Course 50413-B: Mastering Microsoft Project 2010'
+  description: 'Course 50413-B: Mastering Microsoft Project 2010'
+uid: course.50413
+courseNumber: '50413-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the discipline of project management as it applies to using Project
+- skill: Learn how to leverage the new Graphic User Interface (Ribbon)
+- skill: Create a Work Breakdown Structure
+- skill: Identify Task Relationships
+- skill: Define Resources within Project
+- skill: Make Work Package Estimates
+- skill: Learn how to leverage Team planner
+- skill: Learn how to inactivate tasks
+- skill: Learn how to leverage the task inspector
+- skill: Learn how to leverage the Timeline
+- skill: Create an Initial Schedule
+- skill: Create a Resource Leveled Schedule
+- skill: Manage and track the project through the software
+- skill: Format Output and Print Reports
+- skill: Integrate Multiple Projects
+- skill: Set up a Project with a Calendar, Start date, and scheduling method
+- skill: Understand Manually Schedule vs. Auto Schedule
+- skill: Manage multiple projects
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-project
+summary: |-
+  This three-day instructor-led course provides students with the knowledge and skills plan and manage projects using Microsoft Project 2010. The course focuses on preparing the user to pass Microsoft Exam 70-178 Managing Projects Using Microsoft Project 2010. This course is eligible for SATV’s.
+  
+  To get the most from any project management software, the user must understand the project management techniques upon which the software is based. This course presents the most popular project management software in the context of how a project manager will use it. Participants in this course learn the functions of the software and the project management concepts which make the software effective.
+  
+  This presentation begins with the basic concepts and leads participants through all the functions they’ll need to plan and manage a small to medium-sized project, including how to level resources and capture both cost and schedule progress.
+  
+  The course uses a combination of learning methods in teaching this course. It takes the approach of we will discuss what we are going to show the student, demonstrate to the student and have the student perform an exercise or follow the steps of the instructor in learning a new concept or feature. This course is lectured based coupled with click-alongs and labs to complete. Our goal is to maximize the time students have their fingers on the keyboard. To do this, we have traditional exercises within nearly every lesson, and “Click Along” demonstrations. Each Click-Along is indicated with a special icon in the margin of the student manual. Students should be able to follow the instructor through these demonstrations.
+  
+  The labs will be noted in the syllabus as exercises to follow the nomenclature that is being used in the student manual.
+
+  #### Audience profile
+  This course is intended for both novice and experienced Project Managers and projects support personnel who need to apply the discipline of project management using Microsoft® Project Professional/Standard 2010.
+prerequisitesSection: |-
+  There are no prerequisites for this course. However, it is helpful to have taken an introductory project management course, such as Versatile’s Principles of Project Management.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Mastering Microsoft Project
+  This module provides an overview of how the features of Project relate to the job of the project manager.
+  #### Lessons
+  - Describe how Project relates to the discipline of Project management.
+  - Know the significant new features of Project 2010.
+  - Navigate to the primary views available using the Ribbon.
+  - Choose Views that display task, resource, or assignment information.
+  - Select table within views to change the information that is available to see and edit.
+  - Relate the features of Project to the 5 steps for building a plan in Project.
+
+  After completing this module, students will be able to&#58;
+  - Have a fundamental understanding of how Microsoft Project will help them track their projects
+  - Understand what is new in Project 2010 and how it will increase their productivity
+  - Learn how the ribbon will help them get the most of out of this productivity tool
+  - Learn how to quickly changes views and see what is going on with their projects
+  - Understand the 5 essential steps in building a successful project plan
+
+
+  ### Module 2&#58; A Quick and Easy Overview of Managing with Project
+  This module demonstrates the steps required to create and use Project through the life cycle of a project.
+  #### Lessons
+  - Create a new project and prepare it for data entry.
+  - Enter project tasks.
+  - Sequence the tasks.
+  - Define resources.
+  - Estimate Task duration and assign resources.
+  - Baseline the project.
+  - Track project progress.
+
+  After completing this module, students will be able to&#58;
+  - Prepare a new project plan and set the date and other basic information
+  - Enter detailed project information
+  - Understand how to sequence tasks
+  - Understand and Define resource types
+  - Assign resources to tasks
+  - Understand the benefits of baselining a project or specific tasks
+  - Understand the basics of how to track project progress
+
+
+  ### Module 3&#58; Setting Up a Project
+  This module explains how to create a new project and establish the basic constraints that Project will use for its calculations.
+  #### Lessons
+  - Use multiple methods to create a new project, including opening an Excel file and a SharePoint Tasks list.
+  - Establish one or more calendars to constrain resource availability.
+  - Configure Project to calculate the schedule from the Start Date forward, or from the Finish Date backward.
+
+
+  #### Lab &#58; Setting Up a Project
+  After completing this module, students will be able to&#58;
+  - Set up a Project Calendar
+  - Make custom calendars
+  - Establish the Project Date for the Project
+  - Establishing and setting constraints on Project tasks
+
+
+  ### Module 4&#58; Manually Schedule vs. Auto Schedule
+  This module explains how to manually schedule project tasks and how to leverage the auto schedule feature.
+  #### Lessons
+  - Describe which project functions are turned off for tasks using Manually Schedule mode.
+  - Change the task mode from Manually Schedule to Auto Schedule and back.
+  - Identify tasks that are in Manually Schedule mode by the task mode column and shape on the Gantt chart.
+  - Describe situations that are particularly appropriate for using Manually Schedule.
+  - Describe the limitations that a user must be aware of when using Manually Schedule mode.
+
+
+  #### Lab &#58; Exploring Manually Schedule mode
+  After completing this module, students will be able to&#58;
+  - Understand how to switch between Manually Schedule and Auto Scheduling.
+  - Understand when to use Manually Schedule.
+  - Understand the limitations of Manually Scheduling
+
+
+  ### Module 5&#58; Creating a Work Breakdown Structure
+  This module explains how to create a useful work breakdown structure and enter it into Project.
+  #### Lessons
+  - Build and use summary and subordinate tasks.
+  - Understand and use milestones.
+  - Develop WBS Outlines.
+  - Assign completion criteria.
+  - Evaluate the WBS.
+  - Understand and use WBS templates.
+
+
+  #### Lab &#58; Manipulate a WBS
+
+  After completing this module, students will be able to&#58;
+  - Build and use summary and subordinate tasks
+  - Understand and use milestones
+  - Develop WBS outlines
+  - Assign completion criteria
+  - Evaluate the WBS
+  - Understand and use WBS templates
+
+
+  ### Module 6&#58; Identifying Task Relationships
+  This module explains the rules for establishing dependency links between tasks and presents the features to use Project to establish and display these dependencies.
+  #### Lessons
+  - Understand and use the types of task relationships.
+  - Understand and use various methods to create relationships.
+  - Determine and display task sequence.
+  - Understand and use lag, lead, and delay.
+
+
+  #### Lab &#58; Display the sequence
+
+  After completing this module, students will be able to&#58; Understand the rules for establishing dependency links between tasks and be able to use Project to establish and display these dependencies.
+
+  Participants will be able to use Project to&#58;
+  - Understand and use the types of task relationships.
+  - Understand and use various methods to create relationships.
+  - Determine and display task sequence.
+  - Understand how to use Lag, Lead and Delay.
+
+
+  ### Module 7&#58; Defining resources within Project
+  This module explains how to enter resources and specific resource information in Microsoft Project and assign resources to specific tasks.
+  #### Lessons
+  - Define individual resources that will be used on the project.
+  - Record the cost(s) of using each type of resource.
+  - Record the limit of availability for each type of resource by establishing a resource calendar and defining the maximum units of that resource.
+
+
+  #### Lab &#58; Resource Calendar and Availability
+
+  After completing this module, students will be able to&#58; enter resources and resource related information into Project.
+  - Define individual resources that will be used on the project.
+  - Record the cost(s) of using each type of resource.
+  - Record the limit of availability for each type of resource by establishing a resource calendar and defining the maximum units of that resource.
+
+
+  ### Module 8&#58; Making Work Package Estimates
+  This module explains how Microsoft Project calculates task duration, task work (effort) and task resources. Students will be able to choose among three task types as they enter task estimates and they will know which task type is appropriate for the type of estimate they are making.
+  #### Lessons
+  - Enter estimates for duration and costs for each task.
+  - Distinguish between task types and describe when each is appropriate.
+  - Describe the relationship between work, units, and duration.
+  - Describe the way Effort Driven scheduling is affected by work, units, and duration.
+  - Assign tasks to resources using the Team Planner view.
+
+
+  #### Lab &#58; Work, Duration and Labor
+
+  After completing this module, students will be able to&#58; enter estimates for duration and costs for each task.
+  - Assign values for resources, duration and labor.
+  - Understand types.
+  - Understand Effort Driven scheduling.
+  - Understand material resources and their costs to a project plan.
+
+
+  ### Module 9&#58; Creating an Initial Schedule
+  This module explains how Project calculates a schedule based on task relationships and task duration. Students will understand the purpose of identifying critical path tasks and will be able to identify schedule float within the project.
+  #### Lessons
+  - Calculate the Schedule&#58; The Theory Behind the Software.
+  - Critical Path.
+  - Schedule Float.
+  - Constraints.
+  - Deadlines.
+  - Task Relationships and Crashing a Schedule.
+  - Milestones.
+  - Task Inspector.
+
+
+  #### Lab &#58; Calculating an Initial schedule
+
+  After completing this module, students will be able to calculate float and identify a project’s critical path.
+
+  ### Module 10&#58; Create a Resource Leveled Schedule
+  This module explains how over-allocated resources create unrealistic schedules and shows methods for rescheduling in order to create a realistic schedule based on resource availability.
+  #### Lessons
+  - Project Statistics.
+  - Resource Graph and Resource Sheet.
+  - Resource Usage View.
+  - Resource Allocation.
+  - Task Usage View.
+  - Realistic Resource Planning.
+  - Resource Leveling.
+  - Leveling Settings.
+  - Leveling Settings Defined - Leveling Calculations.
+  - Leveling Settings Defined - Resolving Over-allocations.
+  - The Leveling Gantt Demonstrates Results of Leveling.
+  - Manual Leveling.
+
+
+  #### Lab &#58; Resource Leveling
+
+  After completing this module, students will be able to&#58;
+  - Adjust a project schedule to account for limited people and other resources.
+  - View the overall cost and schedule of a project.
+  - Identify resources that are over- allocated for a project schedule.
+  - Use multiple ways to adjust tasks and assignments to remove over- allocation for any resource.
+
+
+  ### Module 11&#58; Managing the Project
+  This module explains how to use Project to control a project. Students will save their plan to a baseline and see how entering actual task performance data enables them to view differences between planned and actual performance. This module has 3 lab exercises to complete.
+  #### Lessons
+  - Tracking Field Definitions.
+  - Creating the Project Baseline.
+  - Displaying the Baseline on a Gantt Chart.
+  - The Tracking Gantt.
+  - Recording Progress Using % Complete.
+  - Updating Task and Resource Status.
+  - Recording Progress Using Actual Work.
+  - Variance.
+  - Percent Complete.
+  - Cost.
+  - Evaluating and Displaying Variance.
+  - Scheduling interruptions.
+  - Splitting tasks.
+  - Rescheduling Work.
+
+
+  #### Lab &#58; The Baseline
+
+  #### Lab &#58; Baselining and Tracking Performance
+
+  #### Lab &#58; Variance
+
+  After completing this module, students will be able to&#58;
+  - Set a baseline.
+  - Enter and manage project performance data.
+  - Pick a tracking method.
+  - Perform variance analysis.
+
+
+  ### Module 12&#58; Formatting Output and Printing Reports
+  This module explains how to format the many views and reports available in Project.
+  #### Lessons
+  - Formatting the Timeline
+  - Using the Gantt Wizard
+  - Visual Reports
+  - Standard Reports
+  - Custom Reports
+  - Editing a Custom Report
+  - Reports
+  - Grouping, sorting, and filtering
+  - Copy Picture to Office Wizard
+  - More Formatting for the Gantt Chart
+  - Reporting Against Budget
+  - Creating a Budget
+
+
+  #### Lab &#58; Reporting&#58; Grouping
+
+  #### Lab &#58; Reporting&#58; Using Standard and Custom reports
+
+  After completing this module, students will be able to&#58;
+  - Create standardized reports
+  - Customize a variety of standard reports
+  - Use Visual Reports
+  - Export reports to a variety of formats
+
+
+  ### Module 13&#58; Managing Multiple Projects
+  This module explains how to view many projects as parts of one very large project in order to gain new views on resource availability and task relationships among projects.
+  #### Lessons
+  - Integrating Multiple Projects
+  - Consolidating Project Files
+  - Resource Pools
+  - Summary
+
+
+  #### Lab &#58; Consolidation of Shared Resources
+
+  After completing this module, students will be able to&#58;
+  - Use common resources among multiple projects
+  - Link tasks between projects
+  - Create a consolidated view of multiple projects
+
+
+  ### Module 14&#58; Advanced Topics
+  This module explains how to leverage some of the advanced features of Project.
+  #### Lessons
+  - Customizing WBS Prefix
+  - Applying Grouping and Grouping customized Fields
+  - Applying Filtering functions
+  - Leveraging Global Templates
+  - Identify resource delay within a Task
+  - Applying Deadlines to a project
+
+
+  #### Lab &#58; Grouping
+
+  After completing this module, students will be able to take advantage of the advanced features of Project.
+
+  ### Module 15&#58; Summary
+  This module provides an overview of the topics presented in the course.

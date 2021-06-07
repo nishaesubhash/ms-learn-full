@@ -1,0 +1,102 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use shapes to create enhanced custom report visualizations.
+- skill: Understand the use of Visual Basic programming in SSRS reports.
+- skill: Use and support Visual Basic code in the SSRS reporting effort.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  In this 1-day course, students will continue their learning on report writing with Microsoft® SQL Server® Report Builder and SSRS. The focus of this course is enhancing custom report visualizations and the use of Visual Basic programming in SSRS reporting. Supporting Visual Basic programming in reports is a normal requirement in today’s reporting landscape and this course presents the information you'll need using group discussions, worksheets, practices, demonstrations, and lab activities. Report Builder is available for all supported versions of Microsoft SQL Server.
+
+  #### Audience profile
+  The primary audience for this course are persons experienced with Report Builder and SSRS. The secondary audience for this course are experienced Report Designer (SSRS) report authors. Course participants may be business analysts, programmer analysts, data analysts, database administrators, or IT professionals.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Familiarity with Windows.
+  - Creating and navigating folders.
+  - Opening programs.
+  - Manipulating windows.
+  - Copying, pasting, and formatting text.
+  - Saving files.
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1 or have equivalent experience with basic database concepts.
+outlineSection: |-
+  ### Module 1&#58; Creating Enhanced Visualizations
+  This module introduces report formatting techniques which create enhanced visualizations using shapes, rectangles, images, and data regions. To support customized and enhanced reporting visualizations, this course
+  requires a review of specific properties which support the control of displayed items in a report.
+  #### Lessons
+  - The Importance of Shapes in Reporting
+  - Enhanced Visualizations Using the Rectangle
+  - Control the Display of Report Items
+  - Creating Tiles in a Tablix
+
+
+  #### Lab &#58; Creating Enhanced Visualizations
+  - Create Tiles in a Report with Rectangles
+  - Create Tiles in a Tablix with Text Boxes
+  - Create Enhanced Visualizations with Text Box Tiles, Tablix Tiles, and Tablixes
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features, uses, and approaches to using shapes in reporting.
+  - Have a more thorough understanding of the rectangle tool.
+  - Manipulate report item properties which have an impact on a report item’s display.
+  - Transform data regions by displaying tiles rather than text boxes.
+
+
+  ### Module 2&#58; Visual Basic
+  This module introduces the Microsoft Visual Basic programming language. The goal of this module is to make the programming language and its use meaningful to non-programmers. This module uses the course
+  handbook, group discussions, worksheets, and reviews to not only introduce Visual Basic programming, but to also to understand what the code is doing.
+  #### Lessons
+  - The Visual Basic Programming Language
+  - Visual Basic Language Components
+  - Decision Structures and Procedures
+
+
+  #### Lab &#58; Working with Visual Basic
+  - Convert Expressions to Visual Basic Procedures
+  - Work with Value Types in Reports
+  - Work with Reference Types in Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of Visual Basic.
+  - Describe the Visual Basic language elements.
+  - Recognize Visual Basic statements and their purpose.
+  - Use decision structure to apply workflow logic.
+  - Convert business logic into Visual Basic code.
+
+
+  ### Module 3&#58; Using Visual Basic in SSRS Reporting
+  Report writers can take advantage of the Visual Basic language in three different ways in the Report Builder application. Whether the Visual Basic programming language was incorporated by design or inherited through existing reports, report writers need to be aware of how the features can be applied to achieve the reporting goal. Visual Basic is the required language for Report Builder.
+  #### Lessons
+  - Visual Basic in SSRS Reports
+  - Calling Visual Basic code from the Report
+  - Using External Visual Basic code in a Report
+
+
+  #### Lab &#58; Using Visual Basic in Reports
+  - Use Conditional Logic with Literals, Fields, and Report Items
+  - Create a Report using Visual Basic
+  - Update a Report to Use External Code
+  - Troubleshoot Visual Basic Errors in a Report
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features and uses of Visual Basic in SSRS reporting solutions.
+  - Recognize the three implementations of Visual Basic code available to a report.
+  - Create Visual Basic variables, constants, expressions, and procedures.
+  - Link and consume an external assembly with custom code in a report.
+  - Troubleshoot Visual Basic errors in a report.

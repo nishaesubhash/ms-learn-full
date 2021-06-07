@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div><div><strong>The content of this exam was updated on July 13, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>The content of this exam was updated on March 10, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   </div>
   
   Candidates for this exam aspire to improve productivity by understanding the capabilities of the Power Platform, automating basic business processes with Power Automate, performing basic data analysis with Power BI, acting more effectively by creating simple Power Apps experiences, and creating powerful chatbots by using Power Virtual Agents.
@@ -34,7 +34,7 @@ providers:
 levels:
 - beginner
 skills:
-- The content of this exam was updated on July 13, 2020. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on March 10, 2021. Please download the exam skills outline below to see what changed.
 - Describe the business value of Power Platform (15-20%)
 - Identify the core components of Power Platform (15-20%)
 - Demonstrate the capabilities of Power BI (15-20%)
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

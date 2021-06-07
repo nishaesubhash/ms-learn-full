@@ -1,0 +1,135 @@
+### YamlMime:Course
+title: Managing trust relationships with multiple business identity providers (basics)
+metadata:
+  title: 'Course 55091-A: Managing trust relationships with multiple business identity providers (basics)'
+  description: 'Course 55091-A: Managing trust relationships with multiple business identity providers (basics)'
+uid: course.55091
+courseNumber: '55091-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Establish an organizational Enterprise Security Service Bus
+- skill: Create a Relying Party
+- skill: Establish ACS to delegate authentication
+- skill: Forward every request from unauthenticated users to ACS
+- skill: Broker authentication
+- skill: Change access rules in response to programmatic events
+- skill: Produce a securable resource
+- skill: Configure and code Input and Output claims transformation
+- skill: Broker Security Token Services from Yahoo and Microsoft
+- skill: Establish a tokenized communication between Azure Namespaces and WS-Federation sign-in endpoints
+- skill: Establish a Microsoft Azure Active Directory (MAAD) as an (additional) identity provider for any application associated/interfacing with their namespace
+- skill: Create an Azure Identity Provider via Namespace association
+- skill: Establish Azure Active Directory data streams into Name Space connected Applications
+- skill: Register a MAAD Graph Database as an additional identity provider for a namespace that controls global access and SSO
+- skill: Execute basic steps to establish MAAD as an SSO identity providers for web application
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  Decoupling cloud service from all the complexity maintaining a direct relationship with all the identity providers. Any identity provider can use its own authentication protocol and the authentication results will get normalized and once established will Access Control Services (ACS) care about authentication and authorization including provisioning of a UI for the user to choose among all the recognized identity providers. Claims will be accessible for the application developer as well as for SSO ITPro to establish easy authentication and/or authorization without the necessity to know authentication protocols in detail. Management of different and multiple business identity providers will be handled in a unique fashion without the necessity to write different code. This relationship is called ‘normalizing attributes’ and will be realized by you via the Azure Management APIs.
+
+  #### Audience profile
+  This course is intended for Architects, IT Professional (IT Pros) and Developers. 
+  IT Professional (IT Pros) who also create software applications, build or write computer code or develop Web sites or complex macros as a secondary responsibility and Developers who create software applications, develop web sites and create complex macros. Both should have a minimum of three months programming experience in C# and have basic Visual Studio 2010 or Visual Studio 2012 or Visual Studio 2013 navigation skills as well as Architects tasked with transitioning Identity and Access from classic on-Premise or non-Azure datacenters into Microsoft Azure Cloud or tasked to build secure IaaS/PaaS Hybrids between on-premise and Microsoft Azure Cloud.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Knowledge and Skills to accomplish a given assignment in Visual Studio when using the General Development Settings collection in Visual Studio 2010 or Visual Studio 2012 or Visual Studio 2013. There is no prerequisite nor a requirement to use a credit card to establish a Microsoft Azure Account or to have a Microsoft Azure Account at all. Every student receives one or more than one dedicated cloud service(s) in VBIC’s cloud based virtual classroom. Student’s can be virtually anywhere and at different timezones and require only a Windows based OS device to utilize their Remote Desktop Connection tool, available on all Microsoft Windows Desktop operating systems &gt; Windows XP.
+outlineSection: |-
+  ### Module 1&#58; Integration of traditional ASP.NET Web Sites into Enterprise Security Service Bus (ESSB)
+  Decoupling cloud services from all the complexity by maintaining a direct relationship with all the identity providers is the topic of this module. Each identity provider can use its own authentication protocol and the authentication results will get normalized and once established will Access Control Services (ACS) care about authentication and authorization including provisioning of a UI for the user to choose among all the recognized identity providers. Claims will be accessible for the application developer as well as for SSO ITPros to establish easy authentication and/or authorization without the necessity to know authentication protocols in detail. Management of different and multiple business identity providers will be handled in a unique fashion without the necessity to write different code. This relationships is called ‘normalizing attributes’ and will be realized by you via the Azure Management APIs.
+  #### Lessons
+  - Establish first steps to build an organizational Enterprise Security Service Bus
+  - Create a Relying Party
+  - Establish ACS to delegate authentication
+  - Forwarding every request from unauthenticated users to ACS
+  - Broker authentication
+  - Change access rules in response to programmatic events
+
+
+  #### Lab &#58; Logon with your VBIC OA
+
+  #### Lab &#58; First step to establish an organizational Enterprise Security Service Bus
+
+  #### Lab &#58; ACS to delegate authentication
+
+  #### Lab &#58; Relying Party
+
+  #### Lab &#58; Forwarding every request from unauthenticated users to ACS
+
+  #### Lab &#58; Brokering authentication
+
+  #### Lab &#58; Change access rules in response to programmatic events
+  After completing this module, students will be able to&#58;
+  - Hands on create first steps in order to establish an organizational Enterprise Security Service Bus
+  - Create a Relying Party
+  - Establish ACS to delegate authentication
+  - Forward every request from unauthenticated users to ACS
+  - Broker authentication
+  - Change access rules in response to programmatic events
+
+
+  ### Module 2&#58; Integration of public identity provider into Enterprise Security Service Bus (ESSB)
+  Advanced procedures aimed to decouple cloud service from all the complexity while maintaining a direct relationship with a multiplicity of identity providers is the core learning unit of this module. Any identity provider can use its own authentication protocol and the authentication results will get normalized and once established will Access Control Services ACS care about authentication and authorization, including providing a UI for the user of this multiple identity SSO system enabling them to choose among all the Azure recognized identity providers. Claims will be accessible for the developer to establish easy authorization without the necessity to know authentication protocols in detail. Management of different and multiple business identity providers will be handled in a unique fashion without the necessity to write different code. This relationship is called ‘normalizing attributes’ and will be realized by you via the Microsoft Azure Portal and the management API. In addition to the exercise already executed that did provide know how to integrate business directories into a Federate Identity meshwork will you now do a selection of the very same steps to task Microsoft Azure to serve users coming from Facebook or Microsoft Live ID if they want to use your web site.
+  #### Lessons
+  - Hands-on establish advanced steps to create an organizational Enterprise Security Service Bus
+  - Create a Relying Party
+  - Establish ACS to delegate authentication
+  - Forwarding every request from unauthenticated users to ACS
+
+
+  #### Lab &#58; Produce a securable resource
+
+  #### Lab &#58; Logon with your VBIC OA
+
+  #### Lab &#58; Input and Output claims transformation
+
+  #### Lab &#58; Brokering Security Token Services from Yahoo and Microsoft
+  After completing this module, students will be able to&#58;
+  - First step to establish an organizational Enterprise Security Service Bus
+  - Create a Relying Party
+  - Establish ACS to delegate authentication
+  - Forwarding every request from unauthenticated users to ACS
+
+
+  ### Module 3&#58; Develop and publish applications that integrate with Microsoft Azure Active Directory (MAAD)
+  In this module a pre-existing Microsoft Azure Active Directory (MAAD) repository is available in VBIC’s virtual classroom, consisting of users to be interfaced to a namespace and released for application to be linked to this Access Control namespace. As a result will the Microsoft Azure Active Directory be available as an (additional) identity provider for any application associated/interfacing with this namespace. Applications that are connected to your access control namespace become interfaced with the VBIC provided Microsoft Azure Active Directory (MAAD). MAAD generated tokens will be transformed into ACS tokens, available for authentication and authorization purposes for user identities, application identities and data identities. You’ll define the recipient for the success token, signaling a positive authentication event, as a URL address, parameterized as an App. You’ll further define countermeasure preventing man-in-the-middle attacks by defining the App ID URI, by utilizing a control parameter that has to be delivered with the MAAD token. The MAAD user token must be delivered in conjunction with the entityID of the Access Control namespace, otherwise ACS would interpret it as a token reused from a man-in-the-middle attack. As ACS does not call the Graph API is there no SSO with read or write access to MAAD at all, just MAAD providing additional identities via token, based on a fixed selection in ACS. Calling MAAD Graph API and establishing a global SSO and a multitenant Single Sign-Up read or write access to MAAD is covered in Course 55086AC - Enterprise SSO - cloud audited deployment for distributed onsite-offsite development.
+  #### Lessons
+  - Establish a tokenized communication between Azure Namespaces and WS-Federation sign-in endpoints
+  - Establish a Microsoft Azure  Active Directory (MAAD) as an (additional) identity provider for any application associated/interfacing with your namespace
+
+
+  #### Lab &#58; Logon with your VBIC OA
+
+  #### Lab &#58; Azure Identity Provider via Namespace association
+
+  #### Lab &#58; Establish Azure Active Directory data streams into Name Space connected Applications
+
+  #### Lab &#58; MAAD Graph Database registration as an additional identity provider for your namespace that controls global access and SSO
+
+  #### Lab &#58; MAAD identity providers as SSO for web application
+  After completing this module, students will be able to&#58;
+  - Establish a tokenized communication between Azure Namespaces and WS-Federation sign-in endpoints
+  - Establish Microsoft Azure Active Directory (MAAD) as an (additional) identity provider for any application associated/interfacing with their namespace
+
+
+  ### Module 4&#58; Assessment (if time permits)&#58; Add French, German, English and Italian as a multilingual integration of traditional ASP.NET Web Sites into your Enterprise Security Service Bus (ESSB)
+  Add French, German, English and Italian as a multilingual integration of traditional ASP.NET Web Sites into your Enterprise Security Service Bus (ESSB)
+  #### Lessons
+  - Code a multilingual Enterprise Security Service Bus (ESSB)
+
+
+  #### Lab &#58; Logon with your VBIC OA
+
+  #### Lab &#58; Repeat Module 1 from Step 1 until step 146
+
+  #### Lab &#58; Modify Module 1 so your ESSB becomes multilingual and supports local STS claims originating from Italian, French, German and English office locations or customers in these countries.
+
+  #### Lab &#58; Task 4&#58; Inform your instructor and VBIC Help Desk (info@vbic.net) if you have reached step 146 while accomplished Lab 3. Logout and close your RDP session.
+  After completing this module, students will be able to&#58;
+  - The Assessment is only optional, only if time permits, voluntary at the discretion of the student and does not have a solution folder as there are many ways to achieve the to be assessed target of evaluation and is subject of evaluation by instructor or VBIC staff
+  - If assessment is taken by students will student receive either an assessment from instructor about assessment passing during class or will receive a follow up email for assessment validation result from/by VBIC staff, 5 days after last day of class.

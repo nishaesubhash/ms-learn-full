@@ -1,0 +1,168 @@
+### YamlMime:Course
+title: Introduction to Microsoft Outlook 2016
+metadata:
+  title: 'Course 55178-A: Introduction to Microsoft Outlook 2016'
+  description: 'Course 55178-A: Introduction to Microsoft Outlook 2016'
+uid: course.55178
+courseNumber: '55178-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with new features in Outlook
+- skill: Work with the Ribbon, Tabs, Groups, and Commands.
+- skill: Work with the Backstage View.
+- skill: Set up accounts and work with messages.
+- skill: Work with calendars and contacts.
+- skill: Use the Tell Me feature and other new features in 2016
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-outlook
+summary: |-
+  This Microsoft Outlook training class introduces the 2016 interface and gets students up and running quickly working with messages, calendars, and contacts.
+
+  #### Audience profile
+  This course is intended for students who have little or no familiarity with Microsoft Outlook 2016 or more experienced Word users who want to learn the topics covered in this course in the 2016 interface.
+outlineSection: |-
+  ### Module 1&#58; The Outlook 2016 Interface
+  This module explains how to work with the Ribbon, tabs, groups, commands, and the Backstage view.
+  #### Lessons
+  - Overview of the Outlook Interface
+  - The Ribbon
+  - Tabs, Groups, and Commands on the Ribbon
+  - The Backstage View (File Menu)
+
+  After completing this module, students will be  able to&#58;
+  - Navigate the Outlook interface.
+  - Work with tabs, groups, and commands on the Ribbon.
+  - Work with the Backstage View.
+
+
+  ### Module 2&#58; Performing Popular Tasks in Outlook 2016
+  This module explains how to perform a variety of basic tasks in Microsoft Outlook 2016.
+  #### Lessons
+  - Setting Up an Email Account
+  - Exercise&#58; Setting Up an Email Account
+  - Open Email Messages
+  - Open Email Messages
+  - Reply to and Forward Email Messages
+  - Preview and Save an Attachment
+  - Exercise&#58; Opening and Replying to a Message
+  - Print a Message
+  - Delete a Message
+  - Save a Message in an Alternate Format
+
+  After completing this module, students will be able to&#58;
+  - Set up an email account in Outlook.
+  - Open email messages.
+  - Reply to and forward email messages.
+  - Print and save an attachment.
+  - Print messages.
+  - Delete messages.
+  - Save a message in an alternate format.
+  - Delegate access.
+  - Customize the Navigation pane.
+
+
+  ### Module 3&#58; Working with Messages
+  This module explains how to work with messages in Microsoft Outlook 2016.
+  #### Lessons
+  - Compose a Message
+  - Add an Attachment
+  - Add Voting Options
+  - Check Spelling and Grammar
+  - Format Text
+  - Use Microsoft Word to Edit Messages
+  - Insert a Hyperlink or Image in a Message
+  - Send a Message
+  - Exercise&#58; Creating and Sending a New Message
+
+  After completing this module, students will be able to&#58;
+  - Compose a message.
+  - Add an attachment to a message.
+  - Add voting options to a message.
+  - Check the spelling and grammar in a message.
+  - Format text.
+  - Use Microsoft Word to edit email messages.
+  - Insert a hyperlink in a message.
+  - Send a message.
+
+
+  ### Module 4&#58; Working with the Calendar
+  This module explains how to work with the Calendar in Microsoft Outlook 2016.
+  #### Lessons
+  - Change Your Calendar View
+  - Set Up Availability Status
+  - Exercise&#58; Setting Up Your Calendar
+  - Print Your Schedule
+  - Share Your Calendar
+  - Schedule a Meeting
+  - Make Updates to Meetings
+  - Cancel a Meeting
+  - Reply to a Meeting Invitation
+  - Schedule an Appointment
+  - Make Updates to an Appointment
+  - Create Calendar Groups
+  - Delete a Calendar
+  - Work with Calendar Items
+  - Using Multiple Calendars
+  - Exercise&#58; Scheduling a Meeting
+
+  After completing this module, students will be able to&#58;
+  - Change the calendar view.
+  - Set up availability status.
+  - Set up calendar availability.
+  - Print your schedule.
+  - Schedule a meeting.
+  - Make updates to meetings.
+  - Reply to a meeting invitation.
+  - Schedule an appointment.
+  - Make updates to an appointment.
+  - Create calendar groups.
+  - Delete a calendar.
+  - Work with calendar items.
+  - Use multiple calendars.
+
+
+  ### Module 5&#58; Organizing Contacts
+  This module explains how organize contacts in Microsoft Outlook 2016.
+  #### Lessons
+  - Add, Delete, Import, and Print a Contact
+  - Update a Contact
+  - Exercise&#58; Adding and Updating a Contact
+  - Locate a Contact
+  - Sort Contacts
+  - Work with Contact Groups
+  - Manage Multiple Address Books
+  - Perform a Mail Merge
+  - Exercise&#58; Performing a Mail Merge
+
+  After completing this module, students will be able to&#58;
+  - Add a contact.
+  - Update a contact.
+  - Share a contact.
+  - Locate contacts.
+  - Sort and find contacts.
+  - Work with contact groups.
+  - Work with multiple address books.
+  - Perform a mail merge.
+
+
+  ### Module 6&#58; New Features in Outlook 2016
+  This module explains how to use some new features in Microsoft Outlook 2016.
+  #### Lessons
+  - Tell Me
+  - Improvements to Attachments
+  - New Chinese and Japanese Fonts
+  - The Email Address Internationalization (EAI) Feature
+
+  After completing this module, students will be able to&#58;
+  - Use the Tell Me feature.
+  - Use the email attachment feature.
+  - Use improved fonts available in Outlook 2016.
+  - Use the EAI feature.

@@ -1,0 +1,240 @@
+### YamlMime:Course
+title: Microsoft Lync 2013 Depth Support Engineer
+metadata:
+  title: 'Course 55070-A: Microsoft Lync 2013 Depth Support Engineer'
+  description: 'Course 55070-A: Microsoft Lync 2013 Depth Support Engineer'
+uid: course.55070
+courseNumber: '55070-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Effectively troubleshoot the Lync Server system with an understanding of architectural dependencies
+- skill: Identify the most effective tool to analyze and troubleshoot a Lync Server 2013 infrastructure in various support scenarios
+- skill: Troubleshoot Lync authentication, Persistent Chat, Presence, and Address Book issues for internal users
+- skill: Troubleshoot federation and remote connectivity issues related to firewall, reverse proxy, and Edge Server configurations
+- skill: Troubleshoot web and A/V conferencing for all users
+- skill: Troubleshoot Enterprise Voice, including configuration, call setup and teardown, and connection to external telephony systems
+- skill: Troubleshoot voice call quality and bandwidth issues
+- skill: Troubleshoot Lync Server voice applications
+- skill: Troubleshoot integration issues with Exchange and SharePoint
+- skill: Troubleshoot Lync Server HA / DR issues
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-lync-server
+summary: |-
+  This five-day instructor-led class takes support engineers beyond design and deployment to troubleshooting Microsoft Lync Server 2013. You will review Lync Server architecture from the perspective of a Depth Support Engineer in order to support customers with Lync Server service issues. The course provides a toolkit for the Depth Support Engineer, which includes Microsoft and third-party tools available for troubleshooting Lync Server. You will use a variety of these tools and resources to troubleshoot real-world scenarios related to Enterprise Voice, conferencing, application sharing, IM, and Presence. As part of the hands-on labs, you will derive, articulate, and implement solutions to trouble tickets for common Lync Server issues and practice walking a typical customer through a solution.
+  This course can assist you in preparation for Exam 74-338&#58; Lync 2013 Depth Support Engineer.
+
+  #### Audience profile
+  This course is intended for the following audience&#58;
+  - IT support consultants and telecommunication support professionals who provide support services for unified communication solutions
+  - Support professionals who want to attain the troubleshooting skills required to become a Depth Support Engineer
+  - Helpdesk personnel and administrators who support a Lync Server 2013 environment and wish to deepen their knowledge and improve their troubleshooting skills
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Attended Core Solutions of Microsoft Lync Server 2013 (20336) and Enterprise Voice and Online Services with Microsoft Lync Server 2013 (20337)
+  - Core Solutions of Microsoft Lync Server 2013 (exam 70-336) and Enterprise Voice & Online Services with Microsoft Lync Server 2013 (exam 70-337) certifications
+  - Proficiency in Active Directory Domain Services, Windows Server, data networks, Microsoft Exchange Server, and telecommunication standards that support Lync Server 2013 configurations
+  - Knowledge of UC endpoints, including Lync 2013 clients and Lync Phone Edition
+  - Knowledge of SQL Server
+  - Knowledge of VoIP technologies including SIP
+  - Knowledge of formal troubleshooting methodology
+  - Knowledge of DNS, PKI and Digital Certificates
+  - A minimum two year's experience with Microsoft Lync technologies and various deployment and configurations
+outlineSection: |-
+  ### Module 1&#58; Reviewing Lync Server 2013 Architecture
+  This module explains how to analyze the Lync Server 2013 infrastructure to assist in troubleshooting configuration and installation issues. It also describes how to recognize DNS and certificate configuration issues. Additionally, it explores SQL database troubleshooting.
+  #### Lessons
+  - Lync Server 2013 Architecture Dependencies
+  - Microsoft Supported Architectures
+  - Name Resolution and Certificates
+  - Database Management and SQL High Availability
+  - Advanced Role Based Access Control Assignment
+
+
+  #### Lab &#58; Introduction to Contoso's Environment
+
+  #### Lab &#58; Troubleshooting Lync 2013 Dependencies
+  After completing module 1, students will be able to&#58;
+  - Troubleshoot the installation process
+  - Identify deviations from supported architectures
+  - Troubleshoot advanced enterprise DNS issues
+  - Analyze and troubleshoot certificate issues
+  - Troubleshoot SQL database issues
+  - Analyze the state of an SQL mirror and perform failover and failback
+
+
+  ### Module 2&#58; Developing a Depth Support Toolkit
+  This module explains how to use the tools that Microsoft has provided to analyze and troubleshoot a Lync Server 2013 infrastructure.
+  #### Lessons
+  - Logging
+  - Network and Media Traffic Analysis
+  - Lync Server Control Panel
+  - Lync Server 2013 Resource Kit and Debugging Tools
+  - Built-in Server Tools
+  - SIP Primer
+
+
+  #### Lab &#58; Using Depth Support Tools
+  After completing module 2, students will be able to&#58;
+  - Use the built-in logging tools for Lync Server 2013, including Centralized Logging Service
+  - Identify the correct CLS scenario related to a problem
+  - Analyze logging data using Snooper
+  - Analyze and evaluate network traffic using Microsoft Network Monitor
+  - Troubleshoot failing media establishment between endpoints
+  - Identify tools included with Lync Server 2013 Resource Kit and Lync 2013 Debugging Tools
+  - Analyze Lync Server 2013 and Lync 2013 event logs
+  - Identify problems using Event Viewer
+
+
+  ### Module 3&#58; Troubleshooting Client Authentication, Persistent Chat, and Presence
+  This module explains how to troubleshoot Lync authentication. It also describes how to analyze and resolve issues with Persistent Chat, Presence, and Address Book related issues.
+  #### Lessons
+  - Client Issues
+  - Persistent Chat
+  - Presence and Address Book Issues
+  - Archiving Issues
+  - VDI Issues
+
+
+  #### Lab &#58; Troubleshooting Lync Client Access
+
+  #### Lab &#58; Troubleshooting Client-Related Issues
+  After completing module 3, students will be able to&#58;
+  - Troubleshoot sign in and client authentication
+  - Troubleshoot client policy
+  - Troubleshoot Persistent Chat clients and services
+  - Resolve unexpected presence states and Address Book issues
+  - Understand and troubleshoot the VDI plugin
+
+
+  ### Module 4&#58; Troubleshooting Remote Connectivity
+  This module explains how to troubleshoot federation, including XMPP, Skype, and Public IM Connectivity. It also describes appropriate external port configurations and how to analyze and troubleshoot external connection issues, as well as common Edge and reverse proxy misconfigurations.
+  #### Lessons
+  - Edge Remote Connectivity
+  - Federation
+  - Reverse Proxy
+  - Mobile Devices
+  - Port Configuration
+  - Remote Connectivity Testing
+
+
+  #### Lab &#58; Troubleshooting Edge Connectivity
+
+  #### Lab &#58; Troubleshooting Reverse Proxy
+  After completing module 4, students will be able to&#58;
+  - Troubleshoot Edge configuration and remote connectivity problems
+  - Troubleshoot open, direct, and enhanced federation
+  - Troubleshoot reverse proxy
+  - Troubleshoot mobile device settings
+  - Configure and troubleshoot firewall port issues
+  - Describe and use remote connectivity tools
+
+
+  ### Module 5&#58; Troubleshooting Conferencing
+  This module explains how to troubleshoot the conferencing life cycle, including MCU health, the join launcher, and Lync Web App. It also describes troubleshooting external conferencing data problems.
+  #### Lessons
+  - Core Conferencing Modalities
+  - Configuration of Office Web Apps Server
+  - Conferencing Life Cycle
+  - Conferencing Data
+  - Lync Room System
+
+
+  #### Lab &#58; Troubleshooting Conferencing
+  After completing module 5, students will be able to&#58;
+  - Describe core conferencing modalities
+  - Troubleshoot Office Web Apps issues
+  - Troubleshoot application sharing issues
+  - Analyze bandwidth requirements
+  - Describe Lync Room System and potential issues
+
+
+  ### Module 6&#58; Troubleshooting Enterprise Voice Configuration Issues
+  This module explains how to analyze dial plans, routes, PSTN usages, session management, and media bypass in order to resolve call issues. Additionally, problems with call setup and teardown will be analyzed and resolved.
+  #### Lessons
+  - Enterprise Voice Configuration
+  - Call Setup and Teardown
+  - Connection to External Telephony Systems
+
+
+  #### Lab &#58; Troubleshooting Dial Plans, Routing and Trunks
+  After completing module 6, students will be able to&#58;
+  - Troubleshoot Voice configuration
+  - Troubleshoot call setup and teardown
+  - Troubleshoot gateway and trunk configurations, including PBX integration and PSTN
+
+
+  ### Module 7&#58; Analyzing and Troubleshooting Enterprise Voice Call Quality
+  This module explains how to review quality of experience logs and analyze call flow and network bandwidth to evaluate and resolve call quality issues. Additionally this module will provide detail on troubleshooting the Lync Features that facilitate bandwidth management such as CAC and QoE.
+  #### Lessons
+  - Voice Quality Issues
+  - UC Devices and Peripherals
+
+
+  #### Lab &#58; Troubleshooting Voice Quality and Network Traffic Issues
+  After completing module 7, students will be able to&#58;
+  - Troubleshoot Voice quality issues
+  - Identify key thresholds for call quality
+  - Troubleshoot CAC policy misconfigurations
+  - Troubleshoot QoS misconfigurations
+  - Troubleshoot UC devices and peripherals
+  - Configure SCOM to work with Lync Server
+
+
+  ### Module 8&#58; Analyzing and Troubleshooting Enterprise Voice Applications
+  This module explains how to troubleshoot each of the Voice applications used with Lync Server 2013.
+  #### Lessons
+  - Call Park Service
+  - Troubleshooting Response Groups
+  - Announcement Service
+
+
+  #### Lab &#58; Troubleshooting Enterprise Voice Applications
+  After completing module 8, students will be able to&#58;
+  - Describe supported configurations for Call Park Service
+  - Troubleshoot Response Group issues
+  - Configure Announcement Service and unassigned numbers
+
+
+  ### Module 9&#58; Troubleshooting High Availability, Disaster Recovery, and Voice Resiliency
+  This module explains how to troubleshoot High Availability, Disaster Recovery and Voice Resilience features in Lync Server 2013.
+  #### Lessons
+  - Supported Lync Server 2013 High Availability Configurations
+  - Load Balancing Web Services
+  - Setting Appropriate Disaster Recovery Expectations
+
+
+  #### Lab &#58; Deploying HA and DR and Troubleshooting Voice Resiliency
+  After completing module 9, students will be able to&#58;
+  - Identify supported HA and DR topologies
+  - Describe supported topology for HLB
+  - Troubleshoot HLB configurations
+
+
+  ### Module 10&#58; Troubleshooting Exchange and SharePoint Integration
+  This module explains how to troubleshoot Lync Server 2013 integration with Exchange Server 2013. Additionally, it describes how to troubleshoot integration with SharePoint Server 2013.
+  #### Lessons
+  - Exchange 2013 Unified Messaging
+  - Unified Contacts Store
+  - Archiving and Compliance
+  - SharePoint 2013 Site Mailboxes
+  - SharePoint 2013 eDiscovery
+
+
+  #### Lab &#58; Troubleshoot Lync Server Integration Issues
+  After completing module 10, students will be able to&#58;
+  - Identify Exchange UM problems
+  - Troubleshoot integration issues with Exchange
+  - Troubleshoot integration issues with SharePoint
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - TechNet articles on Exchange, SQL, SharePoint, and Lync Server 2013
+  - References on SIP

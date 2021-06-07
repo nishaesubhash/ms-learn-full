@@ -1,0 +1,225 @@
+### YamlMime:Course
+title: Quick Powerful Graphics with Power View, PowerPivot, Power Query, Power Map and Power BI
+metadata:
+  title: 'Course 55164-A: Quick Powerful Graphics with Power View, PowerPivot, Power Query, Power Map and Power BI'
+  description: 'Course 55164-A: Quick Powerful Graphics with Power View, PowerPivot, Power Query, Power Map and Power BI'
+uid: course.55164
+courseNumber: '55164-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate the Power View interface.
+- skill: Utilize Power View reports.
+- skill: Work with tables.
+- skill: Understand aggregations.
+- skill: Utilize matrix.
+- skill: Configure drill through.
+- skill: Use cards as a visualization.
+- skill: Apply filters.
+- skill: Create charts.
+- skill: Utilize tiles.
+- skill: Add slicers to reports.
+- skill: Utilize themes.
+- skill: Navigate the PowerPivot interface.
+- skill: Load data.
+- skill: Examine and configure relationships.
+- skill: Configure calculated columns are calculated fields.
+- skill: Create PivotTables.
+- skill: Understand and utilize DAX.
+- skill: Use KPIs.
+- skill: Work with hierarchies.
+- skill: Manage perspectives.
+- skill: Navigate the Power Query interface.
+- skill: Load data.
+- skill: Filter data.
+- skill: Merge datasets.
+- skill: Manage modifications.
+- skill: Perform data cleaning.
+- skill: Navigate the Power Map interface.
+- skill: Use Bing maps.
+- skill: Examine map data.
+- skill: Configure tours, scenes, and layers.
+- skill: Add time to a presentation.
+- skill: Navigate the Power BI interface.
+- skill: Utilize data sources.
+- skill: Understand querying with natural language.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  This course is designed to teach the participant how to combine the functionality of Power View, PowerPivot, Power Query, and Power BI into graphs, charts, KPIs, reports, and other visualizations for use in their business. This course is lab example intensive.
+
+  #### Audience profile
+  The course is targeted towards business analysts, business intelligence developers, and reporting professionals.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Working knowledge of Excel
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Power View
+  In this module, we will explore Power View and its capabilities, then briefly walk-through the types of reports available and how to format them.
+  #### Lessons
+  - Exploring the Power View Interface
+  - Visualizing Power View Reports
+  - Working with Tables
+  - Understanding Aggregations
+  - Utilizing Matrix
+  - Configuring Drill Through
+  - Using Cards
+  - Applying Filters
+  - Creating Charts
+  - Examining Tiles
+  - Adding Slicers to Reports
+  - Theming Reports
+
+
+  #### Lab &#58; Power View
+  - Power View Interface
+  - Working with Tables
+  - Aggregations
+  - Matrix
+  - Drill Through
+  - Cards
+  - Filters
+  - Charts
+  - Tiles
+  - Adding Slicers to Reports
+
+  After completing this module, students will be able to&#58;
+  - Navigate the Power View interface.
+  - Utilize Power View reports.
+  - Work with tables.
+  - Understand aggregations.
+  - Utilize matrix.
+  - Configure drill through.
+  - Use cards as a visualization.
+  - Apply filters.
+  - Create charts.
+  - Utilize tiles.
+  - Add slicers to reports.
+  - Utilize themes.
+
+
+  ### Module 3&#58; PowerPivot
+  In this module, we will explore PowerPivot and its capabilities, then briefly walk-through the options available and how to configure them.
+  #### Lessons
+  - Exploring the PowerPivot Interface
+  - Loading Data
+  - Examining Relationships
+  - Configuring Calculated Columns and Calculated Fields
+  - Creating PivotTables
+  - Understanding DAX
+  - Utilizing DAX Functions
+  - Using KPIs
+  - Working with Hierarchies
+  - Managing Perspectives
+
+
+  #### Lab &#58; PowerPivot
+  - Introduction to the PowerPivot Interface
+  - Importing Data
+  - Importing Large Datasets
+  - Importing Data with a Query
+  - Creating Relationships
+  - Creating a Cascading Relationship
+  - Hiding Columns, Change Data Type, Sorting, and Filtering
+  - Calculated Columns and Calculated Fields
+  - KPIs
+  - Hierarchies
+  - Perspectives
+
+  After completing this module, students will be able to&#58;
+  - Navigate the PowerPivot interface.
+  - Load data.
+  - Examine and configure relationships.
+  - Configure calculated columns are calculated fields.
+  - Create PivotTables.
+  - Understand and utilize DAX.
+  - Use KPIs.
+  - Work with hierarchies.
+  - Manage perspectives.
+
+
+  ### Module 4&#58; Power Query
+  In this module, we will delve into the benefits and features provided using Power Query. We will examine the options available within the ribbon, as well as explore and demonstrate importing, filtering, and merging data using Power Query.
+  #### Lessons
+  - Exploring The Power Query Interface
+  - Loading Data
+  - Managing Modifications
+  - Examining Data Cleaning
+
+
+  #### Lab &#58; Power Query
+  - Getting External Data
+  - Data Filtering
+  - Merging Datasets
+
+  After completing this module, students will be
+  able to&#58;
+  - Navigate the Power Query interface.
+  - Load data.
+  - Filter data.
+  - Merge datasets.
+  - Manage modifications.
+  - Perform data cleaning.
+
+
+  ### Module 5&#58; Power Map
+  In this module we will explore Power Map and its capabilities.
+  #### Lessons
+  - Exploring The Power Map Interface
+  - Using Bing Maps
+  - Examining Map Data
+  - Reviewing Map Types and Presentation
+
+
+  #### Lab &#58; Power Map
+  - View Power Map in Action
+  - Geocoding
+  - Tours, Scenes, and Layers
+  - Adding Time
+
+  After completing this module, students will be able to&#58;
+  - Navigate the Power Map interface.
+  - Use Bing maps.
+  - Examine map data.
+  - Configure tours, scenes, and layers.
+  - Add time to a presentation.
+
+
+  ### Module 6&#58; Introduction to Power BI
+  In this module, we will explore the Power BI interface and walk-through the options available.
+  #### Lessons
+  - Introducing Power BI
+  - Explaining Excel and Power BI
+  - Examining Data Sources
+  - Querying with Natural Language
+
+
+  #### Lab &#58; Introduction to Power BI
+  - Introduction to Power BI
+  - Data Sources
+
+  After completing this module, students will be able to&#58;
+  - Navigate the Power BI interface.
+  - Utilize data sources.
+  - Understand querying with natural language.

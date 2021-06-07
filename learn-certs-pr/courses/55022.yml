@@ -1,0 +1,216 @@
+### YamlMime:Course
+title: Using Microsoft System Center Service Manager 2012 for IT Analysts
+metadata:
+  title: 'Course 55022-A: Using Microsoft System Center Service Manager 2012 for IT Analysts'
+  description: 'Course 55022-A: Using Microsoft System Center Service Manager 2012 for IT Analysts'
+uid: course.55022
+courseNumber: '55022-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain the structure and components of SCSM architecture
+- skill: Outline Microsoft and Partner solutions that extend SCSM
+- skill: Define key SCSM and IT Service Management terminology
+- skill: List and describe the parts of the Service Manager console
+- skill: List and describe End User and IT Analyst portal capabilities
+- skill: Describe key SCSM concepts and process workflows
+- skill: Perform key IT Analyst tasks using SCSM including Incident, Problem, Change, Release Management
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This is a one or two-day instructor-led course that provides participants with knowledge and skills to use System Center Service Manager. The course focuses on use of Service Manager with other System Center products after its installation. It also focuses on how IT process activities such as the Microsoft® Operations Framework (MOF) & IT Infrastructure Library (ITIL®) can be performed using Service Manager.
+  
+  There are two versions of this course&#58; one-day / 9 hours / 540 minutes without Hands-on Labs, and two-day / 18 hours/1,080 minutes with Hands-on Labs. The Course Outline listed here is for the two-day, 18-hour course. The one-day, 9-hour course covers the same presentation material in the same order, condensed to one day as labs are not included.
+
+  #### Audience profile
+  This course is intended for IT Analysts who support End Users using Microsoft® System Center Service Manager 2012. This includes Service Desk managers and staff, as well as managers and staff at Tiers 1-4 of support organizations, including IT Operations, Technical Management, and Applications Management functions. The focus is on individuals responsible for managing Incidents, Problems, Changes, IT Assets, and Knowledge and Reporting for their technology streams. Participants should have at least one year of experience with IT Support processes or one or more System Center products (Operations Manager, Configuration Manager).
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience performing activities with ITIL and MOF processes as an IT Analyst
+  - Experience as a user (not administrator) of System Center Configuration Manager 2007 and Operations Manager 2007 R2 features and functionality
+  - Experience as a user of Active Directory®
+  - Experience with deployment, configuration, and troubleshooting Windows®-based computers as an IT Analyst
+outlineSection: |-
+  ### Module 1&#58; Introduction to System Center Service Manager
+  This module provides an overview of the architecture of System Center Service Manager 2012 and the Microsoft and Partner solutions that extend the product’s functionality.
+  #### Lessons
+  - System Center Service Manager Architecture and Complementary Solutions
+  - Service Manager and IT Service Management Concepts and Terminology
+
+
+  After completing this module, students will be able to&#58;
+  - Outline System Center Service Manager 2012’s architecture
+  - Describe the Service Manager platform
+  - Describe the Service Manager components
+  - Outline Service Manager system requirements
+  - Define key Service Manager terminology
+
+
+  ### Module 2&#58; Tour of the Console and Self-Service Portal
+  This module walks participants through the Service Manager console and the self-service portal, demonstrates their functionality.
+  #### Lessons
+  - Tour of the Service Manager Console
+  - Tour of the Self-Service Portal
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the layout and functionality of the Service Manager Console user interface and Library, Work Items, Configuration Items, Report elements that are used by IT Analysts in their work with SCSM
+  - Describe the layout and functionality of the Self-Service Portal
+
+
+  ### Module 3&#58; Request Fulfillment
+  This module walks through how to use the Request Fulfillment processes in System Center Service Manager 2012.
+  #### Lessons
+  - Request Fulfillment Process Workflow
+  - Using Request Fulfillment in System Center Service Manager
+
+
+  After completing this module, students will be able to&#58;
+  - Describe Service Request work items’ purpose including&#58;
+  - How service request work items can be classified
+  - How request status is recorded and modified during its lifespan
+  - Service request work item key date/time properties
+  - How requests are assigned to analysts and associated with end users
+  - How requests can relate to other work items and CIs
+  - Service request-related built-in reports and analytics
+  - Do Service Request work item operations in the Console
+  - Navigate Service Request Fulfillment views in the console
+  - Navigate the Service Request form
+  - Create a new Service Request in the console
+  - Approve and complete a Service Request using Activities
+  - Cancel a Service Request
+  - Close a Service Request
+
+
+
+  ### Module 4&#58; Incident Management
+  This module walks through how to use the Incident Management process in System Center Service Manager 2012. Includes Event Management content.
+  #### Lessons
+  - Incident Management Process Workflow
+  - Using Incident Management in System Center Service Manager
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the process workflow for Incident Management&#58;
+  - Describe Service Request work items’ purpose including&#58;
+  - How service request work items can be classified
+  - How request status is recorded and modified during its lifespan
+  - Service request work item key date/time properties
+  - How requests are assigned to analysts and associated with end users
+  - How requests can relate to other work items and CIs
+  - Service request-related built-in reports and analytics
+  - Do Service Request work item operations in the Console
+  - Navigate Service Request Fulfillment views in the console
+  - Navigate the Service Request form
+  - Create a new Service Request in the console
+  - Approve and complete a Service Request using Activities
+  - Approve and complete a Service Request using Activities
+  - Cancel a Service Request
+  - Close a Service Request
+
+
+
+  ### Module 5&#58; Service Management
+  This module walks through how to use the Service Level Management and Service Catalog features in System Center Service Manager 2012.
+  #### Lessons
+  - The Service Catalog
+  - Service Level Objectives (SLOs)
+
+
+  After completing this module, students will be able to&#58;
+  - Outline the purpose and parts of the Service Catalog
+  - Describe the purpose of the Service Catalog
+  - List component of the Service Catalog and describe how they relate
+  - Summarize the functionality of the Service Catalog
+  - Highlight the purpose and parts of Service Level Objectives (SLOs)
+
+
+  ### Module 6&#58; Problem Management
+  This module walks through how to use the Problem Management processes in System Center Service Manager 2012.
+  #### Lessons
+  - Outline the purpose and features of the Problem work item
+  - Perform basic operations with Problem work items in the Service Manager Console
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the process workflow for Change Management
+  - Use Change Management in System Center Service Manager 2012 to perform key IT Analyst tasks
+
+
+  ### Module 7&#58; Change Management
+  This module walks through how to use the Release Management processes in System Center Service Manager 2012.
+  #### Lessons
+  - Change Management Process Workflow
+  - Using Change Management in System Center Service Manager
+
+
+  After completing this module, students will be able to&#58;
+  - List the purpose and describe the features of the Change Request work item&#58;
+  - How a change can be classified
+  - How status is recorded and modified during a change’s lifespan
+  - Key date/time properties
+  - How to assign changes to analysts and associate them with end users
+  - How to relate changes to other work items and CIs
+  - Built-in reports and analytics
+  - Do operations on Change Request work items in the Console
+  - Navigate Change Management views and forms in the console
+  - Approve and modify Change Requests
+  - Suspend and resume a Change Requests
+  - Complete and close a Change Request
+
+
+
+  ### Module 8&#58; Release Management
+  This module walks through how to use System Center Service Manager 2012 for management.
+  #### Lessons
+  - Release Management Process Flow
+  - Using Release Management in System Center Service Manager
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the purpose and features of the Release Record work item
+  - How the release record can be classified
+  - How status is recorded and modified during a release’s lifespan
+  - Key date/time properties
+  - How to assign a release to analysts and associate it with end users
+  - How to relate a release to other work items and CIs
+  - Built-in reports and analytics
+  - Perform basic operations with the Release Record work item in the Service Manager Console
+  - Navigate the Release Management views and forms in the console
+  - Create a Release Record and link it to a Change Request
+  - Combine Release Records into parent-child groups
+  - Add or Remove Child records to Parent records
+
+
+
+  ### Module 9&#58; Activity Management
+  This module walks through how to use System Center Service Manager 2012 for activity management.
+  #### Lessons
+  - Managing activities in the System Center Service Manager Console
+
+
+  After completing this module, students will be able to&#58;
+  - Summarize the purpose and features of Activity work items
+  - How activities can be classified
+  - How status is recorded and modified during their lifespan
+  - Key date/time properties
+  - How to assign activities o analysts
+  - How to relate activities to other work items and CIs
+  - Built-in reports and analytics
+  - Do basic operations with Activity work items in the Console
+  - Navigate the Activity Management views in the console
+  - Navigate the Activity forms
+  - Create new Activities within parent work items
+  - Edit and complete Activities
+
+
+
+  ### Module 10&#58; Summary and Wrap
+  This module summarizes key points for each topic in the course, identifies topic areas to focus on and review, and helps participants prepare to apply the concepts back on the job.

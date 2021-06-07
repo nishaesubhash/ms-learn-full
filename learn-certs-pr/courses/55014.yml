@@ -1,0 +1,232 @@
+### YamlMime:Course
+title: Upgrading Your Development Skills to SharePoint 2013
+metadata:
+  title: 'Course 55014-A: Upgrading Your Development Skills to SharePoint 2013'
+  description: 'Course 55014-A: Upgrading Your Development Skills to SharePoint 2013'
+uid: course.55014
+courseNumber: '55014-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe Object Model changes, Mobility Features, OData, OAuth and Translation Services. Work with Visual Studio 2012 SharePoint Templates and build SharePoint 2013 AppStore Apps.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 5-day Instructor Lead course will teach you all the new development changes that were made to SharePoint 2013 including .NET 4.0, Visual Studio 2012, Mobility, Workflow 4.0, OData, OAuth, Claims Authentication, SharePoint AppStore and the new Service Applications (Machine Translation and PowerPoint Automation).
+
+  #### Audience profile
+  This course is intended for anyone interested in getting an introductory look at the new development features of SharePoint 2013.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - .NET Object Oriented programming and understanding of basic development tasks in SharePoint.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  #### Lessons
+  - n/a
+
+
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; SharePoint 2013 UI and ASP.NET 4.0
+  Description&#58; In this module we take a look at the new features introduced in SharePoint 2013 from a UI perspective and explore some of the features of ASP.NET 4.0 that we can now take advantage of.
+  #### Lessons
+  - ASP.NET 4.0
+  - New SharePoint UI Features
+
+
+  #### Lab &#58; ASPNET 4
+
+  #### Lab &#58; SharePoint 2013 Features
+
+  After completing this module, students will be able to&#58;
+  - Describe the new UI features of SharePoint 2013 including Follow, Drag and Drop, SkyDrive Pro, Composed Looks, Newsfeeds and OneNote
+  - Understand the differences between ASP.NET 2.0 and ASP.NET 4.0
+  - Understand the differences between the .NET Runtime and Frameworks
+  - Deploy Managed Navigation
+  - Work with Cross-Site publishing
+  - Work with Image-Renditions
+  - Utilize the new Embedded Code Feature
+
+
+  ### Module 3&#58; SharePoint 2013 and Visual Studio 2012
+  Description&#58; In this module we are going to take a look at the new SharePoint 2013 project templates and their many improved features that can be installed with Visual Studio 2012.
+  #### Lessons
+  - Visual Studio 2012
+  - SharePoint 2013 Templates
+
+
+  #### Lab &#58; Visual Studio 2012
+
+  After completing this module, students will be able to&#58;
+  - Be familiar with the new Visual Studio 2012 interface
+  - What SharePoint project templates exists in Visual Studio 2012
+  - How to utilize the deployment capabilities of the templates
+  - What new project templates and items are included in SharePoint project templates
+
+
+  ### Module 4&#58; Object Model Changes
+  Description&#58; In this module we are going to explore the various changes made to the SharePoint Object Model APIs, the new Distributed Cache Serviceclasses, eDiscovery and SharePoint Education.
+  #### Lessons
+  - Working With Distributed Cache Service
+  - eDiscovery
+  - SharePoint Education
+  - Object Model Changes
+
+
+  #### Lab &#58; Exploring Server Object Model Changes
+
+  #### Lab &#58; Using the New Developer Dashboard
+
+  #### Lab &#58; Programming eDiscovery
+
+  #### Lab &#58; SharePoint Education
+
+  After completing this module, students will be able to&#58;
+  - Understand the SharePoint Object Model Changes
+  - Understand what new assemblies, namespaces and classes are available
+  - Understand how to configure and work with Distributed Cache Service
+  - Understand the features of SharePoint Education
+  - Understand how to work with eDiscovery
+
+
+  ### Module 5&#58; SharePoint REST
+  Description&#58; In this module we are going to take a look at the new Representational State Transfer (REST) features of SharePoint 2013.
+  #### Lessons
+  - REST
+
+
+  #### Lab &#58; REST
+
+  After completing this module, students will be able to&#58;
+  - Describe the REST Architecture in SharePoint 2013
+  - Describe and use the available REST EndPoints
+  - How to build REST-ful queries
+  - How to program to REST-ful Services
+
+
+  ### Module 6&#58; Client Object Model
+  Description&#58; In this module we are going to take a look at the new features of the Client Object Models in SharePoint 2013.
+  #### Lessons
+  - Minimal Download Strategy
+  - Client Object Model
+
+
+  #### Lab &#58; Client Object Model
+
+  #### Lab &#58; JavaScript Object Model
+
+  #### Lab &#58; Minimal Download Strategy (MDS)
+
+  After completing this module, students will be able to&#58;
+  - How to use the New Client Object Model Features
+  - How to use the New JavaScript Object Model Features
+  - How to use the new CSOM endpoints (UserProfile, Taxonomy, Publishing)
+  - How to implement Remote Event Receivers
+
+
+  ### Module 7&#58; Mobility
+  Description&#58; In this module we are going to explore the new Mobility features provided in SharePoint 2013.You will also see how to utilize the new Push notifications as well as the Location and Map APIs.
+  #### Lessons
+  - SharePoint 2013 Mobility Features
+
+
+  #### Lab &#58; Mobility Programming on SharePoint 2013
+
+  #### Lab &#58; Location and Maps APIs
+
+  #### Lab &#58; Mobility Push Notifications
+
+  After completing this module, students will be able to&#58;
+  - Understand SharePoint's Mobility Support
+  - How to build your own Mobility Applications with Visual Studio 2012
+  - How to work with Push Notifications
+  - How to work with Location and Maps
+
+
+  ### Module 8&#58; Workflow 4.0
+  Description&#58; In this module we are going to take a look at implementing workflows with the new Visual Studio 2012 templates and with SharePoint Designer 2013. We will also explore the new architecture of cloud based Azure Workflows.
+  #### Lessons
+  - Workflows in SharePoint 2013
+
+
+  #### Lab &#58; Creating Simple 2013 Workflows
+
+  #### Lab &#58; Creating Visio-based Workflows
+
+  #### Lab &#58; Creating Azure Workflows
+
+  After completing this module, students will be able to&#58;
+  - How to utilize the new Windows Workflow 4.0 in SharePoint 2013
+  - How to build Windows Azure based Workflows
+  - Use the new Visual Studio 2012Workflow templates
+
+
+  ### Module 9&#58; SharePoint Apps
+  Description&#58; In this module we are going to explore how to develop, publish and deploy SharePoint private and public Applications.
+  #### Lessons
+  - SharePoint 2013 Private Apps
+  - SharePoint 2013 Public Apps
+
+
+  #### Lab &#58; Creating Private SharePoint Apps
+
+  #### Lab &#58; Creating Public SharePoint AppStore Apps
+
+  #### Lab &#58; Creating Azure SharePoint Apps
+
+  After completing this module, students will be able to&#58;
+  - How to deploy SharePoint Apps in various ways
+  - How to create anAppCatalog
+  - How to build and publish a SharePoint AppStore Application
+  - How to download and install a SharePoint AppStore Application
+
+
+  ### Module 10&#58; OAuth, S2S and Claims
+  Description&#58; In this module we are going to take a look at the new support for OAuth 2.0 and look at new features of claims based authentication support in SharePoint 2013.
+  #### Lessons
+  - Working with Claims Authentication
+  - Working with OAuth 2.0 and S2S
+
+
+  #### Lab &#58; Creating Server-To-Server(S2S) Applications
+
+  #### Lab &#58; Creating OAuth Applications
+
+  #### Lab &#58; Claims Based Auth
+
+  After completing this module, students will be able to&#58;
+  - How to work with OAuth 2.0 in SharePoint 2013
+  - How to work with Claims Based Authentication
+  - How to build a claims web part
+  - How to integrate ADFS 2.0 with SharePoint 2013
+
+
+  ### Module 11&#58; Programming 2013 Service Applications
+  Description&#58; In this module we are going to take a look at the new Machine Translation and PowerPoint Automation Services then review the not-widely used, but should have been, Word Automation Services.
+  #### Lessons
+  - Working with PowerPoint Automation Services
+  - Working with Word Automation Services
+  - Working with Machine Translation Services
+
+
+  #### Lab &#58; Programming Translation Services
+
+  #### Lab &#58; Programming PowerPoint Automation
+
+  #### Lab &#58; Programming Word Automation
+
+  After completing this module, students will be able to&#58;
+  - Develop Machine Translation applications
+  - Develop PowerPoint Automation Applications
+  - Develop Word Automation Applications
+  - How to use Office XML SDK 2.0

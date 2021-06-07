@@ -1,0 +1,249 @@
+### YamlMime:Course
+title: SharePoint 2013 End User Level I
+metadata:
+  title: 'Course 55050-A: SharePoint 2013 End User Level I'
+  description: 'Course 55050-A: SharePoint 2013 End User Level I'
+uid: course.55050
+courseNumber: '55050-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand and work with SharePoint Lists, List Management tasks, Permissions and basic SharePoint Foundation sites, My Sites, Newsfeeds and Search queries.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 3-day Instructor Led course Explores all the basic end user features of SharePoint 2013 including all basic lists and sites (aka "Apps"). Learn to assign basic and advanced permissions.Explore the new project and community sites as well as how to work with the new social features of My Sites. Building and sending search queries is also covered.
+
+  #### Audience profile
+  Business users and anyone that works with SharePoint sites on a regular basis.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic understanding of web sites and SharePoint sites.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; SharePoint Introduction
+  In this module, we are going to answer the all important questions of What and Why should we be using SharePoint.We are also going to look at several of the new and exciting features of SharePoint 2013!
+  #### Lessons
+  - What is SharePoint?
+  - Why SharePoint?
+  - What’s New in SharePoint 2013
+  - Driving End User Adoption
+
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the site topology components of SharePoint
+  - Describe the new features and capabilities of SharePoint 2013 as compared to older versions
+  - Describe what business problems SharePoint can address
+
+
+  ### Module 3&#58; Collaboration Experience
+  In this module we take a look at the site creation process, common features of the basic team site, advanced features of a Team Site and the new features of SharePoint 2013.We will also take a look at the new features introduced in SharePoint 2013 from a collaboration and UI perspective.
+  #### Lessons
+  - Site Structure
+  - Basic SharePoint Features
+  - New SharePoint Features
+
+
+  #### Lab &#58; SharePoint 2013 UI
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the new UI features of SharePoint 2013
+  - Understand how the Ribbon works
+  - Understand how to use the new callouts feature
+
+
+  ### Module 4&#58; Lists
+  In this module, we are going to take a look at lists from a end user standpoint, but also very quickly from a database standpoint as well.  We will talk about all the basic SharePoint Lists and the new lists in SharePoint 2013 and what things have changed when working with any type of list.
+  #### Lessons
+  - Lists
+  - List Views
+  - SharePoint 2013 Features
+
+
+  #### Lab &#58; Document Library
+
+  #### Lab &#58; Form Library
+
+  #### Lab &#58; Wiki Pages
+
+  #### Lab &#58; Picture Library
+
+  #### Lab &#58; Report Library
+
+  #### Lab &#58; Data Connection Library
+
+  #### Lab &#58; Asset Library
+
+  #### Lab &#58; Surveys
+
+  #### Lab &#58; Custom Lists
+
+  #### Lab &#58; General Lists
+
+  #### Lab &#58; Promoted Links
+
+  #### Lab &#58; Views
+
+  #### Lab &#58; Business Connectivity Services and External Content Types
+
+  #### Lab &#58; GeoLocation Field
+
+  After completing this module, students will be able to&#58;
+
+  - Understand when to use a List and when to use a Database
+  - How to create and use the various lists in SharePoint
+  - Adding list columns to tag your content with metadata
+  - How to use and create Document Sets
+  - Learn to create External Content Type Lists
+
+
+  ### Module 5&#58; List Management
+  We explored the types of lists that come out of the box in the last module.  In this module, we will explore how to manage those lists!
+  #### Lessons
+  - Basic List Management
+  - Advanced List Management
+
+
+  #### Lab &#58; List Management
+
+  #### Lab &#58; Advanced List Management
+
+  #### Lab &#58; Email Enabled Lists
+
+  #### Lab &#58; Alerts
+
+  After completing this module, students will be able to&#58;
+
+  - Track and Manage Versioning
+  - Use Check in and Check out
+  - Enable List Item ranking via Likes and Rating Scales
+  - Multi-Document Actions
+  - Use Column\List Level Validation
+  - Use Content Ratings
+  - Use Audience Targeting
+  - Use Metadata Navigation
+  - Use Manage Item Scheduling
+  - Use Document ID Service
+  - Use file plan reports
+  - Use Record declaration settings
+
+
+  ### Module 6&#58; Permissions
+  In this module we take a look at SharePoint permissions. We will learn about SharePoint groups, permission levels, permissions and explore the new Permission Finders.
+  #### Lessons
+  - SharePoint Permissions
+
+
+  #### Lab &#58; SharePoint Permissions
+
+  After completing this module, students will be able to&#58;
+
+  - Describe where usernames and domain groups come from
+  - How to create and manage SharePoint Groups
+  - Implement access requests
+  - What a permission level is
+  - How to assign permissions to a user or group
+  - How to break and re-enable inheritance
+  - What is means to say permissions are cumulative
+  - Understand that SharePoint has no deny
+  - How to use the Permission Checker
+  - How to use the Sharing feature
+
+
+  ### Module 7&#58; Foundation Site Definitions
+  In this module we are going to review the SharePoint Foundation site definitions.
+  #### Lessons
+  - Creating Sites
+  - SharePoint Foundation Sites
+
+
+  #### Lab &#58; SharePoint Foundation Definitions
+
+  #### Lab &#58; New SharePoint Sites
+
+  After completing this module, students will be able to&#58;
+
+  - Work with team, blog and wiki sites
+  - Understand how to create a project and community site
+  - Learn to work with a community site (reputation, content moderation, badges, etc)
+
+
+  ### Module 8&#58; Office Integration
+  In this module we are going to take a look at how SharePoint and Office interact with each other and how they handle mobile devices.
+  #### Lessons
+  - Web Applications
+  - Office Integration
+
+
+  #### Lab &#58; Office Integration
+
+  #### Lab &#58; Office Web Applications
+
+  #### Lab &#58; Access Services
+
+  #### Lab &#58; Visio Services
+
+  #### Lab &#58; Site Mailboxes
+
+  #### Lab &#58; My Tasks
+
+  #### Lab &#58; Site Notebook
+
+  #### Lab &#58; Information Rights Management
+
+  #### Lab &#58; Machine Translation
+
+  After completing this module, students will be able to&#58;
+
+  - Describe how SharePoint integrates with Office apps (Outlook, Excel, Access)
+  - How to work offline with documents
+  - How to describe and use Office Web Applications (In browser editing, multi-user editing)
+  - How to describe and use Access and Visio Services
+  - How to use Site Mailboxes and Site Notebooks
+  - How to setup Information Rights Management (IRM)
+
+
+  ### Module 9&#58; My Site
+  In this module we will review the new Social Computing features in SharePoint 2013 and how My Sites has been completely redesigned to support social.
+  #### Lessons
+  - My Site
+  - What Is Social Computing
+
+
+  #### Lab &#58; My Site
+
+  After completing this module, students will be able to&#58;
+
+  - Describe what a My Site is
+  - How to create and modify a My Site
+  - How to work with My Site social networking features (Newsfeeds, Following, Hashtags and Mentions)
+  - How to protect yourself in the Social Computing realm
+
+
+  ### Module 10&#58; Search
+  In this module you will learn how to effectively query the Search Index to find items you are looking for.
+  #### Lessons
+  - Performing Queries
+
+
+  #### Lab &#58; Performing Search Queries
+
+  After completing this module, students will be able to&#58;
+
+  - Perform effective Keyword Queries
+  - Perform effective People Searches

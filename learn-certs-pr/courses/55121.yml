@@ -1,0 +1,154 @@
+### YamlMime:Course
+title: Microsoft Project 2013
+metadata:
+  title: 'Course 55121-A: Microsoft Project 2013'
+  description: 'Course 55121-A: Microsoft Project 2013'
+uid: course.55121
+courseNumber: '55121-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the terminology.
+- skill: Understand project management basics.
+- skill: Understand and utilize the Microsoft Project 2013 Interface.
+- skill: Create and configure calendars.
+- skill: Configure scheduling.
+- skill: Utilize and navigate views.
+- skill: Create tasks.
+- skill: Modify tasks.
+- skill: Delete tasks.
+- skill: Create resources.
+- skill: Assign tasks to resources.
+- skill: Monitor resources and their tasks.
+- skill: Delete resources.
+- skill: Track project progress.
+- skill: Create and configure reports.
+- skill: Accurately troubleshoot a project.
+- skill: Close a project.
+- skill: Share the project using OneDrive.
+- skill: Share the project using Project Server 2013 or Project Online.
+- skill: Share and sync the project using SharePoint 2013.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This two-day instructor-led course is intended for IT professionals, and Project Managers who want an overall walk-through of Microsoft Project 2013 and what it has to offer. This course begins with project management basics and follows with a complete examination of project creation, management, troubleshooting and closure. Finally, we’ll discuss sharing project progress and the options available.
+
+  #### Audience profile
+  This course is intended for Project Managers and IT Professionals that manage projects for the organization.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Understanding Project Management
+  In this module we will explain project management terminology and fundamentals to help ensure understanding of project management basics. Next, we’ll explore the Microsoft Project 2013 interface.
+  #### Lessons
+  - Project Management Basics
+  - Terminology
+  - Microsoft Project 2013 Interface
+
+
+  #### Lab &#58; Understanding Project Management
+
+  - Understand project management basics.
+  - Understand the terminology.
+  - Understand and utilize the Microsoft Project 2013 Interface.
+
+
+  ### Module 3&#58; Planning the Project
+  Project planning is instrumental to project success and in this module we’ll cover everything you need to know to set up your projects properly and configure them.
+  #### Lessons
+  - Configuring Calendars and Scheduling
+  - Utilizing Views
+
+
+  #### Lab &#58; Planning the Project
+
+  - Configure calendars.
+  - Configure scheduling.
+  - Utilize and navigate views.
+
+
+  ### Module 4&#58; Tackling Tasks
+  In this module we’ll explore all task related activities, from creating the task, to modification and monitoring.
+  #### Lessons
+  - Creating Tasks
+  - Modifying Tasks
+  - Deleting Tasks
+
+
+  #### Lab &#58; Tackling Tasks
+
+  - Create tasks.
+  - Modify tasks.
+  - Delete tasks.
+
+
+  ### Module 5&#58; Managing Resources
+  Resource management is key to ensuring a project is cost-effective. In this module we’ll cover all aspects of resource management including a section on monitoring, so you can ensure the project stays on track.
+  #### Lessons
+  - Creating Resources
+  - Assigning Tasks to Resources
+  - Monitoring Resources and Their Tasks
+  - Deleting Resources
+
+
+  #### Lab &#58; Managing Resources
+
+  - Create resources.
+  - Assign tasks to resources.
+  - Monitor resources and their tasks.
+  - Delete resources.
+
+
+  ### Module 6&#58; Project Tracking, Troubleshooting, and Closure
+  What happens when things go awry? Don’t panic, in this module we’ll show you how to get the project back on track in no time at all. We’ll also cover reporting options and explore project closure.
+  #### Lessons
+  - Tracking Project Progress
+  - Reporting
+  - Troubleshooting
+  - Closing the Project
+
+
+  #### Lab &#58; Project Tracking, Troubleshooting, and Closure
+
+  - Track project progress.
+  - Create and configure reports.
+  - Accurately troubleshoot a project.
+  - Close a project.
+
+
+  ### Module 7&#58; Sharing Project Performance
+  In this module we will discuss the options available to share project performance, which helps keep everyone on the same page. There are no exercises in this module.
+  #### Lessons
+  - Sharing the Project Using OneDrive
+  - Sharing the Project Using Project Server 2013 or Project Online
+  - Sharing and Syncing the Project with SharePoint 2013
+
+
+  #### Lab &#58; Sharing Project Performance
+
+  - Share the project using OneDrive.
+  - Share the project using Project Server 2013 or Project Online.
+  - Share and sync the project using SharePoint 2013.

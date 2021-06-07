@@ -1,0 +1,233 @@
+### YamlMime:Course
+title: SharePoint 2013 Search Inside Out
+metadata:
+  title: 'Course 55037-A: SharePoint 2013 Search Inside Out'
+  description: 'Course 55037-A: SharePoint 2013 Search Inside Out'
+uid: course.55037
+courseNumber: '55037-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Demonstrate knowledge essential to the setup, configuration and management of SharePoint 2013 Search!
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 5-day Instructor-Led course will instruct on how to create simple and advanced search topologies. How to configure the various search features like Content Sources, Result Sources, Query Suggestions and custom dictionaries. You will also learn to customize every aspect of the Search Center. Other topics include extending search with Business Connectivity Services, and reviewing best practices when maintaining and troubleshooting a search architecture.
+
+  #### Audience profile
+  Anyone tasked with the architecture design, setup, configuration and administration of SharePoint 2013 Search.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A basic understanding of SharePoint Central Administration site. 
+  - A firm knowledge of working with Windows PowerShell.  
+  - Some experience working with Visual Studio is recommended, but not required.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+  ### Module 2&#58; Creating, Configuring and Upgrading Search Service Applications
+  In this module you will be introduced to SharePoint 2013 Search including its rich history and at a high level, the new and exciting features.  You will also learn about the various roles that can be played in a Search Farm and how to configure various topologies.  This is followed with a review of how to create and configure Search Service Applications and how to setup a farm using cross-farm services.  If appropriate, you will also review the process to upgrade older 2010 Search applications to SharePoint 2013.
+  #### Lessons
+  - SharePoint Search
+  - Exploring Search Architecture and Topologies
+  - Creating and Configuring Search Services Applications
+  - Configuring Cross-Farm Services
+  - Upgrading Search Service Applications
+
+
+  #### Lab &#58; Creating Search Service Applications (Central Admin)
+
+  #### Lab &#58; Creating Search Service Applications (PowerShell)
+
+  #### Lab &#58; Configuring for Cross-farm services
+
+  #### Lab &#58; Configuring for Multi-Tenancy
+
+  #### Lab &#58; Upgrading Search Service Applications
+
+  After completing this module, students will be able to&#58;
+
+  - Describe new Search features
+  - Describe Search roles (Admin, Crawl, Index, Content Processing, Query)
+  - Create and Configure Search Applications using Central Administration and Windows PowerShell
+  - Configure Cross-Farm Services
+  - Upgrade older Search Service Applications to SharePoint 2013 Search
+
+
+  ### Module 3&#58; Configuring Search
+  In this module you will learn to configure your newly created Search Service Application. This includes creating and configuring content sources, configuring and executing crawls, defining search schemas and reviewing important topics of crawl and search security.
+  #### Lessons
+  - Content Sources
+  - Crawling
+  - Search Schemas
+  - Customizing Search Results
+
+
+  #### Lab &#58; Configuring Search (Central Admin)
+
+  #### Lab &#58; Configuring Search (PowerShell)
+
+  #### Lab &#58; Crawling Special Sources
+
+  #### Lab &#58; Configuring Crawl and Managed Properties
+
+  #### Lab &#58; Working with Search Schemas
+
+  After completing this module, students will be able to&#58;
+
+  - Create and Configure Content Sources
+  - Configure Crawl Rules
+  - Utilize Windows PowerShell Cmdlets for configuration tasks
+  - Setup content sources with specialize authentication
+  - Manage crawl properties
+  - Create and configure Managed Properties
+  - Modify Search Schemas
+
+
+  ### Module 4&#58; Customizing Search Center
+  In this module you will learn how to navigate the basic Search Center provided by SharePoint 2013.  You will then explore various ways to customize the Search Center using Search Pages, Web Parts and Result Types.
+  #### Lessons
+  - Search Center Introduction
+  - Customizing Search Center
+
+
+  #### Lab &#58; Customizing Search Center
+
+  #### Lab &#58; Creating Refiners
+
+  #### Lab &#58; Content Query Web Part
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the Search Center features
+  - Add new search and results pages
+  - Customize the Search Center using Search Web Parts
+  - Create and use Result Types
+  - Create Refiners
+
+
+  ### Module 5&#58; Performing Search Queries
+  In this module you will learn how to effectively query the Search Index to find items you are looking for.  This can be done in a myriad of ways including keyword and Full Text. There are also various ways to send a query to SharePoint search that will be explored in detail.  Lastly you will be exposed to creating and configuring Federated Search Sources.
+  #### Lessons
+  - Performing Queries
+  - Programming Searches
+  - Configuring Federated Sources
+
+
+  #### Lab &#58; Performing Search Queries
+
+  #### Lab &#58; Programming Searches
+
+  #### Lab &#58; Configuring and Searching Federated Sources
+
+  After completing this module, students will be able to&#58;
+
+  - Perform effective Keyword and Full Text Queries
+  - Perform effective People Searches
+  - Program to the Search interfaces
+  - Configure Federated Search Sources (OpenSearch and Exchange)
+
+
+  ### Module 6&#58; Search Tuning
+  In this module you will learn to configure various SharePoint Search features to modify the way search results are displayed.
+  #### Lessons
+  - Tuning Search
+  - Ranking Models
+
+
+  #### Lab &#58; Search Tuning
+
+  #### Lab &#58; Ranking Models
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the various ways to change search result behavior
+  - Use Central Admin and Windows PowerShell to Tune Search
+  - Configure Authoritative Pages
+  - Modify the Thesaurus
+  - Configure Ranking
+  - Create Query Suggestions
+  - Create and Configure Keywords and Synonyms
+  - Create Search Dictionaries
+  - Perform Result Removal
+
+
+  ### Module 7&#58; Extending Search
+  In this module you will explore IFilters and Protocol handlers and how to install and create custom search connectors using Business Connectivity Services. You will also learn to extend search by using the new Content Enrichment Service.
+  #### Lessons
+  - IFilters and Protocol Handler
+  - Business Connectivity Connectors
+  - Content Enrichment Service
+  - Ceres Engine
+
+
+  #### Lab &#58; Content Enrichment Services
+
+  #### Lab &#58; Business Connectivity Connectors
+
+  #### Lab &#58; BCS With Data Warehouse
+
+  #### Lab &#58; Creating IFilters
+
+  #### Lab &#58; Working with Ceres Flows
+
+  After completing this module, students will be able to&#58;
+
+  - Describe what an IFilter is and does
+  - Describe what a protocol handler is and does
+  - Describe Document formatters
+  - Install and configure BCS Connectors
+  - Create new custom BCS Connectors
+
+
+  ### Module 8&#58; Maintaining Search
+  In this module you will learn how to properly backup and restore a Search Service Application.  You will also explore various aspects around daily, weekly and monthly tasks that should be performed to ensure a healthy environment.
+  #### Lessons
+  - Backup and Restore
+  - Maintenance Best Practices
+
+
+  #### Lab &#58; Backup Search
+
+  #### Lab &#58; Restore Search
+
+  #### Lab &#58; Maintenance Tasks
+
+  #### Lab &#58; Establishing Index Redundancy
+
+  After completing this module, students will be able to&#58;
+
+  - Perform Search Backups
+  - Perform Search Restores
+  - Create Index Replicas and Partitions
+  - Describe the daily, weekly and monthly tasks of a Search Administrator
+
+
+  ### Module 9&#58; Monitoring and Troubleshooting Search
+  In this module you will learn to find and decipher the built in reporting and analytic reporting features of SharePoint Search.  You will also explore the performance metrics to build a baseline for your Search Platform architecture.  Lastly, you will explore various troubleshooting techniques and common issues with Search.
+  #### Lessons
+  - Search Reporting & Analytics
+  - Monitoring Search
+  - Troubleshooting Search
+
+
+  #### Lab &#58; Monitoring Search
+
+  #### Lab &#58; Troubleshooting Search
+
+  After completing this module, students will be able to&#58;
+
+  - Describe Search Reporting and Analytics features
+  - Run reporting and analysis reports
+  - Learn how to properly monitor Search metrics for performance
+  - Utilize the ULS logs for troubleshooting

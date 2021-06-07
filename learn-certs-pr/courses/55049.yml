@@ -1,0 +1,139 @@
+### YamlMime:Course
+title: PowerPivot, Power View and SharePoint 2013 Business Intelligence Center for Analysts
+metadata:
+  title: 'Course 55049-A: PowerPivot, Power View and SharePoint 2013 Business Intelligence Center for Analysts'
+  description: 'Course 55049-A: PowerPivot, Power View and SharePoint 2013 Business Intelligence Center for Analysts'
+uid: course.55049
+courseNumber: '55049-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use PowerPivot 2013 in Excel.
+- skill: Work with DAX.
+- skill: Create Power View visualizations.
+- skill: Understand data models.
+- skill: Save to SharePoint.
+- skill: Surface on SharePoint.
+- skill: Work with the SharePoint Business Intelligence Center.
+- skill: Create dedicated apps in SharePoint for PowerPivot and Power View.
+- skill: Use PowerPivot within Excel to import a table from SQL Server.
+- skill: Use PowerPivot within Excel to import a table from SQL Server Analysis Services.
+- skill: Hide columns they don’t want reflected in the resulting PivotTable.
+- skill: View the relationships existing within the imported tables from SQL Server and then import an additional table and configure a relationship between it and the existing.
+- skill: Create a PivotTable within an existing worksheet.
+- skill: Navigate and successfully use Power View.
+- skill: Create a table.
+- skill: Create a chart.
+- skill: Save and share their work.
+- skill: Create a BI semantic model.
+- skill: Explore the options and settings available within the new SharePoint 2013 Central Administration and Excel Services.
+- skill: Access and review the Secure Store.
+- skill: Create a new web application and business intelligence site while exploring the features of both.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This two-day instructor-led course concentrates on PowerPivot and Power View in Excel 2013. The attendees will learn how to surface the workbooks and visualizations using the Business Intelligence Center in SharePoint 2013.
+    
+  As far as possible each of the modules is stand-alone allowing for customization of the course for those audiences that may not have an interest in a certain service.
+
+  #### Audience profile
+  This course is intended for analysts, business intelligence (BI) developers and IT professionals that will be involved with the design, development, and maintenance of Excel workbooks utilizing PowerPivot and Power View 2013 to be surfaced on SharePoint.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with Excel 2007 or higher.
+  - An understanding of PivotTables.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  After completing this module, students will be able to&#58;
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; PowerPivot
+  In this module we will explore PowerPivot and its analytical capabilities. PowerPivot is a data analysis add-on for Microsoft Excel that allows large amounts of data to be collected, aggregated, and analyzed in one workbook. Sound powerful? It is! We’ll cover everything you need to know to get you up, running, and analyzing.
+  #### Lessons
+  - What is a data model?
+  - PowerPivot and Excel
+  - New 2013 PowerPivot Features
+  - PowerPivot and SharePoint
+  - Enterprise Business Intelligence and PowerPivot
+  - Enriching Data
+  - Importing Data
+  - Refreshing Data
+  - Formatting Data
+  - Sorting and Filtering
+  - Creating Relationships
+  - Calculations
+  - SharePoint Sharing
+
+
+  #### Lab &#58; PowerPivot
+
+  After completing this module, students will be able to&#58;
+
+  - Use PowerPivot within Excel to import a table from SQL Server.
+  - Use PowerPivot within Excel to import a table from SQL Server Analysis Services.
+  - Hide columns they don’t want reflected in the resulting PivotTable.
+  - View the relationships existing within the imported tables from SQL Server and then import an additional table and configure a relationship between it and the existing.
+  - Create a PivotTable within an existing worksheet.
+
+
+  ### Module 3&#58; Power View
+  In this module we will cover Power View and the reporting that can be created. From tables to charts and sharing on SharePoint, this module will have you ready to visualize your data in a variety of ways.
+  #### Lessons
+  - New 2013 Power View Features
+  - Microsoft Power View User Interface
+  - Tables
+  - Charts
+  - Saving and Sharing
+  - BI Semantic Models
+
+
+  #### Lab &#58; Power View
+
+  After completing this module, students will be able to&#58;
+
+  - Navigate and successfully use Power View.
+  - Create a table.
+  - Create a chart.
+  - Save and share their work.
+  - Create a BI semantic model.
+
+
+  ### Module 4&#58; SharePoint 2013 Business Intelligence Center
+  In this module, we will explore the new and improved 2013 SharePoint Central Administration site. We are going to cover specifically the new 2013 Business Intelligence Center template within SharePoint. Permissions and roles will be addressed and the included library and list apps will be explained.
+  #### Lessons
+  - New 2013 SharePoint Central Administration
+  - New 2013 Business Intelligence Center
+  - Permissions and Roles
+  - Included Document Library and List Apps
+  - Create Custom Apps (Libraries) for Visualizations or Workbooks
+  - Create Custom Connection Apps (Libraries)
+  - SharePoint 2013 Business Intelligence Center
+
+
+  #### Lab &#58; SharePoint 2013 Business Intelligence Center
+
+  After completing this module, students will be able to&#58;
+
+  - Explore the options and settings available within the new SharePoint 2013 Central Administration and Excel Services.
+  - Access and review the Secure Store.
+  - Create a new web application and business intelligence site while exploring the features of both.
+  - Create custom apps to store visualizations and/or workbooks in SharePoint 2013 Business Intelligence Center.

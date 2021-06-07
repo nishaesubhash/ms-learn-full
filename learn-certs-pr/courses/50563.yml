@@ -1,0 +1,94 @@
+### YamlMime:Course
+title: すぐに始められる Office 365 管理の基礎
+metadata:
+  title: 'Course 50563-A: すぐに始められる Office 365 管理の基礎'
+  description: 'Course 50563-A: すぐに始められる Office 365 管理の基礎'
+uid: course.50563
+courseNumber: '50563-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Office 365 for Enterpriseの管理概要及び管理ポータルの役割や設定方法の基礎が理解できる。
+- skill: Office 365 のセットアップ方法、ユーザー管理方法について理解できる。
+- skill: Office 365 の各サービスの管理方法について理解できる。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  このコースでは、Office 365 for Enterpriseに携わる全社管理者に、管理ポータルから Office 365 for Enterpriseの管理方法について説明します。このコースは、Office 365 for Enterprise の基本的な管理方法を理解しようとしている250名以下の中小・中堅企業のサービス管理者を主な対象にしています。
+
+  #### Audience profile
+  Office 365 for Enterprise の基本的な管理方法を理解しようとしている250名以下の中小・中堅企業のサービス管理
+prerequisitesSection: |-
+  - ネットワークの基礎を理解していること。
+  - Active Directory の基礎を理解していること。（必須ではないが望ましい。）
+outlineSection: |-
+  ### セクション 1&#58; Office 365 の概要
+  #### レッスン
+  - クラウドコンピューティングとは
+  - Microsoft Office 365 とは
+
+
+  #### ラボ &#58; Office 365 の概要
+
+  ### セクション 2&#58; セミナー環境の確認
+  #### レッスン
+  - セミナー環境の確認
+
+
+  #### ラボ &#58; セミナー環境の確認
+
+  ### セクション 3&#58; Office 365 の最初のセットアップ
+  #### レッスン
+  - Office 365 の最初のセットアップ手順
+  - Office 365 管理ポータルの画面構成
+  - ここからタスクを開始
+  - 組織情報の確認
+  - Office 365 を最初にセットアップしたユーザーの確認
+  - ユーザープロファイルの設定
+
+
+  #### ラボ &#58; Office 365 の最初のセットアップ
+
+  ### セクション 4&#58; Office 365 管理ポータル
+  #### レッスン
+  - セットアップの概要
+  - パイロットまたは展開
+  - ユーザーをひとりずつ追加
+  - ユーザーの一括追加
+  - セキュリティグループの作成
+  - ドメインの管理
+  - サブスクリプションの管理
+  - サブスクリプションライセンスの管理
+  - サブスクリプションライセンスの購入
+  - サポートの概要
+  - サービスリクエスト
+  - サービス正常性
+  - 計画済メンテナンス
+
+
+  #### ラボ &#58; Office 365 管理ポータルの使用
+
+  ### セクション 5&#58; 追加されたユーザーの最初のセットアップ
+  #### レッスン
+  - 追加されたユーザーの最初のセットアップ
+  - 今すぐセットアップ
+  - ユーザーの写真の設定とパスワードの変更
+
+
+  #### ラボ &#58; 今すぐセットアップ
+
+  ### セクション 6&#58; Office 365 の各サービスの管理
+  #### レッスン
+  - Exchange Online の管理
+  - SharePoint Online の管理
+  - Lync Online の管理
+  - Microsoft Office Desktop Apps について
+
+
+  #### ラボ &#58; 各サービスの管理
+  （参考学習）Office 365 の導入と展開

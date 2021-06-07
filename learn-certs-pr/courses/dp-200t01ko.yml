@@ -1,0 +1,224 @@
+### YamlMime:Course
+title: Azure 데이터 솔루션 구현
+metadata:
+  title: 'Course DP-200T01KO-A: Azure 데이터 솔루션 구현'
+  description: 'Course DP-200T01KO-A: Azure 데이터 솔루션 구현'
+uid: course.dp-200t01ko
+courseNumber: 'DP-200T01KO-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- beginner
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  이 과정에서 학생들은 관계형 데이터와 No-SQL 데이터가 모두 관련되는 온-프레미스, 클라우드 및 하이브리드 데이터 시나리오를 비롯하여, 비즈니스 및 기술 요구 사항과 일치하는 솔루션을 구현하기 위해 다양한 데이터 플랫폼 기술을 사용하게 됩니다. 또한 스트리밍 및 일괄 처리 데이터 모두에 대해 다양한 기술과 언어를 사용하여 데이터를 처리하는 방법을 배웁니다.
+
+  학생들은 인증, 권한 부여, 데이터 정책 및 표준을 비롯한 데이터 보안을 구현하는 방법도 살펴보게 됩니다. 아울러 데이터 저장소 및 데이터 처리 활동 모두에서 데이터 솔루션 모니터링을 정의하고 구현합니다. 마지막으로, 학생들은 빅 데이터, 일괄 처리 및 스트리밍 데이터 솔루션의 최적화와 재해 복구를 포함하는 Azure 데이터 솔루션을 관리하고 문제를 해결하게 됩니다.
+
+  #### Audience profile
+  이 과정의 주요 대상은 Microsoft Azure에 존재하는 데이터 플랫폼 기술에 대해 배우려는 데이터 전문가, 데이터 설계자 및 비즈니스 인텔리전스 전문가입니다.
+  이 과정의 2차적인 대상은 Microsoft Azure에 존재하는 데이터 플랫폼 기술을 활용하여 컨텐츠를 제공하는 응용 프로그램을 개발하는 개인 사용자입니다.
+prerequisitesSection: |-
+  이 교육을 받는 학생들은 전문적인 경험 외에도 다음 과정에 해당하는 기술 지식을 보유하고 있어야 합니다.
+  - Azure 기초
+outlineSection: |-
+  ### 모듈 1&#58; 데이터 엔지니어를 위한 Azure
+  이 모듈에서는 데이터의 세계가 어떻게 발전해 왔는지, 클라우드 데이터 플랫폼 기술이 어떻게 기업들에게 데이터를 다양한 방식으로 탐구할 수 있는 새로운 기회를 제공하고 있는지 살펴봅니다. 학생들은 사용 가능한 다양한 데이터 플랫폼 기술에 대해 개략적으로 살펴본 후 이 새로운 세계에서 조직이 경쟁력을 확보하기 위해 데이터 엔지니어의 역할과 책임이 어떻게 발전해 왔는지 살펴봅니다.
+  #### 과목
+  - 진화하는 데이터 세계 설명
+  - Azure 데이터 플랫폼의 서비스 조사
+  - 데이터 엔지니어가 수행하는 작업 식별
+  - Desc사례 연구에서 클라우드에 대한 사용 사례 설명
+
+
+  ### 연습실 &#58; 데이터 엔지니어를 위한 Azure
+  - 진화하는 데이터 세계 식별
+  - Azure 데이터 플랫폼 서비스 확인
+  - 데이터 엔지니어가 수행하는 작업 식별
+  - 데이터 엔지니어링 결과물 완성
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 진화하는 데이터 세계 설명
+  - Azure 데이터 플랫폼의 서비스 조사
+  - 데이터 엔지니어가 수행하는 작업 식별
+  - 사례 연구에서 클라우드데 대한 사용 사례 설명
+
+
+  ### 모듈 2&#58; 데이터 저장소 작업
+  이 모듈에서는 Azure에서 데이터를 저장하는 다양한 방법에 대해 학습합니다. 학생들은 Azure의 저장소 관리 기초, 저장소 계정을 만드는 방법, 그리고 클라우드에 저장하려는 데이터에 적합한 모델을 선택하는 방법에 대해 배웁니다. 또한 최소한의 노력으로 매우 다양한 빅 데이터 분석 솔루션을 지원할 수 있는 Data Lake Storage를 만드는 방법을 배웁니다.
+  #### 과목
+  - Azure에서 데이터 저장소 접근 방식 선택
+  - Azure Storage 계정 만들기
+  - Azure Data Lake Storage 설명
+  - Azure Data Lake에 데이터 업로드
+
+
+  ### 연습실 &#58; 데이터 저장소 작업
+  - Azure에서 데이터 저장소 접근 방식 선택
+  - 저장소 계정 만들기
+  - Data Lake Storage 설명
+  - Data Lake Store에 데이터 업로드
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Azure에서 데이터 저장소 접근 방식 선택
+  - Azure Storage 계정 만들기
+  - Azure Data Lake Storage 설명
+  - Azure Data Lake에 데이터 업로드
+
+
+  ### 모듈 3&#58; Azure Databricks를 사용하여 팀 기반 데이터 과학 사용
+  이 모듈에서는 Azure Databricks를 소개하고, 데이터 엔지니어가 이를 사용하여 조직이 팀 데이터 과학 프로젝트를 수행할 수 있도록 지원하는 방법에 대해 알아봅니다. 또한 Azure Databricks 및 Apache Spark Notebooks의 기초에 대해 배우고 서비스 및 작업 영역을 프로비저닝하는 방법과 데이터 과학 프로젝트에 도움이 되도록 데이터 준비 작업을 수행하는 방법에 대해 배웁니다.
+  #### 과목
+  - Azure Databricks 설명
+  - Azure Databricks 작업
+  - Azure Databricks를 사용하여 데이터 읽기
+  - Azure Databricks를 사용하여 변환 수행
+
+
+  ### 연습실 &#58; Azure Databricks를 사용하여 팀 기반 데이터 과학 사용
+  - Azure Databricks 설명
+  - Azure Databricks 작업
+  - Azure Databricks를 사용하여 데이터 읽기
+  - Azure Databricks를 사용하여 변환 수행
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Azure Databricks 설명
+  - Azure Databricks 작업
+  - Azure Databricks를 사용하여 데이터 읽기
+  - Azure Databricks를 사용하여 변환 수행
+
+
+  ### 모듈 4&#58; Cosmos DB를 사용하여 전역으로 분산되는 데이터베이스 작성
+  이 모듈에서 학생들은 Azure Cosmos DB를 사용하여 NoSQL 데이터로 작업하는 방법을 배웁니다. 서비스를 프로비저닝하는 방법과 Visual Studio Code 확장 및 Azure Cosmos DB .NET Core SDK를 사용하여 서비스의 데이터를 로드하고 질의하는 방법을 배웁니다. 또한 사용자가 전 세계 어디에서나 데이터에 액세스할 수 있도록 가용성 옵션을 구성하는 방법을 배웁니다.
+  #### 과목
+  - 확장이 용이한 Azure Cosmos DB 데이터베이스 만들기
+  - Azure Cosmos DB 데이터베이스의 데이터 삽입 및 쿼리
+  - Visual Studio Code에서 Cosmos DB용 .NET Core 앱 작성
+  - Azure Cosmos DB를 사용하여 전역으로 데이터 분산
+
+
+  ### 연습실 &#58; Cosmos DB를 사용하여 전역으로 분산되는 데이터베이스 작성
+  - Azure Cosmos DB 만들기
+  - Azure Cosmos DB의 데이터 삽입 및 쿼리
+  - VS Code를 사용하여 Azure Cosmos DB용 .Net Core 앱 작성
+  - Azure Cosmos DB를 사용하여 전역으로 데이터 분산
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 확장이 용이한 Azure Cosmos DB 데이터베이스 만들기
+  - Azure Cosmos DB 데이터베이스의 데이터 삽입 및 쿼리
+  - Visual Studio Code에서 Azure Cosmos DB용 .NET Core 앱 작성
+  - Azure Cosmos DB를 사용하여 전역으로 데이터 분산
+
+
+  ### 모듈 5&#58; 클라우드에서 관계형 데이터 저장소 작업
+  이 모듈에서 학생들은 SQL Database 및 SQL Data Warehouse를 포함한 Azure 관계형 데이터 플랫폼 옵션을 살펴봅니다. 학생들은 여러 서비스 중에서 한 서비스를 선택하는 이유와 각 서비스의 프로비저닝, 연결 및 관리 방법에 대해 설명할 수 있게 됩니다.
+  #### 과목
+  - Azure SQL Database 사용
+  - Azure SQL Data Warehouse 설명
+  - Azure SQL Data Warehouse 만들기 및 쿼리
+  - PolyBase를 사용하여 Azure SQL Data Warehouse에 데이터 로드
+
+
+  ### 연습실 &#58; 클라우드에서 관계형 데이터 저장소 작업
+  - Azure SQL Database 사용
+  - Azure SQL Data Warehouse 설명
+  - Azure SQL Data Warehouse 만들기 및 쿼리
+  - PolyBase를 사용하여 Azure SQL Data Warehouse에 데이터 로드
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Azure SQL Database 사용
+  - Azure Data Warehouse 설명
+  - Azure SQL Data Warehouse 만들기 및 쿼리
+  - PolyBase를 사용하여 Azure SQL Data Warehouse에 데이터 로드
+
+
+  ### 모듈 6&#58; Stream Analytics를 사용하여 실시간 분석 수행
+  이 모듈에서 학생들은 이벤트 처리 및 스트리밍 데이터의 개념과 이러한 개념이 Event Hubs 및 Azure Stream Analytics에 어떻게 적용되는지 배웁니다. 또한 데이터를 스트리밍하기 위한 Stream Analytics 작업을 설정한 다음, 들어오는 데이터를 쿼리하여 데이터 분석을 수행하는 방법을 배웁니다. 마지막으로 실행 중인 작업을 관리하고 모니터링하는 방법을 배웁니다.
+  #### 과목
+  - 데이터 스트림 및 이벤트 처리 설명
+  - Event Hubs를 사용하여 데이터 수집
+  - Stream Analytics 작업을 사용하여 데이터 처리
+
+
+  ### 연습실 &#58; Stream Analytics를 사용하여 실시간 분석 수행
+  - 데이터 스트림 및 이벤트 처리 설명
+  - Event Hubs를 사용하여 데이터 수집
+  - Stream Analytics 작업을 사용하여 데이터 처리
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 데이터 스트림 및 이벤트 처리 설명
+  - Event Hubs를 사용하여 데이터 수집
+  - Stream Analytics 작업을 사용하여 데이터 처리
+
+
+  ### 모듈 7&#58; Azure Data Factory를 사용하여 데이터 이동 오케스트레이션
+  이 모듈에서 학생들은 Azure Data Factory를 사용하여 광범위한 데이터 플랫폼 기술의 데이터 이동 및 변환을 조정하는 방법을 배웁니다. 또한 이 기술의 기능을 설명할 수 있게 되고 데이터를 수집 및 변환하는 데이터 파이프라인을 처음부터 끝까지 설정할 수 있게 됩니다.
+  #### 과목
+  - Azure Data Factory 작동 방식 설명
+  - Azure Data Factory 구성 요소
+  - Azure Data Factory 및 Databricks
+
+
+  ### 연습실 &#58; Azure Data Factory를 사용하여 데이터 이동 오케스트레이션
+  - Data Factory 작동 방식 설명
+  - Azure Data Factory 구성 요소
+  - Azure Data Factory 및 Databricks
+
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Azure Data Factory 및 Databricks
+  - Azure Data Factory 구성 요소
+  - Azure Data Factory 작동 방식 설명
+
+
+  ### 모듈 8&#58; Azure 데이터 플랫폼 보호
+  이 모듈에서 학생들은 Azure가 데이터를 보호하기 위해 제공하는 다계층 보안 모델에 대해 배웁니다. 학생들은 보안 네트워크 및 액세스 키 설정부터 사용 권한 정의, 다양한 데이터 저장소 전반의 모니터링에 이르기까지 다양한 보안 방법에 대해 살펴봅니다.
+  #### 과목
+  - 보안에 대한 소개
+  - 주요 보안 구성 요소
+  - 저장소 계정 및 Data Lake Storage 보호
+  - 데이터 저장소 보호
+  - 스트리밍 데이터 보호
+
+
+  ### 연습실 &#58; Azure 데이터 플랫폼 보호
+  - 보안에 대한 소개
+  - 주요 보안 구성 요소
+  - 저장소 계정 및 Data Lake Storage 보호
+  - 데이터 저장소 보호
+  - 스트리밍 데이터 보호
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 보안에 대한 소개
+  - 주요 보안 구성 요소
+  - 저장소 계정 및 Data Lake Storage 보호
+  - 데이터 저장소 보호
+  - 스트리밍 데이터 보호
+
+
+  ### 모듈 9&#58; 데이터 저장소/처리의 모니터링 및 문제 해결
+  이 모듈에서 학생들은 데이터 플랫폼 아키텍처에 문제가 있는 경우 운영 지원을 제공하는 데 사용할 수 있는 다양한 모니터링 기능에 대해 개략적으로 살펴봅니다. 또한 공통적인 데이터 저장소 및 데이터 처리 문제를 살펴봅니다. 마지막으로 비즈니스 연속성을 보장하기 위해 재해 복구 옵션을 다룹니다.
+  #### 과목
+  - 사용 가능한 모니터링 기능 설명
+  - 공통적인 데이터 저장소 문제 해결
+  - 공통적인 데이터 처리 문제 해결
+  - 재해 복구 유지 관리
+
+
+  ### 연습실 &#58; 데이터 저장소/처리의 모니터링 및 문제 해결
+  - 사용 가능한 모니터링 기능 설명
+  - T공통적인 데이터 저장소 문제 해결
+  - 공통적인 데이터 처리 문제 해결
+  - Ma재해 복구 유지 관리
+
+  이모듈을완료하면다음과같은역량을갖추게됩니다.
+  - 사용가능한모니터링기능설명
+  - 공통적인데이터저장소문제해결
+  - 공통적인데이터처리문제해결
+  - 재해복구유지관리

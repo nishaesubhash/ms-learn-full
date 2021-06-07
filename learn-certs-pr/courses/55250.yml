@@ -1,0 +1,229 @@
+### YamlMime:Course
+title: Introduction to Microsoft Dynamics 365
+metadata:
+  title: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+  description: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+uid: course.55250
+courseNumber: '55250-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Be familiar with the Apps and Hubs in Microsoft Dynamics 365 Customer Engagement including Sales, Service and Marketing
+- skill: Understand the differences between the Dynamics 365 Apps and PowerApps
+- skill: Be able to Create, Update, Relate, Assign and Delete records in Microsoft Dynamics 365
+- skill: Create Posts, Notes and Activities in the Timeline control and interact with the Relationship Assistant
+- skill: Manage, Assign and Complete Activities
+- skill: Understand Connections and use them to relate records together
+- skill: Work with Views and create and save a Personal View of records
+- skill: Understand how work with Lookups and Related Records
+- skill: Share records and views with other Users
+- skill: Perform bulk operations on records
+- skill: Configure Personal Options to customize the user experience
+- skill: Track Email and Appointments in Outlook against records in Dynamics 365
+- skill: Proficiently find information using Global Search, Quick Find and Advanced Find
+- skill: Explore the out of the box Reports and create a custom Report using the Report Wizard
+- skill: Create a Personal Chart and Dashboard and set as your homepage
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  This course provides students with an introduction to Microsoft Dynamics 365 Customer Engagement by building a foundation for all subsequent courses and learning. The main features and apps are introduced including Sales, Service and Marketing. Students will learn important end user skills including how to proficiently work in Microsoft Dynamics 365 to find information quickly and easily using the out of the box tools such as Advanced Find, the Report Wizard, Charts and Dashboards through the Web Browser and Dynamics 365 for Outlook. 
+  
+  No previous experience of Microsoft Dynamics 365 is needed to sit this course. The course applies to both Business and Enterprise Editions of Microsoft Dynamics 365 Version 9 as well as online and on-premise deployments.
+
+  #### Audience profile
+  This course has been designed to apply to end users of Microsoft Dynamics 365 Customer Engagement, including&#58;
+  - Sales Representatives
+  - Customer Service Representatives
+  - Marketing Personnel
+  - Project Managers
+  - General End Users who are looking to improve skill in Dynamics 365 It is recommended that attendees of this course have an existing working knowledge of Microsoft Office, Microsoft Excel and Microsoft Outlook. However, this course assumes no prior knowledge of Microsoft Dynamics 365.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A working knowledge of Microsoft Office, Microsoft Excel and Microsoft Outlook. However, this course assumes no prior knowledge of Microsoft Dynamics 365.
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module provides the attendee with an introduction to Microsoft Dynamics 365 Customer Engagement.
+  #### Lessons
+  - What is Dynamics 365?
+  - The Benefits of Dynamics 365
+  - The Sales Apps and Hubs
+  - The Customer Service Apps and Hubs
+  - The Marketing App
+  - Dynamics 365 and PowerApps
+  - The Web Interface
+  - The Outlook Interface
+  - Lists and Grids
+  - Forms
+  - Look ups and Related Records
+  - Where to get Help
+  - Further reading and resources
+
+
+  #### Lab &#58; Setting up your lab environment
+  - Install Sample Data
+
+
+  #### Lab &#58; Dynanmics 365 Orientation
+  - Explore Microsoft Dynamics 365
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features and benefits of Microsoft Dynamics 365 Customer Engagement
+  - Be familiar with the Sales Hub, Customer Service Hub and the Marketing App
+  - Understand the differences between the Web and Outlook Interfaces
+  - Know where to find help and further reading resources
+
+
+  ### Module 2&#58; Records, Activities and Personal Options
+  This module presents the basic concepts and features in Microsoft Dynamics 365 Customer Engagement. We examine the relevance of Records and Relationships, tracking Activities and configuring Personal Options. You will also learn how to work with the Posts, Activities and Notes in the Timeline control.
+  #### Lessons
+  - Records and Relationships
+  - Activities
+  - The Timeline Control
+  - The Relationship Assistant
+  - Connections
+  - Setting your Personal Options
+
+
+  #### Lab &#58; Set Personal Options
+  - Change your Homepage
+  - Change Records Per Page
+  - Configure Format Settings
+
+
+  #### Lab &#58; Working with Activities
+  - Create a Task Activity
+  - Track an Activity using the Set Regarding field
+  - Assign an Activity using the Owner Field
+  - Find and Complete an Activity
+
+  After completing this module, students will be able to&#58;
+  - Work with Records and Activities
+  - Interact with Posts, Notes and Attachments in the Timeline control
+  - Create Record Connections
+  - Configure Personal Options
+  - Work with Activity Records
+  - Know where to find help and further reading resources
+
+
+  ### Module 3&#58; Performing Work in Dynamics 365
+  This module presents common skills the end user requires to efficiently perform work in Microsoft Dynamics 365 Customer Engagement. You will learn how to work with Records, create Personal Views, Reassign Records to a different Owner and Share Records, Views and Charts with other Users. You will also learn how to perform bulk operations such as Edit Multiple.
+  #### Lessons
+  - Working with data and records
+  - Security considerations
+  - System Views and Personal Views
+  - Creating a Record
+  - Editing an existing Record
+  - Deleting a Record
+  - Related Records
+  - Reassigning a Record to a new Owner
+  - Sharing a record with another User or Team
+  - Performing operations on multiple Records
+
+
+  #### Lab &#58; Managing Records
+  - Create an Account Record
+  - Relate a Contact to an Account
+  - Reassign an Account Record
+  - Share an Account Record
+  - Make an Account Inactive
+
+
+  #### Lab &#58; Create a Personal View
+  - Create a Personal View
+  - Set a default Personal View
+
+  After completing this module, students will be able to&#58;
+  - Perform operations on Records
+  - Create and manage Personal Views
+  - Reassign and Share Records
+  - Perform bulk operations on Records
+
+
+  ### Module 4&#58; Dynamics 365 for Outlook
+  In this module we will learn how to use Dynamics 365 for Outlook. The Outlook Add-in will be considered including the Dynamics 365 navigation options, the process to track Emails and Appointments against records in Dynamics 365 and how to synchronize your work with the Dynamics 365 server.
+  #### Lessons
+  - Introduction to Dynamics 365 for Outlook
+  - Dynamics 365 Pop-out Window
+  - Tracking Activities in Outlook
+  - Templates, Sales Literature and Articles
+  - Creating Dynamics 365 Records in Outlook
+  - Searching Dynamics 365 Records in Outlook
+
+
+  #### Lab &#58; Tracking Activities in Outlook
+  - Track an Email in Dynamics 365 for Outlook
+  - Track an Appointment in Dynamics 365 for Outlook
+
+  After completing this module, students will be able to&#58;
+  - Be familiar with the Dynamics 365 for Outlook App
+  - Understand the differences between the Web and Outlook Interfaces
+  - Track Activities in Outlook against records in Dynamics 365
+
+
+  ### Module 5&#58; Searching in Dynamics 365
+  In this module we will learn how to search for and find information in Microsoft Dynamics Customer Engagement. We will look at all the out of the box search tools including Global Find, Quick Find and Advanced Find.
+  #### Lessons
+  - Introduction to searching in Dynamics 365
+  - Global Search
+  - Quick Find
+  - Advanced Find
+
+
+  #### Lab &#58; Using Global Find
+  - Use Global Find to search for Information
+
+
+  #### Lab &#58; Using Quick Find
+  - Use Quick Find to search Account Records
+
+
+  #### Lab &#58; Using Advanced Find
+  - Use Advanced Find to search for Information
+
+  After completing this module, students will be able to&#58;
+  - Use Global Search
+  - Use Quick Find
+  - Be proficient in the Advanced Find Tool
+
+
+  ### Module 6&#58; Reports, Charts and Dashboards
+  This module looks at the different methods available in Microsoft Dynamics 365 to analyse information. We look at the out of the box "Default" reports and the process to create a custom report using the Dynamics 365 Report Wizard. This module also examines the out of the box Charts and Dashboards as well as the process to construct a custom Chart and Dashboard.
+  #### Lessons
+  - Introduction to Reports, Charts and Dashboards
+  - The Default Reports
+  - The Reporting Wizard
+  - Working with Charts
+  - Working with Dashboards
+
+
+  #### Lab &#58; Create a custom Report
+  - Create a Custom Report
+  - Test your new Report
+
+
+  #### Lab &#58; Explore the Charts
+  - Explore the Charts
+  - Create a Custom Chart
+
+
+  #### Lab &#58; Explore the Dashboards
+  - Explore the Dashboard
+  - Create a Custom Dashboard
+
+  After completing this module, students will be able to&#58;
+  - Be familiar with the out of the box Reports
+  - Use the Reporting Wizard to create a custom Report
+  - Understand the Dynamics 365 Charts
+  - Create a custom Personal Chart
+  - Understand the Dynamics 365 Dashboards
+  - Create a custom Personal Dashboard
+
+  #### Additional Reading
+  N/A

@@ -1,0 +1,55 @@
+### YamlMime:Course
+title: Azure에서 데이터 과학 솔루션 설계 및 구현
+metadata:
+  title: 'Course DP-100T01KO-A: Azure에서 데이터 과학 솔루션 설계 및 구현'
+  description: 'Course DP-100T01KO-A: Azure에서 데이터 과학 솔루션 설계 및 구현'
+uid: course.dp-100t01ko
+courseNumber: 'DP-100T01KO-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+summary: |-
+  Azure 서비스를 사용하여 기계 학습 솔루션을 개발하고, 학습시키고, 배포하는 방법과 관련된 필수 지식을 습득하십시오. 이 과정에서는 먼저 데이터 과학을 지원하는 Azure 서비스에 대해 간략하게 살펴봅니다. 그런 다음 Azure 프리미어 데이터 과학 서비스인 Azure Machine Learning 서비스를 사용하여 데이터 과학 파이프라인을 자동화하는 것에 대해 중점적으로 살펴봅니다. 이 과정에서는 Azure에 중점을 두며 데이터 과학을 수행하는 방법에 대해서는 알려주지 않습니다. 즉, 학생들이 이미 관련 지식을 보유하고 있다고 가정합니다.
+
+  #### Audience profile
+  이 과정은 데이터 과학자를 비롯하여 기계 학습 모델의 학습과 배포에서 중요한 역할을 하는 사람을 대상으로 합니다.
+prerequisitesSection: |-
+  이 과정에 참석하려면 다음과 같은 지식이 필요합니다.
+  - Azure 기초
+  - 데이터 준비, 모델 학습 및 경쟁 모델 평가 방법을 포함한 데이터 과학에 대한 이해를 통해 최상의 모델 선택
+  - Python 프로그래밍 언어로 프로그램을 작성하는 방법과 Python 라이브러리(pandas, scikit-learn, matplotlib 및 seaborn)를 사용하는 방법
+outlineSection: |-
+  ### 모듈 1&#58; Azure에서 데이터 과학 수행
+  학생들은 데이터 과학 프로세스와 데이터 과학자의 역할에 대해 배웁니다.  그런 다음, 배운 내용을 적용하여 Azure 서비스가 데이터 과학 프로세스를 어떻게 지원하고 보완하는지 파악합니다.
+  #### 과목
+  - 데이터 과학 프로세스 소개
+  - Azure Data Science 옵션 개요
+  - Azure Notebooks 소개
+
+
+  ### 모듈 2&#58; Azure Machine Learning 서비스를 사용하여 데이터 과학 수행
+  학생들은 Azure Machine Learning 서비스를 사용하여 데이터 과학 프로세스를 처음부터 끝까지 자동화하는 방법을 학습합니다.
+  #### 과목
+  - AML(Azure Machine Learning) 서비스 소개
+  - AML 서비스를 사용하여 ML 모델 등록 및 배포
+
+
+  ### 모듈 3&#58; Azure Machine Learning 서비스를 사용하여 기계 학습 자동화
+  이 모듈에서 학생들은 기계 학습 파이프라인에 대해 배우고 Azure Machine Learning 서비스의 AutoML 및 HyperDrive를 사용하여 파이프라인의 어려운 부분 중 일부를 자동화하는 방법을 배웁니다.
+  #### 과목
+  - 기계 학습 모델 선택 자동화
+  - HyperDrive를 사용하여 하이퍼 매개 변수 튜닝 자동화
+
+
+  ### 모듈 4&#58; Azure Machine Learning 서비스를 사용하여 기계 학습 모델 관리 및 모니터링
+  이 모듈에서 학생들은 Azure Machine Learning 서비스에서 기계 학습 모델을 자동으로 관리하고 모니터링하는 방법을 배웁니다.
+  #### 과목
+  - 기계 학습 모델 관리 및 모니터링

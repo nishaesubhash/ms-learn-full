@@ -1,0 +1,207 @@
+### YamlMime:Course
+title: SQL Server 2012 Reporting Services
+metadata:
+  title: 'Course 55119-A: SQL Server 2012 Reporting Services'
+  description: 'Course 55119-A: SQL Server 2012 Reporting Services'
+uid: course.55119
+courseNumber: '55119-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with solutions and projects.
+- skill: Design basic reports.
+- skill: Work with table, matrix, and list report items.
+- skill: Enhance reports with formatting and images.
+- skill: Effectively group and summarize data.
+- skill: Work with parameterized reports.
+- skill: Incorporate charts and custom maps.
+- skill: Work with drill-through reports.
+- skill: Manage reports.
+- skill: Utilize Report Builder.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This three-day instructor-led is intended for information workers and database professionals who are interested in expanding their knowledge about SQL Server 2012 Reporting Services. During this course, attendees will learn how to Report Designer in SSDT and Report Builder, work with solutions and projects, design basic reports, enhance reports with formatting and images, effectively group and summarize data, work with parameterized reports, incorporate charts and custom maps, and work with drill-through reports, and manage reports.
+
+  #### Audience profile
+  This course is intended for information workers and database professionals who have a general familiarity with databases prior to the class. Working knowledge of Microsoft SQL Server or Microsoft Office applications is beneficial.
+prerequisitesSection: |-
+  - A general familiarity with databases prior to the class.
+  - Additionally, working knowledge of Microsoft SQL Server or Microsoft Office applications is beneficial.
+outlineSection: |-
+  ### Module 1&#58; SSRS Overview and Tools
+  This module provides an introduction to the topics covered in the class, introduces Reporting Services features, the tools available with SQL Server 2012, and introduces students to SQL Server documentation.
+  #### Lessons
+  - Reporting Services Features
+  - Tools Available with SQL Server 2012
+  - SQL Server Documentation
+  - Understand Reporting Services Features.
+  - Identify the SQL Server 2012 Tools.
+  - Find and Use SQL Server Documentation.
+
+
+  ### Module 2&#58; Working with Solutions and Projects
+  This module covers working with solutions and projects within Visual Studio.
+  #### Lessons
+  - Working with SQL Server Data Tools
+  - Understanding Solutions and Projects
+  - Working with the Visual Studio Interface
+
+
+  #### Lab &#58; Working with Solutions and Projects (Optional)
+  - Work with SQL Server Data Tools.
+  - Understand solutions and projects.
+  - Work with the Visual Studio interface.
+
+
+  ### Module 3&#58; Creating Basic Reports
+  This module covers building reports from start to finish, and tips and tricks for successful report building.
+  #### Lessons
+  - What is a Data Source?
+  - What is a Dataset?
+  - Using the Report Wizard
+  - What is Tablix?
+  - Creating a Tabular Report
+  - Creating a List Report
+  - What is a Matrix?
+  - Deploying a Project
+
+
+  #### Lab &#58; Creating Basic Reports
+  - Understand the differences between shared and embedded data sources and datasets.
+  - Create shared and embedded data sources and datasets.
+  - Use the Report Wizard to build basic reports.
+  - Create a basic matrix report from a shared dataset.
+
+
+  ### Module 4&#58; Formatting Reports
+  This module covers the features which enhance the visual impact of reports.
+  #### Lessons
+  - Working with Text Boxes
+  - Rich Text Formatting
+  - Managing Text Boxes
+  - Drawing Lines and Boxes
+  - Images
+  - Page Headers and Footers
+  - Adding a Document Map
+  - Rendering Reports
+
+
+  #### Lab &#58; Formatting Reports
+  - Format data to enhance a report.
+  - Add images to a report.
+  - Work with page headers and footers.
+
+
+  ### Module 5&#58; Custom Expressions
+  This module covers expressions and how to use them to set dynamically changing properties or values.
+  #### Lessons
+  - Understanding Expressions
+  - Defining Expressions
+  - Working with Report Variables
+  - Understanding Lookup, LookupSet, and Multilookup Functions
+  - Expression Samples
+
+
+  #### Lab &#58; Custom Expressions
+  - Use expressions to work with custom formulas.
+  - Use expressions to change the way data is displayed in report.
+  - Use expressions to incorporate data from more than one dataset.
+
+
+  ### Module 6&#58; Summarizing and Sorting
+  SQL Server Reporting Services (SSRS) offers grouping features to allow you to summarize data and then drill down into the details below the summary levels. This module will explain how to create and manage these groupings.
+  #### Lessons
+  - Creating Groups
+  - Parent/Child vs. Adjacent Groupings
+  - Adding Totals and Aggregations
+  - Creating Aggregates of Aggregates
+
+
+  #### Lab &#58; Summarizing and Sorting
+  - Add both row and column parent groups to an existing report.
+  - Aggregate data for summary reports.
+  - Create reports using adjacent groups in a matrix.
+  - Work with group properties.
+
+
+  ### Module 7&#58; Add Flexibility with Parameters
+  Paramaterized reports allow users to customize reports to show only the data they are interested in. This module covers the use of parameters and filters.
+  #### Lessons
+  - Adding Parameters to a Report
+  - Report Parameters vs. Query Parameters
+  - Manage Report Parameter Properties
+  - Use Parameters with SQL Queries and Stored Procedures
+  - Work with Cascading Parameters
+  - Sort Based on a Parameter Setting
+  - Filtered Reports
+
+
+  #### Lab &#58; Add Flexibility with Parameters
+  - Customize report data with both query and report parameters.
+  - Use parameters to define interactive sort and visibility options.
+  - Add filters to a dataset.
+
+
+  ### Module 8&#58; Enhanced Report Items
+  This module explores the different ways data can be enhanced visually in a report.
+  #### Lessons
+  - Charts
+  - Gauges
+  - Add a Map to a Report
+  - Data Bar, Indicator, and Sparkline Report Items
+  - Nesting Data Regions
+  - Sub-reports and Drill-through Reports
+  - Working with Drill-through Reports
+
+
+  #### Lab &#58; Enhanced Report Items
+  - Use lessons up to this point to create a complete solution.
+  - Choose between data visualization options.
+  - Add data visualization items to an existing report.
+  - Add a drill-through report send parameters to the drill-through report.
+
+
+  ### Module 9&#58; Using Report Manager
+  This module provides details on how to run and manage reports using Report Manager.
+  #### Lessons
+  - Deployment
+  - Navigating Report Manager
+  - Understanding Permissions
+  - Viewing Reports
+  - Working with Shared Data Sources
+  - Managing Reports
+
+
+  #### Lab &#58; Using Report Manager
+  - Create and deploy a project by using SSDT.
+  - Work with Report Manager to view and manage reports.
+  - Create a linked report.
+  - Add report snapshots by using Report Manager.
+
+
+  ### Module 10&#58; Using Report Builder for SQL Server 2012
+  This module covers the use of Report Builder to apply lessons learned in previous modules.
+  #### Lessons
+  - ClickOnce vs. Stand-alone
+  - Installing the Stand-alone Version
+  - Using the Report Builder Tool
+  - Creating Datasets
+  - Creating Reports
+  - Creating Reports Using Wizards
+  - Creating Reports Without a Wizard
+  - OPening Existing Reports
+  - Working with Report Parts
+
+
+  #### Lab &#58; Using Report Builder for SQL Server 2012
+
+  - Implement basic features from previous modules in Report Builder
+  - Add data visualization items to a report using Report Builder.

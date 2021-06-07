@@ -1,0 +1,98 @@
+### YamlMime:Course
+title: Preparing Your Data for Power BI
+metadata:
+  title: 'Course 55163-A: Preparing Your Data for Power BI'
+  description: 'Course 55163-A: Preparing Your Data for Power BI'
+uid: course.55163
+courseNumber: '55163-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Understand Analysis Services Installation and Architecture: One Product, Two Models.'
+- skill: 'Understand version changes: SQL Server Analysis Services.'
+- skill: Understand important terms.
+- skill: Understand and utilize SQL Server Data Tools for Tabular.
+- skill: Understand and utilize projects.
+- skill: Understand and utilize importing.
+- skill: Understand and utilize loading data.
+- skill: Understand and utilize examining views.
+- skill: Understand and utilize deployment.
+- skill: Understand and utilize data sources.
+- skill: Understand and utilize data credentials.
+- skill: Understand and utilize SQL as a source.
+- skill: Understand and utilize Excel as a source.
+- skill: Understand and utilize Flat Files as a source.
+- skill: Understand and utilize Azure as a source.
+- skill: Understand and utilize SharePoint as a source.
+- skill: Understand and utilize sorting during load.
+- skill: Understand querying with MDX.
+- skill: Understand and utilize DAX syntax.
+- skill: Understand and utilize DAX data types and operator overloading.
+- skill: Understand and utilize DAX operators.
+- skill: Understand and utilize DAX values.
+- skill: Understand and utilize measures.
+- skill: Understand and utilize calculated columns.
+- skill: Understand evaluation contexts.
+- skill: Understand and utilize date calculations.
+- skill: Understand and utilize importing related tables.
+- skill: Understand and utilize creating relationships.
+- skill: Understand and utilize hierarchies.
+- skill: Understand Direct Query.
+- skill: Understand and utilize KPIs.
+- skill: Understand drillthrough.
+- skill: Understand perspectives.
+- skill: Understand and utilize PowerPivot.
+- skill: Understand and utilize Pivot Tables.
+- skill: Understand and utilize Power View.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This course is designed to introduce the participant to SQL Business Intelligence Semantic Model (BISM) Tabular mode, data modeling, and DAX.
+
+  #### Audience profile
+  The course is targeted towards business analysts, business intelligence developers, and SQL Professionals.
+prerequisitesSection: |-
+  - A working knowledge of SQL Server
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+  - None
+
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; What is the Tabular Model?
+  SQL Server Analysis Services (SSAS) provides two different approaches for data modeling&#58; multidimensional and tabular. While there is substantial overlap between them, there are also significant differences. In this module, we discuss feature comparisons and explain each approach, then we’ll dive deeper into the tabular model as that is the focus for this course.
+  #### Lessons
+  - Analysis Services Installation and Architecture&#58; One Product, Two Models
+  - Version Changes&#58; SQL Server Analysis Services
+  - Important Terms
+  - SQL Server Data Tools for Tabular
+
+
+  #### Lab &#58; What is the Tabular Model?
+  - SQL Server Data Tools for Tabular
+
+  After completing this module, students will be able to&#58;
+  - Understand Analysis Services Installation and Architecture&#58; One Product, Two Models.
+  - Understand version changes&#58; SQL Server Analysis Services.
+  - Understand important terms.
+  - Understand and utilize SQL Server Data Tools for Tabular.

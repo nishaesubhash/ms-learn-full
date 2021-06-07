@@ -1,0 +1,365 @@
+### YamlMime:Course
+title: System Center 2012 Service Manager
+metadata:
+  title: 'Course 55009-A: System Center 2012 Service Manager'
+  description: 'Course 55009-A: System Center 2012 Service Manager'
+uid: course.55009
+courseNumber: '55009-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain the role of Service Manager 2012 and the entire System Center suite.
+- skill: Describe the fundamentals of MOF and ITIL as they relate to Service Manager 2012.
+- skill: Discuss the overall architecture and design considerations for Service Manager 2012.
+- skill: Install and configure Service Manager 2012.
+- skill: Import and configure management packs.
+- skill: Populate Service Manager 2012's Configuration Management Database (CMDB).
+- skill: Establish role-based security.
+- skill: Extend the functionality of Service Manager 2012 using connectors.
+- skill: Utilize lists, queues and templates.
+- skill: Implement incident, change, release and service level management.
+- skill: Design workflows for automated incident routing and escalation.
+- skill: Configure the Service Manager 2012 environment.
+- skill: Create service offerings and request offerings and customize the Self-Service Portal.
+- skill: Implement runbook automation activities with Orchestrator 2012.
+- skill: List System Center 2012 Service Pack 1 updates.
+- skill: Integrate Service Manager 2012 with the System Center 2012 suite.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- msc-service-manager
+summary: |-
+  This five-day course teaches students how to design, deploy and maintain Service Manager 2012 within their organizations. Students are introduced to the various System Center 2012 products and will learn how Service Manager 2012 is designed and deployed within the System Center suite. In addition, students will learn how to customize the end user experience and automate service request responses, as well as learn best practices for using Service Manager 2012. This course incorporates hands-on learning opportunities so students can practice applying business solutions to real-world scenarios. After completion, students will have the skills necessary to manage Service Manager 2012 for maximum business benefit.
+
+  #### Audience profile
+  This course is designed for IT professionals and business analysts who already have prerequisite technical knowledge of the underlying infrastructure and components that integrate with Service Manager 2012. These IT professionals are primarily responsible for implementing a service desk and need in-depth knowledge of Service Manager 2012.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Windows Server 2008 R2 operating system.
+  - Active Directory Domain Services (AD DS).
+  - PowerShell and SQL Server Reporting Services.
+  - Service Manager (helpful but not required).
+  - Administration of other System Center 2012 products (helpful but not required).
+  - Information Technology Infrastructure Library (ITIL) or Microsoft Operations Framework (MOF) (helpful but not required).
+outlineSection: |-
+  ### Module 1&#58; Introduction to System Center 2012 Service Manager
+  This module introduces students to Microsoft System Center 2012 and Service Manager 2012. It provides a brief overview of the products in the System Center 2012 suite, covers licensing, reviews service management best practices, and takes a deeper look into the purpose and function of Service Manager 2012.
+  #### Lessons
+  - History and Evolution of System Center 2012
+  - System Center 2012 Product Suite
+  - System Center 2012 Licensing
+  - System Center 2012 Service Manager
+
+
+  #### Lab &#58; Setting Up the Initial Lab Environment
+
+  #### Lab &#58; Introducing System Center 2012
+
+  After completing this module, students will be able to&#58;
+  - Explain the history and evolution of System Center 2012.
+  - Differentiate between each of the Systems Center products.
+  - Describe System Center 2012 licensing.
+  - Identify the purpose and function of Service Manager 2012.
+
+
+  ### Module 2&#58; Overview of ITIL and MOF
+  This module provides an overview of the ITIL and MOF standards and ways in which Service Manager 2012 fulfills these standards. It also defines the role of a service desk and how it differs from a help desk and call center.
+  #### Lessons
+  - Introducing ITIL and MOF
+  - Defining the Role of a Service Desk
+  - Applying ITIL and MOF to Service Manager 2012
+
+
+  #### Lab &#58; Applying ITIL and MOF to Service Manager 2012
+
+  After completing this module, students will be able to&#58;
+  - Provide an overview of ITIL and MOF.
+  - Describe the role of a service desk.
+  - Explain how Service Manager 2012 fulfills ITIL and MOF standards.
+
+
+  ### Module 3&#58; Design and Deployment Considerations for Service Manager 2012
+  This module prepares students to deploy Service Manager 2012 by introducing its architecture and roles of key components. Students will gain a basic understanding of the four steps in the design process. They will also learn how to determine what size deployment they need by getting answers to key questions and analyzing different deployment scenarios. Finally, students will review service accounts to configure hardware and software requirements and SQL Server installation.
+  #### Lessons
+  - Examining the Service Manager 2012 Architecture
+  - Designing Service Manager 2012
+  - Analyzing Deployment Scenarios
+  - Preparing to Deploy Service Manager 2012
+
+
+  After completing this module, students will be able to&#58;
+  - Define roles of the Service Manager components and explain Service Manager 2012 architecture.
+  - Consider key questions before deploying Service Manager 2012.
+  - Differentiate between various deployment options and determine what is needed.
+  - Define the purpose of each service account.
+  - List and ensure the hardware and software requirements.
+  - Consider SQL Server requirements
+
+
+  ### Module 4&#58; Installing and Configuring Service Manager 2012
+  This module introduces students to the different workspaces in Service Manager 2012. It also prepares students to run reports by introducing the data warehouse and registering it with the Service Manager management server. Finally, students will review management packs and how they extend the functionality of Service Manager 2012.
+  #### Lessons
+  - Installing the Service Manager Management Server
+  - Installing the Service Manager Data Warehouse Management Server
+  - Navigating the Service Manager Console
+  - Registering the Data Warehouse
+  - Working with Management Packs
+
+
+  #### Lab &#58; Registering Service Manager with the Data Warehouse
+
+  #### Lab &#58; Exploring the Service Manager Console
+
+  #### Lab &#58; Using PowerShell for Management Packs
+
+  After completing this module, students will be able to&#58;
+  - Install the Service Manager management server.
+  - Install the Service Manager data warehouse management server.
+  - Navigate the Service Manager workspaces and explain configuration options.
+  - Define the role of the Service Manager data warehouse.
+  - Register the Service Manager management group with the data warehouse group.
+  - Describe the makeup of a management pack.
+  - Describe how management packs extend the functionality of Service Manager 2012.
+  - Import and configure management packs.
+  - Apply best practices to management packs.
+  - Complete various tasks using the Service Manager cmdlets.
+
+
+  ### Module 5&#58; Managing Service Manager 2012 Security
+  This module introduces students to role-based access control. Service Manager 2012 implements security through the use of user roles. In addition, security in Service Manager 2012 includes Run As accounts that will also be explored.
+  #### Lessons
+  - Defining Role-Based Access Control
+  - Examining Service Manager 2012 Security
+  - Configuring User Roles in Service Manager 2012
+
+
+  #### Lab &#58; Managing Service Manager 2012 Security
+
+  After completing this module, students will be able to&#58;
+  - Explain role-based access control.
+  - Describe role-based access control in Service Manager 2012.
+  - Manage user roles and Run As accounts in Service Manager 2012.
+
+
+  ### Module 6&#58; Extending Service Manager 2012 with Connectors
+  This module defines the role of connectors and introduces students to the six connectors that can be created in Service Manager 2012. It also discusses the benefit of importing data from a comma-separated value (CSV) file and how to perform the import. Finally, students will be introduced to PowerShell cmdlets and use them to manage data warehouse functions.
+  #### Lessons
+  - Defining the Configuration Management Database
+  - Considering the Role of Connectors
+  - Installing and Configuring Connectors
+  - Importing Data Using CSV Files
+
+
+  #### Lab &#58; Creating Connectors
+
+  #### Lab &#58; Scripting Using PowerShell cmdlets
+
+  After completing this module, students will be able to&#58;
+  - Describe the role of the Configuration Management Database.
+  - Explain the purpose and function of Service Manager connectors.
+  - Install and configure connectors.
+  - Import configuration items using .csv files.
+
+
+  ### Module 7&#58; Incident Management
+  This module introduces students to incident management and problem management. Students will learn how to customize settings, views, lists and templates related to incident and problem management. These skills will be used to create incidents and problems, and then complete incident and change management processes.
+  #### Lessons
+  - Introducing Incident Management
+  - Configuring Incident Management Settings
+  - Configuring Problem Management Settings
+  - Customizing Incident Management Lists
+  - Customizing Incident Management Views
+  - Creating Incident Requests
+  - Creating Incident Request Templates
+  - Using Templates with Incidents Requests
+  - Creating Incident Management Event Workflows
+
+
+  #### Lab &#58; Working with Incident Requests
+
+  After completing this module, students will be able to&#58;
+  - Define incident management and problem management.
+  - List options for generating incidents.
+  - Define incident relationships.
+  - Customize incident management and problem management settings.
+  - Customize incident management views and lists.
+  - Create new incidents.
+  - Explain incident request templates and their importance.
+  - Create an incident request template.
+  - Use templates with incident requests.
+  - Create an incident management event workflow.
+
+
+  ### Module 8&#58; Change Management and Activity Management
+  This module introduces students to change management and activity management. Students will learn the various components of change management, including activities. They will also learn how to customize settings, views, lists and templates related to change and activity management. These skills will be used to create change requests and complete the change management process.
+  #### Lessons
+  - Introducing Change Management and Activity Management
+  - Implementing a Change Management Process
+  - Examining Activities in Service Manager 2012
+  - Customizing Change Management Lists
+  - Customizing Change Management Views
+  - Creating Change Requests and Activities
+  - Creating Change Request Templates
+  - Creating Change and Activity Management Workflows
+
+
+  #### Lab &#58; Working with Change Requests
+
+  After completing this module, students will be able to&#58;
+  - Define change management.
+  - Differentiate between change requests and activities.
+  - Describe the change management process.
+  - Define the activities available in Service Manager 2012 and the associated IT processes.
+  - Customize change management settings.
+  - Customize change management views and lists.
+  - Create change requests and activities.
+  - Explain change request templates and their importance.
+  - Create a change request template.
+  - Create a change and activity management event workflow.
+
+
+  ### Module 9&#58; Release Management
+  This module introduces students to release management. Students will learn how to customize settings, views, lists and templates related to release management. These skills will be used to create a release record and complete the release management process.
+  #### Lessons
+  - Introducing Release Management
+  - Customizing Release Management Lists
+  - Customizing Release Management Views
+  - Creating Release Records
+  - Creating Release Record Templates
+  - Creating Release Management Event Workflows
+
+
+  #### Lab &#58; Working with Release Records
+
+  After completing this module, students will be able to&#58;
+  - Define release management.
+  - Discuss the relationship between release records and change requests.
+  - Customize release management settings.
+  - Customize release management views and lists.
+  - Create release records.
+  - Explain release record templates and their importance.
+  - Create release record templates.
+  - Create a release management workflow.
+
+
+  ### Module 10&#58; Service Level Management
+  This module introduces students to service level management. Students will learn the various components of incident service, how to customize settings related to incident and problem management, and how to create calendars, queues and metrics. These skills will be used to create and monitor service level objectives.
+  #### Lessons
+  - Introducing Service Level Management
+  - Creating a New Calendar Item
+  - Creating a New Metric Item
+  - Creating a New Service Level Objective
+  - Configuring Notifications
+
+
+  #### Lab &#58; Creating a Service Level Objective in Service Manager 2012
+
+  After completing this module, students will be able to&#58;
+  - Explain service level management.
+  - Set up calendars, queues and metrics.
+  - Create service level objectives (SLOs).
+  - Configure notifications.
+
+
+  ### Module 11&#58; Using the Self-Service Portal
+  This module introduces students to the Self-Service Portal and the service catalog within the Service Manager 2012 console. Students will learn the various components of incident service and how to create and publish service offerings and request offerings. These skills will be used to create incident requests using the Self-Service Portal.
+  #### Lessons
+  - Introducing the Self-Service Portal
+  - Introducing the Service Catalog
+  - Creating Service Offerings and Request Offerings
+  - Customizing the Self-Service Portal
+
+
+  #### Lab &#58; Working with the Self-Service Portal
+
+  After completing this module, students will be able to&#58;
+  - Explain the function and design of the Self-Service Portal.
+  - Describe the role of a service catalog.
+  - Differentiate between service offerings and request offerings.
+  - Customize Self-Service Portal lists, views and templates.
+  - Create a service offering and a request offering.
+  - Customize the Self-Service Portal.
+
+
+  ### Module 12&#58; Managing the Data Warehouse and Reporting
+  This module introduces students to the data warehouse and the reports that are available.
+  #### Lessons
+  - Introducing the Data Warehouse
+  - Navigating the Data Warehouse Workspaces
+  - Defining Data Warehouse Jobs
+  - Exploring Different Data Warehouse Reports
+  - Configuring Data Retention Settings
+  - Using Windows PowerShell cmdlets
+
+
+  #### Lab &#58; Exploring the Data Warehouse Workspaces
+
+  #### Lab &#58; Verifying the Data Warehouse Registration
+
+  #### Lab &#58; Running Reports in Service Manager 2012
+
+  After completing this module, students will be able to&#58;
+  - Describe the role of the data warehouse and its components.
+  - Define data warehouse jobs.
+  - List and explain types of reports available.
+  - Run reports and advanced reports.
+  - Customize data retention settings.
+  - List data warehouse functions that use PowerShell cmdlets.
+
+
+  ### Module 13&#58; Orchestrator 2012 and Service Manager 2012 Integration
+  This module will teach students how to publish a request offering and a runbook activity in the Self-Service Portal. To do this, students will first learn the basics of Orchestrator 2012&#58; a powerful automation tool.
+  #### Lessons
+  - Introducing Orchestrator 2012
+  - Navigating Orchestrator 2012 Interfaces
+  - Creating Runbooks
+  - Working with Integration Packs
+  - Integrating Orchestrator 2012 with Service Manager 2012
+
+
+  #### Lab &#58; Automating User Creation with a Runbook Automation Activity through the Self-Service Portal
+
+  After completing this module, students will be able to&#58;
+  - Explain what Orchestrator 2012 is and how it works.
+  - Navigate Orchestrator 2012 interfaces.
+  - Create a simple runbook in Orchestrator 2012.
+  - Implement runbook automation activities in Service Manager 2012.
+  - Discuss the integration benefits of Orchestrator 2012 with Service Manager 2012.
+  - Configure integration between Service Manager 2012 and Orchestrator 2012.
+  - Install and configure the Active Directory Integration Pack for Orchestrator 2012.
+  - Publish a request offering and a runbook automation activity in the Self-Service Portal.
+
+
+  ### Module 14&#58; System Center 2012 Service Pack 1
+  This module introduces students to the Service Pack 1 (SP1) updates for the System Center 2012 suite of products. They will also learn about improvements to Configuration Manager 2012, Operations Manager 2012, Data Protection Manager 2012 and Virtual Machine Manager 2012. Students should feel confident in explaining the Service Manager 2012 SP1 improvements and how they will improve the operation and function of the service desk in their environments.
+  #### Lessons
+  - Introducing System Center 2012 Service Pack 1
+  - Deploying Service Pack 1
+  - Exploring Service Pack 1 and Service Manager 2012
+
+
+  After completing this module, students will be able to&#58;
+  - List the SP1 updates for each of the System Center 2012 products.
+  - Explain upgrade sequencing and system requirements for SP1.
+  - Provides details on the SP1 improvements to Service Manager 2012.
+
+
+  ### Module 15&#58; System Center 2012 Integration
+  This module consists of three labs. They are meant to be done either at the end of one of the System Center 2012 classes or as a stand-alone lab. There may be steps that students have already covered in previous labs.
+
+  #### Lab &#58; Setting up the Initial Lab Environment
+
+  #### Lab &#58; Creating an Orchestrator 2012 Runbook
+
+  #### Lab &#58; Working with Orchestrator System Center 2012 Runbooks
+
+  After completing this module, students will be able to&#58;
+  - Integrate Service Manager 2012 with Orchestrator 2012 and Operations Manager 2012.
+  - Configure Operations Manager 2012 with Service Manager 2012 to look for an event.
+  - Build an Orchestrator 2012 runbook to monitor Service Manager 2012 for the event.
+  - Work with pre-built Orchestrator 2012 runbooks.

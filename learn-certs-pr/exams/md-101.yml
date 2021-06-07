@@ -6,6 +6,8 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
+  <div><font color='red'><strong>The content of this exam was updated on May 25, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
+  
   If you passed [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) before it retired on March 31, 2019, you only need to take MD-101 to earn the Modern Desktop certification.
   
   Candidates for this exam are Administrators who deploy, configure, secure, manage, and monitor devices and client applications in an enterprise environment. Candidates manage identity, access, policies, updates, and apps.
@@ -15,19 +17,20 @@ summary: |-
   Candidates must be familiar with Microsoft 365 workloads and must be proficient and experienced in deploying, configuring, and maintaining Windows 10 and non-Windows devices and technologies.
   
   You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
-subTitle: 'This exam measures your ability to accomplish the following technical tasks: deploy and update operating systems; manage policies and profiles; manage and protect devices; and manage apps and data. If you passed Exam 70-698 before it expired on March 31, 2019, you only need to take MD-101 to earn the Modern Desktop certification.'
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: deploy and upgrade operating systems; manage policies and profiles; manage and protect devices; and manage apps and data. If you passed Exam 70-698 before it expired on March 31, 2019, you only need to take MD-101 to earn the Modern Desktop certification.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
-practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Deploy and update operating systems (35-40%)
-- Manage policies and profiles (25-30%)
-- Manage and protect devices (20-25%)
+- The content of this exam was updated on May 25, 2021. Please download the exam skills outline below to see what changed.
+- Deploy and upgrade operating systems (25-30%)
+- Manage policies and profiles (20-25%)
+- Manage and protect devices (30-35%)
 - Manage apps and data (10-15%)
 roles:
 - administrator
@@ -51,10 +54,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

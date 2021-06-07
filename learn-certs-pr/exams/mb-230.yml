@@ -17,7 +17,7 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: manage cases and Knowledge Management; manage queues, entitlements, and service-level agreements; implement scheduling; implement Omnichannel for Customer Service; and manage analytics.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
-practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
@@ -41,9 +41,10 @@ courses:
 - uid: course.mb-230t01
 paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
-- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-surveys
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-dynamics.work-customer-service-omnichannel
+- uid: learn-dynamics.work-customer-service-insights
 relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
@@ -53,7 +54,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -1,0 +1,142 @@
+### YamlMime:Course
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Course 55264-A: Introduction to Programming Using Python'
+  description: 'Course 55264-A: Introduction to Programming Using Python'
+uid: course.55264
+courseNumber: '55264-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create Operations using Data Types and Operators
+- skill: Create Control Flow Operations
+- skill: Create Input and Output Operations
+- skill: Write and Document code to solve a specified problem
+- skill: Troubleshoot Problems and Write Error Handling Operations
+- skill: Perform Operations Using Modules and Tools
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-381
+summary: |-
+  This five-day instructor-led course is intended for students who want to learn how to write Python code that logically solves a given problem. Candidates will learn how to write, debug, maintain and document Python code.The material will prepare students for the Microsoft certification exam 98-381.
+
+  #### Audience profile
+  This course is intended for new and experienced programmers that want to learn how to write and troubleshoot Python code. This is the Microsoft recommended course for preparing for the 98-381 test. Previous programming experience is not required but recommended.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience performing command-line operations on Windows, Linux or Mac computers
+  - Six months experience writing code in any programming language (Recommended)
+outlineSection: |-
+  ### Module  1&#58; Perform Operations Using Data Types and Operators
+  This module explains how to use Python operators and data types to achieve a specified result.
+  #### Lessons
+  - Assign data types to variables
+  - Perform data and data type operations
+  - Perform Arithmetic, Comparison and Logical Operations
+  - Review
+
+
+  #### Lab &#58; Perform Operations Using Data Types and Operators
+  - Assign data types to variables
+  - Perform data and data type operations
+  - Perform Arithmetic, Comparison and Logical Operations
+
+  After completing this module, students will be able to&#58;
+  - Assign data types to variables
+  - Manage data and data type operations
+  - Perform Arithmetic, Comparison and Logical Operations
+
+
+  ### Module  2&#58; Control Flow with Decisions and Loops
+  This module explains how to use Control Flow and Looping operations in Python.
+  #### Lessons
+  - Construct and analyze code segments that use branching statements
+  - Construct and analyze code segments that perform iterations
+  - Review
+
+
+  #### Lab &#58; Control Flow with Decisions and Loops
+  - Using branching operations
+  - Using iteration operations
+
+  After completing this module, students will be able to&#58;
+  - Create branching operations
+  - Create iteration operations
+
+
+  ### Module  3&#58; Perform Input and Output Operations
+  This module explains how to construct input and output operations using files or from the console.
+  #### Lessons
+  - Create Python code segments that perform file input and output operations
+  - Create Python code segments that perform console input and output operations
+  - Review
+
+
+  #### Lab &#58; Perform Input and Output Operations
+  - Perform input and output operations using files
+  - Perform input and output operations from the console
+
+  After completing this module, students will be able to&#58;
+  - Use files for input and output operations
+  - Use the console to perform input and output operations
+
+
+  ### Module  4&#58; Document and Structure Code
+  This module explains how to structure and document well-written Python code.
+  #### Lessons
+  - Construct and analyze code segments
+  - Document code segments using comments and documentation strings
+  - Review
+
+
+  #### Lab &#58; Document and Structure Code
+  - Construct and Analyze Code Segments
+  - Document Code Segments
+
+  After completing this module, students will be able to&#58;
+  - Create code segments
+  - Document code segments
+
+
+  ### Module  5&#58; Perform Troubleshooting and Error Handling
+  This module explains how to perform troubleshooting and error handling operations in Python.
+  #### Lessons
+  - Analyze, Detect and Fix code segments that have errors
+  - Analyze and construct code segments that handle exceptions
+  - Review
+
+
+  #### Lab &#58; Perform Troubleshooting and Error Handling
+  - Analyze, Detect and Fix code segments that have errors
+  - Analyze and Construct code segments that handle exceptions
+
+  After completing this module, students will be able to&#58;
+  - Detect and Fix errors in code
+  - Create error handling code
+
+
+  ### Module  6&#58; Perform Operations Using Modules and Tools
+  This module explains how to use built-in modules.
+  #### Lessons
+  - Use Built-In Modules to perform basic operations
+  - Use Built-In Modules to perform complex operations
+  - Review
+
+
+  #### Lab &#58; Perform Operations Using Modules and Tools
+  - Use Built-In Modules to perform basic operations
+  - Use Built-In Modules to perform complex operations
+
+  After completing this module, students will be able to&#58;
+  - Use Built-In modules to perform operating system, date and mathematical operations
+
+  #### Additional ReadingTo help you prepare for this class, review the following resources&#58;
+  - Microsoft test objectives for Exam 98-381

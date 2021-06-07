@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Implementing Dependency Management
+metadata:
+  title: 'Course AZ-400T04-A: Implementing Dependency Management'
+  description: 'Course AZ-400T04-A: Implementing Dependency Management'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Recommend artifact management tools and practices
+- skill: Abstract common packages to enable sharing and reuse
+- skill: Inspect codebase to identify code dependencies that can be converted to packages
+- skill: Identify and recommend standardized package types and versions across the solution
+- skill: Refactor existing build pipelines to implement version strategy that publishes packages
+- skill: Manage security and compliance
+- skill: Inspect open source software packages for security and license compliance to align with corporate standards
+- skill: Configure build pipeline to access package security and license rating
+- skill: Configure secure access to package feeds
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides the knowledge and skills to implement dependency management. Students will learn how to design a dependency management strategy and manage security and compliance.
+
+  #### Audience profile
+  Students in this course are interested in implementing dependency management or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+outlineSection: |-
+  ### Module  1&#58; Designing a Dependency Management Strategy
+  #### Lessons
+  - Introduction
+  - Packaging dependencies
+  - Package management
+  - Implement a versioning strategy
+
+
+  #### Lab &#58; Updating packages
+  After completing this module, students will be able to&#58;
+  - Recommend artifact management tools and practices
+  - Abstract common packages to enable sharing and reuse
+  - Inspect codebase to identify code dependencies that can be converted to packages
+  - Identify and recommend standardized package types and versions across the solution
+  - Refactor existing build pipelines to implement version strategy that publishes packages
+  - Manage security and compliance
+
+
+  ### Module  2&#58; Manage security and compliance
+  #### Lessons
+  - Introduction
+  - Package security
+  - Open source software
+  - Integrating license and vulnerability scans
+
+  After completing this module, students will be able to&#58;
+  - Inspect open source software packages for security and license compliance to align with corporate standards
+  - Configure build pipeline to access package security and license rating
+  - Configure secure access to package feeds

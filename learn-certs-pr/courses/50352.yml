@@ -1,0 +1,169 @@
+### YamlMime:Course
+title: SharePoint 2010 Overview for End Users
+metadata:
+  title: 'Course 50352-B: SharePoint 2010 Overview for End Users'
+  description: 'Course 50352-B: SharePoint 2010 Overview for End Users'
+uid: course.50352
+courseNumber: '50352-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore every new aspect that will be visible to an end user in SharePoint 2010.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This 3-day instructor-led course explores all the new end user features exposed in SharePoint 2010.
+
+  #### Audience profile
+  Anyone that works with SharePoint team sites, libraries, lists and items.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Understanding of SharePoint 2007 basics.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; SharePoint Introduction
+  In this module, we are going to answer the all important questions of "What" and "Why" should we be using SharePoint. We are also going to look at the new and exciting features of SharePoint 2010!
+  #### Lessons
+  - What’s New in SharePoint 2010
+  - End User Adoption
+  - What is SharePoint?
+  - Why SharePoint?
+
+  After completing this module, students will be able to&#58;
+  - Describe the major components of SharePoint 2010
+  - Describe the new features and capabilities of SharePoint 2010 as compared to 2007
+  - Describe what business problems SharePoint 2010 can address
+
+
+  ### Module 3&#58; Collaboration Experience
+  In this module we take a look at common features of the basic SharePoint site.  Throughout this course we will create and manage several different pieces of content and the team site will be our site of choice for doing this!  Understanding this site is the center piece of understanding SharePoint and applying it to your everyday life!
+  #### Lessons
+  - New SharePoint Features
+
+
+  #### Lab &#58; User interface
+  After completing this module, students will be able to&#58;
+  - Describe the new UI features of SharePoint 2010
+  - Understand how the Ribbon works
+
+
+  ### Module 4&#58; Lists
+  In this module, we are going to take a look at lists from a end user standpoint, but also very quickly from a database standpoint as well.  We will talk about the new lists of SharePoint 2010 and what things have changed when working with any type of list.
+  #### Lessons
+  - SharePoint 2010 Features
+  - Lists
+
+
+  #### Lab &#58; AssetLibrary
+  After completing this module, students will be able to&#58;
+  - Describe and use the new Asset Library
+  - Understand when to use a List and when to use a Database
+  - How to use and create Document Sets
+  - Learn to create External Lists
+
+
+  ### Module 5&#58; List Management
+  We explored the types of lists that come out of the box in the last module.  In this module, we will explore how to manage those lists!
+  #### Lessons
+  - List Management
+
+
+  #### Lab &#58; NewFeatures
+  After completing this module, students will be able to&#58;
+  - Multi-Document Actions
+  - UseColumn\List Level Validation
+  - UseContent Ratings
+  - UseAudience Targeting
+  - UseMetadata Navigation
+  - UseManage Item Scheduling
+  - UseDocument ID Service
+  - Usefile plan reports
+  - UseRecord declaration settings
+
+
+  ### Module 6&#58; Permissions
+  In this module we take a look at SharePoint permissions.  We will learn about SharePoint groups, permission levels, permissions and explore the new Permission Finders.
+  #### Lessons
+  - SharePoint Permissions
+
+
+  #### Lab &#58; SharePoint Permissions
+  After completing this module, students will be able to&#58;
+  - What is means to say permissions are cumulative
+  - Understand that SharePoint has no deny
+  - How to use the Permission Checker
+
+
+  ### Module 7&#58; SharePoint Foundation Site Definitions
+  In this module we are going to review the SharePoint Foundation site definitions.
+  #### Lessons
+  - SharePoint Foundation Sites
+
+
+  #### Lab &#58; Foundation Site Definitions
+  After completing this module, students will be able to&#58;
+  - Understand how to create and what a Group Work site is
+  - Understand how to create and what a Visio Process Repository site is
+
+
+  ### Module 8&#58; SharePoint Server Site Definitions
+  In this module we will explore each of the site definitions that come with SharePoint Server.
+  #### Lessons
+  - SharePoint Server Site Definitions
+
+
+  #### Lab &#58; Server Site Definitions
+  After completing this module, students will be able to&#58;
+  - Describe each of the SharePoint Server site definitions
+  - Be able to effectively use the SharePoint Server site definitions
+
+
+  ### Module 9&#58; Office Integration
+  In this module we are going to take a look at how SharePoint and Office interact.
+  #### Lessons
+  - Office Integration
+  - SharePoint Workspace 2010
+  - Web Applications
+
+
+  #### Lab &#58; Office Integration
+
+  #### Lab &#58; Office Web Applications
+
+  #### Lab &#58; Access Services
+
+  #### Lab &#58; Visio Servcies
+
+  #### Lab &#58; Office and BCS
+  After completing this module, students will be able to&#58;
+  - Describe how SharePoint integrates with Office (from SharePoint and to SharePoint)
+  - How to describe and use Office Web Applications
+  - How to describe and use Access Services
+  - How to describe and use Visio Services
+
+
+  ### Module 10&#58; My Site
+  In this module we will review the SharePoint MOSS feature called My Site!
+  #### Lessons
+  - My Site
+  - What is Social Computing
+
+
+  #### Lab &#58; MySite
+  After completing this module, students will be able to&#58;
+  - Describe what a My Site is
+  - How to create and modify a My Site
+  - How to work with My Site social networking features
+  - How to protect yourself in the Social Computing realm

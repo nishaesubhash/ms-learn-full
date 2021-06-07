@@ -1,0 +1,245 @@
+### YamlMime:Course
+title: Installing and Configuring System Center Operations Manager 2007 R2
+metadata:
+  title: 'Course 50028-E: Installing and Configuring System Center Operations Manager 2007 R2'
+  description: 'Course 50028-E: Installing and Configuring System Center Operations Manager 2007 R2'
+uid: course.50028
+courseNumber: '50028-E'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install Operations Manager 2007 Root Management Server.
+- skill: Install the Root Management Server in a highly available configuration.
+- skill: Navigate the Operations Console and the Web Console.
+- skill: Manage the Management Group using the Command Shell.
+- skill: Perform agent installation on managed systems.
+- skill: Import and export management packs.
+- skill: Configure Rules, Events, Monitors and Tasks.
+- skill: Configure Reporting and create reports.
+- skill: Monitor workstations and servers using Agentless Exception Monitoring.
+- skill: Configure and manage Audit Collection Services.
+- skill: Create Synthetic Transactions.
+- skill: Create Distributed Applications.
+- skill: Multi-home an agent.
+- skill: Configure a Gateway server for monitoring untrusted domains.
+- skill: Configure communication between two management groups.
+- skill: Migrate from Microsoft Operations Manager 2005 to Operations Manager 2007.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- msc-operations-manager
+summary: |-
+  This five-day instructor-led course provides students with the knowledge and skills to install and configure System Center Operations Manager 2007. The information included in this class will prepare the student for managing their Operations Manager 2007 infrastructure.
+
+  #### Audience profile
+  This course is intended for both novice and experienced network engineers who have a minimum basic Active Directory and network services experience.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Familiarity with PC hardware and devices.
+  - Experience supporting Windows-based systems.
+  - Experience authoring and editing batch and script files.
+  - Experience reviewing Windows application and service logs.
+  - Experience configuring or supporting distributed application environments.
+  - Working knowledge of Windows Server 2003 networking.
+  - Working Knowledge of Active Directory.
+outlineSection: |-
+  ### Module 1&#58; Installing Microsoft System Center Operations Manager 2007
+  This module explains how to install System Center Configuration Manager 2007 in a single Root Management Server configuration and a clustered highly available Root Management Server configuration.
+  #### Lessons
+  - Preparing for Operations Manager 2007 R2
+  - Using System Center Capacity Planner
+  - Security
+  - Installing System Center Operations Manager 2007
+  - Post Installation
+
+
+  #### Lab &#58; Installing Microsoft System Center Operations Manager
+  After completing this module, students will be able to&#58;
+  - Identify the requirements for installing System Center Operations Manager 2007.
+  - Install System Center Operations Manager 2007 and verify a successful installation.
+
+
+  ### Module 2&#58; Using the Operations Console
+  This module explains how to use the Operations Console and how to perform configuration tasks.
+  #### Lessons
+  - Reviewing the Workspaces
+  - Using the Web Console
+  - Working with Views
+  - Reviewing Security Roles
+
+
+  #### Lab &#58; Creating Operator Accounts and Views
+  After completing this module, students will be able to&#58;
+  - Install the Operations Console on another system.
+  - Understand the workspaces and views.
+  - Work with the Actions available for a given object.
+
+
+  ### Module 3&#58; Configuring Management Group and Agent Settings
+  This module explains how to configure the global management group settings and the individual agent settings within Operations Manager 2007.
+  #### Lessons
+  - Global Settings
+  - Overriding Global Settings
+  - Creating Notifications
+
+
+  #### Lab &#58; Configuring Notification Settings
+  After completing this module, students will be able to&#58;
+  - Configure default management group settings.
+  - Override the default management group setting.
+  - Configure notification settings and define who will receive the notifications.
+
+
+  ### Module 4&#58; Agent Installation
+  This module explains how to deploy the Operations Manager agent within the management group.
+  #### Lessons
+  - Configuring Active Directory
+  - Push Installation
+  - Manual Installation
+  - Managing Agents
+
+
+  #### Lab &#58; Agent Installation
+  After completing this module, students will be able to&#58;
+  - Create an Active Directory container for automatic agent assignment.
+  - Configure automatic installation settings.
+  - Manually install and approve an agent.
+
+
+  ### Module 5&#58; Management Packs
+  This module explains how to import, export and manage the objects within a management pack.
+  #### Lessons
+  - Management Pack Overview
+  - Importing and Exporting Management Packs
+  - Creating and Sealing Management Packs
+
+
+  #### Lab &#58; Creating Monitors
+
+  #### Lab &#58; Creating Tasks
+
+  #### Lab &#58; Associating Run As Profiles with a Management Pack
+
+  #### Lab &#58; Configuring Overrides
+  After completing this module, students will be able to&#58;
+  - Define the components that make up a management pack.
+  - Create a new management pack.
+  - Export and import management packs.
+  - Seal a management pack.
+
+
+  ### Module 6&#58; Reporting
+  This module explains how to install and configure SQL Reporting Services and then install Operations Manager Reporting and create reports.
+  #### Lessons
+  - Installing and Configuring SQL Reporting Services
+  - Installing Operations Manager Reporting
+  - Creating and Viewing Reports
+
+
+  #### Lab &#58; Creating Reports
+  After completing this module, students will be able to&#58;
+  - Install and configure SQL Reporting Services.
+  - Install and configure Operations Manager Reporting.
+  - View reports.
+  - Create reports using Report Builder.
+
+
+  ### Module 7&#58; Agentless Exception Monitoring
+  This module explains how to configure Agentless Exception Monitoring to monitor for application faults and then monitor the client systems.
+  #### Lessons
+  - Configuring Exception Monitoring
+  - Managing Clients
+
+
+  #### Lab &#58; Configuring Agentless Exception Monitoring
+  After completing this module, students will be able to&#58;
+  - Configure a management server as an Agentless Exception Monitoring collector.
+  - Configure clients to generate error reports and send them to the management server.
+
+
+  ### Module 8&#58; Audit Collection Services
+  This module explains how to install and configure Audit Collection Services, how to enable forwarders and how to manage collectors and forwarders using the Command Shell.
+  #### Lessons
+  - Audit Collection Services Overview
+  - Installing Audit Collection Services
+  - Configuring Forwarders and Collectors
+  - Importing ACS Reports
+
+
+  #### Lab &#58; Configuring Forwarders
+
+  #### Lab &#58; Configuring ACS Reports
+  After completing this module, students will be able to&#58;
+  - Install and configure Audit Collection Services.
+  - Optimizing auditing.
+  - Create Auditing reports.
+
+
+  ### Module 9&#58; Synthetic Transactions
+  This module explains how to create a synthetic transaction to proactively monitor components.
+  #### Lessons
+  - Synthetic Transactions
+
+
+  #### Lab &#58; Creating Synthetic Transactions
+  After completing this module, students will be able to&#58;
+  - Create and use Synthetic Transactions.
+
+
+  ### Module 10&#58; Distributed Applications
+  This module explains how to create and use distributed applications to provide end-to-end service monitoring
+  #### Lessons
+  - Distributed Applications
+
+
+  #### Lab &#58; Creating a Distributed Application
+  After completing this module, students will be able to&#58;
+  - Create and use Distributed Applications.
+
+
+  ### Module 11&#58; Monitoring Non-Microsoft Platforms
+  This module introduces the components that allow monitoring of UNIX, Linux and network devices.
+  #### Lessons
+  - Tools for Monitoring Non-Microsoft Platforms
+  - Using the Cross-Platform Extensions
+
+  After completing this module, students will be able to&#58;
+  - Identify and use the built-in tolls for managing non-Microsoft platforms.
+  - Configure and use the Cross-Platform Extensions for monitoring UNIX and Linux systems.
+  - Install the Cross-Platform extensions.
+
+
+  ### Module 12&#58; Complex Environments
+  This module explains how to configure agents to send monitoring data to multiple management servers in multiple management groups. It also explains how to install and configure a Gateway server for clients in untrusted domains and how to configure multiple management groups to interoperate.
+  #### Lessons
+  - Multi-homing Agents
+  - Untrusted Environments
+  - Multi-Tiered Environments
+
+
+  #### Lab &#58; Connecting Management Groups
+  After completing this module, students will be able to&#58;
+  - Multi-Home and agent.
+  - Create a Gateway server to monitor an untrusted domain
+  - Create connectors to other management groups and third party management products.
+
+
+  ### Module 13&#58; Backup and Recovery
+  This module explains how to backup and restore a management group and the management servers within the management group.
+  #### Lessons
+  - Planning Backup and Restore
+  - Performing a Backup
+  - Planning Recovery Strategies
+
+
+  #### Lab &#58; Converting Management Packs
+  After completing this module, students will be able to&#58;
+  - Identify the components to back up
+  - Plan a backup strategy
+  - Implement a backup strategy
+  - Implement a restore strategy.

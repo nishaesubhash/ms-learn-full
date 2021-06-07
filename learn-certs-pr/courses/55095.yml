@@ -1,0 +1,154 @@
+### YamlMime:Course
+title: SharePoint 2010 and 2013 Auditing and Site Content Administration using PowerShell
+metadata:
+  title: 'Course 55095-A: SharePoint 2010 and 2013 Auditing and Site Content Administration using PowerShell'
+  description: 'Course 55095-A: SharePoint 2010 and 2013 Auditing and Site Content Administration using PowerShell'
+uid: course.55095
+courseNumber: '55095-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use PowerShell to query just about anything inside of SharePoint.
+- skill: Understand the core SharePoint object model and object hierarchy as seen from PowerShell.
+- skill: Format PowerShell output in to reports.
+- skill: Manage resources to limit the impact on production servers.
+- skill: Create and delete Site Collections, subsites, lists, libraries and content.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This one day class is designed for SharePoint 2010 and 2013 server administrators and auditors who need to query just about anything in SharePoint. The class handout is effectively a cheat sheet with over 175 PowerShell scripts plus the general patterns to create your own scripts. These scripts cover&#58;
+  - using the SharePoint Management Shell and the ISE
+  - general tips for counting, reformatting and exporting results
+  - understand and drilling up and down the SharePoint object model
+  - getting lists / inventories of servers, services web applications, sites, webs, lists, libraries, items, fields, content types, users and much more
+  - finding lists by template type, content type and types of content
+  - finding files by user, content type, file extension, checked out status, size and age
+  - finding inactive sites 
+  - finding and changing SharePoint Designer settings and finding and resetting customized pages
+  - inventorying and managing features
+  - deleting and recycling files and list items
+  - inventorying users and user permissions and finding out “who can access what”
+  - creating sites, lists and libraries
+  - uploading and downloading files
+  - and much more…
+
+  #### Audience profile
+  - SharePoint server administrators.
+  - SharePoint auditors.
+  - Also valuable for SharePoint developers.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Very good knowledge of SharePoint and its features.
+  - Good experience using PowerShell 2 or later or recent completion of a PowerShell class such as 10961 or 50414.
+outlineSection: |-
+  ### Module 1&#58; SharePoint and PowerShell
+  This module provides an introduction to the topics covered in the class, introduces SharePoint PowerShell terminology and provides a review of important PowerShell features.
+  #### Lessons
+  - History of PowerShell in SharePoint
+  - PowerShell vs. Search
+  - PowerShell, SharePoint Management Shell and cmdlets
+  - Security and Permissions Needed
+  - Getting Started with PowerShell&#58; Counting Items, Custom Columns, Reformatting Numbers, Saving Results to a File
+  - Changing and Updating Content&#58; Creating SharePoint Objects, Changing Objects
+
+
+  #### Lab &#58; Using PowerShell with SharePoint
+
+  After completing this module, students will be able to&#58;
+
+  - Get started using PowerShell to inventory and update SharePoint.
+
+
+  ### Module 2&#58; Working with SharePoint CMDLETs and Objects
+  This module introduces the SharePoint object model and some important terminology.
+  #### Lessons
+  - GUIDs
+  - Sites vs. Webs
+  - The SharePoint Object Hierarchy
+
+
+  #### Lab &#58; Working with SharePoint CMDLETs and Objects
+
+  After completing this module, students will be able to&#58;
+
+  - Explore sites and webs using PowerShell.
+  - Retrieve important properties of common SharePoint objects
+
+
+  ### Module 3&#58; Managing Memory and Limiting Performance Impact
+  This explores limiting impact on server memory usage and performance.
+  #### Lessons
+  - Memory Management and Disposing Objects
+  - Limiting Impact on Production Servers
+
+
+  #### Lab &#58; Managing Memory and Limiting Performance Impact
+
+  After completing this module, students will be able to&#58;
+
+  - Recognize and manage the impact of PowerShell on a SharePoint server.
+
+
+  ### Module 4&#58; Working with Content
+  This module explores SharePoint using PowerShell from the Farm down to individual list items.
+  #### Lessons
+  - Getting Farm Information&#58; version, services, services, features
+  - Getting Web Application information
+  - Exploring Site Collections&#58; retrieve Site Collections, Site Collection Administrators, quotas
+  - Working with the Recycle Bins&#58; finding items, getting file counts and bytes, deleted sites
+  - Exploring Webs&#58; web templates, finding webs, finding webs based on template, Quick Launch and Top Link Bar navigation
+  - Exploring Lists and Libraries&#58; finding all lists, lists by type, lists by Content Type, columns/fields, document count by web or library
+  - Exploring Content Types
+  - Finding documents&#58; by a word in the title, file type, content type, size, date age, checked out status, approval status and many more…
+  - Deleting content
+  - Downloading and uploading files
+
+
+  #### Lab &#58; Working with Content
+
+  After completing this module, students will be able to&#58;
+
+  - Explorer, inventory and maintain SharePoint content using PowerShell.
+
+
+  ### Module 5&#58; Users and Security
+  This module covers the use of PowerShell to explore and document SharePoint permissions.
+  #### Lessons
+  - Users&#58; find a user, get a list of all users, working with Active Directory groups
+  - SharePoint groups&#58; Get lists of groups, get the members of a group, find all groups a user belongs to, find the groups associated with a web
+  - Expanding users lists that include Active Directory groups
+  - Documenting Broken Inheritance / Unique Permissions&#58; webs, lists, libraries, folders, items
+  - Working with Role Assignments
+
+
+  #### Lab &#58; Users and Security
+
+  After completing this module, students will be able to&#58;
+
+  - Explore and document users and user permissions.
+  - Explore and document SharePoint groups.
+  - Explore and document broken inheritance.
+
+
+  ### Module 6&#58; Managing Sites
+  This module explorers Site Collection and Web management from PowerShell.
+  #### Lessons
+  - Finding Inactive Webs
+  - Creating and Deleting Site Collections
+  - Getting Site Collection Data
+  - Creating and Deleting Subsites
+  - Working With SharePoint Designer Settings
+
+
+  #### Lab &#58; Managing Sites
+
+  After completing this module, students will be able to&#58;
+
+  - Manage SharePoint Site Collections and webs from PowerShell.

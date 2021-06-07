@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: PowerShell for SQL Server Administrators
+metadata:
+  title: 'Course 55069-A: PowerShell for SQL Server Administrators'
+  description: 'Course 55069-A: PowerShell for SQL Server Administrators'
+uid: course.55069
+courseNumber: '55069-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install and Configure SQL Server and all its components using PowerShell
+- skill: Manage day-to-day SQL Server Administration with PowerShell
+- skill: Maintain the SQL Server environment using PowerShell scripting and programming options
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This two-day instructor-led course provides candidates with the knowledge and skills needed to use PowerShell and SMO components for SQL Server administration on SQL Server 2016, 2014 or 2012. Students will learn how to manage day-to-day and scheduled maintenance tasks. The main focus will be administration of the database engine, but optional material & exercises on Analysis Services (SSAS) and Integration Services (SSIS) are also included.
+
+  If all the optional lab exercises are included, the class may need to be taught in three days instead of two.
+
+  #### Audience profile
+  This course is intended for SQL Server administrators who work in a Windows network environment. At least one year of experience administering SQL Servers and using PowerShell is recommended.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience working on Windows desktops or servers
+  - Experience working in a Windows domain environment
+  - Experience Administering SQL Server Servers
+  - Fundamental experience with PowerShell or Course 10961B - Automating Administration with Windows PowerShell
+outlineSection: |-
+  ### Module 1&#58; Install and Configure SQL Server with PowerShell
+  This module explains how to setup SQL Server components using PowerShell.
+  #### Lessons
+  - Module Objectives
+  - Lesson 1&#58; Install SQL Server
+  - Lesson 2&#58; Configure Database Settings
+  - Lesson 3&#58; Configure SQL Server Settings
+  - Lesson 4&#58; Configure SQL Server Policy-Based Management
+  - Review
+
+
+  #### Lab &#58; Configuring SQL Server with PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Install SQL Server
+  - Add/Remove components to an existing instance (SSRS, SSIS, SSAS, etc.)
+  - Configure SQL Server and Database Settings
+  - Configure SQL Server Policy-Based Management
+
+
+  ### Module 2&#58; Administering SQL Servers with PowerShell
+  This module explains how to perform day-to-day administrative tasks on SQL Server Servers using PowerShell.
+  #### Lessons
+  - Module Objectives
+  - Lesson 1&#58; Managing Users and Roles
+  - Lesson 2&#58; Managing Database Performance
+  - Lesson 3&#58; Managing Database Availability
+  - Lesson 4&#58; Managing SQL Server Features
+  - Review
+
+
+  #### Lab &#58; Administering SQL Servers with PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Manage Users and Roles
+  - Manage Database Performance
+  - Manage Database Availability with Clustering & AlwaysOn Availability Groups
+  - Manage Integration Services and Analysis Services
+
+
+  ### Module 3&#58; Maintaining SQL Server with PowerShell
+  This module explains how to perform maintenance tasks on SQL Servers using PowerShell.
+  #### Lessons
+  - Module Objectives
+  - Managing Backups and Restores
+  - Maintaining Database Integrity and Performance
+  - Monitoring and Auditing
+  - Task Automation
+  - Generating Reports
+  - Review
+
+
+  #### Lab &#58; Maintaining SQL Servers with PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Manage SQL Server Backups and Restores
+  - Maintain Database Integrity and Performance
+  - Monitor and Audit changes to a SQL Server
+  - Task Automation on SQL Server
+  - Generate SQL Server Reports
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+
+  - Classroom Training&#58;� Course 10775A - Administering Microsoft SQL Server 2012 Databases

@@ -1,0 +1,69 @@
+### YamlMime:Course
+title: Microsoft Azure 安全技术
+metadata:
+  title: 'Course AZ-500T00ZH-A: Microsoft Azure 安全技术'
+  description: 'Course AZ-500T00ZH-A: Microsoft Azure 安全技术'
+uid: course.az-500t00zh
+courseNumber: 'AZ-500T00ZH-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 描述 Azure 上的专用数据分类
+- skill: 识别 Azure 数据保护机制
+- skill: 实现 Azure 数据加密方法
+- skill: 保护 Internet 协议以及如何在 Azure 上实现它们
+- skill: 描述 Azure 安全服务和功能
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+summary: |-
+  在本课程中，学生将通过使用各种安全工具来获得实现安全控制、维持安全状态以及识别和修复漏洞所需的知识和技能。该课程涵盖脚本编写和自动化、虚拟化以及 N 层云体系结构。
+
+  #### Audience profile
+  学生应具有至少一年保护 Azure 工作负荷的实践经验，并具有至少一年关于
+  Azure 工作负荷安全控制的经验。
+prerequisitesSection: |-
+  在参加本课程之前，学生必须具备以下知识&#58; 
+  - Microsoft Azure 管理员助理
+outlineSection: |-
+  ### Module 1&#58; 身份和访问权限
+  #### Lessons
+  - 为 Azure 工作负荷和订阅配置 Azure Active Directory
+  - 配置 Azure AD 特权身份管理
+  - 配置 Azure 订阅的安全性
+
+
+  ### Module 2&#58; 平台保护
+  #### Lessons
+  - 了解云安全
+  - 建立网络
+  - 保护网络
+  - 实现主机安全
+  - 实现平台安全
+  - 实现订阅安全
+
+
+  ### Module 3&#58; 安全操作
+  #### Lessons
+  - 配置安全服务
+  - 使用 Azure 安全中心配置安全策略
+  - 管理安全警报
+  - 响应并修复安全问题
+  - 创建安全基准
+
+
+  ### Module 4&#58; 数据与应用程序
+  #### Lessons
+  - 配置安全策略以管理数据
+  - 配置数据基础结构的安全性
+  - 配置静态数据的加密
+  - 了解应用程序安全
+  - 实现应用程序生命周期的安全性
+  - 保护应用程序
+  - 配置和管理 Azure Key Vault

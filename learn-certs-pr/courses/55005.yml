@@ -1,0 +1,216 @@
+### YamlMime:Course
+title: Microsoft Report Builder 3.0 with SQL 2008R2, SQL 2012, and SQL 2014
+metadata:
+  title: 'Course 55005-B: Microsoft Report Builder 3.0 with SQL 2008R2, SQL 2012, and SQL 2014'
+  description: 'Course 55005-B: Microsoft Report Builder 3.0 with SQL 2008R2, SQL 2012, and SQL 2014'
+uid: course.55005
+courseNumber: '55005-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan the reports.
+- skill: Use Report Builder 3.0 and understand the parts of the interface.
+- skill: Launch Report Builder 3.0 from multiple sources.
+- skill: Understand management options.
+- skill: Create embedded data sources and datasets.
+- skill: Create shared data sources and datasets.
+- skill: Create shared data sources and datasets.
+- skill: Understand and utilize the Table or Matrix Wizard.
+- skill: Understand and utilize the Chart Wizard.
+- skill: Understand and utilize the Map Wizard.
+- skill: Understand and utilize lists.
+- skill: Understand and utilize tables.
+- skill: Understand and utilize matrices.
+- skill: Understand and utilize data regions.
+- skill: Understand and utilize parameters.
+- skill: Understand and utilize expressions.
+- skill: Understand and utilize report parts.
+- skill: Understand and utilize formatting options.
+- skill: Understand visualization options.
+- skill: Understand and utilize charts.
+- skill: Understand and utilize sparklines.
+- skill: Understand and utilize gauges.
+- skill: Understand and utilize maps.
+- skill: Understand filtering, grouping, and sorting.
+- skill: Understand and utilize dynamic headers and footers.
+- skill: Understand and utilize report templates.
+- skill: Understand and utilize HTML and texboxes.
+- skill: Understand and utilize lists as containers.
+- skill: Understand and utilize subreports.
+- skill: Understand report subscription options.
+- skill: Understand security.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This instructor-led course provides students with the necessary knowledge to develop reports using Microsoft Report Builder 3.0. The training environment includes SQL 2008R2, SQL 2012, and SQL 2014 Standard and Enterprise, so that the students can utilize Report Builder 3.0 and generate reports from multiple sources to investigate the different features of each release.
+
+  The course covers the Report Builder 3.0 wizards, basics of report design, intermediate reports with report parameters, a detailed section exploring report expressions and how to properly configure them, filters, report visualizations including graphs, charts, images, and gauges, advanced reporting including the utilization of maps, interactive reports, Report Parts, subreports, subscriptions, and exporting options.
+
+  #### Audience profile
+  This course is intended for power users, developers, and IT professionals that will be involved with the design, development, and maintenance of reports created with Report Builder 3.0.
+prerequisitesSection: |-
+  - A basic understanding of relational databases.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+  - None
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Introduction to Report Builder 3.0
+  This module introduces the interface of Report Builder 3.0, the different features available, and variances in data sources and datasets.
+  #### Lessons
+  - Planning Your Reports
+  - Understanding Variances Between SQL Versions
+  - Exploring The Report Builder 3.0 Interface
+  - Examining Management
+  - Utilizing Data Sources
+  - Working with Datasets
+
+
+  #### Lab &#58; Introduction to Report Builder 3.0
+  - Explore the Report Builder 3.0 Interface
+  - Create an Embedded Data Source into SQL 2014 Engine
+  - Create an Embedded Data Source into SQL 2014 Analysis Services
+  - Create a Shared Data Source Using the Report Manager
+  - Create a Shared Dataset Using the Shared Data Source
+  - Plan the reports
+  - Use Report Builder 3.0 and understand the parts of the interface
+  - Launch Report Builder 3.0 from multiple sources
+  - Understand management options
+  - Create embedded data sources and datasets
+  - Create shared data sources and datasets
+
+
+  ### Module 3&#58; Report Builder 3.0 Wizards
+  This module covers report basics exploring lists, matrices, and tables along with the wizards. Data regions will also be explained.
+  #### Lessons
+  - Exploring Table or Matrix Wizard
+  - Utilizing Chart Wizard
+  - Working with Map Wizard
+
+
+  #### Lab &#58; Report Builder 3.0 Wizards
+  - Create Five Shared Data Sources and Two Shared Datasets
+  - Use the Table or Matrix Wizard
+  - Use the Chart Wizard
+  - Use the Map Wizard
+  - Create shared data sources and datasets
+  - Understand and utilize the Table or Matrix Wizard
+  - Understand and utilize the Chart Wizard
+  - Understand and utilize the Map Wizard
+
+
+  ### Module 4&#58; Report Builder 3.0 Basic Reports
+  In this module we examine parameters, filters, and the expressionable aspect of reports. We also cover formatting options.
+  #### Lessons
+  - Utilizing Lists
+  - Using Tables
+  - Exploring Matrix
+  - Mastering Data Region(s)
+  - Examining Parameters
+  - Working with Expressions
+  - Understanding Report Parts
+  - Formatting Reports
+
+
+  #### Lab &#58; Report Builder 3.0 Basic Reports
+  - Creating a Report Using Lists
+  - Creating a Report Using Tables
+  - Creating a Report Using a Tablix
+  - Creating a Report with a Query Parameter
+  - Report Parameter with a Shared Dataset
+  - Create Parameters Using a Dataset as a Filter
+  - Using Expressions in Your Report
+  - Creating a Report Using Report Parts
+  - Report Formatting
+  - Understand and utilize lists
+  - Understand and utilize tables
+  - Understand and utilize matrices
+  - Understand and utilize data regions
+  - Understand and utilize parameters
+  - Understand and utilize expressions
+  - Understand and utilize report parts
+  - Understand and utilize formatting options
+
+
+  ### Module 5&#58; Report Builder 3.0 Graphics
+  This module is a detailed look at graphics including charts, images, sparklines, data bars, gauges, and Bing maps.
+  #### Lessons
+  - Understanding Visualizations
+  - Utilizing Charts
+  - Exploring Gauges
+  - Examining Maps
+
+
+  #### Lab &#58; Report Builder 3.0 Graphics
+  - Using Sparklines in a Report
+  - Report Builder Chart Borders, Titles, and Legends
+  - Linear Gauges
+  - Basic Maps
+  - Basic Maps with Color
+  - Understand visualization options
+  - Understand and utilize charts
+  - Understand and utilize sparklines
+  - Understand and utilize gauges
+  - Understand and utilize maps
+
+
+  ### Module 6&#58; Intermediate Reporting
+  This module covers intermediate reporting with emphasis on actionable reports, and a section exploring report subscriptions and security.
+  #### Lessons
+  - Filtering, Grouping, and Sorting
+  - Utilizing Dynamic Headers and Footers
+  - Visualizing Your Company Report Templates
+  - Understanding HTML5 and Textboxes
+  - Using the List Object to Combine Other Items
+  - Creating Subreports and Drillthrough Reports
+  - Exploring Subscriptions
+  - Examining Security
+
+
+  #### Lab &#58; Intermediate Reporting
+  - Report Header and Footer
+  - Creating Report Templates
+  - Embedding HTML in a Textbox
+  - Lists as Containers
+  - Subreports
+  - Understand filtering, grouping, and sorting
+  - Understand and utilize dynamic headers and footers
+  - Understand and utilize report templates
+  - Understand and utilize HTML and texboxes
+  - Understand and utilize lists as containers
+  - Understand and utilize subreports
+  - Understand report subscription options
+  - Understand security
+
+
+  ### Module 7&#58; Report Builder 3.0 Tips and Tricks
+  This module is optional and contains 20 tips and tricks with step-by-step instructions.
+  #### Lessons
+  - None
+
+
+  #### Lab &#58; Report Builder 3.0 Tips and Tricks
+  - None
+  - Use what they've learned throughout this course.
+
+  #### Additional Reading
+  - None

@@ -16,7 +16,7 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform configuration, manage core sales entities, and configure additional tools and services.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
-practiceTestUrl: https://in.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
@@ -49,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

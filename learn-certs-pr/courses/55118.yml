@@ -1,0 +1,165 @@
+### YamlMime:Course
+title: Creating Report with SAP Crystal Reports for Developer with Visual Studio
+metadata:
+  title: 'Course 55118-A: Creating Report with SAP Crystal Reports for Developer with Visual Studio'
+  description: 'Course 55118-A: Creating Report with SAP Crystal Reports for Developer with Visual Studio'
+uid: course.55118
+courseNumber: '55118-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install SAP Crystal Reports for developer for Visual Studio 2013
+- skill: Create report with Visual Studio 2013
+- skill: Integrate report with applications developed with Visual Studio 2013
+- skill: Integrate report wth different kind of data source
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This two-day instructor-led course is intended for application developers who are interested in developing client side reports in Visual Studio 2013. In this course, students learn how to install and configure SAP Crystal Reports using Visual Studio 2013. Students then learn how
+  to author a report and integrate with applications developed with Visual Studio 2013.
+
+  #### Audience profile
+  This course is intended for both programmers who have experience in developing applications with Visual Studio 2013.
+prerequisitesSection: |-
+  - Experience with developing using Visual Studio 2013
+  - Basic understanding of RDBMS
+  - Basic understanding of application architecture
+  - Basic understanding of .NET framework.
+outlineSection: |-
+  ### Module 1&#58; Preparing Visual Studio for Reporting
+  This module explains how to install and configure SAP Crystal Report for Visual Studio in Visual Studio 2013 and create first report.
+  #### Lessons
+  - What is SAP Crystal Reports for Visual Studio
+  - Connecting to SQL Server data source
+
+
+  #### Lab &#58; Preparing Visual Studio for Reporting
+  - Installing SAP Crystal Reports for Visual Studio
+  - Connecting to a SQL data source
+
+  After completing this module, students will be able to&#58;
+  - Describe the key feature of SAP Crystal Reports for Visual Studio
+  - Describe the integration with Visual Studio 2013
+  - Connecting to a data source from Visual Studio
+
+
+  ### Module 2&#58; Authoring a Report
+  This module explains how to create a report using core functionalities of SAP Crystal Reports for developer with Visual Studio 2013.
+  #### Lessons
+  - Create basic report
+  - Create table
+  - Create Chart
+  - Create Grouping
+  - Report formatting
+  - Use Section
+
+
+  #### Lab &#58; Authoring a Report
+  - Create Basic Report
+  - Create Crosstab Report
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features for creating report with SAP Crystal Reports for developer
+  - Using table, chart, grouping for reporting
+  - Formatting a report
+
+
+  ### Module 3&#58; Integrating Report with Applications
+  This module explains how to integrate report using Report Viewer with Windows, ASP.NET and WPF applications.
+  #### Lessons
+  - Using Web Report Viewer
+
+
+  #### Lab &#58; Integrating Report with Applications
+  - Using Report Viewer in ASP.NET
+  - Generating Report in Code
+
+  After completing this module, students will be able to&#58;
+  - Using Report Viewer
+  - Integrate reports with ASP.NET applications
+  - Integrate reports with MVC applications
+
+
+  ### Module 4&#58; Advanced Report Authoring
+  This module explains how to enhance report with advanced functionalities in SAP Crystal Reports for developers and Visual Studio 2013
+  #### Lessons
+  - Use filtering and parameter
+  - Use formula fields
+  - Use Subreport
+  - Use Summary
+  - Use Running Total
+  - Use Sorting
+  - Use Barcode
+
+
+  #### Lab &#58; Advanced Report Authoring
+  - Using Summary and Running Total
+  - Using Subreport
+  - Using Formula
+  - Using Parameter and Filtering
+
+  After completing this module, students will be able to&#58;
+  - Using Parameter in report authoring
+  - Using Drilldown in report authoring
+  - Using Subreport in report authoring
+  - Using Cross Tab in report authoring
+  - Using Barcode in report authoring
+
+
+  ### Module 5&#58; Advanced Data Access
+  This module explains how to connect report to different kind of data source using different methods that fit the need of the applications
+  #### Lessons
+  - Using Dataset
+  - Using SQL Command
+  - Using LINQ
+  - Using Web Services
+  - Using Link Tables
+
+
+  #### Lab &#58; Advanced Data Access
+  - Using Dataset
+  - Using SQL Command
+  - Using LINQ
+  - Using Link Table
+
+  After completing this module, students will be able to&#58;
+  - Describe connecting report to different data sources
+  - Using Stored Procedure in report
+  - Using LINQ objects in report
+  - Using web services in report
+  - Using Link Table
+
+
+  ### Module 6&#58; Exporting Data
+  This module explains how to data report to different kind of format.
+  #### Lessons
+  -	Exporting Data with Crystal Report
+  -	Export Using Report Viewer
+  -	Exporting with Code
+
+
+  #### Lab &#58; Exporting Data
+  - Export to HTML with Options
+
+  After completing this module, students will be able to&#58;
+  - Describe export report to different data sources
+
+
+  ### Module 7&#58; Troubleshooting and Debugging Report
+  This module explains how to troubleshoot some of the common report authoring issues.
+  #### Lessons
+  - Troubleshooting Field and Text
+  - Troubleshooting Record Selection Formulas
+
+
+  #### Lab &#58; Troubleshooting and Debugging Report
+  - Disable Field Clipping
+  - Enhance Formula for Selection
+
+  After completing this module, students will be able to&#58;
+  - Describe common issues in report authoring

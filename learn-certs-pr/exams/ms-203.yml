@@ -7,7 +7,7 @@ uid: exam.ms-203
 displayName: MS-203
 summary: |-
   <div>
-  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on March 23, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   </div>
   
   Candidates for this exam are Messaging Administrators who deploy, configure, manage, troubleshoot, and monitor recipients, permissions, mail protection, mail flow, and public folders in hybrid and cloud enterprise environments.
@@ -20,14 +20,14 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: manage organizational settings and resources; plan and manage the mail architecture; plan and implement a hybrid configuration and migration; and secure the messaging environment.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
-practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on March 23, 2021. Please download the exam skills outline below to see what changed.
 - Manage organizational settings and resources (30-35%)
 - Plan and manage the mail architecture (20-25%)
 - Plan and implement a hybrid configuration and migration (20-25%)
@@ -48,10 +48,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

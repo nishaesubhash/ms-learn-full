@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: System Center Virtual Machine Manager を使ったHyper-Vの管理と監視 (Version 2)
+metadata:
+  title: 'Course 50289-A: System Center Virtual Machine Manager を使ったHyper-Vの管理と監視 (Version 2)'
+  description: 'Course 50289-A: System Center Virtual Machine Manager を使ったHyper-Vの管理と監視 (Version 2)'
+uid: course.50289
+courseNumber: '50289-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: SCVMM を使って仮想サーバーライブラリを構築する
+- skill: セルフサービスポータルから仮想サーバーライブラリのサーバーを展開する
+- skill: SCVMM を使って仮想サーバーを別の物理サーバーへ移動する
+- skill: System Center 製品を使って SCVMM の監視と最適化を行う
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Course retirement date&#58; November 30, 2012For a complete list of courseware retirements, see&#58; https://www.microsoft.com/learning/retired-courses.aspx 
+  
+  本コースの標準実施時間は、1 日です。
+  このコースでは、Microsoft System Center Virtual Machine Manager (SCVMM) 2008 R2 を使った、Hyper-V 2.0 の管理と監視の方法について学習します。本コースを修了することで、SCVMM を使った仮想サーバーインフラの構築と展開および最適化ができるようになります。
+
+  #### Audience profile
+  このコースは、サーバー仮想化を担当する IT エンジニアを対象としています。
+prerequisitesSection: |-
+  このコースの受講者は、次の前提条件を満たしている必要があります。
+  - サーバー仮想化についての基本的な知識がある。
+  - Windows Server 2008 R2 のインストールと構成ができる。
+  - Active Directory ドメインの構築と管理ができる。
+  - Hyper-V のインストールと構成ができる。
+outlineSection: |-
+  ### セクション 1&#58; System Center Virtual Machine Manager 概要
+  #### レッスン
+  - System Center 概要
+  - SCVMM概要
+  - インストール
+
+
+  ### セクション 2&#58; 仮想サーバーの作成と管理
+  #### レッスン
+  - ハードウェア プロファイル
+  - 仮想サーバーの構成
+  - 仮想サーバーの管理
+  - 仮想サーバーの操作
+
+
+  ### セクション 3&#58; 仮想サーバー ライブラリの構成
+  #### レッスン
+  - ライブラリ
+  - テンプレート
+
+
+  ### セクション 4&#58; セルフサービス ポータル
+  #### レッスン
+  - セルフサービス ポータルの目的
+  - セルフサービス ポータルの作成
+  - 権限の割り当て
+  - セルフサービス ポータルの利用
+
+
+  ### セクション 5&#58; 性能監視と最適化
+  #### レッスン
+  - SCVMM によるレーティング
+  - Windows Server 2008 パフォーマンス モニタ
+  - System Center Operations Manager (SCOM)
+  - Performance and Resource Optimizer (PRO)
+  - オフライン バーチャル マシン サービス ツール
+
+
+  ### セクション 6&#58; サーバーの移行と統合
+  #### レッスン
+  - 仮想サーバーの移行パス
+  - VMware ESX Server から Hyper-V への移行 (V2V)
+  - 物理サーバーを Hyper-V 仮想サーバーへ移行 (P2V)
+  - クイック マイグレーション
+  - ライブマイグレーション
+  - 記憶域の移行
+  - 他の仮想サーバー インフラの管理

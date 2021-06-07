@@ -1,0 +1,144 @@
+### YamlMime:Course
+title: SharePoint 2010 End User - Level II
+metadata:
+  title: 'Course 50469-B: SharePoint 2010 End User - Level II'
+  description: 'Course 50469-B: SharePoint 2010 End User - Level II'
+uid: course.50469
+courseNumber: '50469-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore all the new end user features exposed in SharePoint 2010. Learn to navigate the new ribbon, work with Social computing features like tagging and ranking, and the new My Sites features.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 2-day Instructor led course Explore several advanced topics of working with SharePoint 2010 sites. Topics include SharePoint Server site definitions (Business Intelligence, Search Center,etc), in-depth coverage of Workflows, My Sites and Social Computing, Site Administration, Site Customization and Site Collection Administration.
+
+  #### Audience profile
+  Experienced Users responsible for creating, managing and maintaining SharePoint sites as Owners or Site Collection Owners. Business and everyday users wanting to learn more advanced tasks of SharePoint sites and site collections.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Previous SharePoint End User Level I course or several months of working with SharePoint sites.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  
+  Understand your course, classroom, classmates, facility and instructor.
+
+  ### Module 2&#58; Server Site Definitions
+  In this module we will explore each of the site definitions that come with SharePoint Server.
+  #### Lessons
+  - SharePoint Server Site Definitions
+
+
+  #### Lab &#58; Server Site Definitions
+
+  After completing this module, students will be able to&#58;
+  - Describe each of the SharePoint Server site definitions
+  - Be able to effectively use the SharePoint Server site definitions
+
+
+  ### Module 3&#58; Workflows
+  In this module we are going to take a look at implementing workflows with SharePoint Designer 2010.
+  #### Lessons
+  - Workflows
+
+
+  #### Lab &#58; BuiltIn Activities (2007)
+
+  #### Lab &#58; BuiltIn Activities (2010)
+
+  #### Lab &#58; Looping Workflow
+
+  #### Lab &#58; Reusable Workflows
+
+  #### Lab &#58; Modify OOB Workflow
+
+  After completing this module, students will be able to&#58;
+  - Build workflows with SharePoint Designer 2010
+  - Understand how to edit built in workflows
+  - Implement logging in your workflows
+
+
+  ### Module 4&#58; My Site
+  In this module we will review the new Social Computing features in SharePoint 2010 and the SharePoint Server feature called My Sites.
+  #### Lessons
+  - My Site
+  - What is Social Computing
+
+
+  #### Lab &#58; My Site
+
+  After completing this module, students will be able to&#58;
+  - Describe what a My Site is
+  - How to create and modify a My Site
+  - How to work with My Site social networking features
+  - How to protect yourself in the Social Computing realm
+
+
+  ### Module 5&#58; Site Administration
+  In this module we are going to take a quick look at some basic site administration tasks. These are tasks that can be done by site "owners".
+  #### Lessons
+  - Basic Site Administration
+
+
+  #### Lab &#58; Site Administration
+
+  #### Lab &#58; Galleries
+
+  #### Lab &#58; Advanced Site Administration
+
+  After completing this module, students will be able to&#58;
+  - Understand what a Site Administrator is
+  - Be able to describe all Site Administration tasks
+  - Administer SharePoint Sites
+
+
+  ### Module 6&#58; Site Customization
+  In this module we will take a very brief look at some of the ways to customize your site via the browser and as an end user. There are many more ways at a developer level to customize SharePoint sites, but this module is focused at an end user level.
+  #### Lessons
+  - Site Customization
+  - Using Web Parts
+
+
+  #### Lab &#58; Foundation Web Parts
+
+  #### Lab &#58; Server Web Parts
+
+  #### Lab &#58; Filter Web Parts
+
+  #### Lab &#58; Master Page and CSS Customization
+
+  #### Lab &#58; Page Layouts
+
+  After completing this module, students will be able to&#58;
+  - Modify the shared and personal view of a site
+  - Add and delete pages and web part pages
+  - Add, remove, close and move web parts to a web part page
+  - An understanding of some basic web part on a team site and portal sites
+  - Be able to make simple changes to SharePoint master pages and CSS
+  - Be able to create page layouts and pages
+
+
+  ### Module 7&#58; Site Collection Administration
+  In this module we take a look at all site collection settings and describe what a site collection administrator is, and what they can do.
+  #### Lessons
+  - Site Collection Administration
+
+
+  #### Lab &#58; Site Collection Administration
+
+  After completing this module, students will be able to&#58;
+  - Understand what a Site Collection Administrator is
+  - Understand where to find and configure site collection settings
+  - Be able to describe what each of the site collection administration features are
+  - Be qualified to be a Site Collection Administrator

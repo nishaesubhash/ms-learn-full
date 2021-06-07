@@ -6,21 +6,15 @@ metadata:
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
-  <div>
-  <div><strong>The content of this exam was updated on May 22, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>The content of this exam was updated on April 2, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
-  Candidates for this exam are Developers who work with Finance and Operations apps in Microsoft Dynamics 365 to implement and extend applications to meet the requirements of the business. Candidates provide fully realized solutions by using standardized application coding patterns, extensible features, and external integrations.
-
-  Candidates are responsible for developing business logic by using X++, creating and modifying Finance and Operations reports and workspaces, customizing user interfaces, providing endpoints and APIs to support Power Platform apps and external systems, performing testing, monitoring performance, analyzing and manipulating data, creating technical designs and implementation details, and implementing permission policies and security requirements.
-
-  Candidates participate in the migration of data and objects from legacy and external systems, integration of Finance and Operations apps with other systems, implementation of application lifecycle management process, planning the functional design for solutions, and managing Finance and Operations environments by using Lifecycle Services (LCS).
+  Candidates for this exam are developers who work with Finance and Operations apps in Microsoft Dynamics 365 to implement and extend applications that meet the requirements of a business. Candidates provide fully realized solutions by using standardized application coding patterns, extensible features, and external integrations.
+  
+  Candidates develop business logic by using X++, create and modify Finance and Operations reports and workspaces, customize user interfaces, provide endpoints and APIs to support Power Platform apps and external systems, perform testing, monitor performance, analyze and manipulate data, create technical designs and implementation details, and implement permission policies and security requirements.
   
   Candidates should have a deep knowledge and experience using the underlying framework, data structures, and objects associated with the Finance and Operations solutions.
   
-  Candidates should have experience with products that include Visual Studio, Azure DevOps, LCS tools, or SQL Server Management Studio.
-  
-  Candidates should have experience in developing code by using object-oriented programming languages, analyzing and manipulating data by using Transact-SQL code, and creating and running Windows PowerShell commands and scripts.
+  Candidates should have experience with products that include Visual Studio, Azure DevOps, Lifecycle Services (LCS) tools, and SQL Server Management Studio.
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: plan architecture and solution design; apply developer tools; design and develop AOT elements; develop and test code; implement reporting; integrate and manage data solutions; and implement security and optimize performance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
@@ -30,13 +24,13 @@ locales:
 levels:
 - intermediate
 skills:
-- The content of this exam was updated on May 22, 2020. Please download the exam skills outline below to see what changed.
-- Plan architecture and solution design (10-15%) 
-- Apply developer tools (10-15%) 
-- Design and develop AOT elements (20-25%) 
-- Develop and test code (10-15%) 
-- Implement reporting (10-15%) 
-- Integrate and manage data solutions (10-15%) 
+- The content of this exam was updated on April 2, 2021. Please download the exam skills outline below to see what changed.
+- Plan architecture and solution design (10-15%)
+- Apply developer tools (10-15%)
+- Design and develop AOT elements (20-25%)
+- Develop and test code (10-15%)
+- Implement reporting (10-15%)
+- Integrate and manage data solutions (10-15%)
 - Implement security and optimize performance (10-15%)
 roles:
 - developer
@@ -62,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

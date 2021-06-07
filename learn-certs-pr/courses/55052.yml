@@ -1,0 +1,196 @@
+### YamlMime:Course
+title: SharePoint 2013 End User Level II
+metadata:
+  title: 'Course 55052-A: SharePoint 2013 End User Level II'
+  description: 'Course 55052-A: SharePoint 2013 End User Level II'
+uid: course.55052
+courseNumber: '55052-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore all the new site admin features exposed in SharePoint 2013. Learn to utilize Workflows, search schemas, site administration, site collection administration and site customization.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 3-day Instructor led course Explore several advanced topics of working with SharePoint 2013 sites. Topics include SharePoint Server site definitions (Business Intelligence, Document Center, eDiscovery, Education, Search Center, etc), in-depth coverage of Workflows, Site Administration, Site Customization and Site Collection Administration.
+
+  #### Audience profile
+  This course is intended for people responsible for managing SharePoint sites as Owners or Site Collection Owners.  Business and everyday users wanting to learn more advanced tasks of SharePoint sites and site collections.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Previous SharePoint End User Level I course or several months of working with SharePoint sites.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; Server Site Definitions
+  In this module we will explore each of the site definitions that come with SharePoint Server.
+  #### Lessons
+  - SharePoint Server Site Definitions
+  - Business Intelligence Center
+  - Publishing
+  - SharePoint eDiscovery
+  - SharePoint Education
+
+
+  #### Lab &#58; Server Site Definitions
+
+  #### Lab &#58; Managed Navigation
+
+  #### Lab &#58; Cross Site Publishing
+
+  #### Lab &#58; Image Renditions
+
+  #### Lab &#58; Embedded Code
+
+  #### Lab &#58; SharePoint eDiscovery
+
+  #### Lab &#58; SharePoint Education
+
+  #### Lab &#58; Content Type Hub
+
+  After completing this module, students will be able to&#58;
+
+  - Describe each of the SharePoint Server site definitions
+  - Be able to effectively use the SharePoint Server site definitions
+  - Utilize the Publishing site for intranet and internet sites (Create pages, content types, page layouts)
+  - Use the new cross site publishing (list catalogs), image renditions and code snippet features
+  - Use the Records Center to submit content
+  - How to implement in place records management
+  - How to setup and use the eDiscovery Center
+  - How to setup and use the SharePoint Education site
+
+
+  ### Module 3&#58; Search
+  In this module you will learn how to navigate the basic Search Center provided by SharePoint 2013. You will then explore various ways to customize the Search Center using Search Pages, Web Parts and Result Types.
+  #### Lessons
+  - Search Center Introduction
+  - Customizing Search Center
+
+
+  #### Lab &#58; Search Administration
+
+  #### Lab &#58; Creating Refiners
+
+  #### Lab &#58; Content Query Web Part
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the Search Center features
+  - How to enhance the Search experience with Site Collection and Site Search Schemas
+  - Add new search and results pages
+  - Customize the Search Center using Search Web Parts
+  - Create and use Result Types
+  - Create Refiners
+  - Using the Content Search Web Part
+
+
+  ### Module 4&#58; Workflows
+  In this module we will review the new workflow features of SharePoint 2013.
+  #### Lessons
+  - Workflows in SharePoint 2013
+
+
+  #### Lab &#58; Built In Activities (2007)
+
+  #### Lab &#58; Built In Activities (2010)
+
+  #### Lab &#58; Reusable Workflows
+
+  #### Lab &#58; Modify OOB Workflow
+
+  #### Lab &#58; Looping Workflow
+
+  #### Lab &#58; Creating Simple 2013 Workflows
+
+  #### Lab &#58; Creating Visio-based Workflows
+
+  #### Lab &#58; Out Of Box Workflows
+
+  After completing this module, students will be able to&#58;
+
+  - Build workflows with SharePoint Designer
+  - How to utilize the new Windows Workflow 4.0 in SharePoint 2013
+  - Understand how to edit built in workflows
+  - Implement logging in your workflows
+  - Understand the difference between 2010 and 2013 workflows
+  - Learn to use the new Stages to implement state machine workflows
+
+
+  ### Module 5&#58; Site Administration
+  In this module we are going to take a quick look at some basic site administration tasks. These are tasks that can be done by site &quot;owners&quot;.
+  #### Lessons
+  - Basic Site Administration
+
+
+  #### Lab &#58; Site Administration
+
+  #### Lab &#58; Galleries
+
+  #### Lab &#58; Advanced Site Administration
+
+  After completing this module, students will be able to&#58;
+
+  - Understand what a Site Administrator is
+  - Be able to describe all Site Administration tasks
+  - Administer SharePoint Sites
+
+
+  ### Module 6&#58; Site Customization
+  In this module we will take a very brief look at some of the ways to customize your site via the browser and as an end user. There are many more ways at a developer level to customize SharePoint sites, but this module is focused at an end user level.
+  #### Lessons
+  - Using Web Parts
+  - Site Customization
+
+
+  #### Lab &#58; Foundation Web Parts
+
+  #### Lab &#58; New 2013 Web Parts
+
+  #### Lab &#58; Server Web Parts
+
+  #### Lab &#58; Filter Web Parts
+
+  #### Lab &#58; Master Page and CSS Customization
+
+  #### Lab &#58; Page Layouts
+
+  After completing this module, students will be able to&#58;
+
+  - Modify the shared and personal view of a site
+  - Add and delete pages and web part pages
+  - Add, remove, close and move web parts to a web part page
+  - An understanding of some basic web part on a team site and portal sites
+  - Be able to make simple changes to SharePoint master pages and CSS
+  - Be able to create page layouts and pages
+
+
+  ### Module 7&#58; Site Collection Administration
+  In this module we take a look at all site collection settings and describe what a site collection administrator is, and what they can do.
+  #### Lessons
+  - Site Collection Administration
+
+
+  #### Lab &#58; Site Collection Administration
+
+  #### Lab &#58; Creating Variations
+
+  #### Lab &#58; List Throttling
+
+  After completing this module, students will be able to&#58;
+
+  - Understand what a Site Collection Administrator is
+  - Understand where to find and configure site collection settings
+  - Be able to describe what each of the site collection administration features are
+  - Be qualified to be a Site Collection Administrator

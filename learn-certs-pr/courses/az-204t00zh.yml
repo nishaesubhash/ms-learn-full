@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: 为 Microsoft Azure 开发解决方案
+metadata:
+  title: 'Course AZ-204T00ZH-A: 为 Microsoft Azure 开发解决方案'
+  description: 'Course AZ-204T00ZH-A: 为 Microsoft Azure 开发解决方案'
+uid: course.az-204t00zh
+courseNumber: 'AZ-204T00ZH-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  本课程教授开发人员如何在 Microsoft Azure 中创建端到端解决方案。学生将学习如何实现 Azure 计算解决方案、创建 Azure Functions、实现和管理 Web 应用、利用 Azure 存储开发解决方案、实现身份验证和授权，以及使用 KeyVault 和托管标识保护其解决方案。学生还将学习如何连接并使用 Azure 服务和第三方服务，并在其解决方案中包括基于事件和消息的模型。本课程还包括监控、故障排除和优化 Azure 解决方案。
+
+  #### Audience profile
+  对 Azure 开发感兴趣或希望通过 Microsoft Azure Developer Associate 认证考试的学生可以参加此课程。
+prerequisitesSection: |-
+  学生应具有 1-2 年的专业开发经验和使用 Microsoft Azure 的经验。他们必须能够用 Azure 支持的语言进行编程。
+outlineSection: |-
+  ### Module 1&#58; 创建 Azure 应用服务 Web 应用
+  学生将学习如何在 Azure 应用服务平台上构建 Web 应用程序。他们将学习平台的运行方式，以及如何创建、配置、缩放、保护和部署到应用服务平台。
+  #### Lessons
+  - Azure 应用服务核心概念
+  - 创建 Azure 应用服务 Web 应用
+  - 配置和监视应用服务应用
+  - 缩放应用服务应用
+  - AzAzure 应用服务暂存环境
+
+
+  ### Module 2&#58; 实现 Azure Functions
+  本模块包括创建 Functions 应用，以及如何将触发器和输入/输出集成到应用。
+  #### Lessons
+  - Azure Functions 概述
+  - 开发 Azure Functions
+  - 实现 Durable Functions
+
+
+  ### Module 3&#58; 开发使用 blob 存储的解决方案
+  学生将学习 Azure Blob 存储的工作方式，如何通过热/冷/存档 blob 存储生命周期管理数据，以及如何使用 Azure Blob 存储客户端库管理数据和元数据。
+  #### Lessons
+  - Azure Blob 存储核心概念
+  - 管理 Azure Blob 存储生命周期
+  - 使用 Azure Blob 存储
+
+
+  ### Module 4&#58; 开发使用 Cosmos DB 存储的解决方案
+  学生将学习 Cosmos DB 的结构，以及如何管理数据一致性。学生还将学习如何通过混合使用 Azure 门户和 .NET SDK 创建 Cosmos DB 帐户以及数据库、容器和项目。
+  #### Lessons
+  - Azure Cosmos DB 概述
+  - Azure Cosmos DB 数据结构
+  - 使用 Azure Cosmos DB 资源和数据
+
+
+  ### Module 5&#58; 实现 IaaS 解决方案
+  本模块指导学生如何在其解决方案中创建要使用的 VM 和容器映像。它包括创建 VM、使用 ARM 模板自动化资源部署、创建和管理 Docker 映像、将映像发布到 Azure 容器注册表，以及在 Azure 容器实例中运行容器。
+  #### Lessons
+  - 在 Azure 中预配 VM
+  - 创建和部署 ARM 模板
+  - 为解决方案创建容器映像
+  - 将容器映像发布到 Azure 容器注册表
+  - 在 Azure 容器实例中创建和运行容器映像
+
+
+  ### Module 6&#58; 实现用户身份验证和授权
+  学生将学习如何利用 Microsoft 标识平台 v2.0 管理身份验证和资源访问。学生还将学习如何使用 Microsoft 身份验证库和 Microsoft Graph 对用户进行身份验证并检索存储在 Azure 中的信息，以及如何/何时使用共享访问签名。
+  #### Lessons
+  - Microsoft 标识平台 v2.0
+  - 使用 Microsoft 身份验证库进行身份验证
+  - 使用 Microsoft Graph
+  - 在 Azure 存储中授权数据操作
+
+
+  ### Module 7&#58; 实现安全云解决方案
+  本模块介绍如何保护应用程序用于访问资源的信息（密钥、机密、证书）。它还包括保护应用程序配置信息。
+  #### Lessons
+  - 使用 KeyVault API 管理密钥、机密和证书
+  - 实现 Azure 资源的托管标识
+  - 使用 Azure 应用配置保护应用配置数据
+
+
+  ### Module 8&#58; 实现 API 管理
+  学生将学习如何发布 API、创建策略以管理通过 API 共享的信息，以及使用 Azure API 管理服务管理对其 API 的访问。
+  #### Lessons
+  - API 管理概述
+  - 定义 API 的策略
+  - 保护 API
+
+
+  ### Module 9&#58; 开发应用服务逻辑应用
+  本模块教授学生如何使用 Azure 逻辑应用跨企业或组织调度、自动化和编排任务、业务流程、工作流和服务。
+  #### Lessons
+  - Azure 逻辑应用概述
+  - 为逻辑应用程序创建自定义连接器
+
+
+  ### Module 10&#58; 开发基于事件的解决方案
+  学生将学习如何使用基于事件的架构构建应用程序。
+  #### Lessons
+  - 实现使用 Azure 事件网格的解决方案
+  - 实现使用 Azure 事件中心的解决方案
+  - 实现使用 Azure 通知中心的解决方案
+
+
+  ### Module 11&#58; 开发基于消息的解决方案
+  学生将学习如何使用基于消息的架构构建应用程序。
+  #### Lessons
+  - 实现使用 Azure 服务总线的解决方案
+  - 实现使用 Azure 队列存储队列的解决方案
+
+
+  ### Module 12&#58; 监视和优化 Azure 解决方案
+  本模块教授学生如何测试遥测代码，以及如何分析和排除应用故障。
+  #### Lessons
+  - Azure 中的监控概述
+  - 测试应用以进行监控
+  - 分析和排除应用故障
+  - 实现处理瞬时故障的代码
+
+
+  ### Module 13&#58; 在解决方案中集成缓存和内容交付
+  学生将学习如何使用不同的缓存服务来提高应用的性能。
+  #### Lessons
+  - 为 Redis 开发 Azure 缓存
+  - 在 CDN 上开发存储

@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: PowerShell for SharePoint Administrators
+metadata:
+  title: 'Course 55066-A: PowerShell for SharePoint Administrators'
+  description: 'Course 55066-A: PowerShell for SharePoint Administrators'
+uid: course.55066
+courseNumber: '55066-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure SharePoint Servers using PowerShell
+- skill: Manage SharePoint Server Administration with PowerShell
+- skill: Manage SharePoint Server Maintenance with PowerShell
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This one-day instructor-led course provides students with the knowledge and skills needed to use PowerShell to administer SharePoint Servers. Students will learn how to manage day-to-day and automated tasks carried out by SharePoint Administrators.
+
+  #### Audience profile
+  This course is intended for SharePoint administrators who work in a Windows network environment. At least one year of experience managing SharePoint servers and using PowerShell is recommended.
+prerequisitesSection: |-
+  - Experience working on Windows desktops or servers
+  - Experience working in a Windows domain environment
+  - Experience Administering SharePoint Servers
+  - Fundamental experience with PowerShell or Course 10961B - Automating Administration with Windows PowerShell
+outlineSection: |-
+  ### Module 1&#58; Install and Configure SharePoint Servers with PowerShell
+  This module demonstrates how to setup SharePoint Server components with PowerShell.
+  #### Lessons
+  - Overview
+  - Preparing the Server
+  - Configure Server Features
+  - Configure Prerequisite Applications
+  - Install SharePoint Software
+  - Configure SharePoint Farm
+  - Review
+
+
+  #### Lab &#58; Configure SharePoint Servers with PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Preparing the Server
+  - Configure Server Features
+  - Configure Prerequisite Applications
+  - Install SharePoint Software
+  - Configure SharePoint Farm
+
+
+  ### Module 2&#58; Administering SharePoint Servers with PowerShell
+  This module explains how to use PowerShell to administer User and Farm resources in SharePoint.
+  #### Lessons
+  - Overview
+  - Administering Users and Groups
+  - Administering the Farm
+  - Administering Shared Services & Features
+  - Administering Sites
+  - Administering Databases
+  - Review
+
+
+  #### Lab &#58; Administering SharePoint Servers with PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Administering Users and Groups
+  - Administering the Farm
+  - Administering Web Applications
+  - Administering Sites
+  - Administering Databases
+
+
+  ### Module 3&#58; Maintaining SharePoint Servers with PowerShell
+  This module explains how to perform maintenance tasks on SharePoint Servers using PowerShell.
+  #### Lessons
+  - Overview
+  - Managing Backups/Restores
+  - Monitoring and Auditing
+  - Managing Notifications
+  - Scheduling Tasks
+  - Review
+
+
+  #### Lab &#58; Maintaining SharePoint Servers with PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Managing Backups/Restores
+  - Monitoring and Auditing
+  - Managing Notifications
+  - Scheduling Tasks
+
+  #### Additional Reading
+  Classroom Training&#58; Course 20331B - Core Solutions of Microsoft SharePoint Server 2013

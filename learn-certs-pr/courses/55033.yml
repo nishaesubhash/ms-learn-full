@@ -1,0 +1,236 @@
+### YamlMime:Course
+title: SharePoint 2013 Site Collection and Site Administration
+metadata:
+  title: 'Course 55033-A: SharePoint 2013 Site Collection and Site Administration'
+  description: 'Course 55033-A: SharePoint 2013 Site Collection and Site Administration'
+uid: course.55033
+courseNumber: '55033-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design and implement a company portal structure using SharePoint 2013 objects including sites, libraries, lists and pages
+- skill: Explain the role of security and permissions throughout SharePoint 2013
+- skill: Implement guidelines for consistency in building a company portal to aid in the day-to-day administration of content in SharePoint 2013
+- skill: Enhance the design of and content on a company portal using SharePoint 2013 themes and web parts
+- skill: Explain the importance of governance for the planning and managing future growth of the SharePoint 2013 implementation
+- skill: Identify options to integrate data from other systems as well as preserve existing data
+- skill: Explain the role of social networking in SharePoint 2013 and its impact on collaboration
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This five-day instructor-led course is intended for power users, who are tasked with working within the SharePoint 2013 environment. This course will provide a deeper, narrowly-focused training on the important and popular skills needed to be an administrator for SharePoint site collections and sites. SharePoint deployment or farm administration skills and tasks, which are required for IT professionals to manage SharePoint 2013, are available in separate Microsoft Official Courseware.
+
+  #### Audience profile
+  This course is intended for SharePoint site collection administrators, site administrators and power users who are tasked with working within the SharePoint environment.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Windows client operating system - either Windows XP, Windows 7 or Windows 8
+  - Microsoft Office 2007, Office 2010 or Office 2013
+  - Microsoft Internet Explorer 7, 8 or 9
+  
+  It is recommended students have familiarity with previous versions of SharePoint, though it is not a required prerequisite.
+outlineSection: |-
+  ### Module 1&#58; Getting Started with SharePoint 2013
+  This module introduces SharePoint 2013 concepts to site collection and site administrators. Once administrators can explain basic terminology and how to navigate around SharePoint, they have a solid foundation for the rest of the course.
+  #### Lessons
+  - Exploring SharePoint 2013 Site Collection and Site Administrator Roles
+  - Defining SharePoint Terminology
+  - Navigating a SharePoint Site
+  - Interacting with the Ribbon
+  - Creating and Editing Basic Content
+
+  After completing this module, students will be able to&#58;
+  - Define SharePoint 2013 roles and terminology
+  - Navigate SharePoint 2013
+  - Utilize functions available in the Microsoft ribbon
+  - Create and add basic content to SharePoint
+
+
+  ### Module 2&#58; Planning a Company Portal Using SharePoint 2013
+  Governance in SharePoint plays a critical role in determining the potential success of a SharePoint deployment. When a greater emphasis is placed on governance, it gives organizations a better chance to succeed in the deployment and maintenance of SharePoint. Each organization must ensure that the proper policies and procedures are in place to keep SharePoint aligned with the overall business goals, even as business needs change. This module introduces the concept of governance and highlights best practices.
+  #### Lessons
+  - Defining SharePoint Governance
+  - Working with Information Architecture
+  - Implementing Site Hierarchies
+
+  After completing this module, students will be able to&#58;
+  - Define governance and its role within SharePoint 2013
+  - Define and develop information architecture
+  - Develop a site structure
+
+
+  ### Module 3&#58; Creating a Company Portal
+  The first major milestone, after planning the company portal, is executing and building the site structure. The site structure includes the components for storing and presenting information namely sites, lists and libraries and apps, which are new to SharePoint 2013. Because the site structure provides the framework for the entire portal, it is essential that site collection administrators have a firm grasp of creating sites, document libraries and lists, as well as managing navigation.
+  #### Lessons
+  - Creating a Site Structure
+  - Defining SharePoint Apps
+  - Customizing Lists and Libraries
+  - Explaining Views on Lists and Libraries
+  - Creating Views on Lists and Libraries
+  - Modifying Navigation
+
+
+  #### Lab &#58; Creating a Structured Company Portal
+  After completing this module, students will be able to&#58;
+  - Implement a site structure
+  - Add and customize apps
+  - Create and customize views
+  - Modify site navigation
+
+
+  ### Module 4&#58; Creating Consistency across Sites
+  When setting up a SharePoint site collection, it will often involve repeating a certain number of tasks. Site collection administrators can reduce the effort of duplication by creating reusable objects in a central location by using the tools provided. When defining these in a single spot, site collection administrators can more efficiently manage their site collections as well as maintain consistency throughout the site.
+  #### Lessons
+  - Defining Site Columns
+  - Defining Content Types
+  - Implementing a Taxonomy
+  - Configuring the Content Organizer
+  - Using Templates to Promote Consistency
+
+
+  #### Lab &#58; Creating Custom Columns and Content Types
+
+  #### Lab &#58; Implementing a Taxonomy
+
+  #### Lab &#58; Configuring the Content Organizer
+  After completing this module, students will be able to&#58;
+  - Create new site columns
+  - Design and implement content types
+  - Implement a taxonomy using the Managed Metadata Service
+  - Implement the Content Organizer
+  - Define site and list templates
+  - Define best practices around creating consistency
+
+
+  ### Module 5&#58; Securing a Company Portal
+  This module explains how permissions work within a site collection, and how the tools within SharePoint 2013 are used to manage and maintain them. It is crucial that SharePoint 2013 site collection and site administrators are able to create and manage permissions within SharePoint 2013.
+  #### Lessons
+  - Explaining Permissions and Security in SharePoint
+  - Creating SharePoint Groups
+  - Managing Permissions within SharePoint
+  - Sharing versus Traditional Security
+
+
+  #### Lab &#58; Managing Permissions in SharePoint
+  After completing this module, students will be able to&#58;
+  - Explain the concept of sharing
+  - Design and implement security
+  - Define best practices around SharePoint 2013 security
+
+
+  ### Module 6&#58; Customizing the Look of a Portal
+  This module explains how to design a company portal using out-of-the-box web parts and themes in SharePoint 2013.
+  #### Lessons
+  - Changing the Appearance of the Portal
+  - Editing a Page
+  - Working with Web Parts and App Parts
+  - Targeting Audiences with Content
+
+
+  #### Lab &#58; Adding and Configuring Web Parts
+
+  #### Lab &#58; Connecting Web Parts
+
+  #### Lab &#58; Applying Themes to Your Company Portal
+  After completing this module, students will be able to&#58;
+  - Implement themes and add a logo
+  - Add web parts to pages
+  - Leverage audiences for targeting content
+
+
+  ### Module 7&#58; Extending a Company Portal
+  This module covers how companies can extend their SharePoint 2013 environment to include data from other line of business applications using SharePoint Designer 2013. It also explores how companies can leverage SharePoint for records management and eDiscovery.
+  #### Lessons
+  - Creating External Content Types
+  - Setting up an eDiscovery Center
+  - Exploring other Records Management Options
+
+
+  #### Lab &#58; Accessing External Data
+
+  #### Lab &#58; Leveraging Records Management to Preserve Data
+  After completing this module, students will be able to&#58;
+  - Define external content types
+  - Define and implement records management
+  - Define and implement an eDiscovery center
+
+
+  ### Module 8&#58; Leveraging Web Content Management
+  This module defines the process for using the publishing features of SharePoint 2013 to create rich content pages.
+  #### Lessons
+  - Enabling Web Content Management
+  - Managing the Structure of Web Content
+  - Navigating a Site Using Managed Metadata
+  - Configuring a Published Approval Workflow
+
+
+  #### Lab &#58; Creating a Rich Publishing Site
+
+  #### Lab &#58; Configuring a Published Approval Process
+
+  #### Lab &#58; Implementing a Managed Navigation Site
+  After completing this module, students will be able to&#58;
+  - Enable web content management
+  - Create a Managed Metadata navigation site
+  - Implement image constraints
+  - Define the structure of pages
+  - Implement a publishing workflow
+
+
+  ### Module 9&#58; Bridging the Social Gap
+  An important advancement in SharePoint 2013 is the expansion of social computing features. Many organizations have challenges when working with internal talent management, also known as knowledge management. For example, an organization may need to find an individual with the specific skills and knowledge to assist in completing a task or project. SharePoint 2013 offers a viable platform to help organizations with talent or knowledge management.
+  #### Lessons
+  - Configuring Social Features in SharePoint 2013
+  - Creating a Community Site
+
+
+  #### Lab &#58; Designing a Social Experience in SharePoint 2013
+
+  #### Lab &#58; Creating a Community Site
+  After completing this module, students will be able to&#58;
+  - Describe the role of social computing in SharePoint 2013
+  - Describe best practices for implementing social collaboration
+  - Design a social experience
+  - Implement a community site leveraging the social computing features of SharePoint 2013
+
+
+  ### Module 10&#58; Finding Information Using Search
+  It is often challenging for many organizations to find information quickly and easily. Users can use the search function within SharePoint 2013 to search across a variety of content sources including documents, people and line of business applications with little to no additional configuration. With a small amount of effort, however, organizations can create a robust search experience that is in alignment with their business needs. In this module, students will learn how to leverage search within SharePoint 2013 to help users more quickly find the information they need.
+  #### Lessons
+  - Exploring the Search Features of SharePoint 2013
+  - Configuring the Search Settings
+
+
+  #### Lab &#58; Configuring an Advanced Search Center
+  After completing this module, students will be able to&#58;
+  - Create an enterprise Search Center
+  - Customize the Search Center
+
+
+  ### Module 11&#58; Controlling and Planning for Growth
+  It is necessary to develop a formal governance plan and committee to maintain quality and consistency in SharePoint. Governance defines policies, procedures and guidelines for how SharePoint will be managed and outlines the roles, responsibilities and actions required to administer and support the SharePoint environment.
+  #### Lessons
+  - Reviewing Governance for Site Administration
+  - Discussing the Execution of Governance
+
+  After completing this module, students will be able to&#58;
+  - Explain the role of governance for SharePoint
+  - Develop a governance plan and team
+
+
+  ### Module 12&#58; Administering a Company Portal Built on SharePoint 2013
+  This module covers other tools and settings in SharePoint 2013. Site collection administrators or site administrators work as part of their day-to-day activities.
+  #### Lessons
+  - Exploring Settings for Site Collection Administrators
+  - Exploring Settings for Site Administrators
+
+  After completing this module, students will be able to&#58;
+  - Identify additional settings for site collection administrators
+  - Identify additional settings for site administrators

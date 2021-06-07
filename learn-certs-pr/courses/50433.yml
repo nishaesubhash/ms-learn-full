@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: PowerPivot for End Users
+metadata:
+  title: 'Course 50433-B: PowerPivot for End Users'
+  description: 'Course 50433-B: PowerPivot for End Users'
+uid: course.50433
+courseNumber: '50433-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore every aspect of using Microsoft PowerPivot
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This 2-day Instructor Led course How to use PowerPivot to access data sources, create relationships, use the PowerPivot DAX expressions and generate and format reports. You will also explore how PowerPivot workbooks can be integrated with SharePoint 2010.
+
+  #### Audience profile
+  Advanced Excel users, users that want to gain familiarity with PowerPivot to build compelling reports.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - General Excel and Report building skills
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  Understand your course, classroom, classmates, facility and instructor.
+
+  ### Module 2&#58; PowerPivot Introduction
+  In this module we take a look at the lessons of the module!
+  #### Lessons
+  - PowerPivot Introduction
+
+
+  #### Lab &#58; Installing PowerPivot
+
+  After completing this module, students will be able to&#58;
+  - Install PowerPivot for Excel
+  - Be able to navigate the PowerPivot windows
+  - Understand the new features of Excel 2010
+
+
+  ### Module 3&#58; PowerPivot Data Sources
+  In this module we take a look at the lessons of the module!
+  #### Lessons
+  - Supported Data Sources
+
+
+  #### Lab &#58; Loading Data Sources
+
+  #### Lab &#58; Cleaning Data
+
+  #### Lab &#58; Creating Relationships
+
+  After completing this module, students will be able to&#58;
+  - Import various data sources into PowerPivot
+  - Understand how to clean imported data
+
+
+  ### Module 4&#58; PowerPivot Functions
+  In this module we take a look at the lessons of the module!
+  #### Lessons
+  - PowerPivot Expressions
+
+
+  #### Lab &#58; Create a Time Table
+
+  #### Lab &#58; Using DATE Functions
+
+  #### Lab &#58; Using TIME INTELLIGENCE Functions
+
+  #### Lab &#58; Using STATISTICAL Functions
+
+  #### Lab &#58; Using VALUE Functions
+
+  #### Lab &#58; Using LOGICAL and INFORMATION Functions
+
+  #### Lab &#58; Using TEXT Functions
+
+  After completing this module, students will be able to&#58;
+  - Be able to describe all the new PowerPivot Expressions
+  - Use and apply many of the PowerPivot Expressions
+
+
+  ### Module 5&#58; Building Reports using PowerPivot
+  In this module we take a look at the lessons of the module!
+  #### Lessons
+  - PowerPivot Reports
+
+
+  #### Lab &#58; Creating Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe the different Report types in PowerPivot
+  - Be able to create Slicers and Sparklines for more engaging reports
+
+
+  ### Module 6&#58; PowerPivot for SharePoint 2010
+  In this module we take a look at the lessons of the module!
+  #### Lessons
+  - Reports and Email
+  - PowerPivot for SharePoint 2010
+
+
+  #### Lab &#58; Installing PowerPivot for SharePoint 2010
+
+  #### Lab &#58; Configuring PowerPivot For SharePoint 2010
+
+  After completing this module, students will be able to&#58;
+  - Describe the integration points between PowerPivot and SharePoint 2010
+  - Be able to publish and setup workbook data refresh in SharePoint 2010

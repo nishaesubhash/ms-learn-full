@@ -1,0 +1,237 @@
+### YamlMime:Course
+title: Microsoft SharePoint Server 2013 for the Site Owner/Power User
+metadata:
+  title: 'Course 55035-B: Microsoft SharePoint Server 2013 for the Site Owner/Power User'
+  description: 'Course 55035-B: Microsoft SharePoint Server 2013 for the Site Owner/Power User'
+uid: course.55035
+courseNumber: '55035-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Manage Sites and Site Collections
+- skill: Add users and groups and manage site, list, folder and item security
+- skill: Add and configure web parts
+- skill: Configure site options including theme, title, description and icon
+- skill: Configure site navigation
+- skill: View site activity reports
+- skill: Customize lists and libraries
+- skill: Work with Site Columns and Site Content Types
+- skill: Configure Check out/in, Content Approval and Versioning
+- skill: Create and modify pages and web part pages
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This two day class is designed for information workers or power users who serve as SharePoint Site Owners or Site Collection Administrators. Students should take this course if they need to know how to manage the team collaboration, document management and social features of Microsoft SharePoint 2013. This class is an excellent prerequisite for IT Professionals who work as SharePoint Server Administrators attending 20331&#58; Core Solutions of Microsoft SharePoint Server 2013.  This class can be delivered using Site Collections on an in-house server, virtual machines or Office 365.
+
+  #### Audience profile
+  This course is intended for
+  - SharePoint Site Owners
+  - SharePoint Site Collection Administrators
+  - SharePoint Administrators and Developers
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Strong SharePoint 2010 or 2013 end user skills or have attended “Introduction to SharePoint 2013 for Collaboration and Document Management” or similar.
+outlineSection: |-
+  ### Module 1&#58; The Role of the Site Owner
+  This module provides an introduction to the topics covered in the class, introduces SharePoint terminology and gets a start in navigation.
+  #### Lessons
+  - What is SharePoint?
+  - Team Collaboration
+  - Document Management
+  - Social Features
+  - SharePoint Administrative Roles
+  - Site Owner
+  - Site Collection Administrator
+  - Server Administrator
+  - SharePoint Administration Options by Role
+
+
+  After completing this module, students will be able to&#58;
+
+  - Identify who can do what in SharePoint administration.
+  - Navigate to site collection, site, page and list administration pages.
+
+
+  ### Module 2&#58; Users, Groups and Permissions
+  This module covers the management of SharePoint users and user security.
+  #### Lessons
+  - SharePoint Security Best Practices
+  - Users and Groups
+  - Adding Users and Groups
+  - Adding Site Collection Administrators
+  - Permissions and Permission Levels
+  - Creating Custom Permission Levels
+  - Configuring List and Library Permissions
+  - Working with Audiences and Content Filtering
+  - Managing User Alerts
+
+
+  #### Lab &#58; Users, Groups and Permissions
+
+  After completing this module, students will be able to&#58;
+
+  - Manage SharePoint security using best practices.
+  - Add new users and groups.
+  - Create custom permission levels.
+  - Work with Audiences.
+
+
+  ### Module 3&#58; Site and Site Collection Features
+  This module covers the use of SharePoint Features to add and remove functionality.
+  #### Lessons
+  - What is a Feature?
+  - Activating and Deactivating Features
+  - Commonly Used Features
+
+
+  #### Lab &#58; Site and Site Collection Features
+
+  After completing this module, students will be able to&#58;
+
+  - Define the purpose of features.
+  - Activate and deactivate features.
+
+
+  ### Module 4&#58; Managing Sites and Pages
+  This module covers the creation and management of SharePoint sites and pages.
+  #### Lessons
+  - Creating Subsites
+  - Site Templates
+  - Site Lifecycle and Site Deletion
+  - Configuring the Look and Feel of a Site
+  - Configuring Navigation Options
+  - Language Settings
+  - Adding and Managing Pages
+  - Working with Web Part Pages
+  - Frequently Used Web Parts
+
+
+  #### Lab &#58; Managing Sites and Pages
+
+  After completing this module, students will be able to&#58;
+
+  - Create subsites from templates.
+  - Configure site navigation options.
+  - Create and edit pages.
+  - Create web part pages and manage web parts.
+
+
+  ### Module 5&#58; Working with Lists and Libraries
+  This module covers the use of SharePoint lists and libraries.
+  #### Lessons
+  - SharePoint Lists and List Features
+  - Document Libraries
+  - Libraries vs. Lists with Attachments
+  - Adding Columns to Lists and Libraries
+  - Column and Item Validation
+  - Enterprise Metadata and Keywords Settings
+  - Creating List and Library Views
+  - Working with Office Web Apps
+  - Organizing Content Using Folders and Metadata
+  - Picture, Asset and Other Libraries
+  - Working with the Recycle Bin
+  - Configuring RSS Feeds
+  - Configuring Incoming Email
+  - About Tags and Notes and Ratings
+
+
+  #### Lab &#58; Working with Lists and Libraries
+
+  After completing this module, students will be able to&#58;
+
+  - Create and customize lists and libraries.
+  - Open and edit documents in Microsoft Office and with Office Web Apps.
+  - Manage checked out documents.
+  - Recover items from the Recycle Bin.
+  - Work with document versioning.
+  - Create views including metadata grouped views and calendar views.
+
+
+  ### Module 6&#58; Document Management
+  This module explores the document management features of libraries.
+  #### Lessons
+  - Information Management Policy Settings
+  - Auditing List and Document Activity
+  - Working with Site Columns and Content Types
+  - Built-in Content Types
+  - Managing Business Content Using Content Types
+  - Using Document Sets
+  - Using the Content Organizer
+  - An Overview of Records Management
+
+
+  #### Lab &#58; Document Management
+
+  After completing this module, students will be able to&#58;
+
+  - Create retention and auditing policies for a list or content type.
+  - Create and use Site Columns, Content Types and Document Sets.
+  - Use the Versioning, Check Out/In and Content Approval features.
+
+
+  ### Module 7&#58; SharePoint Workflows
+  This module provides an overview of the SharePoint 2013 workflow features.
+  #### Lessons
+  - SharePoint Workflows
+  - Out of the Box Workflow Demo
+
+
+  #### Lab &#58; SharePoint Workflows
+
+  After completing this module, students will be able to&#58;
+
+  - Identify the differences between Out of the Box, SharePoint Designer and Visual Studio workflows.
+  - Configure and use the out of the box Approval workflow
+
+
+  ### Module 8&#58; Monitoring SharePoint Activity
+  This module covers the use of SharePoint activity reports.
+  #### Lessons
+  - Usage Reports
+  - Search Reports
+
+
+  After completing this module, students will be able to&#58;
+
+  - Use the Site and Site Collection reports.
+
+
+  ### Module 9&#58; SharePoint Apps (Optional)
+  This module provides explores SharePoint 2013 Apps.
+  #### Lessons
+  - What is an App?
+  - Working with Built-in Apps
+  - The SharePoint App Store
+  - The Corporate App Store
+  - Request an App
+
+
+  #### Lab &#58; SharePoint Apps (Optional)
+
+  After completing this module, students will be able to&#58;
+
+  - Identify the different kinds of SharePoint Apps.
+  - Browse the App stores and add an App
+
+
+  ### Module 10&#58; The SharePoint Community Site (Optional)
+  This module covers the use of the SharePoint 2013 Community Site.
+  #### Lessons
+  - Building online communities using SharePoint
+  - Discussion and Moderation
+  - Rating discussions and earning points
+
+
+  #### Lab &#58; The SharePoint Community Site (Optional)
+
+  After completing this module, students will be able to&#58;
+
+  - Interact with other SharePoint users in discussion forums.
+  - Rate posts and earn reputation points.

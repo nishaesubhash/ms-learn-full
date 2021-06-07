@@ -1,0 +1,113 @@
+### YamlMime:Course
+title: Nintex Forms and Mobile
+metadata:
+  title: 'Course 55220-A: Nintex Forms and Mobile'
+  description: 'Course 55220-A: Nintex Forms and Mobile'
+uid: course.55220
+courseNumber: '55220-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create forms for use in SharePoint lists and libraries
+- skill: Create forms for use in Nintex Workflow
+- skill: Use the rich features of Nintex forms such as repeating sections and calculations
+- skill: Customize the branding of forms- including logos and color scheme
+- skill: Publish forms to Nintex Live and Mobile so they can be completed by users and offline
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This one day instructor-led course will show you how to use Nintex Forms and Nintex Mobile to customize forms for use in SharePoint 2013 and Nintex Workflow 2013.
+  
+  Nintex Forms 2013 makes it easy to create and complete engaging forms in the browser without the need for code. The course begins with an Introduction to Nintex Forms explaining where forms can be created and the terminology used to describe forms.
+  
+  Next you will see how simple forms can be created quickly and easily followed by a series of progressively more dynamic forms working with data from lists, libraries and workflows to reveal the full potential of the product.
+  
+  Once you have mastered the components used to build forms next we turn our attention to the look and feel of the forms learning how to customize the branding of individual forms including backgrounds and logos to ensure that your forms match your corporate branding. We will also show you how to modify the templates that are used to define new forms.
+  
+  The course concludes by showing you how to make your forms available to fill in outside of your SharePoint environment with the use of Nintex Live and Nintex Mobile.
+
+  #### Audience profile
+  Anyone can attend this class but a prior knowledge of using SharePoint as a Site Owner would be advantageous.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Anyone can attend this class but a prior knowledge of using SharePoint as a Site Owner would be advantageous.
+  - If you wish to use Nintex Forms with Nintex Workflow and are not an experienced user of Nintex Workflow you will benefit from attending our 3 day Nintex Workflow 2013 course prior to the Nintex Forms course.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Nintex forms
+  This module provides an introduction to Nintex Forms showing how it integrates with SharePoint and Nintex Workflow and Nintex Live. We also review some of the key features which make Nintex Forms unique.
+  #### Lessons
+  - Introduction to Nintex forms 2013
+  - Feature overview
+  - Types of form
+  - Form controls
+
+  After completing this module, students will be able to&#58;
+  - Understand how Nintex Forms integrates with SharePoint and Nintex Workflow and Nintex Live.
+
+
+  ### Module 2&#58; Getting started with Nintex forms
+  This module moves from the theory of form design to actually creating basic forms using a variety of controls such as drop down menus and check boxes.
+  #### Lessons
+  - Using the form design interface
+  - Building basic forms
+  - Grids, guides and snap
+  - Form size
+  - Undo, version history and preview
+  - Save, publish and delete
+  - Form redirect
+  - Demonstrations of Forms in&#58;
+  -    Lists
+  -    Libraries
+  -    Workflows
+
+  After completing this module, students will be able to&#58;
+  - Be able to create basic forms using a variety of controls such as drop down menus and check boxes.
+
+
+  ### Module 3&#58; Building Rich Forms
+  Having mastered creating basic forms in module two we now look at the more advanced options available with Nintex Forms including.
+  #### Lessons
+  - Nintex Workflow start forms
+  - Repeating sections and List Lookups
+  - Using rules to hide or disable part of a form with panels
+
+  After completing this module, students will be able to&#58;
+  - Understand more advanced options available with Nintex Forms.
+
+
+  ### Module 4&#58; Form Styles
+  Now that your forms work the way that you want them to we next spend some time to get them looking great. You will learn how to edit the component of an individual form to ensure that they conform to your companies style guide or branding. At first we focus on editing individual forms and later we will look at how to edit the default styles that are applied when a new form is created – this is a great way to ensure that all
+  new forms are consistent and align with your corporate branding.
+  #### Lessons
+  - Edit individual forms
+  - Logo
+  - Background
+  - Borders
+  - Control settings including borders, colours and fonts
+  - Rules to apply conditional formatting
+  - Advanced form Styles
+  - Update the form template
+  - Cascade style sheet
+
+  After completing this module, students will be able to&#58;
+  - Understand how to edit the component of an individual form to ensure that they conform to your companies style guide or branding.
+
+
+  ### Module 5&#58; Mobile Forms
+  Your forms are now easy to use and looking great on a desktop computer but nowadays many people use mobile devices to read and capture data while traveling. This module will show you how to customize forms for use on specific mobile devices and how to publish forms so they can be completed from outside of your SharePoint environment either via the internet or offline. As always this will be done without the need for code or technical support, all of this is within reach of a typical end user.
+  #### Lessons
+  - Introduction to Nintex Live and Nintex Mobile
+  - Form Layouts for Mobile devices
+  - Mobile specific form controls
+  - Add photos
+  - Add video
+  - Add location
+  - Complete forms while offline
+
+  After completing this module, students will be able to&#58;
+  - Understand how to customize forms for use on specific mobile devices and how to publish forms so they can be completed from outside of your SharePoint environment either via the internet or offline.

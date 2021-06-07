@@ -1,0 +1,102 @@
+### YamlMime:Course
+title: Visual Studio 2010 による C#  プログラミング
+metadata:
+  title: 'Course 50589-A: Visual Studio 2010 による C#  プログラミング'
+  description: 'Course 50589-A: Visual Studio 2010 による C#  プログラミング'
+uid: course.50589
+courseNumber: '50589-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft Visual Studio 2010 を使用したアプリケーション開発をする
+- skill: C# プログラミング言語の基本文法を記述する
+- skill: 基本的なオブジェクト指向プログラミングの理解をする
+- skill: 簡単なGUIプログラミングを作成する
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Course retirement date&#58; November 30, 2012
+
+  For a complete list of courseware retirements, see&#58;
+   
+  https://www.microsoft.com/learning/retired-courses.aspx
+  
+  このコースはMicrosoft Visual Studio 2010 を使用して、C# を使用した開発に必要な知識とスキルを習得します。基本文法、オブジェクト指向プログラミングの学習とWindowsアプリケーションの作成を行います。
+
+  #### Audience profile
+  - C# でアプリケーションを開発される方
+  - .NETプラットフォームでシステムを開発される方
+prerequisitesSection: |-
+  - オペレーティングシステムの基本的な操作ができる
+  - 構造化プログラミングの基本を理解している
+  - 3か月以上のアプリケーション開発経験がある
+outlineSection: |-
+  ### セクション 1&#58; .NET プラットフォームとVisual Studio 2010 の紹介
+  #### レッスン
+  - .NET と.NET Framework の紹介
+  - Visual Studio 2010 について
+  - Windows アプリケーションのプロジェクトの作成
+
+
+  #### ラボ &#58; 基本的なWindowsアプリケーションの作成
+
+  ### セクション 2&#58; C# 言語の基礎知識
+  #### レッスン
+  - C# プログラムの基礎知識
+  - C# の定義済みの型の使用
+  - 式の記述
+  - 条件ステートメントの作成
+  - 繰り返しステートメントの作成
+  - 配列の作成
+
+
+  #### ラボ &#58; 預金額計算アプリケーションの記述
+
+  ### セクション 3&#58; C# でのオブジェクトの作成
+  #### レッスン
+  - クラスの定義
+  - メソッドの宣言
+  - コンストラクターの使用
+  - 静的クラス メンバーの使用
+
+
+  #### ラボ &#58; 銀行口座オブジェクトの作成
+
+  ### セクション 4&#58; C# でのオブジェクト指向プログラミング技法の実装
+  #### レッスン
+  - オブジェクトのデザイン
+  - 継承の使用
+  - ポリモーフィズムの使用
+  - インターフェイスの使用
+
+
+  #### ラボ &#58; 銀行口座オブジェクトの作成
+
+  ### セクション 5&#58; C# での .NET Frameworkを利用したアプリケーションの構築
+  #### レッスン
+  - .NET Framework クラスライブラリの確認
+  - コレクションの使用
+  - ジェネリック コレクションの使用
+  - 例外処理の使用
+  - 文字列と数値の書式指定
+  - ストリームとファイルの使用
+
+
+  #### ラボ &#58; ジェネリック コレクションの使用
+
+  ### セクション 6&#58; Windows ベースのアプリケーションの作成
+  #### レッスン
+  - デリゲートとイベントの使用
+  - Windows フォーム アプリケーションの作成
+  - フォーム メニューの作成
+  - コモン ダイアログ ボックスの作成
+  - ツール バーの作成
+  - ステータス バーの作成
+
+
+  #### ラボ &#58; Windowsアプリケーションの作成

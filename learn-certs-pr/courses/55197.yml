@@ -1,0 +1,193 @@
+### YamlMime:Course
+title: Microsoft SharePoint Server 2016 for the Site Owner/Power User
+metadata:
+  title: 'Course 55197-A: Microsoft SharePoint Server 2016 for the Site Owner/Power User'
+  description: 'Course 55197-A: Microsoft SharePoint Server 2016 for the Site Owner/Power User'
+uid: course.55197
+courseNumber: '55197-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Manage Sites and Site Collections
+- skill: Add users and groups and manage site, list, folder and item security
+- skill: Add and configure web parts
+- skill: Configure site options including theme, title, description and icon
+- skill: Configure site navigation
+- skill: View site activity reports
+- skill: Customize lists and libraries
+- skill: Configure Check out/in, Content Approval and Versioning
+- skill: Create and modify pages and web part pages
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This two day class is designed for information workers or power users who serve as SharePoint Site Owners or Site Collection Administrators. Students should take this course if they need to know how to manage the team collaboration, document management and social features of Microsoft SharePoint 2016 sites. This class compliments the 20339-1 course by providing IT Pros with the foundation of permissions and site collection   management.
+
+  #### Audience profile
+  - SharePoint Site Owners
+  - SharePoint Power Users
+  - SharePoint Site Collection Administrators
+  - SharePoint Administrators and Developers
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Have strong SharePoint 2010-2016 end user skills or have attended course “55193&#58; Introduction to SharePoint 2016 for Collaboration and Document Management” or similar.
+  - Good Microsoft Office skills, including Word, Excel, PowerPoint and Outlook.
+outlineSection: |-
+  ### Module 1&#58; The Role of the Site Owner
+  This module provides an introduction to the topics covered in the class, introduces SharePoint terminology and the role of the Site Owner.
+  #### Lessons
+  - The Role of the Site Owner
+  - Work Areas for Site Owners
+  - Browser Support
+  - Resources
+
+  After completing this module, students will be able to&#58;
+  - Identify who can do what in SharePoint administration.
+  - Navigate to site collection, site, page and list administration pages typically used to administer SharePoint sites.
+
+
+  ### Module 2&#58; Users, Groups and Permissions
+  This module covers the management of SharePoint user and content security at the site, list, library, folder and item levels.
+  #### Lessons
+  - SharePoint Security
+  - Users and Groups
+  - Permission Levels
+  - Inheritance
+  - Adding and Removing Users
+  - Creating SharePoint Groups
+  - Creating Custom Permission Levels
+  - List and Library Permissions
+  - Checking Permissions
+  - SharePoint Security Best Practices
+
+
+  #### Lab &#58; Users, Groups and Permissions
+  - Quiz!
+  - Add new users to a site
+  - Create a permission level for “Add, Edit, but not Delete”
+  - Create a new group for the site
+  - Create a new group for granular permissions
+  - Create a subsite with unique permissions
+  - Set unique permissions on a library and a folder
+
+  After completing this module, students will be able to&#58;
+  - Manage SharePoint security using best practices.
+  - Add new users and groups to SharePoint.
+  - Create custom permission level.
+
+
+  ### Module 3&#58; Site and Site Collection Features
+  This module covers the use of SharePoint Features to add and remove functionality for sites and site collections.
+  #### Lessons
+  - SharePoint Features
+  - Features for Site Owners
+  - Features for Site Collection Administrators
+
+
+  #### Lab &#58; Site and Site Collection Features
+  - Quiz!
+  - Add a Feature to Your Site
+
+  After completing this module, students will be able to&#58;
+  - Describe the use and scopes of SharePoint Features.
+  - Activate and Deactivate Features for Sites and Site Collections.
+
+
+  ### Module 4&#58; Managing Sites and Pages
+  This module explores the creation and configuration of subsites and pages.
+  #### Lessons
+  - Creating Subsites
+  - Deleting Subsites
+  - Changing the Look and Feel
+  - Site Navigation
+  - Save Site as Template
+  - Search Visibility for the Site
+  - Creating Pages
+  - Working with Web Parts
+
+
+  #### Lab &#58; Managing Sites and Pages
+  - Quiz!
+  - Create a subsite and add lists and libraries
+  - Customize the home page of the site
+  - Add a web part to the home page
+
+  After completing this module, students will be able to&#58;
+  - Describe the use of subsites and pages.
+  - Create, configure and delete subsites.
+  - Create, configure and delete pages.
+  - Configure site navigation.
+  - Save a Team Site as a reusable site template.
+  - Add and configure web part
+
+
+  ### Module 5&#58; Working with Lists and Libraries
+  This module explains how to create and configure out of the box and custom lists and libraries. It covers how to configure and work with features such as Content Approval, Versioning and Views.
+  #### Lessons
+  - Creating Lists and Libraries
+  - Deleting Lists and Libraries
+  - List Settings
+  - Viewing Files using Office Online Server
+  - Content Approval
+  - Folders
+  - Search Visibility
+  - List and Library Versioning Options
+  - Checking Documents Out and In
+  - Adding and Configuring Columns
+  - Column and Item Validation
+  - Creating Lists by Importing Excel Files
+  - Creating and Modifying Views
+
+
+  #### Lab &#58; Working with Lists and Libraries
+  - Quiz!
+  - Add Columns to an Existing List
+  - Add an Alert
+  - Configure Content Approval
+  - Configure Versioning
+  - Create a List from an Excel File
+  - Add Custom Views to a List
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of SharePoint Lists and Libraries.
+  - Create and customize lists and libraries.
+  - Configure Content Approval, Versioning, Required Check Out and other list and library features.
+  - Create and use list and library views.
+
+
+  ### Module 6&#58; Monitoring Site Activity
+  This module explores the Site Activity reports available to Site Owners and Site Collection Administrators.
+  #### Lessons
+  - SharePoint Reporting
+  - Storage Metrics
+  - Popularity Trends
+  - Search Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe the out of the box reports available to Site Owners and Site Collection Administrators.
+  - Create and save activity reports
+
+
+  ### Module 7&#58; SharePoint Apps and Add-ins (Optional)
+  This module explores SharePoint Apps and Add-ins.
+  #### Lessons
+  - What is an App?
+  - What is an Add-in?
+  - Working with Add-ins
+  - Adding Add-ins
+  - The SharePoint Store
+  - The App Catalog
+
+
+  #### Lab &#58; SharePoint Add-ins
+  - Instructor led demo of working with Add-ins.
+
+  After completing this module, students will be able to&#58;
+  - Understand the differences between SharePoint Apps and SharePoint Add-ins.
+  - Add and configure SharePoint Add-ins.

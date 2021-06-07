@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 将 NoSQL 工作负荷迁移到 Azure Cosmos DB
+metadata:
+  title: 'Course DP-060T00ZH-A: 将 NoSQL 工作负荷迁移到 Azure Cosmos DB'
+  description: 'Course DP-060T00ZH-A: 将 NoSQL 工作负荷迁移到 Azure Cosmos DB'
+uid: course.dp-060t00zh
+courseNumber: 'DP-060T00ZH-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 使用 Cosmos DB 生成全球分布式应用程序
+- skill: 将 MongoDB 工作负荷迁移到 Cosmos DB
+- skill: 将 Cassandra 工作负荷迁移到 Cosmos DB
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  本课程将向学生介绍什么是 Cosmos DB 以及如何将 MongoDB 和 Cassandra 工作负荷迁移到 Cosmos DB。
+
+  #### Audience profile
+  本课程的主要受众是计划将 MongoDB 和 Cassandra 工作负荷迁移到使用 Cosmos DB 的 Azure 的数据库开发者。
+prerequisitesSection: |-
+  除了专业经验外，参加此培训的学生还应具有以下技术知识&#58; 
+  - 构建和配置不受 Cosmos DB API 影响的可缩放 NoSQL 应用程序所需的分区、复制和资源治理基础概念。
+outlineSection: |-
+  ### Module 1&#58; 使用 Cosmos DB 生成全球分布式应用程序
+  本模块说明 Cosmos DB 的优势和体系结构。
+  #### Lessons
+  - Cosmos DB 概述
+  - Cosmos DB API
+  - 预配吞吐量
+  - 分区/分片最佳做法
+
+  完成本模块后，学生将能够描述&#58; 
+  - Cosmos DB 概述
+  - Cosmos DB API
+  - 预配吞吐量
+  - 分区/分片最佳做法
+
+
+  ### Module 2&#58; 将 MongoDB 工作负荷迁移到 Cosmos DB
+  将 MongoDB 工作负荷迁移到 Cosmos DB
+  #### Lessons
+  - 了解迁移的益处
+  - 迁移规划
+  - 数据迁移
+  - 应用程序迁移
+  - 迁移后注意事项
+
+
+  #### Lab &#58; 将 MongoDB 工作负荷迁移到 Cosmos DB
+  - 创建迁移项目
+  - 定义源和目标
+  - 执行迁移
+  - 验证迁移
+
+  完成本模块后，学生将能够&#58; 
+  - 了解迁移的益处
+  - Perform 迁移规划
+  - Perform 数据迁移
+  - Perform 应用程序迁移
+  - Undertake 迁移后注意事项
+
+
+  ### Module 3&#58; 将 Cassandra 工作负荷迁移到 Cosmos DB
+  本模块说明将 Cassandra 工作负荷迁移到 Cosmos DB 的好处和过程。
+  #### Lessons
+  - 了解迁移的益处
+  - 迁移规划
+  - 数据迁移
+  - 应用程序迁移
+  - 迁移后注意事项
+
+
+  #### Lab &#58; 将 Cassandra 工作负荷迁移到 Cosmos DB
+  - 导出架构
+  - 使用 CQLSH COPY 迁移数据
+  - 使用 Spark 迁移数据
+  - 验证迁移
+
+  完成本模块后，学生将能够&#58; 
+  - 了解迁移的益处
+  - Perform 迁移规划
+  - Perform 数据迁移
+  - Perform 应用程序迁移
+  - Undertake 迁移后注意事项

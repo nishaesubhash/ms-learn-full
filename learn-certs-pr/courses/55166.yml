@@ -1,0 +1,240 @@
+### YamlMime:Course
+title: Intermediate Microsoft Excel 2016
+metadata:
+  title: 'Course 55166-A: Intermediate Microsoft Excel 2016'
+  description: 'Course 55166-A: Intermediate Microsoft Excel 2016'
+uid: course.55166
+courseNumber: '55166-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to use formulas and functions.
+- skill: Create and modify charts.
+- skill: Convert, sort, filter, and manage lists.
+- skill: Insert and modify illustrations in a worksheet.
+- skill: Learn to work with tables.
+- skill: Learn to use conditional formatting and styles.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This Intermediate Microsoft Excel 2016 training class is meant for students who want to advance their skill set by learning to work with advanced formulas, lists, and illustrations. Students will also work with charts and advanced formatting including styles.
+
+  [The outline for this course can be viewed at this link&#58; [https://www.webucator.com/microsoft-training/course/intermediate-microsoft-excel-2016-training.cfm](https://www.webucator.com/microsoft-training/course/intermediate-microsoft-excel-2016-training.cfm)]
+
+  #### Audience profile
+  This course is intended for students who have little or no familiarity with Microsoft Excel 2016 or more experienced Excel users who want to learn the topics covered in this course in the 2016 interface.
+prerequisitesSection: |-
+  - Basic Excel experience
+outlineSection: |-
+  ### Module 1&#58; Advanced Formulas
+  This module explains how to work with formulas.
+  #### Lessons
+  - Using Named Ranges in Formulas
+  - Naming a Single Cell
+  - Naming a Range of Cells
+  - Naming Multiple Single Cells Quickly
+  - Using Formulas That Span Multiple Worksheets
+  - Using the IF Function
+  - Using AND/OR Functions
+  - Using the SUMIF, AVERAGEIF, and COUNTIF Functions
+  - Using the PMT Function
+  - Using the LOOKUP Function
+  - Using the VLOOKUP Function
+  - Using the HLOOKUP Function
+  - Using the CONCATENATE Function
+  - Using the TRANSPOSE Function
+  - Using the PROPER, UPPER, and LOWER Functions
+  - The UPPER Function
+  - The LOWER function
+  - The TRIM Function
+  - Using the LEFT, RIGHT, and MID Functions
+  - The MID Function
+  - Using Date Functions
+  - Using the NOW and TODAY Functions
+  - Creating Scenarios
+  - Utilize the Watch Window
+  - Consolidate Data
+  - Enable Iterative Calculations
+  - What-If Analyses
+  - Use the Scenario Manager
+  - Use Financial Functions
+
+
+  #### Lab &#58; Advanced Formulas
+  - Using Named Ranges in Formulas
+  - Entering a Formula Using Data in Multiple Worksheets
+  - Using the IF Function
+  - Using the PMT Function
+  - Using the VLOOKUP Function
+  - Using the CONCATENATE Function
+  - Using the PROPER Function
+  - Using the LEFT and RIGHT Functions
+  - Using the YEAR, MONTH, and DAY Functions
+
+  After completing this module, students will be able to&#58;
+  - Name and label cells and ranges of cells.
+  - Use names and labels in formulas.
+  - Create formulas that span multiple worksheets.
+  - Use the conditional IF function and its variants in formulas.
+  - Use the PMT function to calculate payments for loans.
+  - Use the LOOKUP function.
+  - Use the VLOOKUP function.
+  - Use the HLOOKUP function.
+  - Use the CONCATENATE function to join the contents of numerous cells.
+  - Use the TRANSPOSE function.
+  - Use the PROPER, UPPER, and LOWER functions to alter the casing of text.
+  - Use the LEFT, RIGHT, and MID functions to return characters from thestart or end of a string, or a specific number of text characters.
+  - Use various date functions.
+
+
+  ### Module 2&#58; Working with Lists
+  This module explains how to work with lists.
+  #### Lessons
+  - Converting a List to a Table
+  -	Removing Duplicates from a List
+  -	Sorting Data in a List
+  -	Filtering Data in a List
+  -	Adding Subtotals to a List
+  -	Grouping and Ungrouping Data in a List
+
+
+  #### Lab &#58; Working with Lists
+  - Converting a List to a Table
+  - Removing Duplicates from a List
+  -	Sorting Data in a List
+  - Filtering Data in a List
+  -	Adding Subtotals to a List
+
+  After completing this module, students will be able to&#58;
+  - Convert data into tables.
+  - Remove duplicates from tables.
+  - Sort data in Excel.
+  - Filter data in Excel.
+  - Use subtotals to automatically total related data.
+  - Group and ungroup data.
+
+
+  ### Module 3&#58; Working with Illustrations
+  This module explains how to work with illustrations.
+  #### Lessons
+  - Working with Clip Art
+  - Using Shapes
+  - Working with SmartArt
+
+
+  #### Lab &#58; Working with Illustrations
+  - Working with Clip Art
+  - Adding Shapes
+
+  After completing this module, students will be able to&#58;
+  - Add pictures to your worksheets.
+  - U use Clip Art to illustrate your worksheets.
+  - Insert shapes into Microsoft Excel worksheets.
+  - Use SmartArt to illustrate your worksheets.
+
+
+  ### Module 4&#58; Visualizing Your Data
+  This module explains how to work with charts, objects, and text boxes.
+  #### Lessons
+  - Creating a Custom Chart Template
+  - Inserting Charts
+  - Add and Format Objects
+  - Insert a Text Box
+  - Create a Custom Chart Template
+
+
+  #### Lab &#58; Visualizing Your Data
+  - Inserting Charts
+  - Editing Charts
+
+  After completing this module, students will be able to&#58;
+  - Create charts that enable you to visualize your data.
+  - Choose what data is displayed in your charts.
+  - Show and hide data labels.
+  - Show and hide the legend.
+  - Show and hide the chart title.
+  - Add a picture or shape to a chart.
+  - Change the way text displays in a chart.
+  - Change the fill color of a chart.
+  - Add and format objects in a worksheet.
+
+
+  ### Module 5&#58; Working with Tables
+  This module explains how to work with tables.
+  #### Lessons
+  - Format Data as a Table
+  - Move between Tables and Ranges
+  - Modify Tables
+  - Define Titles
+
+
+  #### Lab &#58; Working with Tables
+  - Creating and Modifying a Table in Excel
+
+  After completing this module, students will be able to&#58;
+  - Format data in Excel as a table.
+  - Modify Excel tables.
+
+
+  ### Module 6&#58; Advanced Formatting
+  This module explains how work with formatting options in Excel.
+  #### Lessons
+  - Applying Conditional Formatting
+  - Working with Styles
+  - Creating and Modifying Templates
+
+
+  #### Lab &#58; Advanced Formatting
+  - Using Conditional Formatting
+  - Working with Styles
+
+  After completing this module, students will be able to&#58;
+  - Use conditional formatting to display cells differently based on their values.
+  - Quickly format tables using styles.
+  - Format cells using styles.
+
+
+  ### Module 7&#58; Microsoft Excel Features that Were New in 2013
+  This module explains how to use some features that were new in 2013.
+  #### Lessons
+  - New Functions in Excel 2013
+  - Using New Chart Tools
+  - Using the Quick Analysis Tool
+  - Using the Chart Recommendation Feature
+
+
+  #### Lab &#58; Microsoft Excel Features that Were New in 2013
+  - Using the New Excel Functions
+  - Using the New Excel 2013 Chart Tools
+  - Using the Quick Analysis Tool
+
+  After completing this module, students will be able to&#58;
+  - Use the new chart tools in Excel.
+  - Use the Quick Analysis tool.
+  - Use the Chart Recommendation feature.
+
+
+  ### Module 8&#58; Features New in 2016
+  This module explains how to use the new charts in 2016.
+  #### Lessons
+  - New Charts
+  -	Treemap
+  -	Sunburst
+  -	Histogram
+  -	Waterfall
+  -	Box and Whisker
+  -	Pareto
+
+
+  #### Lab &#58; None
+  - None
+
+  After completing this module, students will be able to&#58;
+  - Use the new charts in Excel 2016.

@@ -1,0 +1,197 @@
+### YamlMime:Course
+title: PerformancePoint 2010 Designing and Implementing Scorecards and Dashboards
+metadata:
+  title: 'Course 50465-B: PerformancePoint 2010 Designing and Implementing Scorecards and Dashboards'
+  description: 'Course 50465-B: PerformancePoint 2010 Designing and Implementing Scorecards and Dashboards'
+uid: course.50465
+courseNumber: '50465-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Discover, design and implement KPIs
+- skill: Understand the scoring methodologies used with indicators to change visual displays
+- skill: Decide on how to modify a scoring methodology
+- skill: Understand the role of SQL Server Analysis Services in measurement
+- skill: Be able to develop proper filters for easy end-user click to detail on dashboards
+- skill: Group Scorecards into Dashboards and link them together
+- skill: Modify the web page hosting the Dashboards for branding
+- skill: Implement Master Pages in Dashboards for consistency with company standards
+- skill: Develop multiple-valued KPIs. For example This year Actual and Target and last Year Actual and Target at the same relative point in time
+- skill: Implement Time Intelligence features to query such as Year-To-Date, Last 6 Months etc.
+- skill: Use Excel Services and Excel Workbooks in Scorecards or as a data source
+- skill: Utilize the document management capabilities of SharePoint 2010 for PerformancePoint objects for versioning, document retention and reverting
+- skill: Understand team development methodologies with developing PerformancePoint to reuse existing objects or to segment projects
+- skill: Use workflows to approve scorecards and dashboards
+- skill: Develop Filters for Scorecards
+- skill: Use Dashboard Designer
+- skill: Work with views of SSAS Cubes to model data for proof of concept for KPIs
+- skill: Connect into Data Sources via data Connections
+- skill: Gain a generalized understanding of MDX to write basic queries
+- skill: Generate Visual Reports and tie them into Dashboards
+- skill: Utilize decomposition trees
+- skill: Understand what the advantages of having SharePoint as the platform are
+- skill: Use dynamic hierarchies in Scorecards
+- skill: Secure all PerformancePoint objects
+- skill: Implement User Menus in Scorecards
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This instructor-led course provides students with the necessary knowledge to develop Scorecards and Dashboards using PerformancePoint 2010 in their own work environment. The course covers design theory, different types of dashboards, planning, deployment and security. Each of the first class objects such as Indicators, KPIs, Filters, Data Sources, and interconnecting them into scorecards and combining scorecards into dashboards is covered in depth. In addition peripheral knowledge that greatly enhances the design experience is provided including an overview of the Microsoft Business Intelligence stack, basic understanding of the hosting services for PerformancePoint 2010 which is SharePoint 2010, MDX queries and SQL Server Analysis Services.
+
+  #### Audience profile
+  This course is intended for Power Users, Developers and IT Professionals that will be involved with the design, development and maintenance of actionable performance measurements as displayed in a scorecard and dashboard.
+prerequisitesSection: |-
+  Before attending this course, students should have&#58;
+  - An understanding of the benefits of business intelligence.
+outlineSection: |-
+  ### Module 1&#58; The Business Intelligence Stack
+  #### Lessons
+  - SQL 2008R2 Business Intelligence Platform
+  - SQL Analysis Services
+  - SQL Reporting Services
+  - Performance Management Tools
+  - SharePoint 2010
+  - Multidimensional Space
+  - MDX
+  - Data Mining
+  - Understanding the Terminology
+
+
+  #### Lab &#58; The Business Intelligence Stack
+
+  ### Module 2&#58; PerformancePoint Services 2010
+  #### Lessons
+  - Integration with SharePoint Server 2010
+  - Common Service Application Framework
+  - New PerformancePoint Features
+  - Storage Security
+  - Time Intelligence and Dynamic Filters
+  - Linking of Web Parts
+  - KPI Details Report
+  - Retired Features
+
+
+  #### Lab &#58; PerformancePoint Services 2010
+
+  ### Module 3&#58; Dashboards and Scorecards Overview
+  #### Lessons
+  - What is a Dashboard?
+  - What is a Scorecard?
+  - Scorecards in PPS
+  - KPI Collections
+  - Dashboard Design Guidelines
+  - Dashboards designed to Monitor
+  - Dashboards designed to Analyze
+  - Dashboards designed as Management views such as Six Sigma
+
+
+  #### Lab &#58; Dashboards and Scorecards Overview
+
+  ### Module 4&#58; MDX (Optional Module)
+  #### Lessons
+  - What is MDX?
+  - MDX Query Editor
+  - Select Statement
+  - Key Concepts
+  - Sets
+  - Functions
+  - Time Intelligence
+
+
+  #### Lab &#58; MDX (Optional Module)
+
+  ### Module 5&#58; Dashboard Designer
+  #### Lessons
+  - Dashboard Designer Internals
+  - Dashboard Designer Interface
+  - First Class Objects
+  - Main Window
+  - Properties
+  - Dashboard Designer Features
+
+
+  #### Lab &#58; Dashboard Designer
+
+  ### Module 6&#58; Data Connections
+  #### Lessons
+  - Data Sources
+  - Multidimensional
+  - Tabular
+  - Specific Sources
+  - SSAS
+  - Excel
+  - SharePoint List
+  - Time Intelligence
+
+
+  #### Lab &#58; Data Connections
+
+  ### Module 7&#58; Visual Indicators and Key Performance Indicators
+  #### Lessons
+  - Visual Indicators
+  - Categorizing Indicators
+  - Performance Measures
+  - KPI Characteristics
+  - KPI Details
+  - KPI Templates
+  - Formatting Numbers
+  - Data Mappings
+  - Calculation Metrics
+  - Scoring Patterns
+  - Banding Methods
+  - KPI Details Report
+  - Best Practices
+
+
+  #### Lab &#58; Visual Indicators and Key Performance Indicators
+
+  ### Module 8&#58; Visual Reports and Filters
+  #### Lessons
+  - Types of Reports
+  - Analytic Chart
+  - Analytic Grid
+  - Excel Services
+  - ProClarity Analytics
+  - SQL Server Reporting Services
+  - Filters
+  - Filtering
+  - Provider and Consumer
+  - Member Selection
+  - Named Set
+  - STPS to MDX
+  - Post Formula
+
+
+  #### Lab &#58; Visual Reports and Filters
+
+  ### Module 9&#58; Scorecards
+  #### Lessons
+  - Three Categories
+  - SSAS Template
+  - Standard Template
+  - Tabular Scorecards
+  - Data Sources
+  - Implementing Interactivity
+  - Display values
+  - Using Filters
+  - Deploying
+
+
+  #### Lab &#58; Scorecards
+
+  ### Module 10&#58; Dashboard Details
+  #### Lessons
+  - Dashboard Hierarchy
+  - Dashboard Variance
+  - Dynamic Dashboards
+  - Dashboard Interactivity
+
+
+  #### Lab &#58; Dashboard Details

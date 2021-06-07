@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: Azure Cosmos DB로 NoSQL 워크로드 마이그레이션
+metadata:
+  title: 'Course DP-060T00KO-A: Azure Cosmos DB로 NoSQL 워크로드 마이그레이션'
+  description: 'Course DP-060T00KO-A: Azure Cosmos DB로 NoSQL 워크로드 마이그레이션'
+uid: course.dp-060t00ko
+courseNumber: 'DP-060T00KO-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Cosmos DB를 사용하여 전역 배포 애플리케이션 빌드
+- skill: Cosmos DB로 MongoDB 워크로드 마이그레이션
+- skill: Cosmos DB로 Cassandra 워크로드 마이그레이션
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  이 과정은 Cosmos DB 소개, MongoDB 및 Cassandra 워크로드를 Cosmos DB로 마이그레이션하는 방법을 알려줍니다.
+
+  #### Audience profile
+  이 과정의 1차 대상 그룹은 Cosmos DB를 사용하는 Azure로 MongoDB 또는 Cassandra DB 워크로드를 마이그레이션하려는 데이터베이스 개발자입니다.
+prerequisitesSection: |-
+  이 교육을 진행하는 학생들은 전문적 경험뿐 아니라 다음과 같은 기술적 지식을 보유하고 있어야 합니다.
+  - Cosmos DB APIs 관련 지식이 없어도 확장 가능한 NoSQL 애플리케이션을 구축 및 구성할 수 있도록 파티셔닝, 복제 및 리소스 거버넌스의 기본 개념.
+outlineSection: |-
+  ### 모듈 1&#58; Cosmos DB를 사용하여 전역 배포 애플리케이션 빌드
+  이 모듈에서는 Cosmos DB의 아키텍처와 이점에 대해 설명합니다.
+  #### 과목
+  - Cosmos DB 개요
+  - Cosmos DB APIs
+  - 처리량 프로비전
+  - 파티셔닝/분할 모범 사례
+
+  이 모듈을 완료하면 다음 사항을 파악할 수 있습니다.
+  - Cosmos DB 개요
+  - Cosmos DB APIs
+  - 처리량 프로비전
+  - 파티셔닝/분할 모범 사례
+
+
+  ### 모듈 2&#58; Cosmos DB로 MongoDB 워크로드 마이그레이션
+  Cosmos DB로 MongoDB 워크로드 마이그레이션
+  #### 과목
+  - 마이그레이션의 이점 파악
+  - 마이그레이션 계획
+  - 데이터 마이그레이션
+  - 애플리케이션 마이그레이션
+  - 마이그레이션 후 고려 사항 파악
+
+
+  ### 연습실 &#58; Cosmos DB로 MongoDB 워크로드 마이그레이션
+  - 마이그레이션 프로젝트 만들기
+  - 원본과 대상 정의
+  - 마이그레이션 수행
+  - 마이그레이션 확인
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 마이그레이션의 이점 파악
+  - 마이그레이션 계획 수행
+  - 데이터 마이그레이션 수행
+  - 애플리케이션 마이그레이션 수행
+  - 마이그레이션 후 고려 사항 파악
+
+
+  ### 모듈 3&#58; Cosmos DB로 Cassandra 워크로드 마이그레이션
+  이 모듈에서는 Cosmos DB로 Cassandra DB 워크로드를 마이그레이션하는 프로세스와 해당 이점에 대해 설명합니다.
+  #### 과목
+  - 마이그레이션의 이점 파악
+  - 마이그레이션 계획
+  - 데이터 마이그레이션
+  - 애플리케이션 마이그레이션
+  - 마이그레이션 후 고려 사항 파악
+
+
+  ### 연습실 &#58; Cosmos DB로 Cassandra 워크로드 마이그레이션
+  - 스키마 내보내기
+  - CQLSH COPY를 사용하여 데이터 이동
+  - Spark를 사용하여 데이터 이동
+  - 마이그레이션 확인
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 마이그레이션의 이점 파악
+  - 마이그레이션 계획 수행
+  - 데이터 마이그레이션 수행
+  - 애플리케이션 마이그레이션 수행
+  - 마이그레이션 후 고려 사항 파악

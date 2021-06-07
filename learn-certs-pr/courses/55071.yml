@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: Microsoft Software Asset Manager
+metadata:
+  title: 'Course 55071-A: Microsoft Software Asset Manager'
+  description: 'Course 55071-A: Microsoft Software Asset Manager'
+uid: course.55071
+courseNumber: '55071-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Ensure transparency of deployment of software in their IT
+- skill: Create or adjust IT-processes to help ensure transparency and compliance
+- skill: Manage their Microsoft Licenses in a more efficient way
+- skill: Handle relevant Microsoft tools for Software Asset Management (MAP Toolkit, SCCM, ..)
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This two-day instructor-led course is intended for IT professionals who are interested in expanding their knowledge about managing their Microsoft Licenses (Assets) in a more efficient way while ensuring their compliance. The course is designed to help students shape their IT processes to enable efficient and secure usage and deployment of Microsoft Software in compliance with Microsoft Licensing Terms and Conditions. Students gather a profound understanding of Microsoft Licensing Rights, learn how to train their employees and IT personnel to adhere to the relevant Terms and Conditions and  generate awareness of compliance issues throughout their IT infrastructure. Additionally, the course introduces core Microsoft technologies which can support your Software Asset Management (MAP Toolkit). This course helps System Administrators, System Architects and IT Managers decide on how to effectively license their complex IT infrastructures, how to properly deploy Microsoft software and to keep on top of their licensing situation at all times.
+
+  #### Audience profile
+  This course is intended for IT administrators, IT managers and IT responsibles with either basic or more proficient knowledge of Microsoft Software Licensing who are responsible directly or indirectly for deployment of Software on either clients or complex server infrastructures including virtualized environments.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with deployment of software or
+  - Basic understanding of different licensing terms and conditions
+outlineSection: |-
+  ### Module 1&#58; Effectively License your clients with Microsoft Software
+  This module introduces main Microsoft Licensing metrics, teaches students where to find the relevant terms and conditions and how to license their client environment with the help of example scenarios.
+  #### Lessons
+  - Microsoft License Metrics for client software
+  - Licensing clients
+
+
+  #### Lab &#58; License Metrics for Microsoft Client Software
+
+  #### Lab &#58; Keeping Microsoft Client Licensing in balance
+
+  After completing this module, students will be able to&#58;
+
+  - Correctly and efficiently license their client environment
+
+
+  ### Module 2&#58; Effectively License your servers with Microsoft Software
+  This module introduces main Microsoft Licensing metrics, teaches students where to find the relevant terms and conditions and how to license their server infrastructure with the help of example scenarios.
+  #### Lessons
+  - Microsoft License Metrics for Server Software
+  - Licensing servers
+
+
+  #### Lab &#58; Licensing Metrics for Microsoft Server Software
+
+  #### Lab &#58; Keeping Microsoft Client Licensing in balance
+
+  After completing this module, students will be able to&#58;
+
+  - Correctly and effectively license their server environment
+
+
+  ### Module 3&#58; Microsoft License Management&#58; Tools and Processes
+  This module explains how to manage Microsoft Software Assets with the help of the Microsoft tool MAP (Microsoft Assessment and Planning)Toolkit to create transparency within your IT infrastructure. It furthermore explains participants how to interpret information from the technical data about installations found on their clients and how to ensure a complete and comprehensive set of inventory data.
+  #### Lessons
+  - Software Asset Management&#58; which data is relevant and necessary?
+  - How to retrieve data about software installations with MAP Toolkit
+  - Interpretation of inventory data
+
+
+  #### Lab &#58; Necessary data  for Software Asset Management
+
+  #### Lab &#58; Data gathering and interpretation
+
+  After completing this module, students will be able to&#58;
+
+  - Know which data they need to gather in order to manage their Microsoft Software assets properly
+  - Use MAP Toolkit in order to gather all the data they need
+  - Interpret the data they gathered
+
+
+  ### Module 4&#58; Microsoft License Management&#58; Processes
+  This module explains how to manage Microsoft Software Assets properly. Students learn how to combine information from the technical installations with the license entitlements and their management in the VLSC (Volume Licensing Service Center) of Microsoft. Additionally, this module teaches pupils how to shape and streamline their IT processes to support their Software Asset Management goals.
+  #### Lessons
+  - Microsoft License Management in Volume Licensing Service Center&#58; content and structure
+  - Core Software Asset Management processes for Microsoft Software Assets
+  - Roles and Responsibilities in License Management
+
+
+  #### Lab &#58; Software Asset Management Data from VLSC
+
+  #### Lab &#58; Process structures
+
+  After completing this module, students will be able to&#58;
+
+  - Use the Microsoft Volume Licensing Service Center to find important data about their software licenses
+  - Design Roles and Responsibilities to allow for most effective licensing
+  - Shape related IT processes such that necessary information is available
+
+  #### Additional Reading

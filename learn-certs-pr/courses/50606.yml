@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Office 365 SharePoint Onlineのカスタマイズ
+metadata:
+  title: 'Course 50606-A: Office 365 SharePoint Onlineのカスタマイズ'
+  description: 'Course 50606-A: Office 365 SharePoint Onlineのカスタマイズ'
+uid: course.50606
+courseNumber: '50606-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: サイトコレクションを新たに作成できる。
+- skill: SharePoint Online の標準機能を使ってサイトをカスタマイズできる。
+- skill: SharePointDesigener2010を使ってサイトをカスタマイズできる。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  このコースでは、エンドユーザー向けにSharePoint Onlineのカスタマイズ方法について説明します
+
+  #### Audience profile
+  SharePoint Onlineの基本的な使い方を理解している一般的なユーザーまたはサイト管理者、サイトコレクション管理者など
+prerequisitesSection: |-
+  - SharePoint Onlineの基本的な使い方を理解されている方.
+outlineSection: |-
+  ### セクション 1&#58; Office 365 の概要
+  #### レッスン
+  - 本テキストについて
+  - 本テキストで学習すること
+
+
+  ### セクション 2&#58; カスタマイズの基礎知識
+  #### レッスン
+  - サイトコレクション
+  - サイトコレクションの役割
+  - サイトコレクションの作成
+  - サイトの構造
+  - サイトの作成
+  - リストの作成
+  - ページの種類とページの作成
+  - 発行機能の有効化
+  - 発行ページの作成と編集
+
+
+  ### セクション 3&#58; 標準機能のカスタマイズ
+  #### レッスン
+  - サイトの編集
+  - サイトの基本設定
+  - サイトの外観
+  - ナビゲーションの編集
+  - アンケートの作成
+  - Webパーツの利用
+  - コンテンツクエリWebパーツ
+  - Webグループウェア
+
+
+  ### セクション 4&#58; SharePoint Designer 2010の基本操作
+  #### レッスン
+  - SharePoint Designer 2010の概要
+  - SharePoint Designer 2010の起動
+  - サイト編集の流れ
+  - SharePoint Designer 2010の画面構成
+  - サイトのホームページ
+  - ２つの編集モード
+  - 3種のビュー
+  - サイトページの構成
+  - 利用制限の設定
+
+
+  ### セクション 5&#58; SharePoint Designerによるサイトのカスタマイズ
+  #### レッスン
+  - ホームページに予定表を追加
+  - 編集内容の解除
+  - ライブラリの作成
+  - 入力データの検証と制限
+  - 他のリストの参照
+  - フォームの作成と編集
+
+
+  ### セクション 6&#58; Webパーツの活用
+  #### レッスン
+  - Webページの作成
+  - Webパーツの配置
+  - 2つのWebパーツの接続
+
+
+  ### セクション 7&#58; 知っておくと便利なカスタマイズの知識
+  #### レッスン
+  - 標準のワークフロー
+  - SPD2010で作成できるワークフロー
+  - マスターページ
+  - テンプレート
+  - ワークフローカスタマイズ手順
+  - 外部データの利用
+
+
+  #### ラボ &#58; ビューの作成と表示

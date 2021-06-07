@@ -1,0 +1,373 @@
+### YamlMime:Course
+title: SQL Server 2014 Performance Tuning and Optimization
+metadata:
+  title: 'Course 55144-B: SQL Server 2014 Performance Tuning and Optimization'
+  description: 'Course 55144-B: SQL Server 2014 Performance Tuning and Optimization'
+uid: course.55144
+courseNumber: '55144-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand and utilize the new cardinality estimator.
+- skill: Understand and utilize memory-optimized tables.
+- skill: Understand performance.
+- skill: Understand and utilize startup stored procedures.
+- skill: Understand database structures.
+- skill: Understand and utilize Instant File Initialization.
+- skill: Understand how SQL stored data.
+- skill: Understand how SQL locates data.
+- skill: Understand temporary table internals.
+- skill: Understand and utilize the new cardinality estimator.
+- skill: Understand and utilize memory-optimized tables.
+- skill: Understand performance.
+- skill: Understand and utilize startup stored procedures.
+- skill: Understand database structures.
+- skill: Understand and utilize Instant File Initialization.
+- skill: Understand how SQL stored data.
+- skill: Understand how SQL locates data.
+- skill: Understand temporary table internals.
+- skill: Understand and utilize table valued parameters.
+- skill: Understand concurrency.
+- skill: Understand and utilize transactions.
+- skill: Understand isolation levels.
+- skill: Understand and utilize SQL Server locking architecture.
+- skill: Understand SQL and Storage Area Networks (SAN).
+- skill: Understand and utilize SQL on virtual machines.
+- skill: Understand SQLIO Utility and its uses.
+- skill: Understand and utilize partitioned tables and indexes.
+- skill: Understand and utilize the Resource Governor.
+- skill: Understand and utilize Activity Monitor.
+- skill: Understand Live Query Statistics.
+- skill: Understand how to monitor SQL using Transact-SQL.
+- skill: Understand and utilize performance DMVs.
+- skill: Understand indexes and their importance.
+- skill: Understand index types.
+- skill: Create and alter indexes.
+- skill: Understand and utilize index metadata.
+- skill: Understand and utilize Database Tuning Advisor.
+- skill: Understand and utilize Index Data Management Objects.
+- skill: Understand fragmentation of indexes and utilize page splits.
+- skill: Understand index storage strategies.
+- skill: Understand and utilize indexed views.
+- skill: Understand monitoring indexes.
+- skill: Understand index best practices.
+- skill: Understand and utilize statistics objects.
+- skill: Understand and utilize histogram.
+- skill: Understand and utilize new vs old cardinality estimator.
+- skill: Understand and utilize incremental statistics.
+- skill: Understand and utilize computed columns.
+- skill: Understand and utilize filtered statistics.
+- skill: Understand and utilize ascending keys.
+- skill: Understand and utilize statistics maintenance plan.
+- skill: Understand architecture.
+- skill: Understand and utilize tables and indexes.
+- skill: Understand and utilize the hash index.
+- skill: Understand and utilize natively compiled stored procedures.
+- skill: Understand restrictions.
+- skill: Understand and utilize the Analyze Migrate Report tool.
+- skill: Understand and utilize in-memory data management views.
+- skill: Understand and utilize the SQL Trace Default template.
+- skill: Understand and utilize the SQL Profiler Tuning template.
+- skill: Create and utilize a template for slow running queries.
+- skill: Understand and identify long running queries.
+- skill: Use Profiler to detect deadlocks.
+- skill: Use Profiler to detect a blocked process.
+- skill: Understand and utilize query hints.
+- skill: Create and test a plan guide.
+- skill: Allow SQL Profiler to help create a plan.
+- skill: Understand and utilize plan freezing.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This course is designed to give the right amount of Internals knowledge, and wealth of practical tuning and optimization techniques, that you can put into production. The course offers a comprehensive coverage of SQL Server architecture, indexing and statistics strategies, optimize transaction log operations, tempdb and data file configuration, transactions and isolation levels, and locking and blocking. The course also teaches how to create baselines and benchmark SQL Server performance, how to analyze workload and figure out where performance problems are, and how to fix them. Coverage of in-memory tables and stored procedures along with an
+  introduction to this exciting new technology is included.
+
+  #### Audience profile
+  The primary audience for this course is individuals who administer and maintain SQL Server databases, and are responsible for optimal performance of SQL Server instances that they manage. These individuals also write queries against data and need to ensure optimal execution performance of the workloads.
+  The secondary audiences for this course are individuals who
+  develop applications that deliver content from SQL Server databases.
+prerequisitesSection: |-
+  - Basic knowledge of the Microsoft Windows operating system and its core functionality.
+  - Working knowledge of database administration and maintenance.
+  - Working knowledge of Transact-SQL.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+  - None
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; SQL 2014 Architecture
+  In this module, we will examine the new Cardinality Estimator, explore memory-optimized tables, and explain how SQL both stores and locates data.
+  #### Lessons
+  - The New Cardinality Estimator
+  - Memory-Optimized Tables
+  - Understanding Performance for Developers
+  - Understanding Startup Parameters
+  - Startup Stored Procedures
+  - Database Structures
+  - Instant File Initialization
+  - How SQL Stores Data
+  - How SQL Locates Data
+
+
+  #### Lab &#58; SQL 2014 Architecture
+  - Configuring Compatibility Level
+  - Startup Parameter
+  - Startup Stored Procedure
+  - Instant File Initialization
+  - Understand and utilize the new Cardinality Estimator.
+  - Understand and utilize memory-optimized tables.
+  - Understand performance.
+  - Understand and utilize startup stored procedures.
+  - Understand database structures.
+  - Understand and utilize Instant File Initialization.
+  - Understand how SQL stored data.
+  - Understand how SQL locates data.
+
+
+  ### Module 3&#58; The Database Engine
+  The SQL Server Database Engine is split into two major components, which are the storage engine and the relational engine. The relational engine is also called the query processor which is a more descriptive term for what it actually does. In this module, we explore how the engines works, and cover concepts that will help you to understand their behavior.
+  #### Lessons
+  - Four Important Concepts
+  - Temporary Tables Internals
+  - Concurrency
+  -	Transactions
+  -	Isolation Levels
+  -	SQL Server Locking Architecture
+  -	SQL and Storage Area Networks (SAN)
+  -	SQL on VMs
+  -	SQLIO Utility
+  - Partitioned Tables and Indexes
+
+
+  #### Lab &#58; The Database Engine
+  - Table-Valued Parameter
+  - Transactions
+  - Vertically Partitioned Table Using Code
+  - Partitioning with Filegroups
+  - Partitioning Wizard
+  - Understand temporary table internals.
+  - Understand and utilize table valued parameters.
+  - Understand concurrency.
+  - Understand and utilize transactions.
+  - Understand isolation levels.
+  - Understand and utilize SQL Server locking architecture.
+  - Understand SQL and Storage Area Networks (SAN).
+  - Understand and utilize SQL on virtual machines.
+  - Understand SQLIO Utility and its uses.
+  - Understand and utilize partitioned tables and indexes.
+
+
+  ### Module 4&#58; SQL Performance Tools
+  SQL provides a number of robust monitoring tools and in this module we explore the tools available and explain what they are designed to do.
+  #### Lessons
+  - The Resource Governor
+  - Activity Monitor
+  - Live Query Statistics
+  - Monitoring SQL with Transact-SQL
+  - Dynamic Management Objects (DMOs) and Performance Tuning
+
+
+  #### Lab &#58; SQL Performance Tools
+  - Resource Governor
+  - Activity Monitor
+  - sp_who2
+  - Performance DMVs
+  - Understand and utilize the Resource Governor.
+  - Understand and utilize Activity Monitor.
+  - Understand Live Query Statistics.
+  - Understand how to monitor SQL using Transact-SQL.
+  - Understand and utilize performance DMVs.
+
+
+  ### Module 5&#58; Query Optimizing and Operators
+  SQL Server query optimization remains a very important part of today’s database applications. In this module we examine the tuning process, options for troubleshooting, execution plans, Performance Monitor, and much more.
+  #### Lessons
+  - Tuning Process
+  - Performance Monitor Tool
+  - SQL Query Processing Steps
+  - Understanding Execution Plans
+  - SET STATISTICS TIME and SET STATISTICS IO
+  - Data Access Operators
+  - Troubleshooting Queries
+
+
+  #### Lab &#58; Query Optimizing and Operators
+  - Performance Monitor (perfmon)
+  - Estimated vs Actual Plans and XML Plans
+  - Viewing a Non-Trivial Execution Plan
+  - SET STATISTICS TIME and SET STATISTICS IO
+  - Data Access Operators
+  - DMVs
+  - View Information About Extended Events
+  -	Wizard Templates
+  -	Creating a Session Without a Wizard
+  -	Configuring MDW and Viewing Reports
+  - Understand the tuning process.
+  - Understand and utilize Performance Monitor tool.
+  - Understand SQL query processing steps.
+  - Understand and utilize execution plans.
+  - Understand and utilize SET STATISTICS TIME and SET STATISTICS IO.
+  - Understand and utilize Data Access Operators.
+  - Understand and utilize DMVs.
+  - Understand and utilize Extended Events.
+  - Understand and utilize sessions.
+  - Understand how to troubleshooting queries.
+  - Understand how to configure a Management Data Warehouse and view reports.
+
+
+  ### Module 6&#58; Understanding Indexes
+  The entire concept of indexing is speedy retrieval. In this module we explain everything you need to know about creating, utilizing, managing, and monitoring indexes.
+  #### Lessons
+  - Introduction to Indexes
+  - Index Types by Storage
+  - Index Types by Column Designation
+  - Creating and Altering Indexes
+  - Metadata
+  - Data Management Views for Indexing
+  - Database Engine Tuning Advisor
+  - Index Data Management Objects
+  - SQL Server Fragmentation
+  - Patterns
+  - Index Storage Strategies
+  - Indexed Views
+  - Monitoring Indexes
+  - Index Dynamic Management Objects (DMOs)
+  - Best Practices
+
+
+  #### Lab &#58; Understanding Indexes
+  - Create Indexes
+  - Index Metadata
+  - Database Tuning Advisor
+  - Missing Index DMOs
+  - Fragmentation and Page Splits
+  - Data Compression
+  - Indexed Views
+  - Doubleclick to insert next Lab
+  - Understand indexes and their importance.
+  - Understand index types.
+  - Create and alter indexes.
+  - Understand and utilize index metadata.
+  - Understand and utilize Database Tuning Advisor.
+  - Understand and utilize Index Data Management Objects.
+  - Understand fragmentation of indexes and utilize page splits.
+  - Understand index storage strategies.
+  - Understand and utilize indexed views.
+  - Understand monitoring indexes.
+  - Understand index best practices.
+
+
+  ### Module 7&#58; Understanding Statistics
+  Statistics are considered one of the most important aspects of SQL Server Performance Tuning. In this module we examine statistics and how to utilize them.
+  #### Lessons
+  - Statistics
+  - Cardinality Estimator
+  - Incremental Statistics
+  - Computed Columns Statistics
+  - Filtered Statistics
+  - Maintenance
+
+
+  #### Lab &#58; Understanding Statistics
+  - Statistics Objects
+  - Histogram
+  - New vs Old Cardinality Estimator
+  - Incremental Statistics
+  - Computed Columns
+  - Filtered Statistics
+  - Ascending Keys
+  - Statistics Maintenance Plan
+  - Understand and utilize statistics objects.
+  - Understand and utilize the histogram.
+  - Understand and utilize new vs old cardinality estimator.
+  - Understand and utilize incremental statistics.
+  - Understand and utilize computed columns.
+  - Understand and utilize filtered statistics.
+  - Understand and utilize ascending keys.
+  - Understand and utilize statistics maintenance plan.
+
+
+  ### Module 8&#58; In-Memory Database
+  The most important new feature in SQL Server 2014 is the new In-Memory OLTP engine. In this module we will cover the architecture, restrictions, and other exciting features.
+  #### Lessons
+  - Architecture
+  - Tables and Indexes
+  - Natively Compiled Stored Procedures
+  - Restrictions
+  - Analyze Migrate Report Tool
+  - In-Memory Data Management Views (DMV)
+
+
+  #### Lab &#58; In-Memory Database
+  - Creating an In-Memory Enabled Database with Code and SSMS
+  - Creating a Memory-Optimized Table
+  - View Hash Index
+  - Natively Compiled Stored Procedure
+  - AMR Tool
+  -	In-Memory DMVs
+  - Understand architecture.
+  - Understand and utilize tables and indexes.
+  - Understand and utilize the hash index.
+  - Understand and utilize natively compiled stored procedures.
+  - Understand restrictions.
+  - Understand and utilize the Analyze Migrate Report tool.
+  - Understand and utilize in-memory data management views.
+
+
+  ### Module 9&#58; SQL Profiler and SQL Trace
+  The SQL Server 2014 Profiler is essentially the same as the SQL Server 2012 Profiler. This is not surprising because many new features that were added in SQL Server 2005 and SQL Server 2008 addressed gaps identified in previous versions. In this module, we cover both SQL Profiler and SQL Trace.
+  #### Lessons
+  - SQL Trace
+  - SQL Trace Architecture
+  - SQL Server Profiler
+
+
+  #### Lab &#58; SQL Profiler and SQL Trace
+  - SQL Trace Default Template
+  - SQL Profiler Tuning Template
+  -	Create a Template for Slow Running Queries
+  - Identifying Long Running Queries
+  -	Using Profiler to Detect Deadlocks
+  - Use Profiler to Detect a Blocked Process
+  - Understand and utilize the SQL Trace Default template.
+  - Understand and utilize the SQL Profiler Tuning template.
+  - Create and utilize a template for slow running queries.
+  - Understand and identify long running queries.
+
+
+  ### Module 10&#58; Query Issues and Hints
+  In this module, we will examine query issues, how to identify them, and how to resolve them. We’ll also cover query hints, plan guides, and explore plan freezing.
+  #### Lessons
+  - Query Hints
+  - Plan Guides
+  - Plan Freezing
+  - Join Orders
+
+
+  #### Lab &#58; Query Issues and Hints
+  - Create and Test a Plan Guide
+  - Allow SQL Profiler to Help Create a Plan
+  - Plan Freezing
+  - Understand and utilize query hints.
+  - Create and test a plan guide.
+  - Allow SQL Profiler to help create a plan.
+  - Understand and utilize plan freezing.

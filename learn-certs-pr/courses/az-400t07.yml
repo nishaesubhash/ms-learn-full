@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: Designing a DevOps Strategy
+metadata:
+  title: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+  description: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan for the transformation with shared goals and timelines.
+- skill: Select a project and identify project metrics and KPIs.
+- skill: Create a team and agile organizational structure.
+- skill: Develop a project quality strategy.
+- skill: Plan for secure development practices and compliance rules.
+- skill: Migrate and consolidate artifacts.
+- skill: Migrate and integrate source control measures.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides the knowledge and skills to design a DevOps strategy. Students will learn how to plan for transformation, select a project, and create team structures. Students will also learn how to develop quality and security strategies. Planning for migrating and consolidating artifacts and source control will also be covered.
+
+  #### Audience profile
+  Students in this course are interested in planning DevOps projects or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  - Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+  - Also, it is recommended that you have experience working in an IDE, as well as some knowledge of the Azure portal. However, students who may not have a technical background in these technologies, but who are curious about DevOps practices as a culture shift, should be able to follow the procedural and expository explanations of continuous integration regardless.
+outlineSection: |-
+  ### Module  1&#58; Planning for DevOps
+  In this module, students will learn about transformation planning, project selection, and team structures.
+  #### Lessons
+  - Transformation Planning
+  - Project Selection
+  - Team Structures
+
+
+  #### Lab &#58; Agile Planning and Portfolio Management with Azure Boards
+  After completing this module students will be able to&#58;
+  - Plan for the transformation with shared goals and timelines
+  - Select a project and identify project metrics and KPIs
+  - Create a team and agile organizational structure
+
+
+  ### Module  2&#58; Planning for Quality and Security
+  In this module, students will learn about developing a quality strategy and planning for secure development.
+  #### Lessons
+  - Planning a Quality Strategy
+  - Planning Secure Development
+
+
+  #### Lab &#58; Feature Flag Management with LaunchDarkly and AzureDevOps
+  After completing the module, students will be able to&#58;
+  - Develop a project quality strategy
+  - Plan for secure development practices and compliance rules.
+
+
+  ### Module  3&#58; Migrating and Consolidating Artifacts and Tools
+  In this module, students will learn about migrating and consolidating artifacts, and migrating and integrating source control measures.
+  #### Lessons
+  - Migrating and Consolidating Artifacts
+  - Migrating and Integrating Source Control
+
+
+  #### Lab &#58; Integrating Azure Repos and Azure Pipelines with Eclipse
+  After completing this module, students will be able to&#58;
+  - Migrate and consolidate artifacts
+  - Migrate and integrate source control measures

@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Microsoft Azure 기초 과정
+metadata:
+  title: 'Course AZ-900T01KO-A: Microsoft Azure 기초 과정'
+  description: 'Course AZ-900T01KO-A: Microsoft Azure 기초 과정'
+uid: course.az-900t01ko
+courseNumber: 'AZ-900T01KO-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 일반 클라우드 컴퓨팅 개념 이해
+- skill: Microsoft Azure에서 사용할 수 있는 핵심 서비스 이해
+- skill: Microsoft Azure의 보안, 개인 정보 보호, 규정 준수 및 신뢰 이해
+- skill: Microsoft에서 사용할 수 있는 가격 및 지원 모델 이해
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  이 교육 과정은 클라우드 서비스에 대한 기본 수준의 지식과 이러한 서비스가 Microsoft Azure에서 제공되는 방법을 제공합니다. 이 과정은 더 많은 Microsoft Azure 또는 Microsoft 클라우드 서비스 과정을 수강하기 전에 클라우드 서비스 및 Microsoft Azure에 대해 배우는 선택적 첫 번째 단계로 수행될 수 있습니다. 
+  
+  이 과정에서는 일반 클라우드 컴퓨팅 개념뿐만 아니라 공용 개인 및 혼성 클라우드 및 서비스로서의 인프라 (IaaS), PaaS (서비스형 플랫폼) 및 SaaS (서비스로서의 소프트웨어)와 같은 일반 클라우드 컴퓨팅 모델 및 서비스를 다룹니다. 
+  
+  또한 보안, 개인 정보 보호, 규정 준수 및 신뢰와 관련된 주요 Azure 주요 서비스 뿐만 아니라 몇 가지 핵심 Azure 서비스 및 솔루션도 다룹니다. 마지막으로 Azure에서 사용할 수 있는 가격 및 지원 서비스를 다룹니다.
+
+  #### Audience profile
+  이 과정을 수강하기 위한 전제 조건은 없습니다. Microsoft Azure에 대해 자세히 알아보려는 사용자를 대상으로 합니다.
+outlineSection: |-
+  ### 모듈 1&#58; 클라우드 개념
+  이 모듈에서는 기본적인 클라우드 개념을 익히게 됩니다.
+  #### 과목
+  - 학습 목표
+  - 클라우드 서비스가 왜 도입되나요?
+  - 서비스로서의 인프라 (IaaS), 서비스로서의 플랫폼 (PaaS) 및 서비스로서의 소프트웨어 (SaaS)
+  - 공용, 개인 및 하이브리드 클라우드 모델
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 일반 클라우드 컴퓨팅 개념 이해
+
+
+  ### 모듈 2&#58; 핵심 Azure 서비스
+  이 모듈에서는 Microsoft Azure에서 제공하는 기본 핵심 서비스에 대해 알아봅니다.
+  #### 과목
+  - 핵심 Azure 아키텍처 구성 요소
+  - 핵심 Azure 서비스 및 제품
+  - Azure 솔루션
+  - Azure 관리 도구
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Microsoft Azure에서 사용할 수 있는 핵심 서비스 이해
+
+
+  ### 모듈 3&#58; S보안, 개인 정보 보호, 규정 준수 및 신뢰
+  이 모듈에서는 Microsoft Azure의 보안, 개인 정보 보호, 규정 준수 및 신뢰에 대해 알아봅니다.
+  #### 과목
+  - Azure에서 네트워크 연결 보안
+  - 핵심 Azure 신원 확인 서비스
+  - 보안 도구 및 기능
+  - Azure 거버넌스 방법론
+  - Azure에서 모니터링 및 보고하기
+  - Azure의 개인 정보 보호, 규정 준수 및 데이터 보호 표준
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Microsoft Azure의 보안, 개인 정보 보호, 규정 준수 및 신뢰 이해
+
+
+  ### 모듈 4&#58; Azure 가격 책정 및 지원
+  이 모듈에서는 Microsoft에서 제공하는 가격 및 지원 모델을 중점적으로 알아봅니다.
+  #### 과목
+  - Azure 구독
+  - 비용 계획 및 관리
+  - Azure에서 사용할 수 있는 지원 옵션
+  - Azure의 서비스 수명 주기
+
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - Microsoft에서 사용할 수 있는 가격 및 지원 모델 이해

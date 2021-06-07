@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Quick Microsoft SQL Server 2012 Reporting Services
+metadata:
+  title: 'Course 55124-A: Quick Microsoft SQL Server 2012 Reporting Services'
+  description: 'Course 55124-A: Quick Microsoft SQL Server 2012 Reporting Services'
+uid: course.55124
+courseNumber: '55124-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand version changes of SSRS from 2008-2012.
+- skill: Understand Reporting Services installation and architecture.
+- skill: Understand and utilize Reporting Services tools.
+- skill: Understand and utilize Wizards.
+- skill: Create and configure data sources.
+- skill: Create and configure datasets.
+- skill: Understand security in connections.
+- skill: Create and configure Tables.
+- skill: Create and configure Matrices.
+- skill: Create and configure Lists.
+- skill: Understand and utilize Report Items.
+- skill: Understand and utilize Report Parts.
+- skill: Understand and utilize Charts.
+- skill: Understand and utilize Gauges.
+- skill: Understand Dashboards.
+- skill: Understand and utilize Maps.
+- skill: Understand and utilize Data Bars.
+- skill: Understand and utilize Sparklines.
+- skill: Understand Key Performance Indicators.
+- skill: Understand and utilize Expressions.
+- skill: Understand and utilize Functions.
+- skill: Understand and utilize Interactivity.
+- skill: Understand and utilize Parameters.
+- skill: Understand and utilize Conditional Formatting.
+- skill: Understand Templates.
+- skill: Understand and utilize Subreports.
+- skill: Deploy reports.
+- skill: Secure and manage content.
+- skill: Understand and utilize Caching.
+- skill: Understand and utilize Snapshots.
+- skill: Understand and utilize Report History.
+- skill: Understand how to complete other administrative tasks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This fast-paced two-day instructor-led course is intended for IT professionals who are interested in quickly learning how to use the Reporting Services development tools to create reports. This course also covers how to use the Reporting Services management and administrative tools to manage a Reporting Services solution.
+
+  #### Audience profile
+  This course is intended for SQL professionals, Microsoft Reporting Services administrators and report developers, and business intelligence professionals.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Introduction to Microsoft SQL Server Reporting Services
+  Reporting Services is a report design and enterprise-class information delivery tool. In this module, we will explore the version changes, installation, architecture and tools for Reporting Services.
+  #### Lessons
+  - Version Changes of SSRS from 2008-2012
+  - Reporting Services Installation and Architecture
+  - Reporting Services Tools
+
+
+  #### Lab &#58; Introduction to Microsoft SQL Server Reporting Services
+  - Understand version changes of SSRS from 2008-2012.
+  - Understand Reporting Services installation and architecture.
+  - Understand and utilize Reporting Services tools.
+
+
+  ### Module 3&#58; Building Basic Reports
+  In this module, we begin building reports using the basics. We will explore the wizards available and then cover tables, matrices, and lists while demonstrating how to use each of them. Finally, we will take a look at the report items available to help design the report.
+  #### Lessons
+  - Wizards
+  - Data Sources
+  - Datasets
+  - Understanding Security in Connections
+  - Tables
+  - Matrix
+  - List
+  - Report Items
+  - Report Parts
+
+
+  #### Lab &#58; Building Basic Reports
+
+  - Understand and utilize Wizards.
+  - Create and configure data sources.
+  - Create and configure datasets.
+  - Understand security in connections.
+  - Create and configure Tables.
+  - Create and configure Matrices.
+  - Create and configure Lists.
+  - Understand and utilize Report Items.
+  - Understand and utilize Report Parts.
+
+  ### Module 4&#58; Highlighting Basic Reports with Visualizations
+  Visualize and present your data using visualizations. In this module, we cover the visualizations available, while demonstrating each, so you can see for yourself just how captivating data can be.
+  #### Lessons
+  - Charts
+  - Gauges and Dashboards
+  - Maps
+  - Sparklines, Data Bars, and Indicators
+
+
+  #### Lab &#58; Highlighting Basic Reports with Visualizations
+  - Understand and utilize Charts.
+  - Understand and utilize Gauges.
+  - Understand Dashboards.
+  - Understand and utilize Maps.
+  - Understand and utilize Data Bars.
+  - Understand and utilize Sparklines.
+  - Understand Key Performance Indicators.
+
+
+  ### Module 5&#58; Developing Advanced Reports
+  Looking to take reporting to the next level? Then look no further. In this module, we cover what you’ll need to create advanced reports with features such as conditional formatting and interactivity just to name a few.
+  #### Lessons
+  - Expressions
+  - Functions
+  - Interactivity
+  - Parameters
+  - Conditional Formatting
+  - Templates
+  - Subreports
+
+
+  #### Lab &#58; Developing Advanced Reports
+  - Understand and utilize Expressions.
+  - Understand and utilize Functions.
+  - Understand and utilize Interactivity.
+  - Understand and utilize Parameters.
+  - Understand and utilize Conditional Formatting.
+  - Understand Templates.
+  - Understand and utilize Subreports.
+
+
+  ### Module 6&#58; Managing and Maintaining Reporting Services
+  To share your report, you need to publish or deploy it to a report server or SharePoint site. In this module, we explain deployment options and follow with an explanation on security and administrative tasks.
+  #### Lessons
+  - Deploying Reports
+  - Securing Content
+  - Caching
+  - Snapshots
+  - History
+  - Viewing Reports Online
+  - Utilizing Subscriptions
+  - Data Alerts
+
+
+  #### Lab &#58; Managing and Maintaining Reporting Services
+  - Deploy reports.
+  - Secure and manage content.
+  - Understand and utilize Caching.
+  - Understand and utilize Snapshots.
+  - Understand and utilize Report History.
+  - Understand how to complete other administrative tasks.
+
+  #### Additional Reading
+  None

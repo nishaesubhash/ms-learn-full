@@ -1,0 +1,245 @@
+### YamlMime:Course
+title: The ITIL Foundation Certificate in IT Service Management
+metadata:
+  title: 'Course 55011-A: The ITIL Foundation Certificate in IT Service Management'
+  description: 'Course 55011-A: The ITIL Foundation Certificate in IT Service Management'
+uid: course.55011
+courseNumber: '55011-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Service management as a practice (comprehension)
+- skill: The ITIL service lifecycle (comprehension)
+- skill: Generic concepts and definitions (awareness)
+- skill: Key principles and models (comprehension)
+- skill: Selected processes (awareness)
+- skill: Selected functions (awareness)
+- skill: Selected roles (awareness)
+- skill: Technology and architecture (awareness)
+- skill: Competence and training (awareness)
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This 3-day (19 contact hour) instructor-led course provides students with the knowledge of ITIL terminology, structure and basic concepts and comprehension of core principles of ITIL practices for service management required to sit for the for ITIL Foundation certificate in IT Service Management certification examination. Candidates for the ITIL Foundation certificate in IT service management have to complete all units and successfully pass the corresponding examination to achieve certification. The ITIL Foundation certificate in IT Service Management is not intended to enable the holders of the certificate to apply the ITIL practices for service management without further guidance.
+  
+  Upon completion of the course, candidates may sit the optional ITIL Foundation examination leading to the ITIL Foundation Certificate in IT Service Management. Sixty (60) minutes (75 minutes and the use of a dictionary for those taking the examination in a language other than their first language) is allowed for the closed-book, supervised examination which may be online or paper-based. The examination is a multiple choice format that consists of forty (40) questions.
+
+  #### Audience profile
+  The target group of the ITIL Foundation certificate in IT Service Management is drawn from&#58;
+  - Individuals who require a basic understanding of the ITIL framework and how it may be used to enhance the quality of IT service management within an organization.
+  - IT professionals that are working within an organization that has adopted and adapted ITIL who need to be informed about and thereafter contribute to an ongoing service improvement program.
+
+  This may include but is not limited to, IT professionals, business managers and business process owners.
+prerequisitesSection: |-
+  None.
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  Module 1 includes Service Management as a Practice, Key Roles, Competence and Training describes the concepts of Good Practice, Services, and Service Management.  It also defines Processes, Functions, and the concepts of a Process Model. It includes coverage of key roles in service management and competence and training (150m; 90 for service management as a practice; 45 for key roles in service management; 15m for competence and training).
+
+  After completing this module, students will be able to&#58;
+  - Describe the concept of best practices in the public domain (SS 2.1.7)
+  - Describe and explain why ITIL is successful (SS 1.4)
+  - Define and explain the concepts of&#58;
+  - Service (SS 2.2.1)
+  - Internal and external customers (SS 3.2.1.2)
+  - Internal and external services (SS 3.2.2.3)
+  - Service management (SS 2.1.2)
+  - IT service management (SS 2.1.3)
+  - Stakeholders in service management (SS 2.1.5)
+  - Define Functions and Processes (SS 2.2.2, 2.2.3.1)
+  - Explain the process model, characteristics of processes (SD 2.2.2, Fig. 2.5)
+  - Account for the role and the responsibilities of the&#58;
+  - Process owner (SD 6.3.2)
+  - Process manager (SD 6.3.3)
+  - Process practitioner (SD 6.3.4)
+  - Service owner (SD 6.3.1)
+  - Recognize the responsible, accountable, consulted, informed (RACI) responsibility model and explain its role in determining organizational structure (SD 3.7.4.1, tab 3.2, not RACI-VS or RASCI)
+  - Give an overview of&#58;
+  - Competence and skills for service management (SD 6.5.1)
+  - Competence and skills framework (SD 6.5.2)
+  - Training (SD 6.5.3)
+
+
+
+  ### Module 2&#58; The ITIL Service Lifecycle
+  Module 2 covers the structure, scope, components, and interfaces of the Service Lifecycle and outlines the goals, objectives, and value of the five lifecycle phases (60m).
+
+  After completing this module, students will be able to&#58;
+  - Describe the structure of the ITIL service lifecycle (SS 1.2, Fig. 1.1)
+  - Account for the purpose, objectives, and scope of&#58;
+  - Service Strategy (SS 1.1.1, 1.1.2)
+  - Service Design (SD 1.1.1, 1.1.2)
+  - Service Transition (ST 1.1.1, 1.1.2)
+  - Service Operation (SO 1.1.1, 1.1.2)
+  - Continual Service Improvement (CSI 1.1.1, 1.1.2)
+  - Briefly explain the value the lifecycle phases provide to the business&#58;
+  - Service Strategy (SS 1.1.4)
+  - Service Design (SD 1.1.4)
+  - Service Transition (ST 1.1.4)
+  - Service Operation (SO 1.1.4)
+  - Continual Service Improvement (CSI 1.1.4)
+
+
+
+  ### Module 3&#58; Service Strategy
+  Module 3 covers Service Strategy (110m; 85m for process, generic concepts and definitions; 25m for key principles and models).
+
+  After completing this module, students will be able to&#58;
+  - State the purpose, objectives and scope for&#58;
+  - Service Portfolio Management (SS 4.2.1, 4.2.2)
+  - The Service Portfolio (SS 4.2.4.1, Fig. 4.14)
+  - Financial Management for IT services (SS 4.3.1, 4.3.2)
+  - Business case (SS 3.6.1.1)
+  - Business Relationship Management (SS 4.5.1, 4.5.2, Tab 4.10)
+  - Define and explain Service Strategy generic concepts and definitions&#58;
+  - 03-1. Utility and warranty (SS 2.1.6 )
+  - 03-39. Outcomes (SS 2.1.1)
+  - 03-8. Service provider (SS 2.1.4)
+  - 03-41. Customers and users (SS 2.1.5)
+  - 03-10. Supplier (SS 2.1.5)
+  - 03-2. Assets, resources, capabilities (SS 2.2.1)
+  - 03-5. Governance (SS 2.3.1)
+  - 03-36. Define and explain Types of services (SS 3.2.2.4, Tab 3.5)
+  - 03-6. Business case (SS 3.6.1.1)
+  - 03-3. Service portfolio (SS 4.2.4.1, Fig. 4.14)
+  - 03-40. Patterns of business activity (SS 4.4.5.2)
+  - 03-7. Risk management (SS 5.6.5.1, 5.6.5.2)
+  - Define and explain Service Strategy key principles and models
+  - Describe value creation through services (SS 3.2.3, 3.2.3.1, Fig 3.6, Fig. 3.7, not section on “Marketing mindset”)
+  - Explain how service automation assists with expediting service management processes (SS 7.1)
+
+
+  ### Module 4&#58; Service Design
+  Module 4 covers Service Design (270m; 240 for process, generic concepts and definitions, technology and architecture; 30 for key principles, models).
+
+  After completing this module, students will be able to&#58;
+  - Explain the purpose, objectives, scope, basic concepts, process activities and interfaces for Service level Management (SLM) (SD 4.3.1. 4.3.2, 4.3.6.4)
+  - Service-based SLA (SD 4.3.5.1)
+  - Multi-level SLAs (SD 4.3.5.1, Fig. 4.7)
+  - Service level requirements (SLRs) (SD 4.3.5.2)
+  - SLA monitoring (SLAM) chart (SD 4.3.5.5, CSI Fig. 4.4)
+  - Service review (SD 4.3.5.6)
+  - Service improvement plan (SIP) (SD 4.3.6.3)
+  - The relationship between SLM and BRM (SD 4.3.2.1)
+  - State the purpose, objectives, and scope for&#58;
+  - Service Catalog Management (SD 4.2.1, 4.2.2)
+  - Availability Management (SD 4.4.1, 4.4.2)
+  - Service availability (SD 4.4.4.2)
+  - Component availability (SD 4.4.4.2)
+  - Reliability (SD 4.4.4.3)
+  - Maintainability (SD 4.4.4.3)
+  - Serviceability (SD 4.4.4.3)
+  - Vital business functions (VBF) (SD 4.4.4.3)
+  - Information Security Management (ISM) (SD 4.7.1, 4.7.2)
+  - Information security policy (SD 4.7.4.1)
+  - Supplier Management (SD 4.8.1, 4.8.2)
+  - Supplier categories (SD 4.8.5.3, Fig. 4.28)
+  - Capacity Management (SD 4.5.1, 4.5.2)
+  - Capacity plan (SD 4.5.6.3)
+  - Business capacity management (SD 4.5.4.3)
+  - Service capacity management (SD 4.5.4.3)
+  - Component capacity management (SD 4.5.4.3)
+  - IT Service Continuity Management (SD 4.6.1, 4.6.2)
+  - Purpose of business impact analysis (BIA) (SD 4.6.5.2)
+  - Risk assessment (SD 4.6.5.2)
+  - Design coordination (SD 4.1.1, 4.1.2)
+  - Define and explain Service Design generic concepts and definitions&#58;
+  - 03-4. Service catalog (both 2 / 3-view types) (SD 4.2.4.5, Fig.  4.4, Fig. 4.5)
+  - 03-11. Service level agreement (SD 4.3.4)
+  - 03-12. Operational level agreement (SD 4.3.4)
+  - 03-13. Underpinning contract (SD 4.8.4.2)
+  - 03-14. Service design package (SD Appendix A)
+  - 03-15. Availability (SD 4.4.4.3)
+  - Define and explain Service Design key principles and models
+  - Explain the importance of people, processes, products and partners for service management (SD 3.1.5, Fig 3.3)
+  - Discuss the five major aspects of Service Design (SD 3.1.1)
+
+
+
+  ### Module 5&#58; Service Transition
+  Module 5 covers Service Transition (150m for process and generic concepts and definitions).
+
+  After completing this module, students will be able to&#58;
+  - Explain the high level objectives, basic concepts, process activities and relationships for&#58;
+  - Change Management (ST 4.2.1, 4.2.2, 4.2.4.6, 4.2.6.4 , 4.2.6.5)
+  - Types of change request (ST 4.2.4.3, Table 4.3)
+  - Change process models and workflows (ST 4.2.4.4)
+  - Standard change (ST 4.2.4.5)
+  - Remediation Planning (ST 4.2.5)
+  - Change Advisory Board / Emergency Change Advisory Board (ST 4.2.6.8)
+  - Service Asset and Configuration Management (SACM) (ST 4.3.1, 4.3.4, 4.3.5)&#58;
+  - The Configuration Model; Configuration items; Configuration Management System (CMS); Definitive Media Library; Configuration baseline
+  - State the objectives and basic concepts for&#58;
+  - Release and Deployment Management (ST 4.4.1, 4.4.4)
+  - Knowledge Management (ST 4.7 Intro, 4.7.1, 4.7.4) including DIKW & SKMS
+  - Define and explain Service Transition generic concepts and definitions&#58;
+  - Service knowledge management system (SKMS) (ST 4.7.4.3)
+  - Configuration item (CI) (ST 4.3.4.2)
+  - Configuration management system (ST 4.3.4.3)
+  - Definitive media library (DML) (ST 4.3.4.4)
+  - Change (ST 4.2.4.4)
+  - Change types (standard, emergency and normal) (ST 4.2.4.3, 4.2.4.7, 4.2.5.11)
+  - Release policy (ST 4.1.4.2)
+  - Change proposals (ST 4.2.4.6)
+
+
+
+  ### Module 6&#58; Service Operation
+  Module 6 covers Service Operation (200m; 140m for process and generic concepts and definitions, 60m for service management functions).
+
+  After completing this module, students will be able to&#58;
+  - Explain the  purpose,  objectives,  scope,  basic  concepts,  process activities and interfaces for&#58;
+  - Incident Management (SO 4.2, Fig. 4.2)
+  - Problem Management (SO 4.4, Fig. 4.4), not PM techniques
+  - State the purpose, objectives and scope for&#58;
+  - Event Management (SO 4.1 Intro, 4.1.1, 4.1.4); Request Fulfillment (SO 4.3 Intro, 4.3.1, 4.3.4); Access Management (SO 4.5 Intro, 4.5.1, 4.5.4)
+  - Explain the role, objectives and organizational structures for the Service Desk function (SO 6.3, 6.3.1, 6.3.2, 6.3.3, Fig. 6.2, 6.3, 6.4)
+  - State the role and objectives of&#58;
+  - The Technical Management function (SO 6.4.1, 6.4.2)
+  - The Application Management function (SO 6.6.1, 6.6.2) with Application Development (SO 6.6.6.1, Tab 6.2)
+  - The IT Operations Management function (IT Operations Control and Facilities Management) (SO 6.5.1, 6.5.2)
+  - Define and explain Service Operation generic concepts and definitions&#58;
+  - Event (SO 4.1 1st paragraph)
+  - Alert (Glossary)
+  - Incident (SO 4.2 1st paragraph)
+  - Impact, urgency and priority (SO 4.2.5.4)
+  - Service request (SO 4.3 1st paragraph)
+  - Problem (SO 4.4 1st paragraph)
+  - Workaround (SO 4.4.5.6)
+  - Known error (SO 4.4.5.7)
+  - Known error database (SO 4.4.7.2)
+  - The role of communication in service operation (SO 3.6)
+
+
+
+  ### Module 7&#58; Continual Service Improvement
+  Module 7 covers Continual Service Improvement (80m; 35m for process and generic concepts and definitions, 45m for key principles and models).
+
+  After completing this module, students will be able to&#58;
+  - State the purpose, objectives and scope for the seven-step improvement process (CSI 3.9.3.1, 4.1, 4.1.1, 4.1.2, Fig. 3.4)
+  - Define and explain CSI generic concepts and definitions&#58;
+  - 03-38. CSI register (CSI 3.4)
+  - 03-42. The Deming Cycle (plan, do, check, act) (CSI 3.8, Fig. 2.8)
+  - Define and explain CSI key principles and models&#58;
+  - Explain the CSI approach (CSI  3.1,  CSI  3.1.1, Fig 3.1)
+  - Describe the role of measurement for continual service improvement and explain the following key elements&#58;
+  - Relationship between critical success factors (CSF) and key performance indicators (KPI) (CSI 5.5.1)
+  - Baselines (CSI 3.9.1)
+  - Types of metrics (technology, process, service metrics) (CSI 5.5)
+
+
+
+
+  ### Module 8&#58; Summary and Exam Preparation
+  Module 8 summarizes the course and prepares you to take the ITIL Foundation certification examination (120m, including 60m mock exam).
+
+  ### Module 9&#58; Optional Review
+  This optional module is used during exam revision to review generic concepts and definitions and key principles and models covered in unit 3 and 4 (ITILFND03 and ITILFND04, respectively) of the syllabus; coverage of the concepts in these syllabus units is embedded in modules 1-7 of the course; they are reiterated here during the optional review to reinforce learning.
+  #### Lessons
+  - Generic Concepts and Definitions in Service Management
+  - Key Principles and Models of Service Management

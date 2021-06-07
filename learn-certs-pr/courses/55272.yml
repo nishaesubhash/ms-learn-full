@@ -1,0 +1,187 @@
+### YamlMime:Course
+title: Introduction to Microsoft Word 2019
+metadata:
+  title: 'Course 55272-A: Introduction to Microsoft Word 2019'
+  description: 'Course 55272-A: Introduction to Microsoft Word 2019'
+uid: course.55272
+courseNumber: '55272-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to create and edit Microsoft Word documents.
+- skill: Learn about the Ribbon.
+- skill: Learn about the File tab.
+- skill: Learn to create new documents and use Word templates.
+- skill: Learn to format Word documents.
+- skill: Learn to add page numbers, headers and footers, and spell and grammar.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Introduction to Microsoft Word 2019 training class is designed for students new to working with Microsoft Word in Windows. Students will learn to create, edit, format, and print Microsoft Word documents.
+
+  #### Audience profile
+  This course is intended for students who have little or no familiarity with Microsoft Word 2019 or more experienced Word users who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment.
+  - Ability to launch and close programs, navigate to information stored on the computer, and manage files and folders.
+outlineSection: |-
+  ### Module 1&#58; Creating a Microsoft Word Document
+  This module explains how to get started using Microsoft Word.
+  #### Lessons
+  - Starting Microsoft Word
+  - Creating a Document
+  - Saving a Document
+  - Importing a File
+  - The Status Bar
+  - Closing a Document
+
+
+  #### Lab &#58; Create a Microsoft Word Document
+  After completing this module, students will be able to&#58;
+  - Start Microsoft Word.
+  - Create a Microsoft Word document.
+  - Save a Microsoft Word document.
+  - Use the Status Bar.
+  - Close a Microsoft Word document.
+
+
+  ### Module 2&#58; The Ribbon
+  This module explains how to work with the Ribbon in Microsoft Word.
+  #### Lessons
+  - The Ribbon
+  - Tabs
+  - Groups
+  - Commands
+
+
+  #### Lab &#58; Exploring the Ribbon
+  After completing this module, students will be able to&#58;
+  - Use tabs.
+  - Use groups.
+  - Use commands.
+  
+  Understand groups and commands are found on which tabs.
+
+  ### Module 3&#58; The Backstage View
+  This module explains how to work with the Backstage View.
+  #### Lessons
+  - Introduction to the Backstage View
+  - Opening a Document
+  - New Documents and Word Templates
+  - Configuring Documents to Print
+  - Adding Your Name to Microsoft Word
+  - Adding Values to Document Properties
+  - Working with Autosaved Versions of Documents
+
+
+  #### Lab &#58; Backstage View Exercises
+  - Open a Document
+  - Write a Thank You Letter Using a Template Letter
+  - Print a Document
+
+  After completing this module, students will be able to&#58;
+  - Learn about the Backstage view.
+  - Open a Microsoft Word document.
+  - Start a new Microsoft Word document.
+  - Use Microsoft Word templates.
+  - Print a Microsoft Word document.
+  - Personalize your copy of Microsoft Word.
+
+
+  ### Module 4&#58; The Quick Access Toolbar
+  This module explains how to work with the Quick Access Toolbar in Microsoft Word.
+  #### Lessons
+  - Adding Common Commands
+  - Adding Additional commands with the Customize Dialog Box
+  - Adding Ribbon Commands or Groups
+  - Placement
+
+
+  #### Lab &#58; Customize the Quick Access Toolbar
+  After completing this module, students will be able to&#58;
+  - Add common commands to the Quick Access Toolbar.
+  - Add additional commands to the Quick Access Toolbar.
+
+  Move the Quick Access Toolbar.
+
+  ### Module 5&#58; Formatting Microsoft Word Documents
+  This module explains how to format Microsoft Word Documents.
+  #### Lessons
+  - Selecting Text
+  - Selecting Fonts
+  - Working with Fonts
+  - Working with Lists
+  - Inserting a Hyperlink in a Document
+  - Using Styles
+  - Using Themes
+  - Using the Ruler
+  - Setting Margins
+
+
+  #### Lab &#58; Formatting Exercises
+  - Working with Fonts
+  - Working with Lists
+  - Inserting a Hyperlink
+  - Applying and Creating Custom Styles
+  - Using Tabs
+  - Setting Margins
+
+  After completing this module, students will be able to&#58;
+  - Add, remove, and change fonts in Microsoft Word documents.
+  - Work with lists.
+  - Add hyperlinks in a document.
+  - Apply styles in Microsoft Word documents.
+  - Use themes.
+  - Use the Ruler within Microsoft Word.
+  - Set margins within Microsoft Word.
+
+
+  ### Module 6&#58; Editing Documents
+  This module explains how to edit documents in Microsoft Word.
+  #### Lessons
+  - Find
+  - Find and Replace
+  - Find and Replace Tips
+  - Appending Text to a Document
+  - Using the Clipboard
+
+
+  #### Lab &#58; Editing Documents Exercises
+  - Using Find and Replace
+  - Using the Clipboard
+
+  After completing this module, students will be able to&#58;
+  - Locate information in your document using Find.
+  - Use Find and Replace to quickly replace words or phrases with other words or phrases.
+  - Use the Cut, Copy, Paste and Format Painter commands to edit documents.
+
+
+  ### Module 7&#58; Finalizing Microsoft Word Documents
+  This module explains how to finalize Microsoft Word Documents.
+  #### Lessons
+  - Adding Page Numbers
+  - Headers and Footers
+  - Checking Spelling and Grammar
+
+
+  #### Lab &#58; Finalizing Microsoft Word Documents Exercises
+  - Adding Page numbers
+  - Using Headers and Footers
+  - Checking Spelling and Grammar
+
+  After completing this module, students will be able to&#58;
+  - Add page numbers to a Microsoft Word document.
+  - Add and customize Headers and Footers.
+  - Find and correct spelling mistakes.
+  - Find and correct grammar mistakes.
+
+  #### Additional Reading
+  N/A

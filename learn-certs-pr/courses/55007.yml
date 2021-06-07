@@ -1,0 +1,172 @@
+### YamlMime:Course
+title: System Center 2012 Orchestrator
+metadata:
+  title: 'Course 55007-A: System Center 2012 Orchestrator'
+  description: 'Course 55007-A: System Center 2012 Orchestrator'
+uid: course.55007
+courseNumber: '55007-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain the role of Orchestrator 2012 and the entire System Center suite
+- skill: Provide an overview of ITIL and MOF
+- skill: Install and configure Orchestrator 2012
+- skill: Customize, optimize and scale Orchestrator 2012
+- skill: Implement runbook automation for native Windows processes
+- skill: Develop advanced runbooks using real-world scenarios
+- skill: Implement integration packs for other System Center and Microsoft products
+- skill: Implement configuration of error-handling and log monitoring
+- skill: Implement disaster recovery methods
+- skill: Implement maintenance and troubleshooting steps in Orchestrator 2012
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This three-day course provides students with the knowledge necessary to design, deploy, and maintain Microsoft's System Center 2012 Orchestrator. In this course, students are introduced to the various System Center products, and then learn how Orchestrator 2012 is architected and deployed within the Systems Center suite. In addition, this course includes automation of processes designed to address various scenarios, which may be encountered in the business computing environment. Upon course completion, students will have the skills necessary to manage Orchestrator 2012 for maximum business benefit. This course incorporates hands-on learning opportunities, so students can practice applying business solutions to real-world scenarios.
+
+  #### Audience profile
+  This course is designed for IT professionals who already have prerequisite technical knowledge of the systems they want to manage with Orchestrator 2012. This course is also for IT professionals who need to understand the critical components of the systems that might require automation.
+prerequisitesSection: |-
+  Before attending this course, students must have technical knowledge in the following areas&#58;
+  - Windows Server 2008 R2 operating system
+  - Active Directory Domain Services (AD DS)
+  - Experience with PowerShell,SQL Server,Excel PivotTables and Opalis Integration Server helpful
+  - Knowledge of the product(s) and function(s) that they plan to automate with Orchestrator 2012
+  - Familiarity with administration of other System Center 2012 products helpful
+outlineSection: |-
+  ### Module 1&#58; Introduction to the System Center 2012 Orchestrator
+  #### Lessons
+  - History and Evolution of System Center
+  - System Center 2012 Product Suite
+  - System Center 2012 Licensing
+  - Introducing ITIL and MOF
+  - System Center 2012 Orchestrator
+
+
+  #### Lab &#58; Introducing System Center 2012
+
+  #### Lab &#58; Introducing Service Management
+
+  After completing this module, students will be able to&#58;
+  - Explain the history and evolution of System Center
+  - Differentiate between each of the Systems Center 2012 products
+  - Describe System Center 2012 Licensing
+  - Provide an overview of ITIL and MOF
+  - Identify the purpose and function of Orchestrator 2012
+
+
+  ### Module 2&#58; Design and Deployment Considerations for Orchestrator 2012
+  #### Lessons
+  - Preparing to Deploy Orchestrator 2012
+  - Installing Orchestrator 2012
+  - Exploring Orchestrator 2012 Interfaces
+  - Examining Runbook Servers and Global Settings
+
+
+  #### Lab &#58; Touring the Orchestrator 2012 Console and Initial Lab Environment Setup
+
+  After completing this module, students will be able to&#58;
+  - Plan an Orchestrator 2012 deployment
+  - Identify system requirements of Orchestrator 2012
+  - Explain and customize Orchestrator 2012 installation options
+  - Prepare Windows firewall
+  - Navigate Orchestrator 2012 user interfaces
+  - Determine performance capacity of Orchestrator 2012 roles
+  - Configure user security
+  - Define and configure server properties and global settings
+
+
+  ### Module 3&#58; Runbook Configuration Basics
+  #### Lessons
+  - Creating Runbooks
+  - Creating Standard Activities
+  - Working with Monitors, Links and Junctions
+  - Analyzing Data Using the Orchestrator Data Bus
+  - Stepping Through Runbooks with the Tester
+  - Exporting and Importing Runbooks
+
+
+  #### Lab &#58; Creating Basic Runbooks
+
+  After completing this module, students will be able to&#58;
+  - Create, export and import runbooks using Runbook Designer
+  - Automate basic processes using standard activities
+  - Describe what the data bus is and show how to link activities through subscriptions
+  - Test and deploy runbooks
+
+
+  ### Module 4&#58; Advanced Runbooks and Complex Activities
+  #### Lessons
+  - Designing Advanced Runbooks
+  - Reviewing Integration Packs
+  - Automating Activities with Active Directory Integration Pack
+  - Implementing Integration Packs
+  - Executing Programs and Scripts using Runbooks
+
+
+  #### Lab &#58; Creating Advanced Runbooks and Complex Activitie
+
+  After completing this module, students will be able to&#58;
+  - Explain and configure counters, schedules and variables
+  - Create complex runbooks using multiple activities and data bus subscriptions
+  - Download and configure integration packs
+  - Integrate Orchestrator 2012 with Active Directory
+  - Deploy and configure Active Directory Integration Pack
+  - Implement activities from the Active Directory Integration Pack
+  - Employ command and scripting activities
+
+
+  ### Module 5&#58; PowerPivot Reporting
+  #### Lessons
+  - Introducing PowerPivot for Excel
+  - Enabling PowerPivot for Reporting
+
+
+  #### Lab &#58; Reporting with Excel PowerPivot
+
+  After completing this module, students will be able to&#58;
+  - Explain what a PivotTables is and its benefits
+  - Enable PowerPivot for Excel 2013
+  - Create relationships and PivotTables
+  - Use PowerPivot for Orchestrator 2012 reporting
+
+
+  ### Module 6&#58; Administration, Management and Extensibility
+  #### Lessons
+  - Determining Fault Tolerance
+  - Optimizing Performance and Capacity
+  - Installing with Command Line and Console Push
+  - Preparing for Disaster Recovery
+  - Upgrading from Opalis and Migrating Runbooks
+  - Utilizing the Orchestrator Integration Toolkit
+
+
+  #### Lab &#58; Completing a Push Install of Runbook Designer and Runbook Server
+
+  #### Lab &#58; Preparing for Backup and Restore
+
+  After completing this module, students will be able to&#58;
+  - Determine high availability and fault tolerance for Orchestrator 2012 roles
+  - Deploy additional servers for increased capacity
+  - Describe automated server deployment
+  - Plan for disaster recovery
+  - Upgrade from Opalis Integration Server
+  - Use the Orchestrator Integration Kit to customize integration packs
+
+
+  ### Module 7&#58; System Center 2012 Integration (optional)
+
+  #### Lab &#58; Setting up the Initial Lab Environment
+
+  #### Lab &#58; Creating an Orchestrator 2012 Runbook
+
+  #### Lab &#58; Working with Orchestrator System Center Runbooks
+
+  After completing this module, students will be able to&#58;
+  - Describe System Center 2012 Integration

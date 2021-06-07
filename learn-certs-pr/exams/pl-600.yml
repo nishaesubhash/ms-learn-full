@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -11,11 +11,10 @@ summary: |-
   A solution architect has functional and technical knowledge of the Power Platform, Dynamics 365 customer engagement apps, related Microsoft cloud solutions, and other third-party technologies. A solution architect applies knowledge and experience throughout an engagement. The solution architect performs proactive and preventative work to increase the value of the customer’s investment and promote organizational health. This role requires the ability to identify opportunities to solve business problems.
   
   Solution architects have experience across functional and technical disciplines of the Power Platform. Solution architects should be able to facilitate design decisions across development, configuration, integration, infrastructure, security, availability, storage, and change management. This role balances a project's business needs while meeting functional and non-functional requirements.
-  
-  <div><br/><font color='red'><strong>Note: This exam will be available in March 2021.</strong></font></div>
-subTitle: 'This exam will be available in March 2021. This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.'
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: perform solution envisioning and requirement analyses; architect a solution; and implement the solution.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:
@@ -44,13 +43,21 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
+courses:
+- uid: course.pl-600t00
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: Certification learning path
+  description: 'Recommended training resources to help you prepare for required exams and earn your certification.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

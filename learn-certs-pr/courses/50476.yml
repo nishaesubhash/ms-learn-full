@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: Amazing Macros (Microsoft Excel 2007 & 2010)
+metadata:
+  title: 'Course 50476-B: Amazing Macros (Microsoft Excel 2007 & 2010)'
+  description: 'Course 50476-B: Amazing Macros (Microsoft Excel 2007 & 2010)'
+uid: course.50476
+courseNumber: '50476-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use Macros
+- skill: Record Macros
+- skill: Editing simple commands
+- skill: Customizing Quick Access Toolbar and buttons
+- skill: Adding Forms Controls to a Worksheet
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This one-day course introduces Microsoft Excel 2007/2010 users to the features in creating and managing Excel macro. Participants will learn how to record macro, execute macros in variety of different methods, editing macro and creating a control buttons to activate the macros.
+
+  #### Audience profile
+  This course is intended for Information workers who have an understanding of Microsoft Office Excel 2003/2007/2010.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - This course assumes that students have some familiarity with Excel.
+outlineSection: |-
+  ### Module 1&#58; Using Macros
+  This module gives the introduction of how to execute Macros.
+  #### Lessons
+  - Opening a Workbook Containing Macros
+  - Running a Macro
+  - Using a Shortcut Key
+  - Using the Visual Basic Toolbar
+  - Opening the Visual Basic Application Window
+  - Using the Visual Basic Application Window
+
+
+  #### Lab &#58; Using Macros
+
+  After completing this module, students will be able to&#58;
+  - Understand how to execute Macros.
+
+
+  ### Module 2&#58; Recording Macros
+  This module explains how to create Macros through usage of recording.
+  #### Lessons
+  - Using the Developer Tab
+  - Recording a Macro
+  - Assigning a Shortcut Key
+  - Using Relative References
+  - Deleting a Macro
+
+
+  #### Lab &#58; Recording Macros
+
+  After completing this module, students will be able to&#58;
+  - Record Macros
+  - Assign Shortcut Key to Macro
+  - Using Relative Reference in Macro Recording
+
+
+  ### Module 3&#58; Editing Macros
+  This module explains how to start editing simple commands within the Visual Basic Editor.
+  #### Lessons
+  - Writing a New Macro
+  - Entering Macro Comments
+  - Copying Macro Commands
+  - Editing Macro Commands
+  - Typing Macro Commands
+  - Create Message box
+  - Running Macro from the Code Window
+  - Using the Debugger
+
+
+  #### Lab &#58; Editing Macros
+
+  After completing this module, students will be able to&#58;
+  - Write simple Macro commands
+  - Create message box
+  - Insert comments
+
+
+  ### Module 4&#58; Custom Button in Quick Access Toolbar
+  This module demonstrate how to create custom buttons in the Quick Access Toolbar.
+  #### Lessons
+  - Creating a custom button
+  - Adding a button to Quick Access Toolbar
+  - Assigning a Macro to a button
+  - Changing a button image
+  - Deleting a custom button
+
+
+  #### Lab &#58; Custom Button in Quick Access Toolbar
+
+  After completing this module, students will be able to&#58;
+  - Use custom button in Quick Access Toolbar.
+  - Assign Macro to custom button.
+  - Delete custom button.
+
+
+  ### Module 5&#58; Adding Forms Controls to a Worksheet
+  This module explains how to create forms control onto a worksheet.
+  #### Lessons
+  - Creating a Macro Button
+  - Copying a Macro Button
+  - Formatting a Macro Button
+  - Moving/Sizing a Macro Button
+  - Deleting a Macro Button
+
+
+  #### Lab &#58; Adding Forms Controls to a Worksheet
+
+  After completing this module, students will be able to&#58;
+  - Create forms control for a Macro
+  - Format Macro button
+  - Delete Macro button

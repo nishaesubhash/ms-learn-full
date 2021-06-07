@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: Implementing Continuous Feedback
+metadata:
+  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+uid: course.az-400t06
+courseNumber: 'AZ-400T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design practices to measure end-user satisfaction
+- skill: Design processes to capture and analyze user feedback from external sources
+- skill: Design routing for client application crash report data
+- skill: Recommend monitoring tools and technologies
+- skill: Recommend system and feature usage tracking tools
+- skill: Configure crash report integration for client applications
+- skill: Develop monitoring and status dashboards
+- skill: Implement routing for client application crash report data
+- skill: Implement tools to track system usage, feature usage, and flow
+- skill: Integrate and configure ticketing systems with development team's work management system
+- skill: Analyze alerts to establish a baseline
+- skill: Analyze telemetry to establish a baseline
+- skill: Perform live site reviews and capture feedback for system outages
+- skill: Perform ongoing tuning to reduce meaningless or non-actionable alerts
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides the knowledge and skills to implement continuous feedback. Students will learn how to recommend and design system feedback mechanisms, implement a process for routing system feedback to development teams, and optimize feedback mechanisms.
+
+  #### Audience profile
+  Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+outlineSection: |-
+  ### Module  1&#58; Recommend and design system feedback mechanisms
+  #### Lessons
+  - The inner loop
+  - Continuous Experimentation mindset
+  - Design practices to measure end-user satisfaction
+  - Design processes to capture and analyze user feedback
+  - Design process to automate application analytics
+
+
+  #### Lab &#58; Integration between Azure DevOps and Teams
+
+  #### Lab &#58; Feature Flags
+  After completing this module, students will be able to&#58;
+  - Design practices to measure end-user satisfaction
+  - Design processes to capture and analyze user feedback from external sources
+  - Design routing for client application crash report data
+  - Recommend monitoring tools and technologies
+  - Recommend system and feature usage tracking tools
+
+
+  ### Module  2&#58; Implement process for routing system feedback to development teams
+  #### Lessons
+  - Implement tools to track system usage, feature usage, and flow
+  - Implement routing for mobile application crash report data
+  - Develop monitoring and status dashboards
+  - Integrate and configure ticketing systems
+
+  After completing this module, students will be able to&#58;
+  - Configure crash report integration for client applications
+  - Develop monitoring and status dashboards
+  - Implement routing for client application crash report data
+  - Implement tools to track system usage, feature usage, and flow
+  - Integrate and configure ticketing systems with development team's work management
+
+
+  ### Module  3&#58; Optimize feedback mechanisms
+  #### Lessons
+  - Site Reliability Engineering
+  - Analyze telemetry to establish a baseline
+  - Perform ongoing tuning to reduce meaningless or non-actionable alerts
+  - Analyze alerts to establish a baseline
+  - Blameless PostMortems and a Just Culture
+
+  After completing this module, students will be able to&#58;
+  - Analyze alerts to establish a baseline
+  - Analyze telemetry to establish a baseline
+  - Perform live site reviews and capture feedback for system outages
+  - Perform ongoing tuning to reduce meaningless or non-actionable alerts

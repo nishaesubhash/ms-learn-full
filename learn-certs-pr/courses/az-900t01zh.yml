@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Microsoft Azure 基础知识
+metadata:
+  title: 'Course AZ-900T01ZH-A: Microsoft Azure 基础知识'
+  description: 'Course AZ-900T01ZH-A: Microsoft Azure 基础知识'
+uid: course.az-900t01zh
+courseNumber: 'AZ-900T01ZH-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 了解一般的云计算概念。
+- skill: 了解 Microsoft Azure 提供的核心服务。
+- skill: 了解 Microsoft Azure 的安全性、隐私、合规性和信任。
+- skill: 了解 Microsoft 提供的定价和支持模型。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  本课程将提供云服务的基础知识以及 Microsoft Azure 如何提供这些服务。在进一步学习 Microsoft Azure 或 Microsoft 云服务课程之前，可以将该课程作为学习云服务和 Microsoft Azure 的可选第一步。
+  
+  本课程将涵盖一般云计算概念以及一般云计算模型和服务，如公共云、私有云和混合云以及基础结构即服务 (IaaS)，平台即服务 (PaaS) 和软件 - 即服务 (SaaS)。
+  
+  它还将介绍一些核心 Azure 服务和解决方案，以及关于安全性、隐私、合规性和信任的关键 Azure 支柱服务。它最终将涵盖 Azure 提供的定价和支持服务。
+
+  #### Audience profile
+  参加本课程没有先决条件。它面向任何想详细了解 Microsoft Azure 的用户。
+outlineSection: |-
+  ### Module 1&#58; 云概念
+  在本模块中，您将学习基本的云概念。
+  #### Lessons
+  - 学习目标
+  - 为何选择 Azure 云服务？
+  - 基础结构即服务 (IaaS)、平台即服务 (PaaS) 和软件即服务 (SaaS)
+  - 公共云、私有云和混合云模型
+
+  完成本模块后，学生将能够&#58; 
+  - 了解一般的云计算概念。
+
+
+  ### Module 2&#58; 核心 Azure 服务
+  在本模块中，您将学习 Microsoft Azure 提供的基本核心服务。
+  #### Lessons
+  - 核心 Azure 架构组件
+  - 核心 Azure 服务和产品
+  - Azure 解决方案
+  - Azure 管理工具
+
+  完成本模块后，学生将能够&#58; 
+  - 了解 Microsoft Azure 提供的核心服务。
+
+
+  ### Module 3&#58; 安全性、隐私、合规性和信任
+  在本模块中，您将了解 Microsoft Azure 的安全性、隐私、合规性和信任。
+  #### Lessons
+  - 确保 Azure 中的网络连通性
+  - 核心 Azure 身份服务
+  - 安全工具和功能
+  - Azure 治理方法
+  - Azure 中的监控和和报告
+  - Azure 中的隐私、合规性和数据保护标准
+
+  完成本模块后，学生将能够&#58; 
+  - 了解 Microsoft Azure 的安全性、隐私、合规性和信任。
+
+
+  ### Module 4&#58; Azure 定价和支持
+  在本模块中，您将重点关注 Microsoft 提供的定价和支持模型。
+  #### Lessons
+  - Azure 订阅
+  - 计划和管理成本
+  - Azure 提供的支持选项
+  - Azure 中的服务生命周期
+
+  完成本模块后，学生将能够&#58; 
+  - 了解 Microsoft 提供的定价和支持模型

@@ -1,0 +1,135 @@
+### YamlMime:Course
+title: Microsoft Azure 基础知识（2 天）
+metadata:
+  title: 'Course AZ-900T00ZH-A: Microsoft Azure 基础知识（2 天）'
+  description: 'Course AZ-900T00ZH-A: Microsoft Azure 基础知识（2 天）'
+uid: course.az-900t00zh
+courseNumber: 'AZ-900T00ZH-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+summary: |-
+  本课程为期两天，将提供云概念的基础知识；核心 Azure 服务；安全性、隐私、合规性和信任；以及 Azure 定价和支持。
+  注意&#58; 本课程为学生提供了一个 Azure 通行证和时间，让他们可以参与动手实验室。如果你不需要动手体验，请考虑 AZ-900T01&#58; Microsoft Azure 基础知识（1 天）课程。两门课程的内容与 AZ-900 考试目标领域一致。
+
+  #### Audience profile
+  本课程适合刚开始使用 Azure 的 IT 人员。这些用户希望了解我们的产品，并亲身体验产品。本课程主要使用 Azure 门户创建服务，不需要脚本编写技能。  本课程会让学生有信心参加其他基于角色的课程和认证，如 Azure 管理员。本课程提供 Azure 通行证和可选的实验室环境。本课程结合了演讲、演示和动手实验室。  本课程也有助于备考 AZ-900 考试。
+prerequisitesSection: |-
+  参与本课程不设先决条件。然而，学生掌握的技术知识越多，他们对云的了解就越多。
+outlineSection: |-
+  ### Module 1&#58; 云概念
+  在本模块中，你将了解云服务、云模型类型和云服务类型。
+  #### Lessons
+  - 为何选择云服务
+  - 云模型类型
+  - 云服务类型
+
+  完成本模块后，学生将能够&#58; 
+  - 定义云计算及其关键优势。
+  - 解释公共、私有和混合云模型。
+  - 解释 IaaS、PaaS 和 SaaS 云服务。
+
+
+  ### Module 2&#58; 核心 Azure 服务
+  在本模块中，你将了解 Azure 核心云架构组件、Azure 服务和产品、Azure 解决方案以及 Azure 管理工具。
+  #### Lessons
+  - 核心 Azure 架构组件
+  - 核心 Azure 服务和产品
+  - Azure 解决方案
+  - Azure 管理工具
+
+
+  #### Lab &#58; 演练&#58; 创建虚拟机
+
+  #### Lab &#58; 演练&#58; 部署 Azure 容器实例
+
+  #### Lab &#58; 演练&#58; 创建虚拟网络
+
+  #### Lab &#58; 演练&#58; 创建 Blob 存储
+
+  #### Lab &#58; 演练&#58; 创建 SQL 数据库
+
+  #### Lab &#58; 演练&#58; 实现 Azure IoT 中心
+
+  #### Lab &#58; 演练&#58; 实现 Azure Functions
+
+  #### Lab &#58; 演练&#58; 创建 Web 应用
+
+  #### Lab &#58; 演练&#58; 使用模板创建 VM
+
+  #### Lab &#58; 演练&#58; 使用 PowerShell 创建 VM
+
+  #### Lab &#58; 演练&#58; 使用 CLI 创建 VM
+  完成本模块后，学生将能够&#58; 
+  - 确定核心 Azure 架构组件，如区域、地理位置和资源组。
+  - Ide确定 Azure 核心服务和产品（如虚拟机和存储）的使用案例。
+  - 确定 Azure 解决方案的使用案例，例如物联网和机器学习。
+  - 确定可用的 Azure 管理工具，如 Azure PowerShell 和 CLI。
+
+
+  ### Module 3&#58; 安全性、隐私、合规性和信任
+  在本模块中，你将了解 Azure 安全性、标识、治理、监控、报告和标准。
+  #### Lessons
+  - 安全网络连接
+  - 核心 Azure 标识服务
+  - 安全工具和功能
+  - Azure 治理方法
+  - 监控和报告
+  - 隐私、合规性和数据保护标准
+
+
+  #### Lab &#58; 演练&#58; 安全网络流量
+
+  #### Lab &#58; 演练&#58; 实现 Azure 密钥保管库
+
+  #### Lab &#58; 演练&#58; 创建 Azure 策略
+
+  #### Lab &#58; 演练&#58; 使用 RBAC 管理访问权限
+
+  #### Lab &#58; 演练&#58; 管理资源锁
+
+  #### Lab &#58; 演练&#58; 实现资源标记
+
+  #### Lab &#58; 演练&#58; 探索信任中心
+  完成本模块后，学生将能够&#58; 
+  - 描述虚拟网络安全连接选项，如网络安全组。
+  - 描述 Azure 标识验证和授权选项。
+  - 描述安全中心、密钥库、威胁和信息保护选项的使用案例。
+  - 描述 Azure 策略和基于角色的访问控制。
+  - 描述 Azure Monitor 和 Azure 服务运行状况的使用案例。
+  - 描述隐私、合规性和数据保护标准。
+
+
+  ### Module 4&#58; Azure 定价和支持
+  在本模块中，你将了解 Azure 订阅、计划和管理成本、支持选项、SLA 和服务生命周期。
+  #### Lessons
+  - Azure 订阅
+  - 计划和管理成本
+  - Azure 支持选项
+  - Azure 服务级别协议 (SLA)
+  - Azure 中的服务生命周期
+
+
+  #### Lab &#58; 演练&#58; 使用 Azure 定价计算器
+
+  #### Lab &#58; 演练&#58; 使用 Azure TCO 计算器
+
+  #### Lab &#58; 演练&#58; 打开支持请求
+
+  #### Lab &#58; 演练&#58; 计算复合 SLA
+
+  #### Lab &#58; 演练&#58; 访问 Azure 预览功能
+  完成本模块后，学生将能够&#58; 
+  - 使用 Azure 订阅。
+  - 计划和管理成本。
+  - 解释 Azure 支持选项。
+  - 描述 Azure SLA。
+  - 解释 Azure 服务生命周期。

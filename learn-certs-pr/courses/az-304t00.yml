@@ -1,0 +1,263 @@
+### YamlMime:Course
+title: Microsoft Azure Architect Design
+metadata:
+  title: 'Course AZ-304T00-A: Microsoft Azure Architect Design'
+  description: 'Course AZ-304T00-A: Microsoft Azure Architect Design'
+  iltScheduling: true
+uid: course.az-304t00
+courseNumber: 'AZ-304T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Recommend solutions to minimize costs
+- skill: Recommend a solution for Conditional Access, including multi-factor authentication
+- skill: Recommend a solution for a hybrid identity including Azure AD Connect and Azure AD Connect
+- skill: Recommend a solution for using Azure Policy
+- skill: Recommend a solution that includes KeyVault
+- skill: Recommend a solution that includes Azure AD Managed Identities
+- skill: Recommend a storage access solution
+- skill: Design an Azure Site Recovery solution
+- skill: Recommend a solution for autoscaling
+- skill: Recommend a solution for containers
+- skill: Recommend a solution for network security
+- skill: Recommend a solution for migrating applications and VMs
+- skill: Recommend a solution for migration of databases
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-304
+summary: |-
+  This course teaches Solutions Architects how to translate business requirements into secure, scalable, and reliable solutions. Lessons include design considerations related to logging, cost analysis, authentication and authorization, governance, security, storage, high availability, and migration. This role requires decisions in multiple areas that affect an overall design solution.
+
+  #### Audience profile
+  This course is for IT Professionals with expertise in designing and implementing solutions running on Microsoft Azure. They should have broad knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platform, budgeting, and governance. Azure Solution Architects use the Azure Portal and as they become more adept they use the Command Line Interface. Candidates must have expert-level skills in Azure administration and have experience with Azure development processes and DevOps processes.
+prerequisitesSection: |-
+  Successful Azure Architects begin this role with experience on operating systems, virtualization, cloud infrastructure, storage structures, networking, applications and databases.
+  - Understanding of on-premises virtualization technologies, including&#58; VMs, virtual networking, and virtual hard disks. 
+  - Understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies. 
+  - Understanding of Active Directory concepts, including domains, forests, domain controllers, replication, Kerberos protocol, and Lightweight Directory Access Protocol (LDAP). 
+  - Understanding of resilience and disaster recovery, including backup and restore operations. 
+  - Understanding of Applications development and APIs. 
+  - Understanding of Databases, both SQL such as MS SQL, MySQL or Postgres, and Non-SQL databases like MongoDB. 
+  - Understanding of decoupling Applications and services, for example, Queues, tables, Cache.  
+  - Understanding of Security concepts to protect your environment, like encryption at rest, encryption in transit, SSL, TLS.
+  
+  Prerequisite Courses (or equivalent knowledge)&#58;
+  - Free online: Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - Instructor-led course: AZ-900: Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Prerequisites for Azure administrators (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/
+outlineSection: |-
+  ### Module 1&#58; Design a Compute Solution
+  In this module, you will learn about the appropriate compute technologies, including virtual machines, App Services, Service Fabric, Azure Functions, Windows Virtual Desktop, and containers.
+  #### Lessons
+  - Recommend a Solution for Compute Provisioning
+  - Determine Appropriate Compute Technologies
+  - Recommend a Solution for Containers
+  - Recommend a Solution for Automating Compute Management
+
+  #### Lab &#58; Implementing Containers on Azure
+  - Implement containers running in Azure VMs
+  - Deploy containers to Azure Container Instances
+  - Deploy containers to Azure Kubernetes Service (AKS) clusters
+  
+  After completing this module, students will be able to&#58;
+  - Refer solution for automating compute management
+  - Recommend the appropriate compute technologies, including virtual machines, and App Services
+  - Recommend the approrioate AKS and ACI and the configurations
+  
+  
+  ### Module 2&#58; Design a Network Solution
+  In this module, you will learn about solutions for network addressing and name resolution, network provisioning, and network security.
+  #### Lessons
+  - Recommend a Solution for Network Addressing and Name Resolution
+  - Recommend a Solution for Network Provisioning
+  - Recommend a Solution for Network Security
+  - Recommend a Solution for iInternete Connectivity and On-Premises Networks
+  - Recommend a Solution for Automating Network Management
+  - Recommend a Solution for Load Balancing and Rraffic Routing
+  
+  After completing this module, students will be able to&#58;
+  - Solutions for network addressing and name resolution
+  - Solutions for network security including private endpoints, firewalls, and gateways
+  - Recommendations for network connectivity to the Internet, on-premises networks, and other VNets
+  - Recommendations for load balancing and traffic routing
+  
+  
+  ### Module 3&#58; Design for Migration
+  In this module, you will learn about recommend a solution for migrating applications and VMs and a solution for migration of databases.
+  #### Lessons
+  - Assess and On-Premises Servers and Applications for Migration
+  - Recommend a Solution for Migrating Applications and VMs
+  - Recommend a Solution for Migration of Databases
+  
+  After completing this module, students will be able to&#58;
+  - Assess on-premises servers and applications for migration
+  - Suggest solutions for migrating applications and VMs
+  - Determine migration scope, including redundant, related, trivial, and outdated data
+  
+  
+  ### Module 4&#58; Design Authentication and Authorization
+  In this module, you will learn how to provide Identities to services and understand the hierarchy of Management Groups and Subscriptions.
+  #### Lessons
+  - Tips for Identity and Access Management
+  - Recommend a Solution for Multi-Factor Authentication
+  - Five Steps for Securing Identity Infrastructure
+  - Recommend a Solution for Single-Sign On (SSO)
+  - Recommend a Solution for a Hybrid Identity
+  - Recommend a Solution for B2B Integration
+  - Recommend a Hierarchical Structure for Management Groups
+  
+  #### Lab &#58; Managing Azure AD Authentication and Authorization
+  - Deploy an Azure VM hosting an AD DS domain controller
+  - Create and configure an Azure AD tenant
+  - Integrate an AD DS forest with an Azure AD tenant
+  
+  After completing this module, students will be able to&#58;
+  - Recommend hierarchy of Management Groups and Subscriptions.
+  - Configure custom RBAC Role definitions and assignments
+  - Plan for a MFA Deployment
+  - Recommend a Solution for Single-Sign On (SSO)
+  - Recommend a Solution for a Hybrid Identity
+  
+  
+  ### Module 5&#58; Design Governance
+  In this module, you will learn apply an Azure Policy, Identify non-compliant resources, and manage tag governance with Azure Policy.
+  #### Lessons
+  - Recommend a Solution for using Azure Policy
+  - Recommend a Solution for using Azure Blueprint
+  
+  After completing this module, students will be able to&#58;
+  - Organize Policies with Initiatives
+  - Manage Tag Governance with Azure Policy
+  - Provide guidance on Azure Blueprints
+  
+  
+  ### Module 6&#58; Design a Solution for Databases
+  In this module, you will be able to recommend the appropriate data store and recommend Azure SQL Database and Azure SQL Managed Instance Service tiers.
+  #### Lessons
+  - Select an Appropriate Data Platform Based on Requirements
+  - Overview of Azure Data Storage
+  - Recommend Database Service Tier Sizing
+  - Dynamically Scale Azure SQL Database and Azure SQL Managed Instances
+  - Recommend a Solution for Encrypting Data at Rest, Transmission, and In Use
+  
+  After completing this module, students will be able to&#58;
+  - Recommend Database Service Tier Sizing
+  - Recommend a Solution for Encrypting Data at Rest, Transmission, and In Use
+  - Understand Azure Data Lake Store and Azure Blob Storage containers
+  
+  
+  ### Module 7&#58; Select an Appropriate Storage Account
+  In this module, you will learn about recommend a design a strategy for using tiered storage and manage tiered Storage using Azure tools.
+  #### Lessons
+  - Understanding Storage Tiers
+  - Recommend a Storage Access Solution
+  - Recommend Storage Management Tools
+  
+  After completing this module, students will be able to&#58;
+  - Recommend tools for working with Azure Storage
+  - Design for Azure Blob Storage access tiers
+  
+  
+  ### Module 8&#58; Design Data Integration
+  In this module, you will learn about data flows using Azure Data Factory and Azure Synapse Analytics architecture.
+  #### Lessons
+  - Recommend a Data Flow
+  - Recommend a Solution for Data Integration
+  
+  After completing this module, students will be able to&#58; 
+  - Implement Azure Synapse Analytics
+  - Describe how data flows using Azure Data Factory
+  - Demonstrate hjow to use Azure Data Factory to load data into SQL Data Warehouse
+  
+  
+  ### Module 9&#58; Design a Solution for Logging and Monitoring
+  In this module, you will learn about Azure Monitor, Azure Application Insights, and Azure Sentinel. You will be able to monitor Azure Resources with Azure Monitor and collect and analyze resource Logs for Azure.using Azure tools.
+  #### Lessons
+  - Azure Monitoring Services
+  - Azure Monitor
+  
+  After completing this module, students will be able to&#58;
+  - Monitor Azure resources with Azure Monitor
+  - Collect and analyze Resource Logs for Azure resources
+  - Understand how Azure Sentinel collects data on the devices, users, infrastructure, and applications
+  
+  
+  ### Module 10&#58; Design a Solution for Backup and Recovery
+  In this module, you will learn about solutions for site recovery capacity and site failover and failback. You will be able to recommend solutions for recovery in different regions.
+  #### Lessons
+  - Recommend a Recovery Solution for Hybrid and On-Premises Workloads
+  - Design and Azure Site Recovery Solution
+  - Recommend a Solution for Recovery in Different Regions
+  - Recommend a Solution for Azure Backup Management
+  - Design a Solution for Data Archiving and Retention
+  
+  After completing this module, students will be able to&#58;
+  - Recommend solutions for Azure hybrid and on-premises workloads that meets recovery objectives
+  - Recommend a solution for site recovery capacity
+  - Recommend storage types and methodology for data archiving
+  - Identify requirements for data archiving
+  
+  
+  ### Module 11&#58; Design for High Availability
+  In this module, you will learn about solutions for application and workload redundancy, including compute, database, and storage.
+  #### Lessons
+  - Recommend a Solution for Application and Workload Redundancy
+  - Recommend a Solution for Autoscaling
+  - Identify Resources that Require High Availability
+  - Identify Storage Tpes for High Availability
+  - Recommend a Solution for Geo-Redundancy of Workloads
+  
+  After completing this module, students will be able to&#58;
+  - Recommend a solutions for autoscaling
+  - Identify storage types for high availability
+  - Recommend a solutions for geo-redundancy of workloads
+  
+  
+  ### Module 12&#58; Design for Cost Optimization
+  In this module, you will learn how to optimize costs from recommendations, breakdown costs by Azure Service, and download and review usage details. 01-View
+  #### Lessons
+  - Recommend Solutions for Cost Management
+  - Recommended Viewpoints for Minimizing Costs
+  
+  After completing this module, students will be able to&#58;
+  - Optimize with Azure Cost Management
+  - Design with Cost in mind
+  - Optimize Costs from recommendations
+  
+  
+  ### Module 13&#58; Design an Application Architecture
+  In this module, you will learn about solution for deployment of applications including ARM templates, Logic Apps, or Azure Functions. You will also learn about microservices architecture including Event Grid, Event Hubs, Service Bus, Storage Queues, Logic Apps, Azure Functions, and webhooks.
+  #### Lessons
+  - Recommend a Microservices Architecture
+  - Recommend an Orchestration Solution for Deployment of Applications
+  - Recommend a Solution for API Integration
+  
+  #### Lab &#58; Implement Azure Logic Apps Integration with Azure Event Grid
+  - Integrate Azure Logic Apps with Event Grid
+  - Trigger execution of Logic Apps in response to an event representing a change to a resource within a
+  
+  After completing this module, students will understand &#58; 
+  - Recommend deployment solutions using ARM templates, Logic Apps, or Azure Functions
+  - Recommend a solution for monitoring automation
+  - Recommend a hosting structure for API management
+  
+  
+  ### Module 14&#58; Design Security for Applications
+  In this module, you will learn about solution for deployment of applications including ARM templates, Logic Apps, or Azure Functions. You will also learn about microservices architecture including Event Grid, Event Hubs, Service Bus, Storage Queues, Logic Apps, Azure Functions, and webhooks.
+  #### Lessons
+  - Security for Applications and Services
+  - Recommend a Solution using Key Vault
+  - Recommend Solutions using Azure AD Managed Identities
+  
+  After completing this module, students will be able to&#58;
+  - Understand Key Vault authentication and authorization
+  - Understan Azure Key Vault availability and redundancy
+  - Understand how Blueprints differ from Resource Manager Templates and Azure Policy

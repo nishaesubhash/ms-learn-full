@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Microsoft Flow
+metadata:
+  title: 'Course 55268-A: Microsoft Flow'
+  description: 'Course 55268-A: Microsoft Flow'
+uid: course.55268
+courseNumber: '55268-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand when to use Flow
+- skill: Describe the components of Flow and their correct use
+- skill: How to create and edit Flows
+- skill: Benefits of Flow
+- skill: Integration with Flow
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  This course delivers an instructor-led product showcase for Microsoft Flow from start to finish in an engaging and practical way. Flow is a diverse product, turning business processes into automated, consistent and visual workflows. Flow is designed to interweave the various products in Office 365 as well as connect to other on-premises and web-based solutions. This course will give you the confidence to select the right actions and workflow logic for your business workflows.
+
+  #### Audience profile
+  The intended audience for this course would be those who have been using Office 365 for some time and are now looking at optimizing their existing business processes and designing new ones.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - No previous experience of Flow is required
+outlineSection: |-
+  ### Module 1&#58; An Introduction to PowerApps
+  Let’s get started with an introduction to Microsoft Flow. Historically, automating business processes typically landed in the lap of a developer in the business, who has a good understanding of coding and the systems that they were connecting. However, more and more systems deployed to businesses are encouraging a bigger focus on end user design and management. With this culture change, end users are looking to further improve their business solutions. Flow brings workflow design to all audiences. It offers the building blocks for lightweight or business-critical processes. In this module, we cover an overview of the product and its application to Office 365 and third-party services.
+  #### Lessons
+  - What is Microsoft Flow?
+  - The benefits of automation
+  - How to get to Flow
+
+
+  #### Lab &#58; Setup your tenant
+  - Setup Office 365
+  - Download Course Files
+  - Customise your App Launcher
+  - Create accounts for colleagues
+
+  After completing this module, students will be able to&#58;
+  - Know what Microsoft Flow is
+  - The Benefits of using Flow to automate processes
+  - How to access a flow
+
+
+  ### Module 2&#58; Getting Started with Flow
+  We begin our discovery of Microsoft Flow by building our first business process. We will discuss how to use templates to get started with Flow or how to use a blank template to start with no defined actions. Once in the product, we will give you a tour of the editor, workflow management page and the home screen to help you navigate around the product. Next, we will start to add, edit and remove actions from our workflow template in order to customise the Flow for a specific business need. Once ready we will publish and trigger the workflow to test that it works as expected. We will finish this module by discussing how to turn a Flow on or off as well as deleting a Flow.
+  #### Lessons
+  - Using Flow templates
+  - Navigating in Flow
+  - Editing a Flow
+  - Publish and trigger a Flow
+  - Turn off or delete a Flow
+
+
+  #### Lab &#58; Building processes in Office 365
+  - Create a Team with a channel
+  - Build an absence business process
+  - Testing the absence process
+  - Optional&#58; Create Feedback Form
+  - Optional&#58; Flow to Notify of Bad Ratings
+  - Optional&#58; Test your Form and Flow
+
+  After completing this module, students will be able to&#58;
+  - How to use Flow templates
+  - How to navigate around Flow
+  - How to edit Flows
+  - How to publish and trigger Flows
+  - How to turn off or delete Flows
+
+
+  ### Module 3&#58; Flow logic
+  Decision making during a business process is often a bottleneck. Waiting for decisions or information to steer the workflow towards its goal is dependent on how long the involved party spends on the task. This could be mitigated if the desired information is found declared elsewhere for example, as a document property or a form entry to name a few examples. Logic in a workflow allows existing information to push the workflow down multiple paths. This often speeds up workflow duration and minimizes human input.
+  In this module, we will look at the core logic found in Flow and a practical application of each option.
+  #### Lessons
+  - Adding conditions
+  - Designing switches
+  - Using apply to each
+  - Configuring do until logic
+  - Adding a scope
+
+
+  #### Lab &#58; Scheduling documentation reviews
+  - Setup a policy library in SharePoint
+  - Design a policy review schedule
+  - Testing the policy review process
+  - Optional&#58; Notify if a file nears review
+
+  After completing this module, students will be able to&#58;
+  - How to add condtions in a flow
+  - How to design switches for a flow
+  - How to use apply to each
+  - How to configure do until logic
+  - How to add a scope
+
+
+  ### Module 4&#58; Integration
+  Businesses will often user a selection of productivity tools and services beyond Office 365. Marketing teams may use Facebook and Twitter whereas a sales team may use Salesforce to manage their customers. Flow provides connectors for popular services allowing your processes to extend beyond Office 365 to other web services. Connections can even be made to on-premises servers, allowing your business systems house at the office to take part in your processes.
+  #### Lessons
+  - Standard and premium connectors
+  - Connecting to web services
+  - Using Flow with on-premises data
+
+
+  #### Lab &#58; Using Flow and SQL to Review Sales
+  - Create a new orders list
+  - Designing the price check process
+  - Testing the price check process
+  - Optional&#58; Update with managers
+
+  After completing this module, students will be able to&#58;
+  - How to use Standard and Premium connectors
+  - How to connect to web services
+  - How to using Flow with on-premises data
+
+
+  ### Module 5&#58; The mobile app
+  Flow has a corresponding mobile app that can be used to leverage many features of Flow. Firstly, it offers users the capability to build new Flows, directly from their phone or tablet. Secondly, it can be used to manage existing flows including editing, viewing history, saving a copy, disabling and deleting Flows. You can access any approvals that have been sent to you by Flow and approve or reject decisions. The app also supports the push notifications that can be sent to your phone or tablet from a Flow. Additionally, you can even create buttons that appear in the app which allow you to trigger Flows. This valuable app will be detailed in this module.
+  #### Lessons
+  - Downloading the mobile app
+  - Signing in and account management
+  - Building and managing Flows
+  - Creating buttons
+  - Feeds and approvals
+
+
+  #### Lab &#58; Optional&#58; Using the flow mobile app
+  - Setting up the Flow mobile app
+  - Create a new flow in the mobile app
+  - Using flow buttons in the app
+  - Uninstall the flow mobile app
+
+  After completing this module, students will be able to&#58;
+  - How to download the mobile app
+  - How to sign into the mobile app
+  - How to build and manage flows in the mobile app
+  - How to create buttons in the mobile app
+  - How to feed and use approvals in the mobile app
+
+
+  ### Module 6&#58; Administration and maintenance
+  In our last module for Microsoft Flow, we will be taking a look at how a business can manage their Flows once they have a good uptake of the product. We will begin by discussing managing individual Flows. This could be using history to discover the source of any issues and implement error handling as well as using the analytics to discover usage trends. We will discover how to share a Flow which is ideal for sharing the maintenance of a Flow with another colleague and how to import and export Flows. Finally, we will discuss how Office 365 administrators can shape the Flow experience with high-level settings that help ensure data segregation and security.
+  #### Lessons
+  - Maintaining a Flow
+  - View history and analytics
+  - Sharing a Flow
+  - Export and import Flows
+  - Office 365 administration for Flow
+  - Environments
+  - Data policies
+  - Data integration
+
+
+  #### Lab &#58; Maintaining your flows
+  - Share a flow with a colleague
+  - Disabling an active flow
+  - Deleting a flow
+
+  After completing this module, students will be able to&#58;
+  - How to matain a flow
+  - How to view history and analytics for a flow
+  - How to share a flow
+  - How to export and import flows
+  - How to administrate a flow in Office 365
+  - How to use data policies in a flow
+  - How to use data integration in a flow
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

@@ -1,0 +1,105 @@
+### YamlMime:Course
+title: 'Windows 7 Essentials: Usability, Security and Manageability'
+metadata:
+  title: 'Course 50560-A: Windows 7 Essentials: Usability, Security and Manageability'
+  description: 'Course 50560-A: Windows 7 Essentials: Usability, Security and Manageability'
+uid: course.50560
+courseNumber: '50560-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate and customize the user interface.
+- skill: Explain as well as configure User Account Control.
+- skill: Describe and configure Backup and Recovery options.
+- skill: Manipulate new file system features, such as Libraries.
+- skill: Describe built-in security functionality like Windows Defender.
+- skill: Explain the usability and security features of Internet Explorer 9.
+- skill: Describe the Network and Sharing Center as well as options for network troubleshooting.
+- skill: Summarize new interface features and enhancements, like Start Menu Search and Troubleshooting.
+- skill: Understand the benefits and requirements of new technologies such as DirectAccess and AppLocker.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- windows
+summary: |-
+  This one-day instructor-led course provides students with the knowledge and skills to navigate Windows 7 and perform end-user level tasks. The course focuses on extrapolating the three design enhancements of Windows 7&#58; usability, security, and manageability, with emphasis on exploring the new graphical user interface, and new features.
+
+  #### Audience profile
+  This course is intended for IT professionals who have supported previous versions of Windows desktop operating systems and performed duties such as end-user support and desktop troubleshooting. The intended audience also includes information workers who use the Windows desktop operating system in an end-user capacity. This course is also intended as a high-level overview of the Windows 7 operating system for business executives and decision-makers.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - One year of experience installing, configuring and supporting Windows desktop operating systems and applications.
+  - Basic understanding of computing, applications, networking and hardware.
+outlineSection: |-
+  ### Module 1&#58; Usability Enhancements
+  This module explains the features of the new Windows 7 interface, as well as new file system features such as Libraries and breadcrumbs. This module also covers Internet Explorer 9, Network and Sharing Center, network troubleshooting, and other new applications and features such as the Snipping Tool and Problem Steps Recorder.
+  #### Lessons
+  - Interface
+  - File System
+  - Internet and Networks
+  - Applications and Features
+
+
+  #### Lab &#58; Introducing the Windows 7 Interface
+
+  #### Lab &#58; Configuring File System
+
+  #### Lab &#58; Configuring Networking
+
+  #### Lab &#58; Exploring New Applications and Features
+
+  After completing this module, students will be able to&#58;
+  - Demonstrate usage of Start Menu Search.
+  - Navigate and customize the user interface.
+  - Summarize new interface features and enhancements, like Troubleshooting.
+  - Manipulate new file system features, such as Libraries and Search Connectors.
+  - Discuss the Network and Sharing Center as well as options for network troubleshooting.
+  - Describe new features, such as the Devices and Printers folder and Problem Steps Recorder.
+  - Discuss the benefits and requirements of DirectAccess, VPN Reconnect and BranchCache.
+
+
+  ### Module 2&#58; Security Enhancements
+  This module explains the new security features of Internet Explorer 9, how User Account Control works, and how to secure Windows 7 through integrated security components such as the Action Center, Windows Defender, and BitLocker Drive Protection.
+  #### Lessons
+  - External Security
+  - Internal Security
+
+
+  #### Lab &#58; Configuring Internet and Network Security
+
+  #### Lab &#58; Exploring User Account Control
+
+  After completing this module, students will be able to&#58;
+  - Explain how to configure User Account Control.
+  - Describe security features of Internet Explorer 9.
+  - Demonstrate how to configure Windows Firewall.
+  - Describe how to interpret and utilize the Action Center.
+  - Explain the different capabilities of both Standard User and Administrator account types.
+  - Describe built-in security functionality of Windows Defender and Microsoft Security Essentials.
+  - Discuss the benefits and requirements of BitLocker Drive Protection.
+
+
+  ### Module 3&#58; Manageability Enhancements
+  This module explains how to monitor system reliability, perform benchmarking and configure power options using built-in tools. This module also explains how to configure AppLocker application restrictions and describes seven methods of Windows backup and data recovery.
+  #### Lessons
+  - Management Tools
+  - Backup and Recovery
+
+
+  #### Lab &#58; Testing Reliability and Benchmarking
+
+  #### Lab &#58; Configuring Power Options
+
+  #### Lab &#58; Recovering Data and Files
+
+  After completing this module, students will be able to&#58;
+  - Discuss the Windows Experience Index.
+  - Describe the features of the Reliability Monitor.
+  - Explain how to configure power plans and other power options.
+  - Discuss the benefits and requirements of AppLocker.
+  - Describe seven methods of Windows backup and data recovery.

@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Microsoft Azure Architect Technologies
+metadata:
+  title: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+  description: 'Course AZ-303T00-A: Microsoft Azure Architect Technologies'
+  iltScheduling: true
+uid: course.az-303t00
+courseNumber: 'AZ-303T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Secure identities with Azure Active Directory and users and groups.
+- skill: Implement identity solutions spanning on-premises and cloud-based capabilities
+- skill: Apply monitoring solutions for collecting, combining, and analyzing data from different sources.
+- skill: Manage subscriptions, accounts, Azure policies, and Role-Based Access Control.
+- skill: Administer Azure using the Resource Manager, Azure portal, Cloud Shell, and CLI.
+- skill: Configure intersite connectivity solutions like VNet Peering, and virtual network gateways.
+- skill: Administer Azure App Service, Azure Container Instances, and Kubernetes.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-303
+summary: |-
+  This course teaches Solutions Architects how to translate business requirements into secure, scalable, and reliable solutions. Lessons include virtualization, automation, networking, storage, identity, security, data platform, and application infrastructure. This course outlines how decisions in each theses area affects an overall solution.
+
+  #### Audience profile
+  This course is for IT Professionals with expertise in designing and implementing solutions running on Microsoft Azure. They should have broad knowledge of IT operations, including networking, virtualization, identity, security, business continuity, disaster recovery, data platform, budgeting, and governance. Azure Solution Architects use the Azure Portal and as they become more adept they use the Command Line Interface. Candidates must have expert-level skills in Azure administration and have experience with Azure development processes and DevOps processes.
+prerequisitesSection: |-
+  Successful Azure Architect students have prior experience with operating systems, virtualization, cloud infrastructure, storage structures, and networking&#58;
+  - Understanding of on-premises virtualization technologies, including VMs and virtual networking 
+  - Understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies 
+  - Understanding of Active Directory concepts, including domains, forests, and domain controllers
+  
+  If you are new to Azure and cloud computing, consider one of the following resources&#58;
+  - Free online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/) 
+  - Instructor-led course&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Prerequisites for Azure administrators (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/
+outlineSection: |-
+  ### Module 1&#58; Implement Azure Active Directory
+  In this module, you will learn how to secure identities with Azure Active Directory, and implement users and groups. This module includes&#58;
+  #### Lessons
+  - Overview of Azure Active Directory
+  - Users and Groups
+  - Domains and Custom Domains
+  - Azure AD Identity Protection
+  - Implement Conditional Access
+  - Configure Fraud Alerts for MFA
+  - Implement Bypass Options
+  - Configure Guest Users in Azure AD
+  - Configure Trusted IPs
+  - Manage Multiple Directories
+  
+  After completing this module, students will be able to&#58;
+  - Understand how Multiple AAD organizations interact
+  - Add Guest Users to Azure AD
+  - Configure Location Condition Configuration
+  - Configure Azure MFA settings
+  - Implement Conditional Access Azure MFA
+  - Create a Blueprint
+
+  
+  ### Module 2&#58; Implement and Manage Hybrid Identities
+  In this module, you will learn how to install and configure Azure AD Connect and implement Azure AD Connect Health. This module includes&#58;
+  #### Lessons
+  - Install and Configure Azure AD Connect
+  - Configure Password Sync and Password Writeback
+  - Configure Azure AD Connect Health
+  
+  After completing this module, students will be able to&#58; 
+  - Implement Azure AD seamless Single Sign-On
+  - Perform an Azure AD Connect installation
+  - Implement Azure AD Connect Health
+  
+  
+  ### Module 3&#58; Implement Virtual Networking
+  In this module, you will learn about basic virtual networking concepts like virtual networks and subnetting, IP addressing, network security groups, Azure Firewall, and Azure DNS. This module includes&#58;
+  #### Lessons
+  - Virtual Network Peering
+  - Implement VNet Peering
+  
+  After completing this module, students will be able to&#58; 
+  - Connect services with Virtual Network Peering
+  - Configure VNet Peering
+  - Understand Service Chaining
+  - Modify or delete VNet Peering
+  
+  
+  ### Module 4&#58; Implement VMs for Windows and Linux
+  In this module, you will learn about Azure virtual machines including planning, creating, availability and extensions.
+  #### Lessons
+  - Select Virtual Machine Size
+  - Configure High Availability
+  - Implement Azure Dedicated Hosts
+  - Deploy and Configure Scale Sets
+  - Configure Azure Disk Encryption
+  
+  After completing this module, students will be able to&#58; 
+  - Plan for virtual machine implementations
+  - Create virtual machines
+  - Configure virtual machine availability, including scale sets
+  - Understand High Availability options for VMs in Azure
+  
+  
+  ### Module 5&#58; Implement Load Balancing and Network Security
+  In this module, you will learn about network traffic strategies including network routing and service endpoints, Azure Load Balancer, Azure Application Gateway, and Traffic Manager.
+  #### Lessons
+  - Implement Azure Load Balancer
+  - Implement an Application Gateway
+  - Understand Web Application Firewall
+  - Implement Azure Firewall
+  - Implement Azure Front Door
+  - Implementing Azure Traffic Manager
+  - Implement Network Security Groups and Application Security Groups
+  - Implement Azure Bastion
+  
+  #### Lab &#58; Implementing Highly Available Azure IaaS Compute Architecture
+  - Describe characteristics of highly available Azure VMs residing in the same availability set
+  - Describe characteristics of highly available Azure VMs residing in different availability zones
+  - Describe characteristics of automatic horizontal scaling of Azure VM Scale Sets
+  - Describe characteristics of manual vertical scaling of Azure VM Scale Sets
+  
+  After completing this module, students will be able to&#58; 
+  - Select a Load Balancer solution
+  - Configure Application Gateway
+  - Implement Azure Firewall
+  - Create an Azure Front Door
+  - Understand Traffic Manager routing methods
+  - Configure Network Security Groups (NSGs)
+  
+  
+  ### Module 6&#58; Implement Storage Accounts
+  In this module, you will learn about basic storage features including storage accounts, blob storage, Azure files and File Sync, storage security, and storage tools.
+  #### Lessons
+  - Storage Accounts
+  - Blob Storage
+  - Storage Security
+  - Managing Storage
+  - Accessing Blobs and Queues using AAD
+  
+  #### Lab &#58; Implementing and Configuring Azure Storage File and Blob Services
+  - Implement authorization of Azure Storage blobs by leveraging shared access signatures
+  - Implement authorization of Azure Storage blobs by leveraging Azure Active Directory
+  - Implement authorization of Azure Storage file shares by leveraging access keys
+  - Configure Azure Storage Firewalls and Virtual Networks
+  
+  After completing this module, students will be able to&#58; 
+  - Understand Storage Account services and types
+  - Configure Blob storage, accounts, containers, and access tiers
+  - Implement Shared Access Signatures (SAS)
+  - Understand Azure Storage firewalls and virtual networks
+  
+  
+  ### Module 7&#58; Implement NoSQL Databases
+  In this module, you will learn about Azure Table Storage and recommend options for CosmsoDB APIs.
+  #### Lessons
+  - Configure Storage Account Tables
+  - Select Appropriate CosmosDB APIs
+  
+  After completing this module, students will be able to&#58; 
+  - Outline the Table Service Data Model
+  - Understand options for Azure Cosmos DB
+  - Understand high availability using CosmosDB
+  
+  
+  ### Module 8&#58; Implement Azure SQL Databases
+  In this module, you will create an Azure SQL Database single database, create an Azure SQL Database Managed Instance, and review high-availability and Azure SQL database.
+  #### Lessons
+  - Configure Azure SQL Database Settings
+  - Implement Azure SQL Database Managed Instances
+  - High-Availability and Azure SQL Database
+  - In this module, you will learn how to 
+  - Create an Azure SQL Database (single database)
+  - Create an Azure SQL Database Managed Instance
+  - Recommend high-availability architectural models used in Azure SQL Database
+  
+  
+  ### Module 9&#58; Automate Deployment and Configuration of Resources
+  In this module, you will learn about the tools an Azure Administrator uses to manage their infrastructure. This includes the Azure Portal, Cloud Shell, Azure PowerShell, CLI, and Resource Manager Templates.
+  #### Lessons
+  - Azure Resource Manager Templates
+  - Save a Template for a VM
+  - Evaluate Location of New Resources
+  - Configure a Virtual Hard Disk Template
+  - Deploy from a template
+  - Create and Execute an Automation Runbook
+  
+  After completing this module, students will be able to&#58; 
+  - Leverage Azure Resource Manager to organize resources
+  - Use ARM Templates to deploy resources
+  - Create and Execute an Automation Runbook
+  - Deploy an Azure VM from a VHD
+  - Understand Azure encryption technologies
+  
+  
+  ### Module 10&#58; Implement and Manage Azure Governance
+  In this module, you will learn about managing your subscriptions and accounts, implementing Azure policies, and using Role-Based Access Control.
+  #### Lessons
+  - Create Management Groups, Subscriptions, and Resource Groups
+  - Overview of Role-Based Access Control (RBAC)
+  - Role-Based Access Control (RBAC) Roles
+  - Azure AD Access Reviews
+  - Implement and Configure an Azure Policy
+  - Azure Blueprints
+  
+  #### Lab &#58; Implementing and Configuring Azure Storage File and Blob Services
+  - Implement authorization of Azure Storage blobs by leveraging shared access signatures
+  - Implement authorization of Azure Storage blobs by leveraging Azure Active Directory
+  - Implement authorization of Azure Storage file shares by leveraging access keys
+  
+  #### Lab &#58; Managing Azure Role-Based Access Control
+  - Define a custom RBAC role
+  - Assign a custom RBAC role
+  
+  After completing this module, students will be able to&#58; 
+  - Understand Resource Group Organization
+  - Understand how RBAC works
+  - Create an Azure AD access review
+  - Create and manage policies to enforce compliance
+  
+  
+  ### Module 11&#58; Manage Security for Applications
+  In this module, you will learn about Azure Key Vault and implementing authentication using Azure Managed Identities.
+  #### Lessons
+  - Azure Key Vault
+  - Azure Managed Identity
+  
+  After completing this module, students will be able to&#58;
+  - Explain Key Vault uses such as secrets, key, and Certificate management
+  - Use Managed Identities with Azure resources
+  
+  
+  ### Module 12&#58; Manage Workloads in Azure
+  In this module, you will learn how to migrate workloads using Azure Migrate, perform VMware agent-based and agent-less migrations, and perform Azure Backup and Azure Site Recovery.
+  #### Lessons
+  - Migrate Workloads using Azure Migrate
+  - VMware - Agentless Migration
+  - VMware - Agent-Based Migration
+  - Implement Azure Backup
+  - Azure to Azure Site Recovery
+  - Implement Azure Update Management
+  
+  #### Lab &#58; Protecting Hyper-V VMs by using Azure Site Recovery
+  - Configure Azure Site Recovery
+  - Perform test failover
+  - Perform planned failover
+  - Perform unplanned failover
+  
+  After completing this module, students will be able to&#58;
+  - Understand agent-based migration architecture
+  - Prepare for Azure for migration
+  - Prepare an on-premises VMware environment
+  - Understand Azure VM backup architecture
+  - Manage updates and patches for Azure VMs
+  
+  
+  ### Module 13&#58; Implement Container-Based Applications
+  In this module, you will learn how to run Azure Container instances and how to deploy Kubernetes with AKS.
+  #### Lessons
+  - Azure Container Instances
+  - Configure Azure Kubernetes Service
+  
+  After completing this module, students will be able to&#58;
+  - Run Azure Container instances
+  - Deploy Kubernetes with AKS
+  
+  
+  ### Module 14&#58; Implement an Application Infrastructure
+  In this module, you will learn how to create an App Service web App for Containers, create and configure an App Service Plan, and create and manage Deployment Slots.
+  #### Lessons
+  - Create and Configure Azure App Service
+  - Create an App Service Web App for Containers
+  - Create and Configure an App Service Plan
+  - Configure Networking for an App Service
+  - Create and Manage Deployment Slots
+  - Implement Logic Apps
+  - Implement Azure Functions
+  
+  #### Lab &#58; Configuring a Message-Based Integration Architecture
+  - Configure and validate an Azure Function App Storage Blob trigger
+  - Configure and validate an Azure Event Grid subscription-based queue messaging
+  
+  #### Lab &#58; Implementing an Azure App Service Web App with a Staging Slot
+  - Implement Blue/Green deployment pattern by using deployment slots of Azure App Service web apps
+  - Perform A/B testing by using deployment slots of Azure App Service web apps
+  
+  After completing this module, students will be able to&#58;
+  - Configure an Azure App Service
+  - Create an App Service Plan
+  - Create a Workflow using Azure Logic Apps
+  - Create a Function App
+  
+  
+  ### Module 15&#58; Implement Cloud Infrastructure Monitoring
+  In this module, you will learn about Azure Monitor, Azure Workbooks, Azure Alerts, Network Watcher, Azure Service Health, Azure Application Insights.
+  #### Lessons
+  - Azure Infrastructure Security Monitoring
+  - Azure Monitor
+  - Azure Workbooks
+  - Azure Alerts
+  - Log Analytics
+  - Network Watcher
+  - Azure Service Health
+  - Monitor Azure Costs
+  - Azure Application Insights
+  - Unified Monitoring in Azure
+  
+  In this module, you will learn how to
+  - Understand Azure Log Analytics
+  - Understand Azure Service Health

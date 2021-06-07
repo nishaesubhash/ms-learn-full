@@ -1,0 +1,155 @@
+### YamlMime:Course
+title: Managing Projects with Project Server 2013
+metadata:
+  title: 'Course 55107-A: Managing Projects with Project Server 2013'
+  description: 'Course 55107-A: Managing Projects with Project Server 2013'
+uid: course.55107
+courseNumber: '55107-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create a project plan with MS Project and publish to MS Project Server 2013/Project Server Online
+- skill: Managing project task
+- skill: Managing project tasks resources
+- skill: Reporting status
+- skill: Generating project reports
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-project-server
+summary: |-
+  This two-day instructor-led course is intended for project team member or project managers who build an easy-to-maintain and reusable work schedule for team members and partners. Managing task status and evaluate the work schedule in terms of time, man-hours, tasks, budgets on demand. Also would like to improve effective project team communication and collaboration.
+
+  #### Audience profile
+  This course is intended for both novice and experienced project team members or project managers who will be managing a team or will be involved in project management tasks.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with managing projects or project tasks
+  - Basic Windows and Active Directory knowledge.
+outlineSection: |-
+  ### Module 1&#58; Understanding Projects and Project Management
+  This module explains the basic elements of project and what is the common tasks to perform when managing a project.
+  #### Lessons
+  - What is a Project?
+  - Determining Project Objectives
+  - The Project Triangle
+  - Optimize the Schedule
+  - Introduction to Project Site
+
+
+  #### Lab &#58; Understanding Project Site
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the basics of project management
+  - Create a Project Site
+
+
+  ### Module 2&#58; Create a new Project
+  This module explains how to create a new project with MS Project 2013 and publish it to Project site.
+  #### Lessons
+  - Understand MS Project
+  - Define the Project Scope
+  - Create a Project
+  - Overview of Project calendars
+
+
+  #### Lab &#58; Create a new project
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the scope of a project
+  - Create a new project
+  - Editing project properties
+  - Publish the project to project site
+
+
+  ### Module 3&#58; Managing Project Task
+  This module explains how to manage project tasks in the project. Also explain the considerations for creating work breakdown schedule (WBS).
+  #### Lessons
+  - Defining WBS
+  - Entering task information into project
+  - Create milestone and timeline
+  - Using Dependencies
+
+
+  #### Lab &#58; Managing Project Resources
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the key concept of WBS
+  - Create task in project
+  - Creating dependencies between tasks
+
+
+  ### Module 4&#58; Managing Project Resources
+  This module explains how to manage project resources in MS Project. This module also describe the concept of centralized resources pool with Project Server.
+  #### Lessons
+  - Defining Resources
+  - Assigning Resources to Task
+  - Estimating Project Cost
+  - Resources leveling
+
+
+  #### Lab &#58; Managing Project Resources
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the key concept of managing project resources
+  - Assigning resources to project plan
+  - Estimate project cost
+
+
+  ### Module 5&#58; Using Timesheet
+  This module explains how to report project task status from project member prospective. This module also describe the configuration tasks for enabling timesheet.
+  #### Lessons
+  - Understanding timesheet
+  - Configuring timesheet
+  - Completing timesheet
+
+
+  #### Lab &#58; Using timesheet
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the features of timesheet
+  - Configuring timesheet
+  - Completing timesheet
+
+
+  ### Module 6&#58; Managing Issues and Risks
+  This module explains how to manage issue and risk with Project Site. This also explain the basis of project issues and risks.
+  #### Lessons
+  - Understanding Issue
+  - Understanding Risk
+  - Managing Issue and Risk in Project Site
+
+
+  #### Lab &#58; Managing Issues and Risks
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the key concept of managing project issue and risk
+  - Using Project Site to manage Issue and Risk
+
+
+  ### Module 7&#58; Project Reporting
+  This module explains how to use project report and project site report to understand the project status.
+  #### Lessons
+  - Using Project Report
+  - Using Project Server Report
+  - Building Custom report with Excel
+
+
+  #### Lab &#58; Project Reporting
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the reporting needs
+  - Using built-in reporting
+  - Create custom reporting

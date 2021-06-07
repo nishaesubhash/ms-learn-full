@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: SharePoint 2013 Search for Power Users
+metadata:
+  title: 'Course 55141-A: SharePoint 2013 Search for Power Users'
+  description: 'Course 55141-A: SharePoint 2013 Search for Power Users'
+uid: course.55141
+courseNumber: '55141-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand how search crawls and indexes content.
+- skill: Use core SharePoint search features to find documents.
+- skill: Use wildcards and Boolean operators.
+- skill: Build queries using the Advanced Search page.
+- skill: Search for people.
+- skill: Search using Managed Properties.
+- skill: Search using dates and numbers.
+- skill: Work with Content Type and Content Class properties.
+- skill: Work with multiple languages.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This one-day instructor-led course is intended for information workers or power users who use SharePoint to store and find enterprise content. Students should take this course if they need to know core search features along with the advanced search features, tips and tricks. This class is an excellent prerequisite for IT Professionals who work as SharePoint Server Administrators attending 20331&#58; Core Solutions of Microsoft SharePoint Server 2013.This class can be delivered using SharePoint content on an in-house server, virtual machines or Office 365.
+
+  The courseware is sufficiently detailed with reference content and samples to serve as both an after class search reference and as search “cheat sheet”.
+
+  #### Audience profile
+  This course is intended for&#58;
+  - SharePoint end users
+  - SharePoint Site Owners
+  - SharePoint Site Collection Administrators
+  - SharePoint Administrators and Developers
+  - SharePoint Governance Auditors
+  - Anybody who needs to “find stuff” in SharePoint 2013
+prerequisitesSection: |-
+  - Experience installing PC hardware and devices.
+  - Basic understanding of TCP/IP and networking concepts.
+  - Basic Windows and Active Directory knowledge.
+  - The skills to map network file shares.
+  - Experience working from a command prompt.
+  - Basic knowledge of the fundamentals of applications. For example, how client computer applications communicate with the server.
+  - Basic understanding of security concepts such as authentication and authorization.
+  - An understanding of the fundamental principles of using printers.
+outlineSection: |-
+  ### Module 1&#58; SharePoint Search
+  This module provides an introduction to the topics covered in the class and introduces SharePoint search terminology.
+  #### Lessons
+  - Who is this class for?
+  - Prerequisites
+  - SharePoint versions and search feature differences
+
+  None
+
+  ### Module 2&#58; How Search Works
+  This module covers how SharePoint search finds and indexes content.
+  #### Lessons
+  - Before you can run… you must Crawl!
+  - The Search Flow
+  - Crawl Sources
+  - What is Indexed
+  - What is not Indexed
+  - Content Processing
+  - Search is Security Trimmed
+  - Alternates to Search
+  - Search Limitations
+
+
+  #### Lab &#58; How Search Works
+  - Feature and limitation quiz.
+  - Understand the concepts of crawling and indexing content and the impact on search availability and freshness.
+  - Understand the limits of search, especially what is not indexed.
+
+
+  ### Module 3&#58; Core Search Techniques
+  This module covers the use of the core search techniques.
+  #### Lessons
+  - Search Basics
+  - Where can you search?
+  - Search Navigation
+  - Shoot first and see what you hit…
+  - Refining Your Search
+  - Aim then shoot…
+  - Include or Exclude
+  - Wildcards
+  - Boolean Operators
+  - Files in Libraries vs. Files as Attachments
+  - Search Verticals
+  - Searching for People
+  - The Advanced Search Page
+  - Creating Search Alerts
+  - Search Preferences
+  - The List and Library Search Box
+  - The OneDrive Pro Query Box
+
+
+  #### Lab &#58; Core Search Techniques
+  - Exercise 1&#58; Using core search techniques.
+  - Exercise 2&#58; Using the Enterprise Search Center.
+  - Use the core search features including keywords, wildcards and Boolean operators.
+  - Identify the various places to start a search and the benefits of each.
+  - Search for people.
+
+
+  ### Module 4&#58; Managing Sites and Pages
+  This module covers the more advanced search techniques.
+  #### Lessons
+  - Property Searches
+  - Out of the Box Managed Properties
+  - Data Types
+  - Comparison Operators
+  - ContentClass
+  - Content Types
+  - When is a Title not the Title?
+  - Examples of Property Searches
+  - Working with Multi-Lingual Content
+  - What you can do to improve search results
+
+
+  #### Lab &#58; Managing Sites and Pages
+  - Exercise 1&#58; Using Managed Properties.
+  - Exercise 2&#58; Working with numbers and dates.
+  - Exercise 3&#58; Finding lists and content by ContentClass.
+  - Exercise 4&#58; Finding content by language.
+  - Find content based on Managed Properties.
+  - Properly search for items using dates.
+  - Find lists and libraries by type.
+  - Search using multiple languages.
+  - Understand how a search administrator can tune search.
+  - Understand how to best manage content to make it findable.
+
+
+  ### Module 5&#58; Appendix&#58; Codes and Lists
+  The appendix contains several detailed lists of codes and features useful to users of SharePoint search.
+
+  #### Lessons
+  - Out of the Box Result Sources
+  - Frequently Used Managed Properties
+  - Content Class Codes
+  - SharePoint Search File Types
+  - Search Features by Edition
+  - Understand Codes and Lists
+
+  #### Additional Reading
+  None

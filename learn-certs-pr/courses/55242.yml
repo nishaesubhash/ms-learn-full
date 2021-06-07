@@ -1,0 +1,372 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Customization and Configuration
+metadata:
+  title: 'Course 55242-A: Microsoft Dynamics 365 Customization and Configuration'
+  description: 'Course 55242-A: Microsoft Dynamics 365 Customization and Configuration'
+uid: course.55242
+courseNumber: '55242-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the features and tools that exist in Microsoft Dynamics 365 Customer Engagement
+- skill: Be able to customize and configure the out of the box Apps and Hubs in Microsoft Dynamics 365, including the Sales and Customer Service Apps
+- skill: Create a custom model driven Unified Client Interface (UCI) App using the App Designer and Site Map Designer
+- skill: Be aware of integrating complimenting Microsoft products such as SharePoint, Skype for Business, Exchange and OneNote
+- skill: Undertake and carry out the initial setup and configuration required in a Microsoft Dynamics 365 deployment
+- skill: Configure Auditing in Dynamics 365 and the Office 365 Security and Compliance Center
+- skill: Design and configure a comprehensive Security model using the inbuilt tools in Microsoft Dynamics 365
+- skill: Create a custom Dynamics 365 model including custom Entities, Fields and Relationships
+- skill: Understand the concept of Virtual Entities to integrate external data in Dynamics 365
+- skill: Design custom Forms, Quick View Forms, Quick Create Forms and Card Forms
+- skill: Create custom System Views, Personal Views and Public Views
+- skill: Understand the differences when customizing the Web, UCI and Outlook interfaces
+- skill: Create System Charts, Dashboards and Interactive Experience Dashboards
+- skill: Create and manage Business Rules using the Business Rule Designer
+- skill: Plan, design and implement best practice Workflow, Business Process Flows and Custom Actions
+- skill: Be able to apply best practice methodology using Unmanaged and Managed Solutions to deploy Microsoft Dynamics 365 customizations and patches
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  This course provides students with a detailed hands-on experience of setting up, customizing, configuring and maintaining the components of Microsoft Dynamics 365 Customer Engagement.
+  
+  Attendees of this course will gain an in-depth understanding of the Dynamics 365 security model, learn how to customize the Dynamics 365 framework, create and maintain business process flows, create custom business apps
+  and use solutions to package and deploy customizations across multiple Dynamics 365 environments.
+  
+  The course applies to Microsoft Dynamics 365 Customer Engagement Version 9.* (Online and On-premise deployments).
+  
+  All of our courses have been quality tested by ProCert Courseware Testing.
+
+  #### Audience profile
+  This course is intended for Information workers, IT Professionals and Developers. Students should have an existing working knowledge of either Microsoft Dynamics 365 or Microsoft Dynamics CRM. As a minimum, students should attend the prerequisite course ‘Introduction to Microsoft Dynamics 365’.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+
+  Ideally a working knowledge of Microsoft .Net and Visual Studio 
+  
+  And 
+  
+  It is recommended all students successfully complete the ‘Introduction to Microsoft Dynamics 365’ course
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module provides the attendee with an introduction to the concept of customizing and configuring the Microsoft Dynamics 365 Customer Engagement.
+  #### Lessons
+  - Getting familiar with the versions of Microsoft Dynamics 365
+  - Get acquainted with the Dynamics 365 framework
+  - Review the Dynamics 365 Devices, Apps and Hubs
+  - Understand the tools for Dynamics 365 customizers
+  - A brief overview of Solutions
+  - Understand the differences between Dynamics 365 organizations and environments
+  - Review further reading and resources
+  - Set up the lab environment
+
+
+  #### Lab &#58; Setting up your Lab environment
+  - Setup your Lab and install sample data
+
+  After completing this module, students will be able to&#58;
+  - Understand the different components of Microsoft Dynamics 365
+  - Learn the features of Microsoft Dynamics 365 for Customer Engagement
+  - Be introduced to the Dynamics 365 Framework
+  - Be aware of the different Apps and Hubs in Microsoft Dynamics 365
+  - Be introduced to some of the inbuilt tools for Customizers
+  - Understand about the significance of Solutions in Microsoft Dynamics 365
+  - Be aware of the fundamentals of Organisations and Environments
+
+
+  ### Module 2&#58; Initial Setup and Configuration
+  This module presents some of the most common features that require setup and configuration in Microsoft Dynamics 365.
+  #### Lessons
+  - An introduction to Dynamics 365 Admin Center
+  - An introduction to Dynamics 365 Deployment Manager
+  - An introduction to the Power Platform Admin Center
+  - Review the System Settings area
+  - Understand how to configure Auto Save Settings
+  - Understand how to configure Format Settings
+  - Understand how to configure Email Settings
+  - Understand how to configure Skype Integration
+  - Understand how to configure SharePoint Integration
+  - Understand how to configure OneNote Integration
+  - Understand how to configure Auditing
+
+
+  #### Lab &#58; Configure Dynamics 365 System Settings
+  - Configure Auto Save Settings
+  - Configure Formatting Settings
+  - Configure Email Settings
+
+
+  #### Lab &#58; Configure Dynamics 365 Audit Settings
+  - Enable Auditing in Dynamics 365
+  - Enable Auditing for an Entity
+  - Configure Auditing for a Field
+
+  After completing this module, students will be able to&#58;
+  - Perform the steps necessary to setup and configure Microsoft Dynamics 365 Customer Engagement
+  - Be able to configure Systems Settings including Auto Save, Formatting options and Email Settings
+  - Be aware of integration Microsoft Dynamics 365 with SharePoint, Skype for Business and Exchange
+  - Configure Auditing in Microsoft Dynamics 365 Customer Engagement
+
+
+  ### Module 3&#58; Security
+  This module highlights the importance of maintaining a robust security model in Microsoft Dynamics 365 by stepping through how to configure Business Units, Security Roles, Users and Teams. Access Teams and Hierarchy Security are also considered.
+  #### Lessons
+  - Design and configure Business Units
+  - Configure Security Roles
+  - Manage Users and Teams
+  - Implement Access Teams
+  - Configure Hierarchy Security
+
+
+  #### Lab &#58; Configure Users, Business Units, Security Roles and Access Levels
+  - Add new Users in Dynamics 365
+  - Create new Business Units
+  - Copy a Security Role and Configure Access Levels
+  - Assign Users to Security Roles
+  - Login to Dynamics 365 as a different User to test permissions
+
+
+  #### Lab &#58; Configure Access Teams
+  - Configure an Entity to be used in Access Teams
+  - Create an Access Team Template
+  - Configure a Sub-Grid to use an Access Team
+
+
+  #### Lab &#58; Configure a Management Hierarchy
+  - Enable Hierarchy Security
+  - Configure a Manager Hierarchy
+
+  After completing this module, students will be able to&#58;
+  - Manage Security features in Microsoft Dynamics 365
+  - Configure Business Units, Security Roles, Access Levels, Users and Teams
+  - Know the difference between Teams and Access Teams
+  - Configure Manager and Position Hierarchy Security
+
+
+  ### Module 4&#58; Creating and Managing Entities
+  In this module we will start to look at customizing the Microsoft Dynamics 365 model, including Entities, Relationships, Fields and Forms which can be customized and extended using powerful inbuilt tools.
+  #### Lessons
+  - Introduction to the Dynamics 365 model
+  - Review the different Entity Types
+  - Create new Custom Entities
+  - Managing Entity Ownership
+  - Managing Entity Properties
+  - Custom Entity Security
+  - Virtual Entities
+  - Review Entities and Solutions
+
+
+  #### Lab &#58; Creating and Managing Entities
+  - Creating a new Solution
+  - Create Custom Entities and configure Entity properties
+  - Add existing System Entities to a Solution
+  - Configure permissions for Custom Entities
+
+  After completing this module&#58;
+  - Understand Microsoft Dynamics 365 Model fundamentals
+  - Know the different Entity Types
+  - The process to create new Custom Entities
+  - Manage Entity Properties
+  - The significance of Virtual Entities
+  - Configure Entity Security
+  - Manage Entity customizations with Solutions
+
+
+  ### Module 5&#58; Customizing Fields
+  This module presents the different Field types that exist in Microsoft Dynamics 365 including special Fields like Calculated and Rollup Fields. The Business Rule Designer is also introduced together with Field Level Security.
+  #### Lessons
+  - Introduction to Field Customization
+  - Understand the different Field Types
+  - Review Field Formats
+  - Create a new Field
+  - Review Fields and Solutions
+  - Implement a Calculated Field
+  - Configure Field Level Security
+
+
+  #### Lab &#58; Creating and Managing Fields
+  - Creating Fields
+  - Create a Global Option Set
+
+
+  #### Lab &#58; Creating a Calculated Field
+  - Creating a Calculated Field
+  - Add Fields to an Entity Form
+
+
+  #### Lab &#58; Configuring Field Level Security
+  - Enable a Field for Field Level Security
+  - Configure a Field Security Profile
+
+  After completing this module&#58;
+  - Understand the process to customize Fields in Microsoft Dynamics 365
+  - Know the different Field Types and Formats
+  - Be able to manage Field customizations using Solutions
+  - Create a Calculated Field
+  - Configure Field Level Security
+  - Calculated Fields
+  - Use the Business Rule Designer to configure Field validation
+
+
+  ### Module 6&#58; Customizing Relationships and Mappings
+  This module provides an overview of the different types of Relationships that can be created in Microsoft Dynamics 365.  Relationship Behaviors and Mappings are also considered.
+  #### Lessons
+  - Introduction to Relationships
+  - Review the different Relationship Types
+  - Create a Relationship
+  - Review Relationships and Solutions
+  - Understand Relationship Behaviour
+  - Implement a Hierarchy Relationship
+  - Configure Field Mappings
+
+
+  #### Lab &#58; Create Entity Relationships
+  - Create Entity Relationships
+  - Configure Relationship Behaviour
+
+
+  #### Lab &#58; Create a Hierarchical Relationship
+  - Configure a Hierarchical Relationship
+
+
+  #### Lab &#58; Configure Field Mappings
+  - Configure Field Mappings
+
+  After completing this module&#58;
+  - Understand the different Relationship Types
+  - Be able to create a 1 to Many and Many to Many Relationship
+  - Know how to manage Relationship customizations using Solutions
+  - Understand how to configure Relationship Behaviour
+  - Know how to create a Hierarchical Relationships
+  - Be able to configure Field Mappings
+
+
+  ### Module 7&#58; Customizing Forms, Views and Visualizations
+  This module steps through the process to create, customize and configure Forms, Views, Charts and Dashboards in Microsoft Dynamics 365 Customer Engagement.
+  #### Lessons
+  - The process to create a new Form
+  - Review the different Form types
+  - Using the Form Designer
+  - Customizing the Main, Quick View, Quick Create and Card Forms
+  - Configure Form Security
+  - Review the different View types
+  - Customizing System Views
+  - Configure the Editable Grid
+  - Customizing System Charts and Dashboards
+
+
+  #### Lab &#58; Customizing Forms
+  - Customising Forms
+  - Create a Quick Create Form
+  - Create a Quick View Form
+
+
+  #### Lab &#58; Configuring System Views
+  - Create Custom System Views
+
+
+  #### Lab &#58; Configuring Charts and Dashboards
+  - Configure a System Chart
+  - Construct a System Dashboard
+
+  After completing this module&#58;
+  - Know the various Form Types in Microsoft Dynamics 365
+  - Be able to customize existing Forms and create new custom Forms
+  - Configure Form Security
+  - Be able to customize Views and create new custom System Views
+  - Be able to customize Charts and create new custom System Charts
+  - Be able to customize Dashboards and create new custom System Dashboards
+
+
+  ### Module 8&#58; The Unified Client Interface (UCI)
+  This module looks at the Unified Client Interface (UCI) in Microsoft Dynamics 365, including using the App Designer to create custom Apps and customize an out of the box UCI App such as the Sales Hub and Customer Service Hub.
+  #### Lessons
+  - Introduction to the UCI
+  - The App Designer
+  - Using the Sitemap Designer
+  - Configuring UCI Apps
+  - Managing Apps in Solutions
+
+
+  #### Lab &#58; Customizing an existing UCI App
+  - Use the App Designer to customize an existing UCI App
+
+
+  #### Lab &#58; Build a custom Event Management UCI App
+  - Use the App Designer to build a custom UCI App
+
+  After completing this module&#58;
+  - The App Designer
+  - Using the Sitemap Designer
+  - Configuring UCI Apps
+  - Managing Apps in Solutions
+
+
+  ### Module 9&#58; Processes&#58; Workflows, Business Process Flows and Custom Actions
+  In this module you will learn how to create and maintain Workflows, Business Process Flows and Custom Actions in Microsoft Dynamics 365.
+  #### Lessons
+  - Introduction to Processes
+  - Workflow
+  - Business Process Flows
+  - Custom Actions
+
+
+  #### Lab &#58; Create a Workflow
+  - Create a Workflow
+  - Define when a Workflow Starts
+  - Adding Workflow Steps
+  - Activating a Workflow
+
+
+  #### Lab &#58; Create a Business Process Flow
+  - Create a Business Process Flow
+  - Add Stages to a Business Process Flow
+  - Add Data and Action Steps to a Business Process Flow
+  - Configure Branching Logic in a Business Process Flow
+  - Configure Security for a Business Process Flow
+
+  After completing this module&#58;
+  - Apply best practice when designing and implementing business process automation in Microsoft Dynamics 365
+  - Understand the different types of ‘Processes’ in Dynamics 365
+  - Create a Workflow to perform various actions
+  - Create a Business Process Flow to guide a user through a business process
+  - Understand the benefits of Custom Actions
+
+
+  ### Module 10&#58; Solution Management
+  In this module you will learn how to create and manage Solutions in Microsoft Dynamics 365 Customer Engagement. Solutions act as a container for your customizations, allowing you to easily package, deploy and manage changes to multiple Microsoft Dynamics 365 environments.
+  #### Lessons
+  - An introduction to Solution Management
+  - How to add and administer components in a Solution
+  - The differences between unmanaged and managed Solutions
+  - How to export and import a Solution
+  - How to set Managed Properties for a Solution
+  - What happens when you delete a Solution
+  - How to Clone a Solution Patch
+  - How to Clone a Solution
+
+
+  #### Lab &#58; Solution Management
+  - Export an Unmanaged Solution
+  - Import an Unmanaged Solution
+  - Configuring Managed Properties
+  - Export and Import Managed Solutions
+  - Create a Solution Patch
+  - Clone a Solution
+
+  After completing this module&#58;
+  - Understand Solution principals in Microsoft Dynamics 365 Customer Engagement
+  - Add and update Solution Components
+  - Know the difference between Managed and Unmanaged Solutions
+  - Understand the Export and Import process
+  - Know how to apply Managed Properties
+  - Know how to manage Solution releases using ‘Clone as Patch’ and ‘Clone as Solution’
+  
+  #### Additional Reading
+  None

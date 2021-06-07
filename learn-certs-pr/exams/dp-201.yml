@@ -7,7 +7,7 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
-  <div><font color='red'><strong>A NEW VERSION OF THIS EXAM, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, WILL BE AVAILABLE ON FEBRUARY 23, 2021. You will be able to take this exam until it retires on June 30, 2021. Note: Exams retire at 11:59 PM Central Standard Time.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>A NEW VERSION OF THIS EXAM, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, IS AVAILABLE. You will be able to take this exam until it retires on June 30, 2021. Note: Exams retire at 11:59 PM Central Standard Time.</strong></font><br/><br/></div>
   <div><strong>The content of this exam was updated on July 31, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
   </div>
   
@@ -19,7 +19,7 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: design Azure data storage solutions; design data processing solutions; and design for data security and compliance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
-practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
@@ -69,10 +69,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md
