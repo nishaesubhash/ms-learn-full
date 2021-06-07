@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on May 25, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
   Candidates for this exam are database administrators and data management specialists that manage on-premises and cloud relational databases built with Microsoft SQL Server and Microsoft Azure Data Services.
   
@@ -20,6 +20,7 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: plan and implement data platform resources; implement a secure environment; monitor and optimize operational resources; optimize query performance; perform automation of tasks; plan and implement a High Availability and Disaster Recovery (HADR) environment; and perform administration by using T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
+practiceTestUrl: https://in.mindhub.com/dp-300-administering-relational-databases-on-microsoft-azure-microsoft-official-practice-test/p/MU-DP-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-300&examname=Exam%20DP-300:%20Administering%20Relational%20Databases%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-300
 locales:
 - en
@@ -29,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on May 25, 2021. Please download the exam skills outline below to see what changed.
 - Plan and implement data platform resources (15-20%)
 - Implement a secure environment (15-20%)
 - Monitor and optimize operational resources (15-20%)
@@ -67,10 +68,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

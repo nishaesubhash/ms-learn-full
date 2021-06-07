@@ -1,0 +1,207 @@
+### YamlMime:Course
+title: Configuring and Administering Windows 7
+metadata:
+  title: 'Course 50322-B: Configuring and Administering Windows 7'
+  description: 'Course 50322-B: Configuring and Administering Windows 7'
+uid: course.50322
+courseNumber: '50322-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe and choose the various versions of Windows 7
+- skill: Perform a clean install of Windows 7
+- skill: Create an image for deployment
+- skill: Configure hardware devices
+- skill: Configure software for compatibility
+- skill: Configure networking including sharing resources
+- skill: Configure DirectAccess for the network
+- skill: Monitor and configure system performance
+- skill: Perform backups and configure system restore
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows
+summary: |-
+  This five-day instructor-led course provides students with the knowledge and skills to configure and administer Microsoft Windows 7® as a standalone installation or in a corporate environment as a part of a Windows Active Directory domain. It can also be used to prepare for exam 70-680 TS&#58; Windows 7, Configuring.
+  
+  The contents of the course provide students with the ability to create and deploy images, configure hardware and software, configure networking and backup and restore system information. The course also provides a complete set of exercises on installing and configuring DirectAccess in the classroom.
+
+  #### Audience profile
+  This course is intended for novice and experienced Network Administrators, Desktop Support Technicians or other IT professionals who have a need to install, configure, and administer Microsoft Windows 7. This course can also serve as training preparation for the Windows 7 certification exams.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58; Experience with previous versions of Windows operating systems such as Windows XP or Windows Vista. Students must also have some knowledge of Windows Server operating systems and Active Directory concepts. In addition, students are expected to understand&#58;
+  - Networking with TCP/IP including IPv4 and some IPv6 knowledge.
+  - A general understanding of user accounts and authentication.
+outlineSection: |-
+  ### Module 1&#58; Installing Windows 7
+  This module explains the various editions of Windows 7 and some of the core features of the operating system. Students will learn the hardware requirements and upgrade paths to Windows 7. The module will also show students how to prepare an image of the operating system for deployment.
+  #### Lessons
+  - Introduction to Windows 7
+  - Installing Windows 7 Using Image-Based Installation
+  - Migrating User Settings
+
+
+  #### Lab &#58; Configure a Reference Computer for Imaging
+
+  #### Lab &#58; Capture an Image Using ImageX
+
+  #### Lab &#58; Deploy a Windows 7 Image
+
+  #### Lab &#58; Migrate User Settings
+  After completing this module, students will be able to&#58;
+  - Describe the various editions of Windows 7
+  - Configure and deploy a Windows 7 image.
+  - Learn to use ImageX for image creation and deployment
+  - Use Diskpart to prepare disk partitions to receive a new operating system
+  - Migrate user settings
+
+
+  ### Module 2&#58; Configure Hardware and Software
+  This module explains how to install and configure hardware devices on Windows 7. Users will learn how to add hardware devices, install and update drivers and configure options. It also teaches the student how to configure application compatibility and how to lock down a Windows 7 computer using AppLocker.
+  #### Lessons
+  - Configure Devices
+  - Configure Application Compatibility
+
+
+  #### Lab &#58; Install and Configure Devices
+
+  #### Lab &#58; Configure Application Compatibility
+
+  #### Lab &#58; Configure Application Restrictions
+
+  #### Lab &#58; Configure Internet Explorer
+  After completing this module, students will be able to&#58;
+  - Install and configure hardware devices
+  - View properties on and driver information for hardware
+  - Configure application compatibility settings
+  - Configure application restrictions
+  - Configure Internet Explorer
+
+
+  ### Module 3&#58; Configure the Network
+  This module explains how to configure the networking aspects of Windows 7. Students will be introduced to configuration of general network settings including TCP/IP network configuration using IPv4 and IPv6 settings. They will also learn about wireless network configuration. Students will also learn how to share resources across the network, configure the Windows Firewall for security, configure remote management using Remote Desktop and Remote Assistance, and troubleshoot network connectivity issues.
+  #### Lessons
+  - Configure General Network Settings
+  - Managing Wireless Networks
+  - Sharing Resources
+  - Configure TCP/IP
+  - Troubleshooting Network Connectivity
+  - Configure Windows Firewall
+  - Configure Remote Management
+
+
+  #### Lab &#58; Configure Network Discovery
+
+  #### Lab &#58; Configure TCP/IP Settings
+
+  #### Lab &#58; Configure Windows Firewall
+
+  #### Lab &#58; Configure Remote Management
+  After completing this module, students will be able to&#58;
+  - Configure networking on Windows 7 including network discovery
+  - Configure TCP/IP settings using IPV4 and IPv6
+  - Configure the Windows Firewall
+  - Configure and use Remote Desktop and Remote Assistance
+
+
+  ### Module 4&#58; Sharing and Securing Resources
+  This module explains how to implement sharing of resources on the network with Windows 7 computers. Topics covered will introduce the student to share permissions and NTFS permissions. Students will also learn how configure and implement a HomeGroup using Windows 7 computers. 
+  
+  Once the student understands how to share resources and make them available on the network, they will be introduced to securing the computer through the use of the User Account Control (UAC) features of Windows 7. They will also learn how to work with authentication and authorization to the computer and the use of digital certificates. Finally, the students will learn about the BranchCache feature of Windows 7 and Windows Server 2008 R2.
+  #### Lessons
+  - Configure Shared Resources
+  - Configuring HomeGroup Settings
+  - Configure User Account Control (UAC)
+  - Configure Authentication and Authorization
+  - Configure BranchCache
+
+
+  #### Lab &#58; Configure Shared Resources
+
+  #### Lab &#58; Configure HomeGroup Settings
+
+  #### Lab &#58; Configure User Account Control (UAC)
+
+  #### Lab &#58; Configure Authentication and Authorization
+
+  #### Lab &#58; Configure BranchCache
+  After completing this module, students will be able to&#58;
+  - Configure Shared Resources
+  - Configuring HomeGroup Settings
+  - Configure User Account Control (UAC)
+  - Configure Authentication and Authorization
+  - Configure BranchCache
+
+
+  ### Module 5&#58; Windows 7 and Mobile Computing
+  This module will teach the student how to work with the features in Windows 7 for mobile users. Students will learn how to configure and implement BitLocker and BitLockerToGo for securing files on hard drives and removable storage devices. Mobile users often make use of offline files and this module will introduce students to offline files in Windows and how to configure for offline use and resolve synchronization issues. Students will also learn how to configure other mobility options such as power settings and remote connections such as dial-up and VPN.
+  
+  Finally students will learn about a new feature in Windows 7 for remote users known as DirectAccess. This new technology eliminates the need to create and configure VPN connections over Remote Access Services. Instead DirectAccess allows secure connections directly from the client computer over the Internet. 
+  
+  DirectAccess requires careful configuration and specific components to be implemented. Students will learn how to configure a complete DirectAccess implementation with the final lab allowing them the opportunity to perform all the setup and configuration necessary to make DirectAccess work including a simulated Internet environment.
+  #### Lessons
+  - Configure BitLocker and BitLocker ToGo
+  - Configuring DirectAccess
+  - Configure Mobility Options
+  - Configure Offline Files
+  - Configure Remote Connections
+
+
+  #### Lab &#58; Working with BitLocker
+
+  #### Lab &#58; Working with Offline Files
+
+  #### Lab &#58; Configure DirectAccess
+  After completing this module, students will be able to&#58;
+  - Configure BitLocker and BitLocker ToGo
+  - Configuring DirectAccess
+  - Configure Mobility Options
+  - Configure Offline Files
+  - Configure Remote Connections
+
+
+  ### Module 6&#58; Monitoring and Maintaining Windows 7
+  This module will teach the student how to configure updates in Windows 7 to ensure their computers are getting the necessary updates to keep them secure and performing at peak efficiency. Students will also learn how to monitor the system through the use of various tools to determine where performance issues exist and then how to configure performance settings to increase responsiveness.
+  
+  The module also discusses how to manage the disks on a computer including how to create and manage partitions using Disk Management and how to create virtual hard drives (VHDs).
+  #### Lessons
+  - Configure Updates
+  - Manage Disks
+  - Monitor Systems
+  - Configure Performance Settings
+
+
+  #### Lab &#58; Configure Windows Updates
+
+  #### Lab &#58; Manage Disks
+
+  #### Lab &#58; Monitor Systems
+
+  #### Lab &#58; Configure Performance Settings
+  After completing this module, students will be able to&#58;
+  - Configure Updates
+  - Manage Disks
+  - Monitor Systems
+  - Configure Performance Settings
+
+
+  ### Module 7&#58; Backup and Recovery
+  This module will teach the student how configure backup and restore for data files on the computer. Students will also learn about System Restore points and System Recovery options. The labs reinforce the use of system recovery options and restore points by demonstrating the use of each to protect data and other files.
+  #### Lessons
+  - Configure Backup
+  - Configuring System Recovery Options
+
+
+  #### Lab &#58; Configure Backup
+
+  #### Lab &#58; Configure System Recovery
+
+  #### Lab &#58; Configure File Recovery
+  After completing this module, students will be able to&#58;
+  - Configure Backup
+  - Configuring System Recovery Options

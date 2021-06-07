@@ -1,0 +1,76 @@
+### YamlMime:Course
+title: Azure AI ソリューションの設計と実装
+metadata:
+  title: 'Course AI-100T01JA-A: Azure AI ソリューションの設計と実装'
+  description: 'Course AI-100T01JA-A: Azure AI ソリューションの設計と実装'
+uid: course.ai-100t01ja
+courseNumber: 'AI-100T01JA-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+summary: |-
+  Language Understanding や Azure Cognitive Services の事前に構築された AI 機能を含めて、Microsoft Azure プラットフォームの人工知能を使用して顧客サポート チャット ボットを構築することにより、Azure AI ソリューションを設計するために必要な知識を習得します。
+
+  #### Audience profile
+  このコースは、クラウド
+  ソリューション アーキテクト、Azure 人工知能の設計者、および AI 開発者を対象としています。
+prerequisitesSection: |-
+  クリックまたはタップ このコースを受講する前に、以下を習得している必要があります。
+  - Azure の基本
+  - Azure ストレージ テクノロジの理解
+  - C# の知識。ここをクリックしてテキストを入力します。
+outlineSection: |-
+  ### セクション 1&#58; Azure Cognitive Services の概要
+  Microsoft Azure で利用できる Cognitive Services および AI ソリューションにおける自分の役割について学習します。
+  #### レッスン
+  - Azure Cognitive Services の概要
+  - Azure Portal での Cognitive Services の作成
+  - Cognitive Service にアクセスしてテストを行う
+
+
+  ### セクション 2&#58; ボットの作成
+  Microsoft Bot Framework および Bot Service について学習します。
+  #### レッスン
+  - ボット サービスの概要
+  - 基本的なフィルタリング ボットの作成
+  - Bot Emulator のテスト
+
+
+  ### セクション 3&#58; QnA Maker でのボットの拡張
+  QnA Maker の概要、ボットを QnA Maker と統合して、ユーザーとの対話に役立つナレッジ ベースを構築する方法について学習します。
+  #### レッスン
+  - QnA Maker の概要
+  - QnA Maker を使用してナレッジ ベースを実装する
+  - QnA をボットと統合する
+
+
+  ### セクション 4&#58;  LUIS を使用して Language Understanding 機能を作成する方法を学習する
+  LUIS の概要、意図と発話を作成して自然言語処理ソリューションをサポートする方法について学習します。
+  #### レッスン
+  - Language Understanding の概要
+  - LUIS サービスを作成する
+  - 意図と会話を使用して Language Understanding を構築する
+
+
+  ### セクション 5&#58; LUIS を使用したボットの拡張
+  LUIS とボットを統合して、ボットとの対話時にユーザーの意図の理解を深める方法について学習します。
+  #### レッスン
+  - AI アプリケーションにおける Language Understanding の概要
+  - LUIS とボットを統合して AI ベースのソリューションを作成する
+
+
+  ### セクション 6&#58; Cognitive Services をボットやエージェントと統合する
+  感情分析、イメージ分析およびテキスト分析、OCR およびオブジェクト検出などの高度な機能のために、Azure Cognitive Services でボットとエージェントを統合する方法について学習します。
+  #### レッスン
+  - ボットとの対話のための Cognitive Services を理解する
+  - Text Analytics を使用してボットの感情分析を行う
+  - Language Cognitive Services を使用してボットの言語を検出する
+  - Computer Vision をボットと統合する

@@ -1,0 +1,146 @@
+### YamlMime:Course
+title: Yammer Development Inside Out
+metadata:
+  title: 'Course 55104-A: Yammer Development Inside Out'
+  description: 'Course 55104-A: Yammer Development Inside Out'
+uid: course.55104
+courseNumber: '55104-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to develop Yammer apps that call the REST and OpenGraph APIs.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  Explore Yammer from various roles of End User, IT Pro and Developer with an emphasis on development.
+
+  #### Audience profile
+  This course is intended for anyone tasked with customizing and managing a Yammer Environment.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A Yammer Enterprise Instance.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  Understand your course, classroom, classmates, facility and instructor.
+
+  ### Module 2&#58; End User 101
+  In this module we will review the Yammer Signup process, Yammer Networks and Groups and tour the common features of the Yammer platform such as Conversations, Profiles, Inbox and Private Messages, Notes and Chat, Files and Links, Announcements, Events, Polls and Praise.
+  #### Lessons
+  - Signing Up
+  - Networks and Groups
+  - Product Tour
+  - Yammer Apps
+  - Power User Tips
+
+
+  #### Lab &#58; Exploring Yammer Features
+
+  After completing this module, students will be able to&#58;
+
+  - Login to Yammer
+  - Understand Networks and Groups
+  - Describe the various features of the Yammer Platform
+
+
+  ### Module 3&#58; IT Pro 101
+  In this module you will learn about the product versions of Yammer, how to activate an Enterprise feature, the governance features of yammer, how to brand your Yammer instance and why you should setup DirectorySync and Single Sign On.
+  #### Lessons
+  - Product Version Comparison
+  - Activation Process
+  - Governance Capabilities
+  - Branding Options
+  - DirectorySync and Single Sign On
+  - Administrative FAQs
+
+
+  #### Lab &#58; Explore IT Pro Features
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the difference between the Freemium and Enterprise versions of Yammer
+  - Activate a Yammer Enterprise feature via Office 365
+  - Describe the governance features of Yammer
+  - Understand how to brand your Yammer instance
+  - Why and how to setup DirectorySync and Single Sign On
+
+
+  ### Module 4&#58; Developer 101
+  In this module you will learn how to register a Yammer App, explore the various API rate limits and how to utilize the Impersonation feature of Yammer.
+  #### Lessons
+  - Development Options
+  - Registering Yammer Apps
+  - Rate Limits
+  - Impersonation
+
+
+  #### Lab &#58; Developing with Yammer
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the various ways you can develop with Yammer
+  - Understand how to register a Yammer App
+  - Understand Yammer Rate Limits
+  - How to utilize the Yammer Impersonation feature
+
+
+  ### Module 5&#58; Yammer Embed
+  In this module you will explore the Yammer Embed feature and how to use it in your internal and external sites. You will learn some of the more advanced features such as Action buttons and how to utilize the eventing system of the Yammer Embed feature.
+  #### Lessons
+  - Yammer Embed
+  - Embed Options
+  - Action Buttons
+  - Handling Events
+
+
+  #### Lab &#58; Developing with Yammer Embed
+
+  After completing this module, students will be able to&#58;
+
+  - Be able to describe what Yammer Embed is and is not
+  - Develop solutions using the Yammer Embed feature
+  - Be able to add Action Buttons to Yammer Embed
+  - Handle events of Yammer Embed
+
+
+  ### Module 6&#58; Yammer REST
+  In this module you will learn the various ways to authenticate and then use the REST APIs of Yammer.
+  #### Lessons
+  - REST Basics
+  - Authentication
+  - REST EndPoint Details
+
+
+  #### Lab &#58; Working With Yammer REST
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the various ways to authenticate to Yammer
+  - Describe the various Yammer REST endpoints
+  - Programmatically call REST APIs to post messages, files and other items to Yammer
+
+
+  ### Module 7&#58; Yammer OpenGraph
+  In this module you will learn about the Yammer OpenGraph API and how to use it to create your own activity templates using custom types and actions.
+  #### Lessons
+  - Yammer OpenGraph
+  - Embed with OpenGraph
+  - Manipulating OpenGraph Objects
+  - OpenGraph in Activities
+  - Custom Types and Actions
+
+
+  #### Lab &#58; Programming Yammer OpenGraph
+
+  After completing this module, students will be able to&#58;
+
+  - Describe what the Yammer OpenGraph feature is
+  - How to create and use Yammer OpenGraph objects in activity streams
+  - How to create custom types and actions

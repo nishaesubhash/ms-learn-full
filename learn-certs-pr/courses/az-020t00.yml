@@ -1,0 +1,115 @@
+### YamlMime:Course
+title: Microsoft Azure solutions for AWS developers
+metadata:
+  title: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+  description: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+uid: course.az-020t00
+courseNumber: 'AZ-020T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+- uid: exam.az-204
+summary: |-
+  A three-day course designed to teach AWS (Amazon Web Services) developers how to prepare end-to-end solutions in Microsoft Azure. In this course you will construct Azure App Service Web App solutions and Azure Functions, use blob or Cosmos DB storage in solutions, implement secure cloud solutions that include user authentication and authorization, implement API management, and develop event- and message-based solutions, and monitor, troubleshoot, and optimize your Azure solutions. You will learn how developers use Azure services, with additional focus on features and tasks that differ from AWS, and what that means for you as you develop applications that will be hosted by using Azure services.
+
+  #### Audience profile
+  Students in this course are experienced AWS developers interested in Azure development.
+prerequisitesSection: |-
+  Students should have 1-2 years professional development experience and experience with AWS. They must be able to program in an Azure Supported Language.
+outlineSection: |-
+  ### Module  1&#58; Create Azure App Service Web Apps
+  Students will learn how to build a web application on the Azure App Service platform. They will learn how the platform functions and how to create, configure, scale, secure, and deploy to the App Service platform.
+  #### Lessons
+  - Azure App Service core concepts
+  - Creating an Azure App Service Web App
+  - Configuring and Monitoring App Service apps
+  - Scaling App Service apps
+  - Azure App Service staging environments
+
+
+  ### Module  2&#58; Implement Azure functions
+  This module covers creating Functions apps, and how to integrate triggers and inputs/outputs in to the app.
+  #### Lessons
+  - Azure Functions overview
+  - Developing Azure Functions
+  - Implement Durable Functions
+
+
+  ### Module  3&#58; Develop solutions that use blob storage
+  Students will learn how Azure Blob storage works, how to manage data through the hot/cold/archive blob storage lifecycle, and how to use the Azure Blob storage client library to manage data and metadata. Also, students will learn how to create an ARM (Azure Resource Manager) Template.
+  #### Lessons
+  - Azure Blob storage core concepts
+  - Managing the Azure Blob storage lifecycle
+  - Working with Azure Blob storage
+  - Create an Azure Resource Manager Template
+
+
+  ### Module  4&#58; Develop solutions that use Cosmos DB storage
+  Students will learn how Cosmos DB is structured and how data consistency is managed. Students will also learn how to create Cosmos DB accounts and create databases, containers, and items by using a mix of the Azure Portal and the .NET SDK.
+  #### Lessons
+  - Azure Cosmos DB overview
+  - Azure Cosmos DB data structure
+  - Working with Azure Cosmos DB resources and data
+  - Create and deploy ARM templates
+  
+  
+  ### Module  5&#58; Create and deploy Azure Resource Manager (ARM) templates
+  Students will learn how to create and deploy Azure Resource Manager templates that can be used to speed new deployment and create consistency across resources.
+  #### Lessons
+  - Create and deploy ARM templates
+  
+  
+  ### Module  6&#58; Implement user authentication and authorization
+  Students will learn how to leverage the Microsoft Identity Platform v2.0 to manage authentication and access to resources. Students will also learn how to use the Microsoft Authentication Library and Microsoft Graph to authenticate a user and retrieve information stored in Azure, and how and when to use Shared Access Signatures.
+  #### Lessons
+  - Implementing Microsoft idenity platform
+  - Implement Microsoft Authentication Library
+  - Secure app configuration data by using Azure App Configuration
+  
+  
+  ### Module  7&#58; Implement secure cloud solutions
+  This module covers how to secure the information (keys, secrets, certificates) an application uses to access resources. It also covers securing application configuration information.
+  #### Lessons
+  - Manage keys, secrets, and certificates by using the KeyVault API
+  - Implement Managed Identities for Azure resources
+  - Secure app configuration data by using Azure App Configuration
+  
+  
+  ### Module  8&#58; Implement API Management
+  Students will learn how to publish APIs, create policies to manage information shared through the API, and to manage access to their APIs by using the Azure API Management service.
+  #### Lessons
+  - Implement API Management
+  - Defining policies for APIs
+  - Securing your APIs
+  
+  
+  ### Module  9&#58; Develop event-based solutions
+  Students will learn how to build applications with event-based architectures.
+  #### Lessons
+  - Implement Azure Event Grid
+  - Implement Azure Event Hubs
+  - Implement Azure Notification Hub
+  
+  
+  ### Module  10&#58; Develop message-based solutions
+  Students will learn how to build applications with message-based architectures.
+  #### Lessons
+  - Implement solutions that use Azure Service Bus
+  - Implement solutions that use Azure Queue Storage queues
+  
+  
+  ### Module  11&#58; Monitor and optimize Azure solutions
+  This module teaches students how to instrument their code for telemetry.
+  #### Lessons
+  - Applications of Azure Application Insights
+  - Instrument an app for monitoring

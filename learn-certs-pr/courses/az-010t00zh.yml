@@ -1,0 +1,45 @@
+### YamlMime:Course
+title: AWS Sysops 的 Azure 管理
+metadata:
+  title: 'Course AZ-010T00ZH-A: AWS Sysops 的 Azure 管理'
+  description: 'Course AZ-010T00ZH-A: AWS Sysops 的 Azure 管理'
+uid: course.az-010t00zh
+courseNumber: 'AZ-010T00ZH-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+summary: |-
+  这个为期两天的课程是为有兴趣了解如何管理 Azure 的 AWS Sysops 管理员设计的。讲习班的主要主题是 Azure 管理、Azure 网络、Azure 计算、Azure 存储和 Azure 治理。该讲习班结合了演讲、动手实践练习和讨论/复习。在讲习班期间，学生将建立一个端到端的体系结构，以演示本课程中讨论的主要功能。
+
+  #### Audience profile
+  本课程的受众是 AWS Sysops 管理员助理或同等水平人员。该人员在 AWS 部署、管理和运营方面拥有一到两年的经验。参加本课程的学生对学习 Azure 与 AWS 有何不同以及如何管理 Azure 感兴趣。学生还可能有兴趣参加 AZ-103 Microsoft Azure 管理员认证考试或 AZ-900 Azure 基础知识考试。
+prerequisitesSection: |-
+  成功的 AWS Sysops 开始本课程时应具备操作系统、虚拟化、云基础结构、存储结构、标识解决方案和网络方面的经验。具体来说，学生应具备&#58; 
+  - 有关如何构造 CLI 命令的实用知识，包括使用帮助页面确定适当的参数和命令结构。
+  - 了解虚拟网络概念、域名系统 (DNS)、虚拟专用网络(VPN)、防火墙、网关和加密技术。
+  - 了解虚拟机、如何使用虚拟机以及诸如 CPU 性能和磁盘之类的配置选项。
+  - 了解虚拟存储概念，例如存储帐户、blob、文件共享和磁盘类型。
+  - 了解治理概念，包括基于角色的访问控制、身份管理和身份保护。
+outlineSection: |-
+  ### Module  1&#58; Azure 管理
+  在本模块中，你将学习管理 Azure 所需的工具和原理概念。主题包括&#58; 资源管理器、资源组、Azure 门户、Azure CLI、Azure 模板、Cloud Shell、Azure 市场和 Azure PowerShell。
+
+  ### Module  2&#58; Azure 网络
+  在本模块中，你将了解 Azure 网络功能。主题包括&#58; Azure 区域、虚拟网络和子网、IP 寻址、网络安全组、虚拟网络对等、VNet 到 VNet 连接、ExpressRoute、负载均衡器和网络观察程序。
+
+  ### Module  3&#58; Azure 计算
+  在本模块中，你将学习有关配置和监视 Azure 虚拟机的信息。主题包括&#58; Azure 虚拟机、创建虚拟机、虚拟机大小、虚拟机磁盘、可用性区域、可用性集、Windows VM 连接、Linux VM 连接、Azure Monitor 和 Azure 警报。
+
+  ### Module  4&#58; Azure 存储
+  在本模块中，你将了解 Azure 存储功能和实施功能。主题包括&#58; 存储帐户、Blob 存储、Blob 性能层、文件共享、文件同步、Data Box、内容分发网络、共享访问签名和服务终结点。
+
+  ### Module  5&#58; Azure 身份识别
+  在本模块中，你将了解 Azure 身份解决方案。主题包括&#58; Azure 域，基于角色的访问控制、Azure Active Directory、多重身份验证、Azure AD 身份保护和 Azure Policy。

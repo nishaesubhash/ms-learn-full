@@ -1,0 +1,146 @@
+### YamlMime:Course
+title: SharePoint 2010 Overview for Developers
+metadata:
+  title: 'Course 50351-B: SharePoint 2010 Overview for Developers'
+  description: 'Course 50351-B: SharePoint 2010 Overview for Developers'
+uid: course.50351
+courseNumber: '50351-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Sandboxed Solutions, RESTful services, LINQ and Business Connectivity Services
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 2-day instructor-led course will teach you all the new development changes that were made to SharePoint 2010 including (Sandboxed solutions, LINQ, REST, Client Object Model, BCS, Workflows and Claims based authentication.)
+
+  #### Audience profile
+  Anyone interested in getting an introductory look at the new development features of SharePoint 2010.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - .NET Object Oriented programming and understanding of development in SharePoint 2007.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; User Interface
+  In this module we take a look at the new features of SharePoint 2010 from a user interface standpoint.  This module will help you with navigating through the remainder of the modules and labs faster.  Some things we will explore include the new Ribbon and UI aspects.
+  #### Lessons
+  - New SharePoint Features
+
+
+  #### Lab &#58; User interface
+  After completing this module, students will be able to&#58;
+  - Describe the new UI features of SharePoint sites
+  - Understand how to work with the Ribbon
+
+
+  ### Module 3&#58; Visual Studio 2010
+  In this module we are going to take a look at the new SharePoint project templates includes with Visual Studio 2010 and their many improved features!
+  #### Lessons
+  - Visual Studio 2010
+
+
+  #### Lab &#58; Visual Studio 2010
+  After completing this module, students will be able to&#58;
+  - Be familiar with the new Visual Studio 2010 interface
+  - What SharePoint project templates exists in Visual Studio 2010
+  - How to utilize the deployment capabilities of the templates
+  - How to fix common 64 bit development issues
+
+
+  ### Module 4&#58; Sandboxed Solutions
+  In this module we are going to take a look at SandBoxed Solutions in SharePoint 2010.
+  #### Lessons
+  - Sandboxed Solutions
+
+
+  #### Lab &#58; Sandboxed Solutions
+
+  #### Lab &#58; DeveloperDashboard
+  After completing this module, students will be able to&#58;
+  - How to create a SandBoxed Solution
+  - What the limitations are of SandBoxed Solutions
+  - What Resource Measures are and how to modify them
+
+
+  ### Module 5&#58; LINQ and REST
+  In this module we are going to take a look at the new REST and LINQ features of SharePoint 2010.
+  #### Lessons
+  - REST
+  - LINQ
+
+
+  #### Lab &#58; REST
+
+  #### Lab &#58; LINQ
+  After completing this module, students will be able to&#58;
+  - How to use REST Services
+  - How to generate and use LINQ
+
+
+  ### Module 6&#58; Client Object Model
+  In this module we are going to take a look at the three new Client Object Models available in SharePoint 2010!
+  #### Lessons
+  - Client Object Model
+
+
+  #### Lab &#58; ClientObjectModel
+
+  #### Lab &#58; ECMAScript
+
+  #### Lab &#58; SilverLight
+  After completing this module, students will be able to&#58;
+  - How to use the Client Object Model
+  - How to use the JavaScript Object Model
+  - How to use the Silverlight Object Model
+
+
+  ### Module 7&#58; Business Connectivity Services
+  In this module we are going to take a look at the new Business Connectivity Services.
+  #### Lessons
+  - Business Connectivity Services
+
+
+  #### Lab &#58; BCS
+  After completing this module, students will be able to&#58;
+  - Understand how BCS works
+  - How to build new BCS applications
+  - How to Upgrade your older BDC applications
+
+
+  ### Module 8&#58; Workflows
+  In this module we are going to take a look at implementing workflows with SharePoint Designer 2010.
+  #### Lessons
+  - Workflows
+
+
+  #### Lab &#58; ReusableWorkflows
+
+  #### Lab &#58; ModifyOOBWorkflow
+  After completing this module, students will be able to&#58;
+  - Build workflows with SharePoint Designer 2010
+  - Understand how to edit built in workflows
+  - Implement logging in your workflows
+
+
+  ### Module 9&#58; Claims Based Authentication
+  In this module we are going to take a look at the new workflow features of SharePoint 2010.
+  #### Lessons
+  - Claims Based Authentication
+
+
+  #### Lab &#58; ClaimsBasedAuth
+  After completing this module, students will be able to&#58;
+  - How to work with Claims Based Authentications
+  - How to build a Claims provider

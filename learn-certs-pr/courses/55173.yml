@@ -1,0 +1,186 @@
+### YamlMime:Course
+title: Introduction to Microsoft Word 2016
+metadata:
+  title: 'Course 55173-A: Introduction to Microsoft Word 2016'
+  description: 'Course 55173-A: Introduction to Microsoft Word 2016'
+uid: course.55173
+courseNumber: '55173-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to create and edit Microsoft Word documents.
+- skill: Learn about the Ribbon.
+- skill: Learn about the File tab.
+- skill: Learn to create new documents and use Word templates.
+- skill: Learn to format Word documents.
+- skill: Learn to add page numbers, headers and footers, and spell and grammar check documents.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-word
+summary: |-
+  This Introduction to Microsoft Word 2016 training class is designed for students new to working with Microsoft Word in Windows. Students will learn to create, edit, format, and print Microsoft Word documents.
+
+  #### Audience profile
+  Students who have little or no familiarity with Microsoft Word 2016 or more experienced Word users who want to learn the topics covered in this course in the 2016 interface.
+outlineSection: |-
+  ### Module 1&#58; Creating a Microsoft Word Document
+  This module explains how to get started creating Microsoft Word documents.
+  #### Lessons
+  - Starting a Microsoft Document
+  - Creating a Document
+  - Saving a Document
+  - Importing a File
+  - The Status Bar
+  - Closing a Document
+  - Exercise&#58; Create a Microsoft Word Document
+
+  After completing this module, students will be able to&#58;
+  - Start Microsoft Word.
+  - Create a Microsoft Word document.
+  - Save a Microsoft Word document.
+  - Understand the Status Bar.
+  - Close a Microsoft Word document.
+
+
+  ### Module 2&#58; The Ribbon
+  This module explains how to work with the Ribbon in Microsoft Word.
+  #### Lessons
+  - The Ribbon
+  - Tabs
+  - Groups
+  - Commands
+  - Exercise&#58; Exploring the Ribbon
+
+  After completing this module, students will be able to&#58;
+  - Work with tabs.
+  - Work with groups.
+  - Work with commands
+  - Understand which groups and commands are found on which tabs.
+
+
+  ### Module 3&#58; The Backstage View (The File Menu)
+  This module explains how to work with the many features located in the Backstage view.
+  #### Lessons
+  - Introduction to the Backstage View
+  - Opening a Document
+  - Exercise&#58; Open a Document
+  - New Documents and Word Templates
+  - Exercise&#58; Write a Thank You Letter Using a Template Letter
+  - Configuring Documents to Print
+  - Exercise&#58; Print a Document
+  - Adding Your Name to Microsoft Word
+  - Adding Values to Document Properties
+  - Working with Autosaved Versions of Documents
+
+  After completing this module, students will be able to&#58;
+  - Understand how to work with the Backstage view.
+  - Open a Microsoft Word Document.
+  - Start a new Microsoft Word document.
+  - Use Microsoft Word templates.
+  - Print a Microsoft Word document.
+  - Personalize their copy of Microsoft Word.
+
+
+  ### Module 4&#58; The Quick Access Toolbar
+  This module explains how to work with the Quick Access Toolbar in Microsoft Word.
+  #### Lessons
+  - Adding Common Commands
+  - Adding Additional Commands with the Customize Dialog Box
+  - Adding Ribbon Commands and Groups
+  - Placement
+  - Exercise&#58; Customize the Quick Access Toolbar
+
+  After completing this module, students will be able to&#58;
+  - Customize the Quick Access Toolbar.
+
+
+  ### Module 5&#58; Formatting Microsoft Word Documents
+  This module explains how work with formatting in Microsoft Word.
+  #### Lessons
+  - Selecting Text
+  - Selecting Fonts
+  - Exercise&#58; Working with Fonts
+  - Working with Lists
+  - Exercise&#58; Working with Lists
+  - Inserting a Hyperlink in a Document
+  - Exercise&#58; Inserting a Hyperlink
+  - Using Styles
+  - Exercise&#58; Applying and Creating Custom Styles
+  - Using Themes
+  - Using the Ruler
+  - Exercise&#58; Using Tabs
+  - Setting Margins
+  - Exercise&#58; Setting Margins
+
+  After completing this module, students will be able to&#58;
+  - Add, remove, and change fonts in Microsoft Word documents.
+  - Work with lists.
+  - Add hyperlinks in a document.
+  - Apply styles in Microsoft Word documents.
+  - Use themes.
+  - Use the Ruler within Microsoft Word.
+  - Set margins within Microsoft Word.
+
+
+  ### Module 6&#58; Editing Documents
+  This module explains how to edit documents in Microsoft Word.
+  #### Lessons
+  - Find
+  - Find and Replace
+  - Find and Replace Tips
+  - Appending Text to a Document
+  - Exercise&#58; Using Find and Replace
+  - Using the Clipboard
+  - Exercise&#58; Using the Clipboard
+
+  After completing this module, students will be able to&#58;
+  - Locate information in your document using Find.
+  - Use Find and Replace to quickly replace words or phrases with other words or phrases.
+  - Use the Cut, Copy, Paste and Format Painter commands to edit documents.
+
+
+  ### Module 7&#58; Finalizing Microsoft Word Documents
+  This module explains how to use various features to finalize Microsoft Word documents.
+  #### Lessons
+  - Adding Page Numbers
+  - Exercise&#58; Adding Page Numbers
+  - Headers and Footers
+  - Exercise&#58; Using Headers and Footers
+  - Checking Spelling and Grammar
+  -	Exercise&#58; Checking Spelling and Grammar
+
+  After completing this module, students will be able to&#58;
+  - Add page numbers to a Microsoft Word document.
+  - Add and customize headers and footers.
+  - Find and correct spelling mistakes.
+  - Find and correct grammar mistakes.
+
+
+  ### Module 8&#58; Microsoft Word New Features Since 2013
+  This module explains how to use the Read Mode and the Object Zoom feature, which were new since 2013.
+  #### Lessons
+  - Using Read Mode
+  - Object Zoom Feature
+  - Exercise&#58; Exploring the Read Mde and Object Zoom
+
+  After completing this module, students will be able to&#58;
+  - Use Read Mode.
+  - Use the Object Zoom Feature
+
+
+  ### Module 9&#58; New Features in Word 2016
+  This module explains how to the Tell Me and Smart Look up features, new to 2016.
+  #### Lessons
+  - Tell Me
+  - Smart Lookup
+  - Tell Me
+
+  After completing this module, students will be able to&#58;
+  - Use the Tell Me feature
+  - Use the Smart Lookup feature

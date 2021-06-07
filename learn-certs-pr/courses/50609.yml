@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: Office 365 Lync Onlineの活用
+metadata:
+  title: 'Course 50609-A: Office 365 Lync Onlineの活用'
+  description: 'Course 50609-A: Office 365 Lync Onlineの活用'
+uid: course.50609
+courseNumber: '50609-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Lync Online の使い方の基礎が理解できる。
+- skill: 在席状況（プレゼンス）を確認したり、IM（インスタントメッセージ）を活用したりすることができる。
+- skill: PC To PC 間の音声通話・ビデオ通話を活用することができる。
+- skill: 多人数でのオンライン会議を活用することができる。
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Course retirement date&#58; November 30, 2012
+  
+  For a complete list of courseware retirements, see&#58; 
+  
+  https://www.microsoft.com/learning/retired-courses.aspx
+  
+  このコースでは、エンドユーザー向けに Lync Onlineの活用方法ついて説明します。
+
+  #### Audience profile
+  Lync Onlineの基本的な使い方を理解しようとしている方
+prerequisitesSection: |-
+  Office を使ってビジネス文書が作成できること
+outlineSection: |-
+  ### セクション 1&#58; Office 365 の概要
+  #### レッスン
+  - 本テキストについて
+  - 本テキストで学習すること
+  - クラウドコンピューティングとは
+  - Office 365 とは
+  - Lync Online とは
+
+
+  #### ラボ &#58; Office 365 の概要
+
+  ### セクション 2&#58; セミナー環境の確認
+  #### レッスン
+  - 本テキストで想定されている企業と業務
+
+
+  #### ラボ &#58; セミナー環境の確認
+
+  ### セクション 3&#58; ユニファイドコミュニケーションとリモートワーク
+  #### レッスン
+  - ユニファイドコミュニケーションとリモートワーク
+
+
+  #### ラボ &#58; ユニファイドコミュニケーションとリモートワーク
+
+  ### セクション 4&#58; Lync 2010 の起動と終了
+  #### レッスン
+  - Lync 2010 の起動と終了
+
+
+  #### ラボ &#58; Lync 2010 の起動と終了
+
+  ### セクション 5&#58; Lync 2010 の画面構成
+  #### レッスン
+  - Lync 2010 の画面構成
+
+
+  #### ラボ &#58; Lync 2010 の画面構成
+
+  ### セクション 6&#58; 在席状況の確認（プレゼンス）
+  #### レッスン
+  - 在席状況の確認（プレゼンス）
+
+
+  #### ラボ &#58; 在席状況の確認（プレゼンス）
+
+  ### セクション 7&#58; 企業向け IM（インスタントメッセージ）
+  #### レッスン
+  - 企業向け IM（インスタントメッセージ）
+  - IM（インスタントメッセージ）の活用
+
+
+  #### ラボ &#58; IM（インスタントメッセージ）の活用
+
+  ### セクション 8&#58; 音声通話
+  #### レッスン
+  - 音声通話
+
+
+  #### ラボ &#58; 音声通話
+
+  ### セクション 9&#58; ビデオ通話
+  #### レッスン
+  - ビデオ通話
+
+
+  #### ラボ &#58; ビデオ通話
+
+  ### セクション 10&#58; オンライン 会議
+  #### レッスン
+  - 有益なオンライン会議 78
+  - 2 人の通話から オンライン会議に発展
+  - スケジュールされた オンライン会議
+  - Lync 2010 Attendee
+  - Lync Web App
+
+
+  #### ラボ &#58; オンライン 会議
+  （参考学習）他の組織との通話

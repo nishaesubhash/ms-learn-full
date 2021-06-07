@@ -1,0 +1,200 @@
+### YamlMime:Course
+title: Managing Development Projects with Team Foundation Server 2015
+metadata:
+  title: 'Course 55172-A: Managing Development Projects with Team Foundation Server 2015'
+  description: 'Course 55172-A: Managing Development Projects with Team Foundation Server 2015'
+uid: course.55172
+courseNumber: '55172-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure and Manage Visual Studio Team Foundation Server 2015
+- skill: Manage a development project with Visual Studio Team Foundation Server 2015
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  This two-day instructor-led is intended for application developer and application development manager who are interested in using Visual Studio Team Foundation Server 2015 for managing development projects. In this course, students learn how to configure Visual Studio Team Foundation Server 2015. Students then learn how to manage application development life-cycle with Visual Studio Team Foundation Server (TFS) 2015.
+
+  #### Audience profile
+  This course is intended for both programmers who have experience in developing applications with Visual Studio.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with developing using Visual Studio
+  - Basic understanding of application development life-cycle
+  - Basic understanding of application development methodologies
+outlineSection: |-
+  ### Module 1&#58; Overview of TFS 2015
+  This module explains basic concepts of TFS 2015 and basic configuration steps.
+  #### Lessons
+  - Lesson 1&#58; Overview of TFS
+  - Lesson 2&#58; What's New in TFS 2015
+  - Lesson 3&#58; Connect to TFS 2015
+  - Lesson 4&#58; Configuring TFS 2015
+
+
+  #### Lab &#58; Overview of TFS 2015
+  - Exercise 1&#58; Create a Project Collection
+  - Exercise 2&#58; Connect Team Explorer to TFS
+
+  After completing this module, students will be able to&#58;
+  - Describe the key feature of TFS 2015
+  - Configuring TFS 2015
+  - Using Team Explorer
+
+
+  ### Module 2&#58; Application Life Cycle Management with TFS
+  This module explains overview of different application development methodologies supported and overview of the use of project portal
+  #### Lessons
+  - Lesson 1&#58; Overview of TFS Process
+  - Lesson 2&#58; Overview of Agile Tools
+  - Lesson 3&#58; Using Project Portal for Issue Tracking
+
+
+  #### Lab &#58; Application Life Cycle Management with TFS
+  - Exercise 1&#58; Creating Work Item
+  - Exercise 2&#58; Linking Work Item
+
+  After completing this module, students will be able to&#58;
+  - Describe Application life-cycle methodologies Supported
+  - Describe the use of TFS process
+  - Understanding of Agile tools available in TFS
+  - Overview of Project Portal and basic issue tracking
+
+
+  ### Module 3&#58; Managing Project with Agile Development Method
+  This module explains how to use Agile process template for managing application development projects.
+  #### Lessons
+  - Lesson 1&#58; Overview of Agile Development Methodologies
+  - Lesson 2&#58; Managing Agile Projects with TFS
+
+
+  #### Lab &#58; Managing Project with Agile Development Method
+  - Exercise 1&#58; Creating Agile Project
+  - Exercise 2&#58; Create User Feature
+
+  After completing this module, students will be able to&#58;
+  - Understand Agile Development Methodologies
+  - Manage project with Agile process template
+
+
+  ### Module 4&#58; Managing Project with SCRUM Development Method
+  This module explains how to use SCRUM process template for managing application development projects.
+  #### Lessons
+  - Lesson 1&#58; Overview of SCRUM Development Methodologies
+  - Lesson 2&#58; Managing SCRUM Projects with TFS
+
+
+  #### Lab &#58; Managing Project with SCRUM Development Method
+  - Exercise 1&#58; Creating SCRUM Project
+  - Exercise 2&#58; Create Product Backlog Item
+
+  After completing this module, students will be able to&#58;
+  - Understand SCRUM Development Methodologies
+  - Manage project with SCRUM process template
+
+
+  ### Module 5&#58; Managing Project with CMMI Development Method
+  This module explains how to use CMMI process template for managing application development projects.
+
+
+  #### Lessons
+  - Lesson 1&#58; Overview of CMMI Development Methodologies
+  - Lesson 2&#58; Managing CMMI Projects with TFS
+
+
+  #### Lab &#58; Managing Project with CMMI Development Method
+  - Exercise 1&#58; Creating CMMI Project
+  - Exercise 2&#58; Create Test Cases
+
+  After completing this module, students will be able to&#58;
+  - Understand CMMI Development Methodologies
+  - Manage project with CMMI process template
+
+
+  ### Module 6&#58; Managing Source Code with TFS
+  This module explains how to use TFS to manage source code
+  #### Lessons
+  - Lesson 1&#58; Version Control System
+  - Lesson 2&#58; Using Team Foundation Version Control
+  - Lesson 3&#58; Using Git
+  - Lesson 4&#58; Managing Version Control
+
+
+  #### Lab &#58; Managing Source Code with TFVC
+  - Exercise 1&#58; Create TFVC Repository
+  - Exercise 2&#58; Configure Check-in Quality Check
+
+
+  #### Lab &#58; Managing Source Code with TFS Git
+  - Exercise 1&#58; Create Git Repository
+  - Exercise 2&#58; Using Git in Visual Studio
+
+
+  #### Lab &#58; Controlling Access to Source Control
+  - Exercise 1&#58; Restrict Access to Source
+
+  After completing this module, students will be able to&#58;
+  - Describe what is TFS version control system
+  - Describe using TFVC for version control
+  - Describe using Git with TFS
+  - Managing TFS version control repository
+
+
+  ### Module 7&#58; Using Continuous Integration Build
+  This module explains how to configure TFS to perform continuous integrations for application projects
+  #### Lessons
+  - Lesson 1&#58; Requirements for Using Continuous Integration Build
+  - Lesson 2&#58; Configuring Continuous Integration Build
+
+
+  #### Lab &#58; Using Continuous Integration
+  - Exercise 1&#58; Install Build Agent
+  - Exercise 2&#58; Configure Build Definition
+  - Exercise 3&#58; Using Gated Check-in
+  - Exercise 4&#58; Using Unit Test with Continuous Build
+
+  After completing this module, students will be able to&#58;
+  - Describe what is continuous integration build
+  - How to configure continuous integration build
+
+
+  ### Module 8&#58; Using Release Management
+  This module explains the key features related managing and automating release process with TFS
+  #### Lessons
+  - Lesson 1&#58; Overview of Release Management
+  - Lesson 2&#58; Requirements for using Release Management
+  - Lesson 3&#58; Configuring Release Management
+
+
+  #### Lab &#58; Using Release Management
+  - Exercise 1&#58; Configure Release Definition
+  - Exercise 2&#58; Test Release Management
+
+  After completing this module, students will be able to&#58;
+  - Describe what is release management
+  - How to configure release management
+
+
+  ### Module 9&#58; Reporting
+  This module explains how to generate application development reports to support the application life-cycle management
+  #### Lessons
+  - Lesson 1&#58; Overview of Reporting
+  - Lesson 2&#58; Configuring TFS Reporting
+  - Lesson 3&#58; Configuring Excel Reporting
+
+
+  #### Lab &#58; Reporting
+  - Exercise 1&#58; Configure TFS Reporting
+  - Exercise 2&#58; Accessing Excel Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe what is difference between different reporting approach in TFS
+  - How to configure reporting in TFS
+
+  #### Additional Reading
+  NA

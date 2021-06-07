@@ -1,0 +1,533 @@
+### YamlMime:Course
+title: Microsoft End to End Business Intelligence Boot Camp
+metadata:
+  title: 'Course 55045-A: Microsoft End to End Business Intelligence Boot Camp'
+  description: 'Course 55045-A: Microsoft End to End Business Intelligence Boot Camp'
+uid: course.55045
+courseNumber: '55045-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Browse the data within the cube using SQL Server Management Studio.
+- skill: Browse data using Visual Studio 2013.
+- skill: Connect to a tabular source, import tables, and explore the data.
+- skill: Successfully Navigate SQL Server Data Tools.
+- skill: Successfully Navigate SQL Server Management Studio.
+- skill: Run the Import Export Wizard.
+- skill: Create a Project.
+- skill: Add and Configure Connections to the Control Flow.
+- skill: Add and Configure Execute SQL Tasks.
+- skill: Connect and Configure Precedence Constraints.
+- skill: Add and Configure Data Flow Tasks.
+- skill: Use the Destination Assistant.
+- skill: Copy a Package and Reuse Project Connection Managers.
+- skill: Add and Configure a Data Conversion Transformation.
+- skill: Add and Configure a Conditional Split Transformation.
+- skill: Add and Configure a Multicast Transformation.
+- skill: Add and Configure an Aggregate Transformation.
+- skill: Add and Configure a Derived Column Transformation.
+- skill: Add and Configure a Sort Transformation.
+- skill: Add and Configure a Lookup Transformation.
+- skill: Successfully Deploy a Project.
+- skill: Create a Sample or Test Database.
+- skill: Successfully Navigate and Use Key Objects.
+- skill: Create a Server Side Time Dimension.
+- skill: Create a Data Source.
+- skill: Create a Data View.
+- skill: Successfully Navigate a Cube.
+- skill: Successfully Navigate and Configure Partitions.
+- skill: Use the Aggregation Design Wizard.
+- skill: Create and Configure a Data Profiling Task.
+- skill: Configure Proactive Cache.
+- skill: Deploy and Process a Project.
+- skill: Build a Cube.
+- skill: Understand the Functionality of MDX.
+- skill: Write MDX.
+- skill: Understand How to Use MDX to Navigate Hierarchies.
+- skill: Write MDX Navigating Hierarchies.
+- skill: Understand Working with Time in MDX.
+- skill: Write MDX Working with Time.
+- skill: Creating a Tabular Project.
+- skill: Import Data Using the Table Import Wizard.
+- skill: Manually Add a Relationship.
+- skill: Create Measures.
+- skill: Create Calculated Columns.
+- skill: Create Hierarchies.
+- skill: Create Perspectives.
+- skill: Create KPIs.
+- skill: Process Data.
+- skill: Deploy a Solution.
+- skill: Connect to a Tabular Model Using Excel.
+- skill: Locate, Access and Use Report Manager.
+- skill: Use Report Designer.
+- skill: Create and Configure Data Sources.
+- skill: Create and Configure Datasets.
+- skill: Create and Configure a Basic Report.
+- skill: Create and Configure Graphics.
+- skill: Create and Configure Maps
+- skill: Create and Configure Report Parts.
+- skill: Create and Configure a Model.
+- skill: Create and Configure Entities.
+- skill: Create and Configure Members.
+- skill: Create and Configure Attributes.
+- skill: Create a Business Rule.
+- skill: Deploy a Model.
+- skill: Load Data.
+- skill: Create a Subscribing View.
+- skill: Use the Data Mining Add-in for Excel.
+- skill: Explore the options and settings available within the new SharePoint 2013 Central Administration.
+- skill: Create a new web application and business intelligence site while exploring the features of both.
+- skill: Create a SharePoint library to hold Excel workbooks and explore trusted file locations.
+- skill: Utilize the Power View add-in for Excel
+- skill: Create an Excel workbook with a parameter and save it to a SharePoint document library.
+- skill: Add Web Apps to a webpage.
+- skill: Explore the Dashboard Designer interface and know how to create and configure a data source.
+- skill: Create and configure a standard KPI and a scorecard.
+- skill: Create and configure a leaf KPI and a scorecard.
+- skill: Create two blank KPI’s and then roll them into an objective KPI.
+- skill: Create and configure an analytic chart and an analytic grid, add them to a dashboard, deploy them to SharePoint, and explore the options available.
+- skill: Create and configure a filter, and tie the filter into both the analytic chart and analytic grid created earlier.
+- skill: Create and configure a cascading filter and then tie it into a new analytic chart and grid.
+- skill: Create a Time Intelligence data connection, a Time Intelligence filter, and create a report using both.
+- skill: Create four copies of the Objective Scorecard, configure settings in each of the four copies, and deploy them to SharePoint in a dashboard.
+- skill: Create a new leaf KPI and use that KPI in two new scorecards, one with a filter configured, and one without.
+- skill: Create a new dashboard with two pages and review editing options.
+- skill: Create a drawing, upload the document to the Student BI Site documents library, and view the drawing in a browser.
+- skill: Create a data-connected drawing and upload the document to the Student BI Site documents library.
+- skill: Create an objective scorecard and matching strategy map, place them in a dashboard, and then upload the dashboard to the Student BI Site.
+- skill: Use PowerPivot within Excel to import a table from SQL Server.
+- skill: View the relationships existing within the imported tables from SQL Server and then import an additional table and configure a relationship between it and the existing.
+- skill: Hide columns they don’t want reflected in the resulting PivotTable.
+- skill: Create a PivotTable within an existing worksheet.
+- skill: Assign administrators and permissions on the BDC Metadata Store.
+- skill: Explore the different content types available in SharePoint 2013 and learn how to locate them and their corresponding settings.
+- skill: Create a document library, configure it to accept specific content types, and then learn how to delete the document library.
+- skill: Create and configure a new external content type.
+- skill: Create an external list associated with the new external content type created prior.
+- skill: Create a new external content type and a new host URL, and then create an external list and profile page.
+- skill: Add a custom action to an external list.
+- skill: Navigate the Report Builder 3.0 interface.
+- skill: Create an embedded data source connecting into a database.
+- skill: Create an embedded data source connecting into an OLAP database.
+- skill: Create a shared data source using the Report Manager.
+- skill: Create a shared dataset using the shared connection they created in the previous exercise.
+- skill: Create a new dashboard and explore three different ways to connect the Web Apps.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This seven-day instructor-led course is a complete high-level tour of the Microsoft Business Intelligence stack. It introduces students to the SQL 2012 Business Intelligence and SharePoint 2013 Business Intelligence services including PerformancePoint Service, Excel Services, Business Connectivity Services, Visio Services and the Business Intelligence Center focusing on their interdependency.  
+  Each of the modules is stand-alone allowing for customization of the course for those audiences that may not have an interest in a certain service.  
+  Each concept is demonstrated with a video before the exercise on that concept, so first you will have the short lecture then see the concept demonstrated then do it yourself. Remember if you can’t do it you didn’t learn it. Each of the videos, and there are approximately 13 hours of them, is intended as a take-away from the class for each student.
+
+  #### Audience profile
+  This course is intended for Project Managers, Business Intelligence Developers, SQL Server Developers and IT Professionals that will be involved with the design, development and maintenance of SharePoint 2013 Business Intelligence solutions. The course introduces each of the services and minimizes or eliminates any coding.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - An understanding of the benefits of business intelligence.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  After completing this module, students will be able to&#58;
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; The Business Intelligence Stack
+  In this module we will first look at the three different ways in which business intelligence can be viewed. Then, we’re going to look at the services SQL 2012 provides us and how they apply to business intelligence. We will then move to SharePoint 2013 and look at the SharePoint services to examine their relevance and how we can use them in business intelligence to surface data. In this section we will also cover the new business intelligence features available within the SharePoint 2013 release. Finally, we will take a brief look at PowerPivot, examining the new features and their significance. PowerPivot is covered in more detail in a later module.
+  #### Lessons
+  - Business Intelligence in Three Ways
+  - SQL 2012 Business Intelligence
+  - New 2013 SharePoint Business Intelligence Features
+  - New 2013 PowerPivot in Excel Features
+
+
+  #### Lab &#58; The Business Intelligence Stack
+
+  After completing this module, students will be able to&#58;
+
+  - Browse the data within the cube using SQL Server Management Studio.
+  - Browse data using Visual Studio 2013.
+  - Connect to a tabular source, import tables, and explore the data.
+
+
+  ### Module 3&#58; SQL Server Integration Services (SSIS) 2012
+  In this module we will give an overview of ETL and discuss two approaches that should be considered prior to implementation. We will also go over the SQL Server Data Tools application and explain the concept of Packages, Tasks, and Containers with further instruction on how to use these tools and others. In the following list of topics you will see two topics that are part of SQL Server Integration Services ETL although not covered in this module. They are SQL Server Integration Services Data Profiler and Data cleansing which are covered later in the course.
+  #### Lessons
+  - What’s New?
+  - Overview of Extract, Transform, and Load (ETL)
+  - SSIS Tools
+  - Change Data Capture
+  - SQL Server Integration Services Scripting
+  - Variables, Parameters, and Expressions
+  - Package Deployment
+
+
+  #### Lab &#58; SQL Server Integration Services (SSIS) 2012
+
+  After completing this module, students will be able to&#58;
+
+  - Successfully Navigate SQL Server Data Tools.
+  - Successfully Navigate SQL Server Management Studio.
+  - Run the Import Export Wizard.
+  - Create a Project.
+  - Add and Configure Connections to the Control Flow.
+  - Add and Configure Execute SQL Tasks.
+  - Connect and Configure Precedence Constraints.
+  - Add and Configure Data Flow Tasks.
+  - Use the Destination Assistant.
+  - Copy a Package and Reuse Project Connection Managers.
+  - Add and Configure a Data Conversion Transformation.
+  - Add and Configure a Conditional Split Transformation.
+  - Add and Configure a Multicast Transformation.
+  - Add and Configure an Aggregate Transformation.
+  - Add and Configure a Derived Column Transformation.
+  - Add and Configure a Sort Transformation.
+  - Add and Configure a Lookup Transformation.
+  - Successfully Deploy a Project.
+
+
+  ### Module 4&#58; SQL 2012 Business Intelligence Semantic Model (Multidimensional Mode)
+  In this module we cover the basics of using multidimensional mode and the tools available. In data warehousing there are two commonly acknowledged approaches to building a decision support infrastructure, and you can implement both using the tools available in SQL Server Analysis Services 2012 multidimensional. We will go over these two approaches and we will also cover key concepts for using multidimensional mode.
+  #### Lessons
+  - The Data Warehouse/Data Mart
+  - The Tools
+  - Key Concepts
+  - Data Sources
+  - Data Views
+  - Cubes
+  - Data Profiler
+  - Proactive Cache
+  - Wizards
+
+
+  #### Lab &#58; SQL 2012 Business Intelligence Semantic Model (Multidimensional Mode)
+
+  After completing this module, students will be able to&#58;
+
+  - Create a Sample or Test Database.
+  - Successfully Navigate and Use Key Objects.
+  - Create a Server Side Time Dimension.
+  - Create a Data Source.
+  - Create a Data View.
+  - Successfully Navigate a Cube.
+  - Successfully Navigate and Configure Partitions.
+  - Use the Aggregation Design Wizard.
+  - Create and Configure a Data Profiling Task.
+  - Configure Proactive Cache.
+  - Deploy and Process a Project.
+  - Build a Cube.
+
+
+  ### Module 5&#58; Microsoft Multidimensional Expressions
+  There are some striking differences between SQL and MDX, and you should be aware of these differences at a conceptual level. The principal difference between SQL and MDX is the ability of MDX to reference multiple dimensions. Although it is possible to use SQL exclusively to query cubes, Analysis Services MDX provides commands that are designed specifically to retrieve data as multidimensional data structures with almost any number of dimensions. We will go over key concepts in multidimensional space and browse some basic MDX statements with specific coverage on navigating hierarchies and working with time.
+  #### Lessons
+  - Concepts in Multidimensional Space
+  - Basic MDX Statements
+  - SQL Server Management Studio MDX Query Editor
+  - Navigating Hierarchies
+  - Working with Time
+  - Microsoft Multidimensional Expressions
+
+
+  #### Lab &#58; Microsoft Multidimensional Expressions
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the Functionality of MDX.
+  - Write MDX.
+  - Understand How to Use MDX to Navigate Hierarchies.
+  - Write MDX Navigating Hierarchies.
+  - Understand Working with Time in MDX.
+  - Write MDX Working with Time.
+
+
+  ### Module 6&#58; SQL 2012 Business Intelligence Semantic Model (Tabular Mode)
+  If you are starting an Analysis Services 2012 project with no previous Multidimensional or OLAP experience, it is very likely that you will find tabular much easier to learn than multidimensional. Not only are the concepts much easier to understand, especially if you are used to working with relational databases, but the development process is also much more straightforward and there are far fewer features to learn. Building your first tabular model is much quicker and easier than building your first multidimensional model. It can also be argued that DAX is easier to learn than MDX, at least when it comes to writing basic calculations, but the truth is that both MDX and DAX can be equally confusing for anyone used to SQL. In this module we cover the basics of using tabular mode and the tools available.
+  #### Lessons
+  - The Tabular Model
+  - Data Analytic Expressions (DAX)
+  - The Editor
+  - Data Connections
+  - Creating a Tabular Project
+  - Relationships
+  - Measures and Calculated Columns
+  - Hierarchies
+  - Perspectives
+  - KPIs
+  - Partitions
+  - Processing
+  - Deployment
+
+
+  #### Lab &#58; SQL 2012 Business Intelligence Semantic Model (Tabular Mode)
+
+  After completing this module, students will be able to&#58;
+
+  - Creating a Tabular Project.
+  - Import Data Using the Table Import Wizard.
+  - Manually Add a Relationship.
+  - Create Measures.
+  - Create Calculated Columns.
+  - Create Hierarchies.
+  - Create Perspectives.
+  - Create KPIs.
+  - Process Data.
+  - Deploy a Solution.
+  - Connect to a Tabular Model Using Excel.
+
+
+  ### Module 7&#58; SQL Server 2012 Reporting Services
+  In this module we will cover the new and exciting features available in SQL 2012 Reporting Services. Report Lifecycles are discussed along with the tools available to create just about any type of report you can think of. Effective reporting is a key element in business intelligence and this module covers all the basics.
+  #### Lessons
+  - Report Lifecycles
+  - Installation Modes
+  - Report Creation Tools
+  - Data Sources
+  - Datasets
+  - Basic Reports
+  - Graphics
+  - Maps
+  - Report Parts
+
+
+  #### Lab &#58; SQL Server 2012 Reporting Services
+
+  After completing this module, students will be able to&#58;
+
+  - Locate, Access and Use Report Manager.
+  - Use Report Designer.
+  - Create and Configure Data Sources.
+  - Create and Configure Datasets.
+  - Create and Configure a Basic Report.
+  - Create and Configure Graphics.
+  - Create and Configure Maps
+  - Create and Configure Report Parts.
+
+
+  ### Module 8&#58; Master Data Services
+  It is often said that Master Data Management (MDM) enables an enterprise to create and use a “single version of the truth”. Master data management applies almost all industries and covers a broad category of corporate data. This module covers Master Data Management and explains what it is and why it is important. Along with covering system roles and the differences between master data and transactional data, we also go over key concepts in Master Data Services and the benefits of proper implementation.
+  #### Lessons
+  - What is Master Data Management?
+  - System Roles
+  - Master Data vs. Transactional Data
+  - Master Data Services ETL
+  - Master Data Services Key Concepts
+
+
+  #### Lab &#58; Master Data Services
+
+  After completing this module, students will be able to&#58;
+
+  - Create and Configure a Model.
+  - Create and Configure Entities.
+  - Create and Configure Members.
+  - Create and Configure Attributes.
+  - Create a Business Rule.
+  - Deploy a Model.
+  - Load Data.
+  - Create a Subscribing View.
+
+
+  ### Module 9&#58; Data Mining/Predictive Analytics
+  Data Mining using SQL Server 2012 uses the concept of a SQL Service not an application. Because it is a service and not an application the software has the ability to scale unlike an application. In this module we explain the concept of data mining and how it can be a valuable tool in your business intelligence arsenal. This module is a subset of the course on Data Mining which is in-development.
+  #### Lessons
+  - Definitions for Our Purpose
+  - Problems Addressed
+  - Business Analytics
+  - CRISP-DM
+  - Key Concepts
+  - Microsoft Data Mining Process
+  - Data Mining Tasks
+  - Microsoft Algorithms
+  - Matching the Tasks to the Algorithm
+  - Data Mining Add-in for Excel
+
+
+  #### Lab &#58; Data Mining/Predictive Analytics
+
+  After completing this module, students will be able to&#58;
+  - Use the Data Mining Add-in for Excel
+
+
+  ### Module 10&#58; SharePoint 2013 Business Intelligence Center
+  In this module, we will explore the new and improved 2013 SharePoint Central Administration site. We are going to cover specifically the new 2013 Business Intelligence Center template within SharePoint. We are also going to cover some things that generically apply to SharePoint that you can use within business intelligence. Permissions and Roles will be illuminated and the included Document Library and List apps will be explained.
+  #### Lessons
+  - New 2013 SharePoint Central Administration
+  - New 2013 Business Intelligence Center
+  - Permissions and Roles
+  - Included Document Library and List Apps
+
+
+  #### Lab &#58; SharePoint 2013 Business Intelligence Center
+
+  After completing this module, students will be able to&#58;
+
+  - Explore the options and settings available within the new SharePoint 2013 Central Administration.
+  - Create a new web application and business intelligence site while exploring the features of both.
+
+
+  ### Module 11&#58; SharePoint 2013 Excel Services
+  In this module, we will go over all the new 2013 Excel Services features, and we will explore the core components of Excel Services. We will cover Excel Web Access and it’s capabilities along with any differences you may encounter in the browser as opposed to the desktop client. There is coverage of the Power View add-in for Excel, and then lastly we will explain the save and share process and have a look at best practices.
+  #### Lessons
+  - New 2013 Excel Services Features
+  - Core Components
+  - Excel Web Access (EWA)
+  - What Excel Web Access is Not
+  - Differences in the Browser vs. Desktop
+  - SharePoint Libraries to Store Workbooks
+  - Power View Add-in for Excel
+  - The Save and Share Process
+  - Excel Web App
+  - Best Practices
+
+
+  #### Lab &#58; SharePoint 2013 Excel Services
+
+  After completing this module, students will be able to&#58;
+
+  - Create a SharePoint library to hold Excel workbooks and explore trusted file locations.
+  - Utilize the Power View add-in for Excel
+  - Create an Excel workbook with a parameter and save it to a SharePoint document library.
+  - Add Web Apps to a webpage.
+
+
+  ### Module 12&#58; SharePoint 2013 PerformancePoint 2013
+  In this module, we will give you an overview of the new 2013 PerformancePoint Services features. Dashboard Designer is explored along with many of the objects and connections available within.
+  #### Lessons
+  - New 2013 Overview of PerformancePoint Services
+  - Dashboard Designer
+  - Data Sources
+  - Indicators
+  - KPIs
+  - Visual Reports
+  - Filters
+  - Scorecards
+  - Dashboards
+
+
+  #### Lab &#58; SharePoint 2013 PerformancePoint 2013
+
+  After completing this module, students will be able to&#58;
+
+  - Explore the Dashboard Designer interface and know how to create and configure a data source.
+  - Create and configure a standard KPI and a scorecard.
+  - Create and configure a leaf KPI and a scorecard.
+  - Create two blank KPI’s and then roll them into an objective KPI.
+  - Create and configure an analytic chart and an analytic grid, add them to a dashboard, deploy them to SharePoint, and explore the options available.
+  - Create and configure a filter, and tie the filter into both the analytic chart and analytic grid created earlier.
+  - Create and configure a cascading filter and then tie it into a new analytic chart and grid.
+  - Create a Time Intelligence data connection, a Time Intelligence filter, and create a report using both.
+  - Create four copies of the Objective Scorecard, configure settings in each of the four copies, and deploy them to SharePoint in a dashboard.
+  - Create a new leaf KPI and use that KPI in two new scorecards, one with a filter configured, and one without.
+  - Create a new dashboard with two pages and review editing options.
+
+
+  ### Module 13&#58; SharePoint 2013 Visio Services
+  Visio drawings can be extremely effective and in this module we cover the shared service that allows users to share and view them. We will go over all the new 2013 Visio Services features and also discuss data-connected drawings and how to configure them. There is also a section on viewing drawings within a browser.
+  #### Lessons
+  - New 2013 Visio Services Features
+  - Visio Graphics Service
+  - Visio Drawings in the Browser
+  - Visio Web Access Web Part
+  - SharePoint 2013 Visio Services
+
+
+  #### Lab &#58; SharePoint 2013 Visio Services
+
+  After completing this module, students will be able to&#58;
+
+  - Create a drawing, upload the document to the Student BI Site documents library, and view the drawing in a browser.
+  - Create a data-connected drawing and upload the document to the Student BI Site documents library.
+  - Create an objective scorecard and matching strategy map, place them in a dashboard, and then upload the dashboard to the Student BI Site.
+
+
+  ### Module 14&#58; PowerPivot
+  PowerPivot is not a feature of SharePoint business intelligence, however, an Excel workbook with PowerPivot can be saved to a SharePoint site and then used in a business intelligence scenario. This module is intended as an overview of the product only and covers all the new features available in the 2013 release of the add-in.
+  #### Lessons
+  - New 2013 PowerPivot Features
+  - PowerPivot and Excel
+  - PowerPivot and SharePoint
+  - Enterprise Business Intelligence and PowerPivot
+  - Importing Data
+  - Enriching Data
+  - SharePoint Sharing
+
+
+  #### Lab &#58; PowerPivot
+
+  After completing this module, students will be able to&#58;
+
+  - Use PowerPivot within Excel to import a table from SQL Server.
+  - View the relationships existing within the imported tables from SQL Server and then import an additional table and configure a relationship between it and the existing.
+  - Hide columns they don’t want reflected in the resulting PivotTable.
+  - Create a PivotTable within an existing worksheet.
+
+
+  ### Module 15&#58; SharePoint 2013 Business Connectivity Services
+  In this module we will explore the new features available within SharePoint 2013 Business Connectivity Services, how to configure the security, and clarify the terminology.
+  #### Lessons
+  - New 2013 Business Connectivity Service Features
+  - What is Business Connectivity Services?
+  - BCS Terminology
+  - BCS Security
+  - Using SharePoint Designer 2013 with BCS
+  - Surfacing the BCS Data
+
+
+  #### Lab &#58; SharePoint 2013 Business Connectivity Services
+
+  After completing this module, students will be able to&#58;
+
+  - Assign administrators and permissions on the BDC Metadata Store.
+  - Explore the different content types available in SharePoint 2013 and learn how to locate them and their corresponding settings.
+  - Create a document library, configure it to accept specific content types, and then learn how to delete the document library.
+  - Create and configure a new external content type.
+  - Create an external list associated with the new external content type created prior.
+  - Create a new external content type and a new host URL, and then create an external list and profile page.
+  - Add a custom action to an external list.
+
+
+  ### Module 16&#58; Dashboards
+  This module borrows from the three-day Microsoft course on Dashboards number 50596A. Monitoring, analyzing, and managing dashboards are discussed along with details on how to use them most effectively. This module does not cover Dashboard Designer as it is covered in more detail in the PerformancePoint Services module. Coverage of the Microsoft Report Builder 3.0 tool is brief as this course focuses on the SharePoint space.
+  #### Lessons
+  - Dashboard Migration
+  - Three Types of Dashboards
+  - Successful Dashboards
+  - Tables or Graphs
+  - Types of Graphs
+  - Choosing a Chart Type
+  - Key Performance Indicators
+  - Pitfalls In Dashboard Design
+  - Microsoft Report Builder 3.0
+  - Plan Your Reports
+  - Datasets
+  - New 2013 SharePoint Designer Features
+  - SharePoint Web Apps
+
+
+  #### Lab &#58; Dashboards
+
+  After completing this module, students will be able to&#58;
+
+  - Navigate the Report Builder 3.0 interface.
+  - Create an embedded data source connecting into a database.
+  - Create an embedded data source connecting into an OLAP database.
+  - Create a shared data source using the Report Manager.
+  - Create a shared dataset using the shared connection they created in the previous exercise.
+  - Create a new dashboard and explore three different ways to connect the Web Apps.

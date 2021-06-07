@@ -1,0 +1,179 @@
+### YamlMime:Course
+title: Microsoft Office SharePoint Server 2007 for the Site Owner/Power User
+metadata:
+  title: 'Course 50196-C: Microsoft Office SharePoint Server 2007 for the Site Owner/Power User'
+  description: 'Course 50196-C: Microsoft Office SharePoint Server 2007 for the Site Owner/Power User'
+uid: course.50196
+courseNumber: '50196-C'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use and Customize Lists and Libraries
+- skill: Create InfoPath Forms Libraries
+- skill: Create Basic and Web Part Web Pages
+- skill: Add and Customize Web Parts
+- skill: Customize Sites and Workspaces
+- skill: Manage Users and Groups access / security
+- skill: Monitor Site Activity
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 2-day instructor-led class is designed for the Site Owner/"power user" of a SharePoint site or site collection who needs to know how to create sites and lists, manage user access and customize lists and web part pages.
+
+  #### Audience profile
+  This class is designed for the owner of a Microsoft Office SharePoint Server 2007 site or site collection who needs to know how to create and customize sites and lists, manage user access and customize lists and web part pages.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Students should have a working knowledge of SharePoint 2007 and basic SharePoint site and list navigation
+  - Basic Windows, Internet Explorer, Word and Excel skills
+outlineSection: |-
+  ### Module 1&#58; The Role of the Site Owner
+  This module explains the role of the Site Owner/Site Collection Administrator and offers a review of core SharePoint topic.
+  #### Lessons
+  - Role of the Site Owner
+  - Site Owner related menus and options
+
+  After completing this module, students will be able to&#58;
+  - Describe the role of the Site Owner/Site Administrator
+  - Indentify menus and options used by the Site Owner
+
+
+  ### Module 2&#58; SharePoint Review
+  In this module we will take a brief guided tour of SharePoint from the point of view of the end-user as a review of SharePoint 2007 features and to discover a few features you may have not have found on your own.
+  
+  As a site owner or power user you need to have strong end-user skills. This is your chance to “fill in the gaps” before getting into site and list customization.
+  #### Lessons
+  - SharePoint Review&#58; Your instructor will guide you through a quick hands-on exploration of SharePoint and review any of these features you would like to learn more about
+  - Libraries, lists, adding content, uploading content, folders, alerts, recycle bin, templates and search.
+
+
+  #### Lab &#58; Test your basic SharePoint end-user skills
+  After completing this module, students will have&#58;
+  - reviewed and expanded their end user SharePoint skills
+
+
+  ### Module 3&#58; Using and Customizing Lists
+  In this module you will see how to customize lists and libraries. All lists, from link lists to document libraries, have a common set of features. These include general settings such as title and description, user access permissions, custom columns and custom views.
+  #### Lessons
+  - List Settings&#58; General Settings, Content Approval, Folders, Item-Level Permissions, List and Library Versioning Options, Checking Documents In and Out
+  - Customizing Columns
+  - Site Columns
+  - Content Types
+  - Creating Lists by Importing Excel Files
+  - Creating and Modifying Views
+  - Communications Options&#58; RSS and Incoming E-Mail
+  - Search Visibility
+  - Overview of Workflows
+
+
+  #### Lab &#58; Using and Customizing Lists
+  After completing this module, students will be able to&#58;
+  - Create, configure and manage lists and libraries
+  - Use content approval and versioning
+
+
+  ### Module 4&#58; Creating Forms Libraries
+  In this module you will see how to create and use Forms libraries. Forms Libraries are SharePoint libraries based on an InfoPath form template. InfoPath is a client application installed on the user’s PC and is used both to design forms and fill out forms. MOSS Enterprise includes a backend InfoPath server (InfoPath Forms Server) that can deliver forms to users via a browser.
+  #### Lessons
+  - Creating a Forms Library
+  - Publishing an InfoPath form to a library
+
+
+  #### Lab &#58; Creating Forms Libraries
+  After completing this module, students will be able to&#58;
+  - Create a basic InfoPath form
+  - Publish the form to a SharePoint library
+
+
+  ### Module 5&#58; Creating Web Pages
+  In this module you will see how to create and use Basic Pages and Web Part Pages. Often you will need to create a page within a SharePoint site that does not need any SharePoint features such as web parts or lists. Basic Web Pages as easy to create, are treated the same as any other document and are stored in a document library. In addition to a site's home page you can use web parts on pages you create.
+  #### Lessons
+  - Creating Basic Web Pages
+  - Using the Rich Text Editor
+  - Creating Web part Pages
+
+
+  #### Lab &#58; Creating Web Pages
+  After completing this module, students will be able to&#58;
+  - Create Basic Web Pages
+  - Create Web Part Pages
+
+
+  ### Module 6&#58; Sites and Workspaces
+  In this module you will see how to customize sites and workspaces.
+  #### Lessons
+  - Changing the Look and Feel - Title, Description, Theme, Tree View, Quick Launch and Top Link Bar
+  - Web Part Basics
+  - Web Part Properties
+  - List and Library Web Parts
+  - Frequently Used Web Parts
+
+
+  #### Lab &#58; Sites and Workspaces
+  After completing this module, students will be able to&#58;
+  - Change the look and feel of a site
+  - Modify site navigation
+  - Work with web parts
+
+
+  ### Module 7&#58; Users and Groups
+  In this module you will see how to manage SharePoint security.
+  #### Lessons
+  - Users and Groups
+  - Permissions
+  - Adding Users
+  - Review/Change Permissions
+  - List and Library Permissions
+  - Creating Custom Permission Levels\Audiences
+  - Managing User Alerts
+
+
+  #### Lab &#58; Users and Groups
+  After completing this module, students will be able to&#58;
+  - Describe permissions, users and groups
+  - Add users and Windows groups to a site, list, library, folder or item
+  - Create a custom permission level
+  - Work with audiences
+  - Manage user alerts
+
+
+  ### Module 8&#58; Site Activity
+  In this module you will see SharePoint's activity reports.
+  #### Lessons
+  - Site Collection Usage Summary
+  - Storage Space Allocation
+  - Site Usage Reports
+  - Dealing with Inactive Sites
+
+  After completing this module, students will be able to&#58;
+  - Find and review SharePoint's built-in Site and Site Collection activity reports.
+
+
+  ### Module 9&#58; Using SharePoint Designer (Optional)
+  In this optional module the instructor will demonstrate the use of SharePoint Designer.
+  #### Lessons
+  - Creating a Custom Workflow
+  - Modifying the Master Page
+  - Modifying a Site Page
+
+  After completing this module, students will be able&#58;
+  - Describe SharePoint Designer and its use
+
+
+  ### Module 10&#58; SharePoint Search Review (Optional)
+  In this optional module you will explore SharePoint's search tools.
+  #### Lessons
+  - Search Overview
+  - What is Searchable
+  - Search Features
+  - Search Syntax
+
+  After completing this module, students will be able&#58;
+  - Use search, advanced search, search scopes and search properties

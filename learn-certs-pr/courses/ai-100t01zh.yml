@@ -1,0 +1,75 @@
+### YamlMime:Course
+title: 设计和实现 Azure AI 解决方案
+metadata:
+  title: 'Course AI-100T01ZH-A: 设计和实现 Azure AI 解决方案'
+  description: 'Course AI-100T01ZH-A: 设计和实现 Azure AI 解决方案'
+uid: course.ai-100t01zh
+courseNumber: 'AI-100T01ZH-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+summary: |-
+  通过使用 Microsoft Azure 平台的人工智能（包括语言理解和 Azure 认知服务中预先构建的 AI 功能）构建客户支持聊天机器人，获得设计 Azure AI 解决方案所需的必要知识。
+
+  #### Audience profile
+  本课程面向云解决方案架构师、Azure 人工智能设计师和 AI 开发人员。
+prerequisitesSection: |-
+  单击或点击 在参加本课程之前，学生必须具备&#58;
+  - Azure 基础知识
+  - 了解 Azure 存储技术
+  - C# 知识 此处以输入文本。
+outlineSection: |-
+  ### Module 1&#58; 介绍 Azure 认知服务
+  学生将了解 Microsoft Azure 上可用的认知服务及其在设计 AI 解决方案中的作用。
+  #### Lessons
+  - Azure 认知服务概述
+  - 在 Azure 门户上创建认知服务
+  - 访问和测试认知服务
+
+
+  ### Module 2&#58; 创建机器人
+  学生将学习 Microsoft Bot Framework 和机器人服务。
+  #### Lessons
+  - 介绍机器人服务
+  - 创建基本聊天机器人
+  - T使用机器人模拟器测试
+
+
+  ### Module 3&#58; 使用 QnA Maker 增强机器人
+  学生将学习 QnA Maker，以及如何集成机器人和 QnA Maker，为用户交互建立有用的知识库。
+  #### Lessons
+  - 介绍 QnA Maker
+  - 使用 QnA Maker 实现知识库
+  - 将 QnA 与机器人集成
+
+
+  ### Module 4&#58; 了解如何使用 LUIS 创建语言理解功能
+  学生将学习 LUIS 以及如何创建意图和话语来支持自然语言处理解决方案。
+  #### Lessons
+  - 介绍语言理解
+  - 创建新的 LUIS 服务
+  - 使用意图和话语建立语言理解
+
+
+  ### Module 5&#58; 使用 LUIS 强化机器人
+  学生将学习如何将 LUIS 与机器人集成，以便更好地理解用户在与机器人交互时的意图。
+  #### Lessons
+  - AI 应用语言理解概述
+  - 集成 LUIS 和机器人，创建基于 AI 的解决方案
+
+
+  ### Module 6&#58; 将认知服务与机器人和代理集成
+  学生将学习如何将机器人和代理与 Azure 认知服务集成，以实现高级功能，例如情感分析、图像和文本分析、OCR 和对象检测。
+  #### Lessons
+  - 理解机器人互动的认知服务
+  - 使用文本分析对机器人进行情感分析
+  - 利用语言认知服务在机器人中检测语言
+  - 将计算机视觉与机器人集成

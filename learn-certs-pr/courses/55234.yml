@@ -1,0 +1,335 @@
+### YamlMime:Course
+title: SharePoint 2016 Site Collections and Site Owner Administration
+metadata:
+  title: 'Course 55234-A: SharePoint 2016 Site Collections and Site Owner Administration'
+  description: 'Course 55234-A: SharePoint 2016 Site Collections and Site Owner Administration'
+uid: course.55234
+courseNumber: '55234-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design and implement a company portal structure using SharePoint 2016 objects including sites, libraries, lists and pages
+- skill: Explain the role of security and permissions throughout SharePoint 2016
+- skill: Implement guidelines for consistency in building a company portal to aid in the day-to-day administration of content in SharePoint 2016
+- skill: Enhance the design and content of a company portal using SharePoint 2016 pages and web parts
+- skill: Explain the importance of governance for the planning and managing future growth of the
+- skill: SharePoint 2016 implementation
+- skill: Identify options to integrate data from other systems such as Microsoft Office, as well as preserve existing data
+- skill: Explain the role of social networking in SharePoint 2016 and its impact on collaboration
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This five-day instructor-led course is intended for power users and IT professionals who are tasked with working within the SharePoint 2016 environment and conduct site collection and site administration. This course will provide a deeper, narrowly-focused training on the important and popular skills needed to do SharePoint site collection and site administration with SharePoint 2016 deployed on-premise, in Office 365 (SharePoint Online) or a hybrid deployment (on-premise connected to Office 365).
+  
+  This course is designed to complement skills learned in other Microsoft courses, which focus on overall SharePoint 2016 server administration and deployment as well as overall Office 365 management&#58;
+  - MOC 20339-1, Planning and Administering SharePoint 2016 
+  - MOC 20339-2, Advanced Technologies of SharePoint 2016 
+  - MOC 20347, Enabling and Managing Office 365
+
+  #### Audience profile
+  This course is intended for those who provide site collection and site administration and are power users or IT professionals who are tasked with supporting or working within the SharePoint 2016 environment on-premise and/or in Office 365.
+prerequisitesSection: |-
+  Before attending this class, students must have&#58;
+  - Windows client operating system - either Windows XP, Windows 7, Windows 8, or Windows 10
+  - Microsoft Office 2007, Office 2010, Office 2013, or Office 2016
+  - Microsoft Internet Explorer 7 or later, or similar web browser
+  - It is recommended students have familiarity with previous versions of SharePoint, though it is not a required prerequisite.
+outlineSection: |-
+  ### Module 1&#58; Getting Started with SharePoint 2016
+  This module explains to site collection and site administrators how to discuss basic terminology and how to navigate around SharePoint 2016. Once administrators can explain basic terminology and how to navigate around SharePoint, they have a solid foundation for the rest of the course.
+  #### Lessons
+  - Exploring SharePoint 2016 Site Collection and Site Administrator Roles
+  - Defining SharePoint Terminology
+  - Navigating a SharePoint Site
+  - Interacting with the Ribbon
+  - Creating and Editing Basic Content
+  - What is Metadata?
+  - Versions of SharePoint
+  - Standard
+  - Enterprise
+  - O365
+
+  After completing this module, students will be able to&#58;
+  - Discuss basic terminology
+  - Navigate around SharePoint 2016
+
+
+  ### Module 2&#58; Building a Site Collection with Apps
+  This module explains to site collection administrators how to create sites, document libraries and lists, as well as manage navigation. The first major milestone, after planning the company portal, is executing and building the site structure. The site structure includes the components for storing and presenting information namely sites, lists and libraries and apps, which are new to SharePoint 2016. Site structure provides the framework for the entire portal.
+  #### Lessons
+  - The Structure of SharePoint
+  - Creating a Site
+  - What does a site template come with?
+  - Defining SharePoint Apps
+  - Customizing Lists and Libraries
+  - Creating/Managing Lists and Libraries through SharePoint Designer
+  - Explaining Views on Lists and Libraries
+  - Creating Views in Lists and Libraries
+  - Modifying Navigation
+  - Turning Site Features On/Off
+  - Reorganizing a Site using Site Content and Structure feature
+
+
+  #### Lab &#58; Creating a Structured Company Portal
+  - Create sites as part of a formal site structure
+  - Create new apps for documents and lists
+  - Enable versioning and content approval settings on libraries or lists
+  - Customize views on libraries or lists
+  - Configure navigation to hide lists and libraries
+
+
+  #### Lab &#58; Creating a List Using SharePoint Designer (Optional)
+  After completing this module, students will be able to&#58;
+  - Create sites
+  - Document libraries and lists
+  - Manage navigation
+
+
+  ### Module 3&#58; Creating Consistency across Sites
+  This module explains to site collection administrators how to more efficiently manage their site collections, as well as maintain consistency throughout the site. When setting up a SharePoint site collection, it will often involve repeating a certain number of tasks. Site collection administrators can reduce the effort of duplication by creating reusable objects in a central location by using the tools provided.
+  #### Lessons
+  - Defining Site Columns
+  - Defining Content Types
+  - Implementing a Taxonomy
+  - Using Templates to Promote Consistency
+
+
+  #### Lab &#58; Creating Site Columns and Content Types
+  - Design and implement content types
+  - Create new site columns
+  - Create a library or list template (optional)
+
+
+  #### Lab &#58; Implementing a Taxonomy
+  - Design and create taxonomy
+  - Add managed metadata columns
+
+
+  #### Lab &#58; Configuring the Content Organizer
+  - Customize default column values on a per-folder basis
+  - Provision and configure the Content Organizer for automated document routing
+
+  After completing this module, students will be able to&#58;
+  - More efficiently manage their site collections
+  - Maintain consistency throughout the site
+
+
+  ### Module 4&#58; SharePoint Permissions
+  This module explains how permissions work within a site collection, and how the tools within SharePoint 2016 are used to manage and maintain them. It is crucial that SharePoint 2016 site collection administrators and site administrators are able to create and manage permissions within SharePoint 2016.
+  #### Lessons
+  - Explaining Permissions and Security in SharePoint
+  - Creating SharePoint Groups
+  - Managing Permissions within SharePoint
+  - Sharing versus Traditional Security
+  - Sharing as different permission levels
+
+
+  #### Lab &#58; Managing Permissions in SharePoint
+  - View permissions of SharePoint objects
+  - Add users and groups to SharePoint objects
+  - Create a new SharePoint managers group with customized permissions
+  - Stop inheriting permissions between SharePoint objects
+
+  After completing this module, students will be able to&#58;
+  - Know how permissions work within a site collection
+  - Know how the tools within SharePoint 2016 are used to manage and how to maintain them
+
+
+  ### Module 5&#58; Working with Pages and Web Parts
+  This module explains how to design a company portal using out-of-the-box web parts and themes in SharePoint 2016.
+  #### Lessons
+  - Changing the Appearance of the Portal
+  - Editing a Page
+  - wiki
+  - web part
+  - Working with Web Parts and App Parts
+  - App Parts
+  - Content Search Web Part
+  - Relevant Documents
+  - Content query
+  - Table of Contents
+  - Pictures
+  - Web Part Connections
+  - Filter web parts
+  - Web parts with Targeting Audience
+
+
+  #### Lab &#58; Adding and Configuring Web Parts
+  - Create custom content types for publishing
+  - Create a list template
+  - Create a managed property
+  - Use Content Search Web Part
+
+
+  #### Lab &#58; Connecting Web Parts
+  - Place web parts on a page
+  - Connect web parts on a page to pass values between them
+
+
+  #### Lab &#58; Applying Themes to Your Company Portal
+  - Customize and apply a theme to your portal
+  - Add a logo to your portal
+
+  After completing this module, students will be able to&#58;
+  - Design a company portal using out-of-the-box web parts and themes
+
+
+  ### Module 6&#58; Document and Records Management
+  This module explains how to leverage document management tools included in SharePoint 2016. Whether a small company or a large enterprise, this module explores how any company can leverage SharePoint for versioning, compliance, routing and eDiscovery.
+  #### Lessons
+  - Basic Content Approval
+  - Versioning
+  - Check In/Out
+  - Holds
+  - Retention Policy
+  - Document ID
+  - Content Organizer
+  - Compliance Policy Center Site Template
+  - EDiscovery
+  - Records Center
+
+
+  #### Lab &#58; Working with Advanced Document Management Features
+
+  #### Lab &#58; Leveraging Records Management to Preserve Data
+  - Configure a Records Center to house documents requiring a hold
+  - Configure in-place records on libraries
+  - Set up and leverage an eDiscovery Center
+
+  After completing this module, students will be able to&#58;
+  - Leverage document management tools included in SharePoint 2016
+
+
+  ### Module 7&#58; Workflow
+  This module explains how to automate business processes within an organization. The ability to initiate, track and resolve activity in SharePoint 2016 is possible through the use of a workflow. Whether using the pre-configured out-of the-box workflow features or creating a custom workflow through SharePoint Designer, an organization can benefit from moving existing email, paper or informal processes into SharePoint.
+  #### Lessons
+  - Alerts
+  - Out of the Box Workflow
+  - Activating Workflow Features
+  - Approval Workflow
+  - Creating a Workflow in SharePoint Designer
+
+
+  #### Lab &#58; Creating an Approval Workflow from SharePoint
+
+  #### Lab &#58; Creating a Custom Workflow in SharePoint Designer (Optional)
+  After completing this module, students will be able to&#58;
+  - Automate business processes within an organization
+  - Initiate, track and resolve activity in SharePoint 2016 through the use of a workflow
+
+
+  ### Module 8&#58; Office Integration
+  This module explains how to connect SharePoint 2016 to Microsoft Office 2016. There are many ways such as connecting a SharePoint 2016 document library to Microsoft Outlook, linking an Access database or an Excel spreadsheet to a list in SharePoint 2016, or using Microsoft InfoPath to build SharePoint 2016 lists. The heavy integration of Microsoft Office 2016 is one of the main benefits of using SharePoint 2016.
+  #### Lessons
+  - Outlook
+  - Calendar
+  - Contacts
+  - Excel
+  - Word
+  - PowerPoint
+  - OneDrive for Business
+  - OneNote
+  - Access
+
+
+  #### Lab &#58; Importing and Exporting Excel Data with SharePoint
+
+  #### Lab &#58; Linking Outlook and SharePoint
+  After completing this module, students will be able to&#58;
+  - Connect SharePoint 2016 to Microsoft Office 2016
+
+
+  ### Module 9&#58; Creating Publishing Sites
+  This module explains how to use the publishing features of SharePoint 2016 to create rich content pages, as well as the features that limit the types of layouts, images and templates available to users. While some organizations need the document storage and dashboard capabilities SharePoint can offer, others may need a centralized way to distribute informational content to users, who will not otherwise interact with SharePoint in a more robust way.
+  #### Lessons
+  - Why use a publishing site?
+  - Publishing Pages
+  - Enabling Web Content Management
+  - Managing the Structure of Web Content
+  - Navigating a Site Using Managed Metadata
+
+
+  #### Lab &#58; Creating a Rich Publishing Sit
+  - Create a web content management site for publishing news
+  - Set up and use image renditions for faster image management
+
+
+  #### Lab &#58; Configuring a Publishing Approval Process
+  - Add an approval process to your publishing site
+
+
+  #### Lab &#58; Implementing a Managed Navigation Site
+  - Set up and use the Managed Metadata navigation
+
+  After completing this module, students will be able to&#58;
+  - Use the publishing features of SharePoint 2016 to create rich content pages
+  - Use the publishing features that limit the types of layouts, images and templates available to users
+
+
+  ### Module 10&#58; Bridging the Social Gap
+  This module explains how to better perform internal talent management, also known as knowledge management. An important advancement in SharePoint 2016 is the expansion of social computing features. For example, an organization may need to find an individual with the specific skills and knowledge to assist in completing a task or project. SharePoint 2016 offers a viable platform to help organizations with talent or knowledge management.
+  #### Lessons
+  - My Sites
+  - Configuring Social Features in SharePoint
+  - Posts, Tags and Mentions
+  - Creating a Community Site
+
+
+  #### Lab &#58; Designing a Social Experience in SharePoint 2016
+  - Enable content ratings
+  - Configure RSS feeds
+  - Manage user profiles
+
+
+  #### Lab &#58; Creating a Community Site
+  - Create and configure a community site
+  - Create and manage discussions
+  - Recognize users who contribute to the community
+
+  After completing this module, students will be able to&#58;
+  - Better perform internal talent management
+
+
+  ### Module 11&#58; Finding Information Using Search
+  This module explains how to find information quickly and easily. Users can use the Search function within SharePoint 2016 to search across a variety of content sources including documents, people and line of business applications with little to no additional configuration. With a small amount of effort, organizations can create a robust search experience that is in alignment with their business needs.
+  #### Lessons
+  - Exploring the Search Features in SharePoint
+  - Configuring Search Settings
+  - Search Analytics
+  - Search Visibility
+
+
+  #### Lab &#58; Configuring an Advanced Search Center
+  After completing this module, students will be able to&#58;
+  - Find information quickly and easily
+
+
+  ### Module 12&#58; Planning a Company Portal Using SharePoint
+  This module explains how to develop a formal governance plan and committee to maintain quality and consistency in SharePoint. To do this, it will introduce the concept of governance and highlight best practices.
+  Governance defines policies, procedures and guidelines for how SharePoint will be managed; it outlines the roles, responsibilities and actions required to administer and support the SharePoint environment.
+  #### Lessons
+  - Defining SharePoint Governance
+  - Working with Information Architecture
+  - Implementing Site Hierarchies
+  - Discussing the Execution of Governance
+
+  After completing this module, students will be able to&#58;
+  - Develop a formal governance plan and committee to maintain quality and consistency in SharePoint
+
+
+  ### Module 13&#58; Site Collection Administrator Settings
+  This module explains how to use other tools and settings in SharePoint 2016. Site collection administrators or site administrators configure these as part of their day-to-day activities.
+  #### Lessons
+  - Exploring Settings for Site Collection Administrators
+  - Exploring Settings for Site Administrators
+  - Site Closure Policies
+
+  After completing this module, students will be able to&#58;
+  - Use other tools and settings in SharePoint 2016

@@ -6,7 +6,7 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on April 23, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
   Candidates for this exam should have foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.
   
@@ -18,7 +18,7 @@ summary: |-
 subTitle: 'Prove that you can describe the following: core data concepts; how to work with relational data on Azure; how to work with non-relational data on Azure; and an analytics workload on Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
@@ -37,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on April 23, 2021. Please download the exam skills outline below to see what changed.
 - Describe core data concepts (15-20%)
 - Describe how to work with relational data on Azure (25-30%)
 - Describe how to work with non-relational data on Azure (25-30%)
@@ -66,10 +66,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

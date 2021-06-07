@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: NoSQL ワークロードを Azure Cosmos DB へ移行
+metadata:
+  title: 'Course DP-060T00JA-A: NoSQL ワークロードを Azure Cosmos DB へ移行'
+  description: 'Course DP-060T00JA-A: NoSQL ワークロードを Azure Cosmos DB へ移行'
+uid: course.dp-060t00ja
+courseNumber: 'DP-060T00JA-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Cosmos DB を使用してグローバル分散アプリケーションを構築する
+- skill: MongoDB ワークロードを Cosmos DB に移行する
+- skill: Cassandra ワークロードを Cosmos DB に移行
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  このコースは、受講者に、Cosmos DB とは何か、MongoDB および Cassandra ワークロードを Cosmos DB に移行する方法について説明します。
+
+  #### Audience profile
+  このコースの主な対象オーディエンスは、MongoDB または Cassandra DB ワークロードを、Cosmos DB を使用する Azure に移行しようと考えているデータベース開発者です。
+prerequisitesSection: |-
+  このトレーニングを受講する学生は、専門的な経験に加え、以下の技術的知識を持っている必要があります。
+  - Cosmos DB API に依存するスケーラブルな NoSQL アプリケーションを構築し、構成するためのパーティション分割、レプリケーション、およびリソース ガバナンスの基本的な概念。
+outlineSection: |-
+  ### セクション 1&#58; Cosmos DB を使用してグローバル分散アプリケーションを構築する
+  このモジュールは、Cosmos DB の利点とアーキテクチャについて説明します。
+  #### レッスン
+  - Cosmos DB 概要
+  - Cosmos DB API
+  - プロビジョニング スループット
+  - パーティション分割/シャーディングのベスト プラクティス
+
+  このモジュールを修了すると、次のことができるようになります。
+  - Cosmos DB 概要
+  - Cosmos DB API
+  - プロビジョニング スループット
+  - パーティション分割/シャーディングのベスト プラクティス
+
+
+  ### セクション 2&#58; MongoDB ワークロードを Cosmos DB に移行する
+  MongoDB ワークロードを Cosmos DB に移行する
+  #### レッスン
+  - 移行の利点を理解する
+  - 移行計画
+  - データ移行
+  - アプリケーションの移行
+  - 移行後の考慮事項
+
+
+  #### ラボ &#58; MongoDB ワークロードを Cosmos DB に移行する
+  - 移行プロジェクトを作成する
+  - ソースとターゲットを定義する
+  - 移行の実行
+  - 移行の検証
+
+  このモジュールを修了すると、次のことができるようになります。
+  - 移行の利点を理解する
+  - Perform 移行計画
+  - Perform データ移行
+  - Perform アプリケーションの移行
+  - Undertake 移行後の考慮事項
+
+
+  ### セクション 3&#58; Cassandra ワークロードを Cosmos DB に移行
+  このモジュールは、Cassandra ワークロードを Cosmos DB に移行利点とプロセスについて説明します
+  #### レッスン
+  - 移行の利点を理解する
+  - 移行計画
+  - データ移行
+  - アプリケーションの移行
+  - 移行後の考慮事項
+
+
+  #### ラボ &#58; Cassandra ワークロードを Cosmos DB に移行する
+  - アプリケーションの移行
+  - CQLSH COPY を使用してデータを移動する
+  - Spark を使用したデータの移動
+  - 移行を確認する
+
+  このモジュールを修了すると、次のことができるようになります。
+  - 移行の利点を理解する
+  - Perform 移行計画
+  - Perform データ移行
+  - Perform アプリケーションの移行
+  - Undertake 移行後の考慮事項
+
+  #### Additional Reading
+  There is no additional reading required to take this course.

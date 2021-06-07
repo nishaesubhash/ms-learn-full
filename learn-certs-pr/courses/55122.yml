@@ -1,0 +1,171 @@
+### YamlMime:Course
+title: Microsoft SharePoint 2013 Search Administration
+metadata:
+  title: 'Course 55122-A: Microsoft SharePoint 2013 Search Administration'
+  description: 'Course 55122-A: Microsoft SharePoint 2013 Search Administration'
+uid: course.55122
+courseNumber: '55122-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use both basic and advanced techniques to search SharePoint.
+- skill: Manage SharePoint 2013 Search from Central Administration.
+- skill: Manage Office 365 / SharePoint Online Search.
+- skill: Configure search from within sites.
+- skill: Understand and customize Search Schemas and Managed Properties.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This three-day instructor-led is intended for Search Administrators, Site Collection Administrators and Site Owners who want to improve the end user search experience. The class is an ideal follow up for the SharePoint Server Administrator who has attended “20489 - Developing Microsoft SharePoint Server 2013 Advanced Solutions” and is looking for more on the daily administration of SharePoint 2013 Search. This class covers the Standard and Enterprise Editions of SharePoint 2013 and Office 365 / SharePoint Online.
+  
+  SharePoint Search is one of the more ignored areas of SharePoint administration. As Search is often the only way users can find content in a large organization, and as SharePoint 2013 Search is both very powerful and very configurable, Search should be considered one of the more important services in need of formal administration and frequent tuning. While this class will cover the ongoing maintenance of search administration, its focus is on improving the efficiency of your end users in finding “stuff”!
+
+  #### Audience profile
+  This course is intended for&#58;
+  - SharePoint Search Administrators.
+  - SharePoint Server Administrators.
+  - Anyone wanting to drive user efficiency and SharePoint adoption. Use the search reports to monitor both search and user activity.
+  - Customize the search and search results pages.
+  - Improve user search results using Authoritative Pages, Query Rules and Query Suggestions.
+  - Describe and plan for alternate search techniques including PowerShell, web services and custom code.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Have strong SharePoint 2013 end user skills or have attended “Introduction to SharePoint 2013 for Collaboration and Document Management” or similar.
+  - Have a good understanding of the use SharePoint in their organization, what kind of content is stored in their SharePoint and how their users are using SharePoint.
+  - Courses “20331 Core Solutions of Microsoft SharePoint Server 2013 “ and “20332 Advanced Solutions of Microsoft SharePoint Server 2013” are helpful, but not required.
+outlineSection: |-
+  ### Module 1&#58; SharePoint 2013 Search and the Role of the Search Administrator
+  This module provides an introduction to the topics covered in the class, introduces SharePoint search terminology and the search infrastructure.
+  #### Lessons
+  - Who is this class for?
+  - Prerequisites
+  - SharePoint 2013 versions
+  - Search Features by Edition
+  - Search Limitations
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the role of the search administrator.
+  - Describe the search infrastructure.
+  - Describe the features and limitations of SharePoint 2013 Search.
+
+
+  ### Module 2&#58; Using Search as an End User
+  This module explores SharePoint 2013 Search from the point of view of the end user. Topics covered range from basic search through the use of search centers and advanced queries.
+  #### Lessons
+  - Search FAQ
+  - Basic Search Techniques
+  - Files in Libraries vs. Files as Attachments
+  - Using Property Restrictions and Managed Properties
+  - Using Wildcards
+  - Using Search Verticals and Result Sources
+  - Search for People
+  - The Advanced Search Page
+  - Search Preferences
+  - The OneDrive Pro Query Box
+
+
+  #### Lab &#58; Using Search as an End User
+
+  After completing this module, students will be able to&#58;
+  - Perform basic and advanced searches of SharePoint content.
+
+
+  ### Module 3&#58; Search Administration – Part 1
+  This module covers the use of Central Administration to configure search options only available with on premise SharePoint installations.
+  #### Lessons
+  - File Types
+  - Create and Deploy a Thesaurus
+  - Custom Entity Extraction
+
+
+  After completing this module, students will be able to&#58;
+  - Use Central Administration to configure search options.
+
+
+  ### Module 4&#58; Search Administration – Part 2
+  This module covers the configuration search options available in both on premise and online editions of SharePoint 2013.
+  #### Lessons
+  - Crawling Content
+  - Search Schemas, Crawled Properties and Managed Properties
+  - Working with the "unused" default Managed Properties
+  - Working with Result Sources
+  - Query Suggestions
+  - Spelling Suggestions
+  - Company Name Extraction
+  - Authoritative Pages
+  - Query Rules
+  - Result Removal
+  - Hiding Lists, Libraries, and Sites from Search
+
+
+  #### Lab &#58; Search Administration – Part 2
+
+  After completing this module, students will be able to&#58;
+
+  - Configure Search Schemas.
+  - Configure Crawl Properties
+  - Configure Managed Properties
+  - Configure Query Rules
+  - Configure Authoritative Pages
+
+
+  ### Module 5&#58; Customizing Search and Search Results Web Pages
+  This module covers the customization of search and search result pages.
+  #### Lessons
+  - Out of the Box Pages and Site Templates
+  - Customizing Search Verticals
+  - Creating a Custom Search Vertical
+  - The Query Builder
+  - Customizing Search Pages
+  - Customizing the Advanced Search Page
+  - Working with the Search Web Parts
+  - Customize Search Result Types
+
+
+  #### Lab &#58; Customizing Search and Search Results Web Pages
+
+  After completing this module, students will be able to&#58;
+
+  - Customize and “tweak” search pages to improve user search efficiency.
+  - Create and customize search center sites.
+  - Create and maintain Search Verticals.
+  - Create and customize custom search pages using the search web parts.
+  - Work with Result Types and Display Templates.
+
+
+  ### Module 6&#58; Monitoring Search
+  This module provides an overview of the reports available to monitor search and how to use these reports to improve the user search experience.
+  #### Lessons
+  - Search Reporting
+  - User Activity
+
+
+  After completing this module, students will be able to&#58;
+  - Use the SharePoint 2013 search reports to monitor search activity and to find opportunities to improve the user search experience.
+
+
+  ### Module 7&#58; Using PowerShell, JavaScript and C# to Search SharePoint (Optional)
+  This module explores additional ways for administrators and developers to search SharePoint 2013 content.
+  #### Lessons
+  - Search Driven Content Web Parts
+  - PowerShell
+  - JavaScript and jQuery
+  - Web Services
+  - C#
+  - CSOM - Client Side Object MOdel
+
+
+  After completing this module, students will be able to&#58;
+  - Describe additional ways to search SharePoint 2013 content.
+  - Understand the impact of external calls into SharePoint 2013 search.
+
+  #### Additional Reading
+  None

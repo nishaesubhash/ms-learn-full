@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: Visualizing Data with SQL 2008 R2 and Report Builder 3.0
+metadata:
+  title: 'Course 50555-A: Visualizing Data with SQL 2008 R2 and Report Builder 3.0'
+  description: 'Course 50555-A: Visualizing Data with SQL 2008 R2 and Report Builder 3.0'
+uid: course.50555
+courseNumber: '50555-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Decide whether to use Business Intelligence Development Studio or Report Builder 3.0 to develop reports.
+- skill: Understand and be able to articulate the difference between classifications of graphs and which type of graph is best utilized and targeted to the type of data to be represented. Fully develop reports with graphics and understand the methodology of working with the end users in the development of these reports.
+- skill: Add gauges to reports and understand the variances between linear and radial gauges and the limitations of those gauges.
+- skill: Deploy reports that contain graphics.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This instructor led course provides students with the knowledge and skills to add graphs gauges and maps to reports developed utilizing SQL Server 2008 R2 reporting services. The development of these visualizations focuses on the use of report builder 3.0. This tool is reporting tools that integrates the development of reports with visualizations.
+
+  #### Audience profile
+  Report developers, power users and those interested in visualizations in reporting. This course is designed to enhance the skills of those that are generating reports using SSRS by adding graphs, gauges and maps.
+prerequisitesSection: |-
+  Before attending this course, students should have&#58;
+  - Experience in developing analytical reports.
+outlineSection: |-
+  ### Module 1&#58; Overview of Visualizations
+  #### Lessons
+  - Goals of reporting
+  - Types of reports
+  - Audiences
+  - Attack of the images
+
+
+  #### Lab &#58; Overview of Visualizations
+
+  ### Module 2&#58; Charts
+  #### Lessons
+  - Matching the chart to the data
+  - Choosing a type of chart to display the data New SQL 2008 Charts
+  - Chart Properties
+  - Sparklines Databars and Indicators Advanced Techniques
+  - Formatting
+
+
+  #### Lab &#58; Charts
+
+  ### Module 3&#58; Gauges
+  #### Lessons
+  - Matching gauges to the data
+  - Variations of gauges
+  - Selecting a gauge type
+  - Linear gauges
+  - Radial Gauges
+
+
+  #### Lab &#58; Gauges
+
+  ### Module 4&#58; Maps
+  #### Lessons
+  - Spatial Data
+  - Basic maps
+  - Analyzing with color
+  - Geography display
+  - Color points
+
+
+  #### Lab &#58; Maps

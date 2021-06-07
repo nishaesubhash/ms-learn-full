@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: Implementing Application Infrastructure
+metadata:
+  title: 'Course AZ-400T05-A: Implementing Application Infrastructure'
+  description: 'Course AZ-400T05-A: Implementing Application Infrastructure'
+uid: course.az-400t05
+courseNumber: 'AZ-400T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apply infrastructure and configuration as code principles
+- skill: Deploy and manage infrastructure using Microsoft automation technologies, such as ARM templates, PowerShell, and Azure CLI
+- skill: Describe deployment models and services that are available with Azure
+- skill: Deploy and configure a Managed Kubernetes cluster
+- skill: Deploy and configure infrastructure using 3rd party tools and services with Azure, such as Chef, Puppet, Ansible, SaltStack, and Terraform
+- skill: Define an infrastructure and configuration strategy and appropriate toolset for a release pipeline and application infrastructure
+- skill: Implement compliance and security in your application infrastructure
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides knowledge and skills to deploy an application infrastructure in DevOps pipelines. Students will learn how to implement infrastructure as code and configuration management, how to provision Azure infrastructure using common automation tools, and how to deploy an application infrastructure using various Azure services and deployment methodologies. Students will also learn how to integrate third party deployment tools with Azure, such as Chef and Puppet, to incorporate compliance and security into the release pipeline.
+
+  #### Audience profile
+  Students in this course are interested in implementing application infrastructure, and the management and configuration of that infrastructure, or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  Students should have fundamental knowledge about Azure, experience with virtual machines and containers, and some exposure to automation and scripting.
+  
+  Experience working in a software development or operations environment with either Windows or Linux would be helpful but is not essential.
+  
+  Students should also have knowledge of general application development and deployment processes.
+outlineSection: |-
+  ### Module  1&#58; Infrastructure and Configuration Azure Tools
+  #### Lessons
+  - Learning Objectives
+  - Infrastructure as Code and Configuration Management
+  - Create Azure Resources using ARM Templates
+  - Create Azure Resources using Azure CLI
+  - Create Azure Resources using Azure PowerShell
+  - Additional Automation Tools
+  - Version Control
+  - Lab Deploy to Azure using ARM templates
+  - Module Review Questions
+
+  After completing this module, students will be able to&#58;
+  - Apply infrastructure and configuration as code principles
+  - Deploy and manage infrastructure using Microsoft automation technologies such as ARM templates, PowerShell, and Azure CLI
+
+
+  ### Module  2&#58; Azure Deployment Models and Services
+  #### Lessons
+  - Learning Objectives
+  - Deployment Models and Options
+  - Azure Infrastructure-as-a-Service (IaaS) Services
+  - Azure Automation with DevOps
+  - Desired State Configuration (DSC)
+  - Azure Platform-as-a-Service (PaaS) services
+  - Azure Service Fabric
+  - Lab Azure Automation - IaaS or PaaS deployment
+  - Moduel Review Questions
+
+  After completing this module, students will be able to&#58;
+  - Describe deployment models and services that are available with Azure
+
+
+  ### Module  3&#58; Create and Manage Kubernetes Service Infrastructure
+  #### Lessons
+  - Learning Objectives
+  - Azure Kubernetes Service
+  - Lab Deploy and Scale AKS Cluster
+  - Module Review Questions
+
+  After completing this module, students will be able to&#58;
+  - Deploy and configure a Managed Kubernetes cluster
+
+
+  ### Module  4&#58; Third Party and Open Source Tools available with Azure
+  #### Lessons
+  - Learning Objectives
+  - Chef
+  - Puppet
+  - Ansible
+  - Cloud-Init
+  - Terraform
+  - Lab Provision and configure an App in Azure Using X
+  - Module Review Questions
+
+  After completing this module, students will be able to&#58;
+  - Deploy and configure infrastructure using 3rd party tools and services with Azure, such as Chef, Puppet, Ansible, SaltStack, and Terraform
+
+
+  ### Module  5&#58; Implement Compliance and Security in your Infrastructure
+  #### Lessons
+  - Security and Compliance Principles with DevOps
+  - Azure Security Center
+  - Lab Integrate a scanning extension or tool in an Azure DevOps pipeline/security center
+  - Module Review Questions
+
+  After completing this module, students will be able to&#58;
+  - Define an infrastructure and configuration strategy and appropriate toolset for a release pipeline and application infrastructure
+  - Implement compliance and security in your application infrastructure
+
+
+  ### Module  6&#58; Course Completion
+  #### Lessons
+  - Final Exam

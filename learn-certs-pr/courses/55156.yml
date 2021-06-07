@@ -1,0 +1,148 @@
+### YamlMime:Course
+title: Small and Medium Business Essentials for System Center 2012 R2 Operations Manager
+metadata:
+  title: 'Course 55156-A: Small and Medium Business Essentials for System Center 2012 R2 Operations Manager'
+  description: 'Course 55156-A: Small and Medium Business Essentials for System Center 2012 R2 Operations Manager'
+uid: course.55156
+courseNumber: '55156-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install Operations Manager 2012 R2 and configure global and Management Server specific settings.
+- skill: Navigate the Operations Manager Console and Web Console.
+- skill: Import and export management packs.
+- skill: Create Synthetic Transactions.
+- skill: Create Distributed Applications.
+- skill: Migrate from Operations Manager 2007 to 2012 R2 Operations Manager.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This two-day supplemental instructor-led course provides students from small and medium businesses the knowledge and skills to install and configure System Center 2012 R2 Operations Manager for their environments. This course is offered as a bundle with 10964C&#58; Cloud & Datacenter Monitoring with System Center Operations Manager.
+
+  For groups that would prefer to use this SMB focused supplement in a 10964C class our recommendation is to teach all six modules from the supplement on days 1 and 2 and then continue with 10964C. The following modules from 10964C would not be taught in this scenario&#58;
+  10964C Module 1 10964C Module 2 10964C Module 6 10964C Module 9 10964C Module 10
+
+  #### Audience profile
+  This course is intended for SMB IT professionals with basic Windows Server, Active Directory and network configuration and management experience.
+prerequisitesSection: |-
+  - Familiarity with PC hardware and devices.
+  - Experience supporting Windows-based systems.
+  - Basic experience authoring and editing batch and script files.
+  - Experience reviewing Windows application and service logs.
+  - Experience configuring or supporting distributed application environments.
+  - Working knowledge of Windows Server 2008 operating system and network configuration.
+  - Working Knowledge of Active Directory.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Operations Manager
+  This module gives the student a high-level view of System Center 2012 R2 Operations Manager.  Students new to the value of SCOM will learn about its benefits.  Students familiar with SCOM 2007 will also benefit with an introductory look at the changes manifested in SCOM 2012 R2.
+  #### Lessons
+  - Operations Manager Introduction and Basic Concepts
+  - What’s new In Operations Manager?
+  - System Requirements
+
+
+  #### Lab &#58; None
+
+  - Understand the purposes of System Center Operations Manager.
+  - Note the changes from Operations Manager 2007 to 2012 R2 Operations Manager.
+  - Identify the System Requirements for 2012 R2 Operations Manager.
+
+
+  ### Module 2&#58; Deploying Operations Manager for the Small and Medium Business
+  This module explains how Active Directory and SQL Server 2012 R2 integrate with and support System Center 2012 R2 Operations Manager.  In addition this module allows students the opportunity to plan deployment of SCOM and do a SCOM install in a virtual environment which simulates what is often seen in today’s enterprises.
+  #### Lessons
+  - Active Directory Integration
+  - SQL Server Configuration
+  - Security Considerations
+  - Upgrading and Migrating to 2012 R2
+  - Installing System Center 2012 R2 Operations Manager
+  - Navigating the Operations Manager Interface
+
+
+  #### Lab &#58; Installing Operations Manager
+  - Check requirements and install pre-requisites
+  - Install Operations Manager
+
+
+  #### Lab &#58; Creating Users and Customizing Views
+  - Create new user roles
+  - Create and test Views and Rights for the new user roles
+  - Create Active Directory objects required for Operations Manager.
+  - Configure connectivity between SQL Server 2012 R2 and Operations Manager.
+  - Create SQL databases required by Operations Manager.
+  - Plan an Operations Manager Deployment.
+  - Install Operations Manager.
+  - Navigate the Operations Console.
+  - Modify the views of the Operations Console based on job requirements.
+  - Secure the Operations Console considering the ‘Principle of Least Privilege’.
+  - Understand the changes to the Operations Manager Web Console.
+
+
+  ### Module 3&#58; Global Management Group Settings and Notifications
+  This module covers the creation and value of Management Groups.  In addition Resource Pools will be demonstrated as a way to provide for high availability.  Applying Global Management Group settings and Management Server specific settings used to override Global settings can allow for more customized System Center 2012 R2 Operations Manager deployments.  Finally Notifications will be used to ensure that those information technology professionals tasked with maintaining the enterprise systems have real time access to anomalous conditions.
+  #### Lessons
+  - Configuring Global Management Group Settings
+  - Overriding Global Management Group Settings
+  - Notifications
+
+
+  #### Lab &#58; Creating Subscription Notifications
+  - Creating Subscription Notifications
+  - Configure global management group settings.
+  - Override the global management group settings.
+  - Configure notifications and subscriptions.
+  - Connect other management groups and access them from a single console.
+
+
+  ### Module 4&#58; Management Packs
+  This module explains how Management Packs can be used to more granularly monitor events throughout the organization.  Learning to import, export and author of Management Packs will improve the student’s ability to fully utilize the capabilities of System Center 2012 R2 Operations Manager.
+  #### Lessons
+  - Management Pack Overview
+  - Using Pre-Installed Management Packs
+  - Importing and Exporting Management Packs
+
+
+  #### Lab &#58; Management Pack Administration
+  - Gather a list of management packs
+  - Export the Management Packs and simulate complete loss
+  - Understand the parts of a Management Pack and how Operations Manager uses each part.
+  - Know the management packs that come with Operations Manager and their purposes.
+  - Import management packs from third party sources and export management packs to other management groups.
+  - Create management packs for internal use.
+
+
+  ### Module 5&#58; Working with Management Pack Templates
+  This module introduces the concept of Management Pack Templates to create complete monitoring solutions.  Using these methods monitoring moves outside the realm of agents installed on systems to external confirmation of access and performance.
+  #### Lessons
+  - Introduction to Management Pack Templates
+  - Monitoring Scenarios Using Management Pack Templates
+
+
+  #### Lab &#58; Management Pack Templates
+  - Enable Remote Desktop on SQL and Create the Run As account
+  - Create the Synthetic Transactions
+  - Simulate Failure of Connectivity to the SQL Server Remote Desktop Connection
+  - Understand the types of Management Pack Templates included with Operations Manager.
+  - Create monitoring solutions which mimic actual user activities.
+
+
+  ### Module 6&#58; Using Distributed Applications to Simplify Monitoring
+  This module explains how to use the power of Distributed Applications to monitor not just a system, but rather all of the infrastructure components necessary for Line of Business applications to function reliably.  Students will see a big picture view of how applications, systems and network devices work together to insure consistent behavior.
+  #### Lessons
+  - Distributed Applications Concepts and Components
+  - Design and Creation of Distributed Applications
+
+
+  #### Lab &#58; Create a Distributed Application
+  - Convert SQL to Agent Managed
+  - Create a Distributed Application
+  - View and Test the Distributed Application
+  - View and manage the parts of a distributed application.
+  - Create and navigate the components a distributed application.

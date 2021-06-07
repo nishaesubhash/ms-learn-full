@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Customer Service
+metadata:
+  title: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+  description: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+uid: course.55260
+courseNumber: '55260-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the features and tools that exist in Microsoft Dynamics 365 for CSR’s and Service Managers
+- skill: Be familiar with the stages of the Service Case Management Process in Microsoft Dynamics 365
+- skill: Understand the fundamentals of Case Management. Be able to track, manage and resolve customer service requests using Case records in Microsoft Dynamics 365
+- skill: Know how to assign, resolve, reactivate, cancel and delete Case records
+- skill: Understand the significance of Service Level Agreements and how to create a Customer Schedule and apply SLA’s to Customer and Case records through Entitlements
+- skill: How to setup and configure Queues and use Queue’s to collaborate on Cases with other CSR’s and Teams.
+- skill: How to implement a Case Routing Rules, and utilize Queue Items in Processes
+- skill: Understand the process to create and manage Knowledge Articles in the Knowledge Base
+- skill: Be familiar with the Knowledge Base approval process
+- skill: How to search the Knowledge Base and relate Knowledge Articles to Case records
+- skill: How to provision and navigate the Interactive Service Hub
+- skill: Effectively interact with the Interactive Service Hub Filters, Visualizations and Dashboards
+- skill: Create and manage Knowledge Articles in the Interactive Service Hub
+- skill: Perform Case Management in the Interactive Service Hub
+- skill: Explore the Service Reports and create a custom Service Report using the Reporting Wizard in Microsoft Dynamics 365
+- skill: Understand the significance of Service Goal Management and Metrics in Microsoft Dynamics 365
+- skill: Explore the Service Charts and Dashboards and create a custom Service Dashboard in Microsoft Dynamics 365
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  This course provides students with a detailed hands-on experience of the Service features and components of Microsoft Dynamics 365.
+  
+  Attendees of this course will gain an in-depth understanding of the Service Case Management Process in Dynamics 365, including learning how to track and resolve customer requests with Case records, collaborate on issues using Queues, use Service Level Agreements (SLA) to manage service entitlements and utilize the Knowledge Base to resolve customer issues faster. The Interactive Service Hub and Service Analysis features such as the Service Reports, Service Goal Management, Service Charts and Dashboards are also presented in this course.
+  
+  The course applies to both Business and Enterprise Editions of Dynamics 365 as well as Online and On-premise deployments.
+
+  #### Audience profile
+  This course is intended for Customer Service Representatives (CSR), Service Managers and End-users who have an interest in the Service components of Dynamics 365. Students should have an existing working knowledge of either Microsoft Dynamics 365 or Microsoft Dynamics CRM. As a minimum, students should attend the prerequisite course ‘Introduction to Microsoft Dynamics 365’.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A working knowledge of Microsoft Dynamics 365 or Microsoft Dynamics CRM OR
+  - Successful completion of the ‘Introduction to Microsoft Dynamics 365’ course
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module provides the attendee with an introduction to the concept of Customer Service the Microsoft
+  Dynamics 365.
+  #### Lessons
+  - Examine common Customer Service Scenarios
+  - An Introduction to Service in Dynamics 365
+  - The Dynamics 365 Platform
+  - Dynamics 365 Service Fundamentals
+  - Security Considerations
+  - Where to get Help
+  - Further Reading and Resources
+
+
+  #### Lab &#58; Service in Dynamics 365 Orientation
+  - Explore the Service features in Dynamics 365
+
+  After completing this module, students will be able to&#58;
+  - Understand the Customer Service process in regards to the Dynamics 365 Service App.
+  - Be familiar with the Service features of the Dynamics 365 App.
+  - Understand the impact of Security configuration on the Dynamics 365 Service App.
+  - Know where to get help when navigating and using the Dynamics 365 Service App.
+  - Be familiar with the further reading and resources available to users.
+
+
+  ### Module 2&#58; Case Management
+  This module presents the Service Case Management Process in Microsoft Dynamics 365. We also examine
+  the various stages a Case record can go through during its lifespan, and how Service Level Agreements can
+  be used with Cases to define and track Service Entitlements.
+  #### Lessons
+  - The Case Management Process
+  - Working with Case Records
+  - Working with the Case Form
+  - Case Assignment and Routing
+  - Cases and Activities
+  - Resolving Cases
+  - Reactivating, Cancelling and Deleting Cases
+  - Service Level Agreements
+
+
+  #### Lab &#58; Working with Cases
+  - Create a Case record
+  - Assign a Case record
+  - Resolve a Case record
+  - Reactivate a Case record
+  - Cancel a Case record
+
+
+  #### Lab &#58; Service Level Agreements and Cases
+  - Crate a Customer Schedule for the SLA
+  - Create a new Service Level Agreement
+  - Activate a Service Level Agreement
+  - Create an Entitlement
+  - Relate a Case to a Service Level Agreement
+
+  After completing this module, students will be able to&#58;
+  - Understand the Case Resolution Process in regards to the Dynamics 365 Service App.
+  - Know how to create, assign, manage and resolve Case Records.
+  - Understand the significance of related Case Activity Records.
+  - Work with Service Level Agreements and customer Entitlements.
+
+
+  ### Module 3&#58; Working with Queues
+  This module presents the concepts of Service Queues in Microsoft Dynamics 365. We examine common Service scenarios where Queues can be useful, and step through the process to create and manage Queues. We also look at how Workflow and Routing Rules can automate Case assignment using Queues.
+  #### Lessons
+  - Introduction to Service Queues
+  - Common Service Queue Scenarios
+  - Creating and Managing Queues
+  - Working with Queue Items
+  - Case Routing Rules
+  - Processes and Queues
+
+
+  #### Lab &#58; Create a Case Routing Queue
+  - Creating Queues
+  - Create a Case Routing Rule
+  - Route a Case to a Queue
+  - Working with Queues and Queue Items
+
+  After completing this module, students will be able to&#58;
+  - Understand the benefits of Queues and how they are used within the Case Resolution Process.
+  - Add records to Queues and manage Queue Items.
+  - Implement Case Routing Rules to automate Case assignment.
+  - Automate Queue Item management using Processes.
+
+
+  ### Module 4&#58; Using the Knowledge Base
+  In this module we will start to look at the Knowledge Base in Microsoft Dynamics 365. We look at where the Knowledge Base fits into the Service Management Process, present Knowledge Base Article Templates and examine the Article approval process. Finally, we wrap up with searching the Knowledge Base and relating Articles to Case records.
+  #### Lessons
+  - Introduction to the Knowledge Base
+  - Knowledge Base Concepts
+  - Working with Articles
+  - Searching the Knowledge Base
+  - Email a Knowledge Article
+
+
+  #### Lab &#58; Create Knowledge Base Articles
+  - Create an Article Template
+  - Update the Subject Tree
+  - Create a new Knowledge Base Article
+  - Submit a Knowledge Base Article for Approval
+  - Reject a Knowledge Base Article
+  - Approve a Knowledge Base Article
+
+
+  #### Lab &#58; Create a Case and interact with the Knowledge Base
+  - Create a new Case
+  - Relate a Knowledge Base Article to a Case
+  - Email a Knowledge Base Article to a Customer
+
+  After completing this module, students will be able to&#58;
+  - Work with the Knowledge Base in Dynamics 365.
+  - Create and manage Knowledge Base Articles and Article Templates.
+  - Be familiar with the Article Approval Process.
+  - Search the Knowledge Base to resolve a Case Record.
+  - Email an Article to a Customer to resolve a Case Record.
+
+
+  ### Module 5&#58; The Interactive Service Hub
+  This module presents how CSR’s and Service Managers can benefit from the features provided by the Interactive Service Hub. We look at the rich controls and dynamic streams of information presented by this alternative interface to Microsoft Dynamics 365. Finally, we look at the alternative approaches to Case management, Knowledge Articles and tracking Service information.
+  #### Lessons
+  - Introduction the Interactive Service Hub
+  - The Tier 1 Dashboard
+  - The Tier 2 Dashboard
+  - The My Knowledge Dashboard
+  - The Knowledge Manager Dashboard
+  - Working with Cases in the Hub
+  - Working with Knowledge Articles in the Hub
+  - Working with Visualizations and Filters in the Hub
+
+
+  #### Lab &#58; Using the Interactive Service Hub
+  - Explore the Interactive Service Hub
+  - Manage Streams in the Interactive Service Hub
+  - Resolve a Case in the Interactive Service Hub
+  - Create a KB Article in the Interactive Service Hub
+  - Manage KB Articles in the Interactive Service Hub
+  - Relating a Case to an Interactive Service Hub KB Article
+
+  After completing this module, students will be able to&#58;
+  - Be familiar with the Interactive Service Hub in Dynamics 365
+  - Interact with the Interactive Service Hub Dashboards, Streams, Indicators and Filters.
+  - Manage Case Records through the Interactive Service Hub.
+  - Work with Knowledge Base Articles through the Interactive Service Hub.
+
+
+  ### Module 6&#58; Service Analysis
+  This module looks at the different methods available to analyze service information that is stored in Microsoft Dynamics 365. We look at the out of the box service reports and the process to create a custom report using the Dynamics 365 Report Wizard. This module also demonstrates the Chart and Dashboard
+  designer, as well as reviewing the out of the box service dashboards to analyze service data.
+  #### Lessons
+  - Introduction to Service Analysis in Dynamics 365
+  - The Service Reports
+  - The Reporting Wizard
+  - Working with Service Charts
+  - Working with Service Dashboards
+  - Working with Service Goals and Metrics
+
+
+  #### Lab &#58; Explore the Service Reports
+  - Exploring the Case Summary Table Report
+  - Exploring the Neglected Cases Report
+
+
+  #### Lab &#58; Service Goals and Metrics
+  - Create Goals for the Service Team
+  - Create a Personal View
+  - View Sales Goals and Chart
+
+
+  #### Lab &#58; Explore the Service Charts and Dashboards
+  - Explore the Case Charts
+  - Create a custom Service Chart
+  - Explore the Service Dashboards
+  - Create a custom Service Dashboard
+
+  After completing this module, students will be able to&#58;
+  - Understand the different ways to analyze Service data in Dynamics 365.
+  - Work with the ‘out of the box’ Service Reports in Dynamics 365.
+  - Create a custom Service report using the Reporting Wizard.
+  - Work with the Service Charts and Dashboards.
+  Create Service Goals and KPI Visualizations in Dynamics 365.
+  #### Additional Reading

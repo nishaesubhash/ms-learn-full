@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: Getting Started with Windows 8
+metadata:
+  title: 'Course 55032-A: Getting Started with Windows 8'
+  description: 'Course 55032-A: Getting Started with Windows 8'
+uid: course.55032
+courseNumber: '55032-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe the new features available in Windows 8
+- skill: Describe the platforms that support Windows 8
+- skill: Describe the difference between Windows 8 RT and Windows 8 Pro
+- skill: Sign in and out of Windows
+- skill: Shutdown and restart Windows
+- skill: Lock Windows
+- skill: Activate Windows
+- skill: Describe the Metro interface
+- skill: Describe Hot Corners
+- skill: Describe Gestures
+- skill: Navigate the basic features of Windows
+- skill: Describe the feature and functionality of the Start screen
+- skill: Use Tiles
+- skill: Use App Switcher
+- skill: Search for files, applications, and settings
+- skill: Customize the taskbar
+- skill: Describe the Charms bar
+- skill: Manage devices
+- skill: Describe the Windows App Store
+- skill: Describe the built-in apps in Windows 8
+- skill: Describe Internet Explorer 10
+- skill: Describe SkyDrive
+- skill: Describe the ribbon
+- skill: Browse files and folders using file explorer
+- skill: Describe Device Manager
+- skill: Join wireless networks
+- skill: Install and use printers
+- skill: Share folders
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  This one-day, instructor-led course is designed for all end users who are interested in learning how to use the new features and functionality that are available in the Windows 8 Operating System. It will teach students the new features and capabilities of the Windows 8 Operating System, enable them to both leverage these new features and successfully navigate the new user interface, and provide them with the knowledge and experience necessary to personalize their computer to best suit their needs. This course will be valuable for people at all levels of technical expertise, from casual users to administrators of previous Windows versions.
+
+  #### Audience profile
+  This course is intended for anyone who is interested in learning the new interface of Windows 8.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Previous experience using a Windows desktop operating system
+outlineSection: |-
+  ### Module 1&#58; Getting Started with Windows 8
+  After completing this module students will be able to describe the new features of Windows 8, learn basic navigation concepts of the user interface, and understand the benefits of registering for a Microsoft account.
+  #### Lessons
+  - New Features of Windows 8
+  - Consistent User Experience
+  - Exploring the Windows 8 User Interface
+  - Microsoft Accounts
+
+
+  #### Lab &#58; Introduction to Windows 8
+
+  After completing this module, students will be able to&#58;  
+  - Describe the new features available in Windows 8
+  - Describe the platforms that support Windows 8
+  - Describe the difference between Windows 8 RT and Windows 8 Pro
+  - Sign in and out of Windows
+  - Sign up for a Microsoft Account
+  - Describe how to convert a Local Account to a Microsoft Account
+  - Shutdown and restart Windows
+  - Lock Windows
+  - Navigate using Shortcut Keys
+  - Describe the Modern UI
+  - Describe Hot Corners
+  - Describe Gestures
+  - Navigate the basic features of Windows
+
+
+  ### Module 2&#58; Navigating and Personalizing Windows 8
+  This module will teach more advanced navigation techniques for Windows 8 and will also focus on the personalization of the user experience across all connected Windows 8 devices. Students will learn the new navigation tools, app switcher, the Charms menu, and Windows App Store.
+  #### Lessons
+  - Presenting the Modern UI
+  - Using Tiles
+  - Working with the Task Bar
+  - Working with Charms
+
+
+  #### Lab &#58; Navigating and Personalizing Windows 8
+
+  After completing this module, students will be able to&#58;
+  - Describe the feature and functionality of the Start screen
+  - Use Tiles
+  - Use App Switcher
+  - Use Snap
+  - Use Keyboard Shortcuts
+  - Search for files, applications, and settings
+  - Customize the taskbar
+  - Describe the Charms bar
+  - Describe Aero Peek
+  - Create a Toolbar
+  - Describe Taskbar on dual monitors
+  - Describe the Action Center
+
+
+  ### Module 3&#58; Applications in Windows 8
+  This module describes the basic applications included with Windows 8 and give students an overview of both the Windows Store and how it can be used to find apps that supplement the included apps. This module will also cover the new functionality of Internet Explorer 10, as well as how students can leverage its new capabilities and navigate using both the new, Modern user interface version and the traditional Desktop user interface for IE 10.
+  #### Lessons
+  - Windows 8 Apps Overview
+  - Basic Windows 8 Apps
+  - Internet Explorer 10
+
+
+  #### Lab &#58; Working with Internet Explorer 10
+
+  After completing this module, students will be able to&#58;
+  - Describe the Windows Store
+  - Describe the Mail App
+  - Describe the Photos App
+  - Describe the Messaging App
+  - Describe the People App
+  - Describe the Calendar App
+  - Describe the Bing App
+  - Describe the Weather App
+  - Describe the Video App
+  - Describe the Maps App
+  - Describe the Travel App
+  - Describe Internet Explorer 10
+  - Describe SkyDrive
+
+
+  ### Module 4&#58; Managing Files and Folders
+  This module will teach students how to work with Files and Folders in the Windows 8 file system, add and remove devices to their system, and share file and device resources with other users, computers, and devices on the same network.
+  #### Lessons
+  - Browsing and Organizing Files
+  - HomeGroup
+  - Connecting Windows 8 Devices
+
+
+  #### Lab &#58; Creating and Moving Files
+
+  After completing this module, students will be able to&#58;
+  - Describe the ribbon
+  - Browse files and folders
+  - Describe Device Manager
+  - Install and use printers
+  - Share folders
+  - Share a Printer
+  - Setup a HomeGroup

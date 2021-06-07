@@ -1,0 +1,222 @@
+### YamlMime:Course
+title: Tame Microsoft Project
+metadata:
+  title: 'Course 55189-A: Tame Microsoft Project'
+  description: 'Course 55189-A: Tame Microsoft Project'
+uid: course.55189
+courseNumber: '55189-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Initiate an Microsoft Project plan by correctly recording Project Information and configuring the Project Calendar.
+- skill: Create a project schedule that highlights task dependencies and the critical path.
+- skill: Assign task responsibility to specific people or organizations.
+- skill: Easily update task status to show whether a project is on schedule.
+- skill: Modify a project schedule in response to changes in the project, while maintaining a record of the original plan for comparison.
+- skill: Produce schedule reports for management and customers.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This one-day instructor-led course is intended for Microsoft Project users that need to manage a schedule but will NOT be managing cost within Project. By focusing only on the SCHEDULING capabilities of Project, this course dramatically simplifies this powerful application, thus the name&#58; Tame Microsoft Project! In addition to the student manual, this course uses a Project Template (.mpp) and additional tabs to the Ribbon, both of which simplify the interface for the user.
+
+  #### Audience profile
+  This course is intended for Project users who need to use Microsoft Project to create schedules with clear task responsibility and to regularly update those plans with schedule progress information, but who DO NOT use the cost management or resource allocation views of Microsoft Project. The audience for this course could be people managing large or small projects, part-time teams or dedicated teams, and people who are new to Project.
+prerequisitesSection: |-
+  - There are no pre-requisites for this class.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Microsoft Project
+  This module explains how Microsoft Project reinforces project management best practices and provides an introduction to the User Interface (UI) and the custom Ribbon that is a key component in this course.
+  #### Lessons
+  - An Overview of Project Management Best Practices
+  - Project Supports the Practice of Project Management
+  - An Introduction to the User Interface of Microsoft Project
+  - Introducing the Custom Ribbon to Tame Microsoft Project!
+
+  After completing this module, students will be able to&#58;
+  - Describe how Project relates to the discipline of project management.
+  - Navigate to the primary views available using the Ribbon.
+  - Choose views that display task, resource, or assignment information.
+  - Select tables within views to change the information that is available to see and edit.
+  - Relate the features of Project to the 5 steps for building a plan in Project.
+
+
+  ### Module 2&#58; A Quick and Easy Overview of Managing with Project
+  This module demonstrates the major steps of managing a project using Microsoft Project. Students will create a new project plan, establish a baseline, and track progress. This module provides a brief experience with many features of Project without delving into detailed explanations in order to provide students the an overall understanding the purpose of Project and how it is used.
+  #### Lessons
+  - Create a New Project
+  - Enter Tasks and Task Relationships
+  - Define Resources
+  - Assign Resources and Duration to Tasks
+  - Baseline the Plan
+  - Track Project Progress with the Tame Tracker View
+
+
+  #### Lab &#58; Creating a Basic Project from the Tame Template
+  - Create a Project Plan.
+  - Analyze the Project Information.
+  - Update the project with actual schedule performance information.
+
+  After completing this module, students will be able to&#58;
+  - Describe the sequence of activities for creating and base-lining a project plan.
+  - Describe the primary features used by Project to update actual progress in the plan.
+  - Relate the custom ribbon tabs and features to the activities necessary to plan and manage a project.
+
+
+  ### Module 3&#58; Setting up a Project
+  This module explains how to begin a new project using the Tame Template. The Tame Template is pre-configured to make entering tasks easy and it includes custom views for updating a project once the work begins. Starting a new project also includes configuring the Project Calendar to reflect the work schedule of the team.
+  #### Lessons
+  - The Steps for Setting Up a Project
+  - Start a New Project File from the Tame Template
+  - Configure the Project Calendar
+  - Set the Project Properties
+
+
+  #### Lab &#58; Enter Project Information
+  - Choose the project Start Date and Scheduling Method.
+
+  After completing this module, students will be able to&#58;
+  - Create a new project using the “Tame Project Template.”
+  - Establish one or more calendars to constrain resource availability.
+
+
+  ### Module 4&#58; Creating a work Breakdown Structure
+  This module offers best practices for breaking a project into manageable tasks and describes the features in Project related to managing this list of tasks.
+  #### Lessons
+  - Guidelines for Creating a List of Tasks, or Work Breakdown Structure
+  - Entering and Organizing Tasks in Project
+  - Format the Work Breakdown Structure
+
+
+  #### Lab &#58; Manipulate a WBS
+  - Manipulate a WBS
+
+  After completing this module, students will be able to&#58;
+  - Build and use summary and subordinate tasks.
+  - Understand and use milestones.
+  - Develop WBS outlines.
+  - Assign completion criteria.
+  - Evaluate the WBS.
+
+
+  ### Module 5&#58; Identifying Task Relationships
+  This module explains the foundation of building a project schedule&#58; establishing sequence relationships between project tasks.
+  #### Lessons
+  - Determining Task Sequence
+  - Three Types of Task Relationships
+  - Methods of Creating the Finish to Start Relationship
+  - View the Network Diagram
+
+
+  #### Lab &#58; Display the Sequence
+  - Display the Sequence
+
+  After completing this module, students will be able to&#58;
+  - Describe the benefit of establishing task relationships for building a schedule and managing a project.
+  - Understand and correctly apply the three types of task relationships.
+  - Apply the Finish to Start method to create relationships.
+  - Determine and display task sequence using a Network diagram.
+
+
+  ### Module 6&#58; Defining resources within Project
+  This module explains how to add specific or generic resources to a Microsoft Project plan. Adding resources makes it easy to establish specific responsibility for all the work in the project.
+  #### Lessons
+  - Adding a Resource Using the Resource Sheet
+
+  After completing this module, students will be able to&#58;
+  - Enter individual or generic resources into a Microsoft Project plan
+
+
+  ### Module 7&#58; Making Detailed Task Estimates
+  This module explains how to estimate the duration for a task and to assign the estimate and one or more resources to a task. Project uses three “Task Types” and each will be described, although Tame Microsoft Project! only recommends using the Fixed Duration task type.
+  #### Lessons
+  - Work Package Estimates
+  - Duration Estimates
+  - Assigning Resources to Tasks
+  - Assigning Tasks to Resources in the Team Planner View
+  - Task Types
+
+
+  #### Lab &#58; Assign Duration and Resources
+  - Assign duration and resources to each task.
+
+  After completing this module, students will be able to&#58;
+  - Enter estimates for duration for each task.
+  - Distinguish between task types and describe when each is appropriate.
+  - Describe the relationship between work, units, and duration.
+  - Assign tasks to resources using the Tame Planner view.
+
+
+  ### Module 8&#58; Creating an Intial Schedule
+  This module explains some key scheduling terms&#58; critical path, float, and milestones. It shows the power of allowing Project to calculate a schedule and discusses the appropriate times to use Manual schedule calculation.
+  #### Lessons
+  - Calculate the Schedule&#58; The Theory Behind the Software
+  - Critical Path as a Management Tool
+  - Identifying Schedule Float
+  - Applying Schedule Constraints
+  - Defining Milestones
+
+
+  #### Lab &#58; Calculating an Initial Schedule
+  - Calculating an Initial Schedule
+
+  After completing this module, students will be able to&#58;
+  - Calculate float and identify a project’s critical path.
+  - Understand and identify task constraints.
+  - Create milestones.
+
+
+  ### Module 9&#58; Manually Schedule vs. Auto schedule
+  This module explains the Manual vs. Auto schedule option in Project. Project’s powerful schedule engine has many benefits, but there are also circumstances where it is better NOT to let Project calculate the schedule. This presents the guidelines for making that choice.
+  #### Lessons
+  - Manual Scheduling
+
+
+  #### Lab &#58; Experiment with Manually Scheduled Tasks
+  - Experiment with Manually Scheduled Tasks
+
+  After completing this module, students will be able to&#58;
+  - Change the task mode from Manually Schedule to Auto Schedule and back.
+  - Identify tasks that are in Manually Schedule mode by the task mode column and shape on the Gantt Chart.
+  - Describe situations that are particularly appropriate for using Manually Schedule.
+
+
+  ### Module 10&#58; Managing the Project
+  This module explains the principles of updating a project schedule when the project is under way, and how to use a custom Tame Tracker table to easily update the most important schedule information.
+  #### Lessons
+  - The Project Baseline
+  - Visualize Progress with the Tracking Gantt View
+  - Record Schedule Progress Using Actual Start, Actual Finish, and % Complete
+
+
+  #### Lab &#58; The Baseline
+  - Set the Schedule Baseline
+
+
+  #### Lab &#58; Entering Actual Progress
+  - Enter Actual Progress Using the Tame Tracker View
+
+  After completing this module, students will be able to&#58;
+  - Set a baseline.
+  - Enter and manage project performance data.
+  - Use the Actual Start / Actual Finish tracking method. Enter estimates for duration for each task.
+
+
+  ### Module 11&#58; Formatting Output and Printing Reports
+  This module explains how to leverage the Timeline and Reports to communicate with management and other project stakeholders.
+  #### Lessons
+  - Format the Timeline
+  - View Reports
+
+
+  #### Lab &#58; Create Reports in Project 2013
+  - Create Reports in Project
+
+  After completing this module, students will be able to&#58;
+  - Format the Timeline View
+  - View and Print Reports
+  - Create and Print Ad Hoc Visual Reports

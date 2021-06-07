@@ -1,0 +1,199 @@
+### YamlMime:Course
+title: SharePoint 2016 Business Intelligence
+metadata:
+  title: 'Course 55157-A: SharePoint 2016 Business Intelligence'
+  description: 'Course 55157-A: SharePoint 2016 Business Intelligence'
+uid: course.55157
+courseNumber: '55157-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to configure SharePoint sites for business intelligence
+- skill: Learn to configure and use SharePoint Excel Services
+- skill: Learn to configure and use SharePoint Visio Services
+- skill: Learn to configure and use the PowerPivot add-on for SharePoint
+- skill: Learn to configure and use Power View in SharePoint
+- skill: Learn to configure and use the PowerPivot add-on for SharePoint
+- skill: Learn to configure and use the Reporting Services add-on for SharePoint
+- skill: Learn to configure and use PerformancePoint in SharePoint
+- skill: Learn the basics of Power BI and how it fits with SharePoint
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This course covers the services and features in SharePoint that offer support for Business Intelligence scenarios.
+
+  #### Audience profile
+  This course is intended for information workers and business intelligence analysts who have a minimum of three months experience using SharePoint sites, lists, and libraries and have basic Web navigation skills.
+prerequisitesSection: |-
+  - Basic knowledge of SharePoint navigation and functionality.
+  - Basic knowledge of data modeling would be helpful but not required for students in this course.
+outlineSection: |-
+  ### Module 1&#58; Overview of SharePoint Business Intelligence Services and Features
+  This module provides an overview of SharePoint Business Intelligence Services and features.
+  #### Lessons
+  - SharePoint BI Services
+  - SharePoint BI Features
+
+  After completing this module, students will be able to&#58;
+  - Understand what services and features are offered.
+
+
+  ### Module 2&#58; Configuring SharePoint Sites for Business Intelligence
+  This module explains how to configure an existing team site for BI.
+  #### Lessons
+  - SharePoint Business Intelligence Site Template
+  - Configuring an Existing SharePoint Team Site for Business Intelligence
+
+
+  #### Lab &#58; Configuring SharePoint Team Site for Business Intelligence
+  - Configuring SharePoint Team Site for Business Intelligence
+
+  After completing this module, students will be able to&#58;
+  - Configure an existing SharePoint Team Site for Business Intelligence.
+
+
+  ### Module 3&#58; Excel Services in SharePoint
+  This module explains how to use Excel Services.
+  #### Lessons
+  - Viewing Excel Spreadsheets with SharePoint Excel Services
+  - Using SharePoint Excel Services Web Part
+  - Basic Excel Services Farm Configuration Options
+  - Refreshing Data Sources with SharePoint Excel Services
+
+
+  #### Lab &#58; Configuring Excel Services Farm Options
+  - Configuring Excel Services Farm Options
+
+
+  #### Lab &#58; Refreshing Data with Excel Services
+  - Refreshing Data with Excel Services
+
+  After completing this module, students will be able to&#58;
+  - View Excel sheet with SharePoint Excel Services.
+  - Use Excel Services Web Part.
+  - Configure basic Excel services.
+  - Refresh data sources.
+
+
+  ### Module 4&#58; Visio Services in SharePoint
+  This module explains how to use Visio Services.
+  #### Lessons
+  - Configuring Visio Services Farm Settings
+  - View Visio Drawings with SharePoint Visio Services
+  - Attaching Data to Visio Drawings
+
+
+  #### Lab &#58; Using SharePoint Visio Services
+  - Using SharePoint Visio Services
+
+  After completing this module, students will be able to&#58;
+  - Configure Visio services.
+  - View Visio drawings.
+  - Attach data to drawings.
+
+
+  ### Module 5&#58; SharePoint PowerPivot Add-on
+  This module explains how to work with PowerPivot Models, Farm Settings, and Gallery.
+  #### Lessons
+  - Overview of PowerPivot Data Models
+  - Configuring PowerPivot Farm Settings
+  - Creating a PowerPivot Gallery
+  - PowerPivot Data Refresh Options
+
+
+  #### Lab &#58; Configuring PowerPivot for SharePoint
+  - Configuring PowerPivot for SharePoint
+
+
+  #### Lab &#58; Refreshing Data from a PowerPivot Gallery
+  - Refreshing Data from a PowerPivot Gallery
+
+  After completing this module, students will be able to&#58;
+  - Configure PowerPivot Farm settings.
+  - Create a PowerPivot Gallery.
+  - Use data refresh options.
+
+
+  ### Module 6&#58; SharePoint Power View Feature
+  This module explains how to work with Power View.
+  #### Lessons
+  - Overview of Power View in SharePoint
+  - Configuring Data Sources for Power View Reports
+  - Creating Power View Reports
+
+
+  #### Lab &#58; Creating a Report with Power View
+  - Creating a Report with Power View
+
+  After completing this module, students will be able to&#58;
+  - Configure data sources.
+  - Create Power View repots.
+
+
+  ### Module 7&#58; SQL Reporting Services Add-on for SharePoint
+  This module explains how to work with Reporting Services for SharePoint.
+  #### Lessons
+  - Configuring Reporting Services Farm Settings
+  - Configuring a SharePoint Library for Reporting Services Reports
+  - Reporting Services Subscriptions and Alerts
+  - Report Viewer Web Part
+
+
+  #### Lab &#58; Adding Reporting Services Reports to a SharePoint Library
+  - Adding Reporting Services Reports to a SharePoint Library
+
+
+  #### Lab &#58; Configuring Subscriptions and Alerts to Reports
+  - Configuring Subscriptions and Alerts to Reports
+
+  After completing this module, students will be able to&#58;
+  - Configure Reporting Services Farm Settings.
+  - Configure a SharePoint Library.
+  - Work with subscriptions and alerts.
+  - Work with Viewer Web Part.
+
+
+  ### Module 8&#58; SharePoint PerformancePoint Services
+  This module explains how to work with PerformancePoint Services.
+  #### Lessons
+  - Overview of PerformancePoint Services
+  - Configuring SharePoint Lists and Libraries for PerformancePoint
+  - Creating a Data Source
+  - Creating a Score Card and KPI
+  - Creating PerformancePoint Charts and Graphs
+  - Creating PerformancePoint Dashboards
+
+
+  #### Lab &#58; Configuring a SharePoint Site for PerformancePoint
+  - Configuring a SharePoint Site for PerformancePoint
+
+
+  #### Lab &#58; Create a PerformancePoint Dashboard
+  - Create a PerformancePoint Dashboard
+
+  After completing this module, students will be able to&#58;
+  - Configure lists and libraries for PerformancePoint.
+  - Create a data source.
+  - Create a score card and KPI.
+  - Create PerformancePoint charts and graphs.
+
+
+  ### Module 9&#58; Power BI
+  This module explains how work with Power BI.
+  #### Lessons
+  - Overview of Power BI
+  - How Power BI fits with SharePoint
+
+
+  #### Lab &#58; Working with Power BI
+  - Working with Power BI
+
+  After completing this module, students will be able to&#58;
+  - Work with Power BI.

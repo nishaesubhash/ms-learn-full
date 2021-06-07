@@ -1,0 +1,338 @@
+### YamlMime:Course
+title: Managing Windows Environments with Group Policy
+metadata:
+  title: 'Course 50255-E: Managing Windows Environments with Group Policy'
+  description: 'Course 50255-E: Managing Windows Environments with Group Policy'
+uid: course.50255
+courseNumber: '50255-E'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Features and functions of Group Policy
+- skill: Use Group Policy management tools to manage security policies
+- skill: Design a Group Policy infrastructure
+- skill: Group Policy processing architecture
+- skill: Back up, restore, import, and copy Group Policy Objects through the Group Policy
+- skill: Management Console
+- skill: Use Windows PowerShell to manage Group Policy
+- skill: Implement security using Group Policy
+- skill: Configure the desktop environment with Group Policy
+- skill: Configure roaming profiles and Folder Redirection
+- skill: Assign and publish software packages
+- skill: Implement AppLocker and software restriction policies
+- skill: Create and deploy Administrative Templates
+- skill: Configure Group Policy preferences
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  In this course you will learn how to reduce costs and increase efficiencies in your network. You will discover how to consolidate the administration of an enterprise IT infrastructure with Group Policy, and you will learn to control and manage computer systems and domain users running Windows Server and Windows clients. Create Group Policies, implement administrative and security templates, and determine best practices when deploying software packages. Walk away with the experience and tools needed to optimize your enterprise systems and networks. Implement administrative and security templates, and determine best practices when deploying software
+  packages. Walk away with the experience and tools needed to optimize your enterprise systems and networks.
+
+  #### Audience profile
+  This course is intended for Enterprise network staff responsible for help desk support, system administration, and network design.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with the Microsoft Windows Server 2008/2012 environments and a fundamental understanding of Active Directory.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Configuration Management
+  This module describes the basis of what configuration management is and how it functions.
+  #### Lessons
+  - Configuration Management Overview
+  - Configuration Management Using Group Policy
+  - Group Policy Features Introduced with Later Versions of Windows
+  - Using Windows PowerShell in the Configuration Management Process
+
+
+  #### Lab &#58; Introducing Configuration Management
+  - Boot and join the lab virtual machines to the domain
+  - Explore the default Policy Settings
+  - Explore Windows 10 and Windows Server 2016 interface
+
+  After completing this module, students will be able to&#58;
+  - Define configuration management
+  - List the ways you can use configuration management in Windows
+  - Describe the new Group Policy features available in the latest versions of Windows
+  - Explain how PowerShell can be used with configuration management
+
+
+  ### Module 2&#58; Using Group Policy Management Tools
+  This module describes the differences between local and domain policies and the Group Policy management tools you can use to manage these policies.  This module also describes the Group Policy refresh process and how to manually force a refresh ahead of the default interval.
+  #### Lessons
+  - Local and Domain Policies
+  - Using Group Policy Management Console
+  - Understanding Group Policy Refresh
+
+
+  #### Lab &#58; Using Group Policy Management Tools
+  - Working with Multiple Local Policies
+  - Installing the GPMC on various Windows operating systems
+  - Basic Group Policy Management techniques
+
+  After completing this module, students will be able to&#58;
+  - Describe the advantages of using domain policies instead of local policies
+  - List the capabilities of the Group Policy Management Console
+  - Describe the requirements for installing the Group Policy Management Console
+  - Explain how to use the different GPMC features to create and manage policies
+  - Describe the elements of the gpupdate command
+
+
+  ### Module 3&#58; Designing a Group Policy Infrastructure
+  This module details the steps a successful Group Policy deployment should follow, linking your design to how your company can best use the features. Essential network components and security design are also defined.
+  #### Lessons
+  - Design Stages for a Group Policy Infrastructure
+  - Planning your Group Policy Design
+  - Designing Your Group Policy Solution
+  - Deploying Your Group Policy Solution
+  - Managing Your Group Policy Solution
+
+
+  #### Lab &#58; Designing a Group Policy Infrastructure
+  - Creating an OU Structure for Group Policy
+  - Delegating GPO Management
+  - Creating Starter GPOs
+  - Using the AGPM to manage policies
+
+  After completing this module, students will be able to&#58;
+  - Describe the four stages of implementing Group Policy
+  - Explain how to plan Group Policy in accordance with a company's requirements
+  - Describe the guidelines that you should follow when you create new GPOs
+  - Explain how to manage Group Policy by delegating administration and setting permissions
+
+
+  ### Module 4&#58; Understanding the Architecture of Group Policy Processing
+  This module details the concepts that you must grasp in order to troubleshoot Group Policy.  The module also describes the options that are available to change the standard Group Policy processing sequence.
+  #### Lessons
+  - Group Policy Components in AD DS
+  - Understanding the Group Policy Deployment Order
+  - Modifying Group Policy Processing
+
+
+  #### Lab &#58; Understanding the Group Policy Processing Architecture
+  - Working with Multiple GPO Levels
+  - Using the Block Inheritance and Enforce Options
+  - Implementing Security Filtering
+  - Creating a WMI Filter
+  - Working with Loopback Processing
+
+  After completing this module, students will be able to&#58;
+  - Describe the Active Directory components that you can use to deploy Group Policy
+  - Explain the order in which Group Policy is deployed in Active Directory
+  - Describe the methods that are available to modify Group Policy processing
+
+
+  ### Module 5&#58; Troubleshooting and Backing Up GPOs
+  This module explains how to use the RSoP tools to determine whether policies are being processed in the correct manner. This module discusses how to use the available tools to troubleshoot policy issues; back up,
+  restore, import, copy, and search for GPOs; and migrate GPOs from one domain to another.
+  #### Lessons
+  - Using Group Policy Troubleshooting Tools
+  - Integration of RSoP Functionality
+  - Group Policy Logging Options
+  - Backing Up, Restoring, Importing, and Copying GPOs
+  - Building Migration Tables
+
+
+  #### Lab &#58; Troubleshooting and Backing Up GPOs
+  - Using Tools for Troubleshooting
+  - Backing Up and Restoring GPOs
+  - Use Command Line Tools to Perform GPO Maintenance
+
+  After completing this module, students will be able to&#58;
+  - Describe the Group Policy troubleshooting tools
+  - Describe the GPMC tools that have RSoP functionality
+  - Describe the GPO logging tools used to obtain more detail about the GPO processing issues
+  - Explain how to back up, restore, import, and copy GPOs using the GPMC
+  - Explain how to build migration tables
+
+
+  ### Module 6&#58; Securing Windows Using Group Policy
+  This module defines the Windows security model and describes the process of using Group Policy to implement user account, computer account, and domain security.
+
+  #### Lessons
+  - Exploring the Windows Security Architecture
+  - Securing User Accounts
+  - Exploring Security Policies
+  - Windows Firewall with Advanced Security
+  - Implementing Domain Security
+  - Security Policy Options for Window Client and Windows Server
+
+
+  #### Lab &#58; Securing Windows Using Group Policy
+  - Using the Security Compliance Manager
+  - Managing Auditing with a GOP
+  - Create and Test Restricted Groups
+  - Implement Security Templates
+  - Creating a Windows Firewall Policy
+
+  After completing this module, students will be able to&#58;
+  - Describe the Windows security architecture
+  - Explain how to secure user accounts with Group Policy
+  - Explain how to harden computer accounts
+  - Explain how to control the domain security policy with a GPO
+
+
+  ### Module 7&#58; Implementing Application Security Using Group Policy
+  This module describes the process of securing applications in a Windows environment. It also explains how to implement UAC (User Account Control) to help prevent users from running unauthorized software, reducing the likelihood that viruses, Trojan horses, or spyware that might intrude upon the environment.
+
+  #### Lessons
+  - Managing UAC Settings
+  - Defending Against Malware
+  - Using AppLocker to Restrict Software
+  - Implementing Windows App Security Settings
+
+
+  #### Lab &#58; Implementing Application Security Using Group Policy
+  - Implementing UAC
+  - Using AppLocker to Restrict Software
+  - Configure Windows Defender with Group Policy
+  - Windows 8.1 Client Lock Screen and App Policies
+
+  After completing this module, students will be able to&#58;
+  - Describe UAC
+  - Describe the AppLocker features
+  - Explain the features of Windows Apps
+
+
+  ### Module 8&#58; Configuring the Desktop Environment with Group Policy
+  This module explains many of the settings that are available to configure and restrict the user desktop environment, such as Control Panel restrictions, Start Menu settings, and Windows Explorer configuration.
+  #### Lessons
+  - Exploring Script Types and Controlling Script Execution
+  - Defining the Desktop, Start Menu, and Taskbar Settings
+  - Defining the Control Panel Settings
+  - Defining the Windows Components Settings
+  - Configuring the Printer Management and Pruning Settings
+  - Defining the Network Settings
+  - Discovering the new Group Policy Settings
+
+
+  #### Lab &#58; Configuring the Desktop Environment with Group Policy
+  - Using Logon Scripts
+  - Configuring Desktop Settings
+  - Managing Windows Components
+  - Configuring Printers with Group Policy
+  - Managing Network Settings
+
+  After completing this module, students will be able to&#58;
+  - Describe the startup, shutdown, logon, and logoff scripts and settings.
+  - Identify the many ways to control the user desktop, Start menu, and taskbar settings
+  - Explain how to restrict the Control Panel settings
+  - Explain how to restrict operations that users can perform in Windows Explorer, Windows Internet Explorer, and Remote Desktop Services
+  - Explain how to configure the printer management and pruning settings
+  - Describe the network settings
+
+
+  ### Module 9&#58; Implementing User State Virtualization
+  This module explains the different options available to maintain the user's personal files and settings.
+
+  #### Lessons
+  - Configuring Folder Redirection
+  - Managing Offline Files
+  - Implementing User Experience Virtualization
+  - OneDrive for Business
+
+
+  #### Lab &#58; Implementing User State Virtualization
+  - Preparing for Folder Redirection,Offline Files, and UE-V
+  - Configuring Folder Redirection
+  - Managing Offline Files
+  - Implementing User Experience Virtualization
+
+  After completing this module, students will be able to&#58;
+  - Explain how to redirect user folders to a server
+  - Describe the Offline Files feature
+  - Explain the purpose of User Experience Virtualization
+  - Describe the OneDrive for Business feature
+
+
+  ### Module 10&#58; Assigning and Publishing Software Packages
+  This module explains how to use Group Policy for deploying software.
+  #### Lessons
+  - Using MSI Packages to Distribute Software
+  - Using Group Policy as a Software Deployment Method
+  - Deploying Software
+  - Setting Up Distribution Points
+  - Using the Systems Center Configuration Manager to Distribute Software
+
+
+  #### Lab &#58; Assigning and Publishing Software Packages
+  - Creating a Shared Directory Structure on a Server
+  - Creating a Custom MSI package
+  - Repackaging an Existing Install Package
+  - Deploying Software Packages with a GPO
+
+  After completing this module, students will be able to&#58;
+  - Describe the basic elements of an MSI package
+  - Determine when to build or repackage your own
+  - Define the requirements for distributing software via Group Policy
+  - Describe when you might want to assign and publish software
+  - Explain how to upgrade and remove packages
+  - Explain how to set up distribution points for software deployment
+  - List the advantages of using SCCM to distribute software instead of Group Policy
+
+
+  ### Module 11&#58; Configuration Management with Windows PowerShell
+  This module explains how to navigate and use basic Windows PowerShell commands and how to use Windows PowerShell to manage Group Policy. It also explains how you can use PowerShell logon scripts with Group Policy.
+  #### Lessons
+  - Introducing Windows PowerShell
+  - Using Windows PowerShell
+  - Writing PowerShell Scripts
+  - Windows PowerShell Library for Group Policy
+  - Windows PowerShell-Based Logon Scripts
+
+
+  #### Lab &#58; Configuration Management with Windows PowerShell
+  - Exploring the Windows PowerShell
+  - Using Windows PowerShell to Manage GPOs
+
+  After completing this module, students will be able to&#58;
+  - Describe the Windows PowerShell features
+  - Explain how to perform the basic Windows PowerShell operations
+  - Explain how to access the Windows PowerShell library for Group Policy
+  - Manage systems using PowerShell commands
+
+
+  ### Module 12&#58; Implementing PowerShell Desired State Configuration
+  This module will describe what DSC is all about and how to implement DSC to manage systems on the network.
+  #### Lessons
+  - Introducing Group Policy Preferences
+  - Comparing Preferences and Policy Settings
+  - Options for Applying Preferences
+  - Configure Preference Settings
+
+
+  #### Lab &#58; Using PowerShell Desired State Configuration
+  - Write a PowerShell Desired State Configuration Script
+  - Create a DSC
+  - Implement DSC
+
+  After completing this module, students will be able to&#58;
+  - Describe the purpose of Group Policy Preferences
+  - Explain the differences between Preferences and Policy Settings
+  - Describe the Windows and Control Panel Settings
+  - List Advanced Preferences Configuration Options
+
+
+  ### Module 13&#58; Configuring Group Policy Preferences
+  This module describes the function of Group Policy Preferences. You will learn how to combine Preferences and Policies, and how Preferences are different from Policies.
+  #### Lessons
+  - Introducing Group Policy Preferences
+  - Comparing Preferences and Policy Settings
+  - Options for Applying Preferences
+  - Configuring Preferences Settings
+
+
+  #### Lab &#58; Configuring Group Policy Preferences
+  - Implementing Computer Preferences
+  - Implementing User Preferences
+
+  After completing this module, students will be able to&#58;
+  - Describe the purpose of Group Policy Preferences
+  - Describe the differences between Preferences and Policy Settings
+  - Identify the settings that you can configure in the Computer Configuration and User Configuration sections of the Group Policy Management Console
+  - Describe the Windows and Control Panel settings

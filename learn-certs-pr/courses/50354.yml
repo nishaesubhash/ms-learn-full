@@ -1,0 +1,107 @@
+### YamlMime:Course
+title: SharePoint 2010 SharePoint Designer
+metadata:
+  title: 'Course 50354-B: SharePoint 2010 SharePoint Designer'
+  description: 'Course 50354-B: SharePoint 2010 SharePoint Designer'
+uid: course.50354
+courseNumber: '50354-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create one of everything possible from SharePoint Designer, learn about each new condition and action of SharePoint Designer workflows.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-designer
+summary: |-
+  This 2-day instructor-led course explores how to navigate and use the new Ribbon interface, learn what new things you can do from Designer, what changes have been made to the actions and conditions of workflows, how to build external content types, and how to modify Out Of the Box Workflows.
+
+  #### Audience profile
+  Anyone that has been and will be working with SharePoint Designer to make changes to SharePoint sites.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Understanding of SharePoint site elements (Lists, Libraries, Content Types, etc)
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; 2010 Changes
+  In this module we are going to take a look at some of the major changes between SharePoint Designer 2007 and SharePoint Designer 2010.
+  #### Lessons
+  - Changes
+
+  After completing this module, students will be able to&#58;
+  - Describe the changes to SharePoint Designer 2010
+
+
+  ### Module 3&#58; User Interface
+  In this module we take a look at common features of the basic team site.
+  
+  Throughout this course we will create and manage several different pieces of content and the team site will be our site of choice for doing this!  Understanding this site is the center piece of starting your journey of understanding SharePoint and applying it to you everyday life!
+  #### Lessons
+  - New SharePoint Features
+
+
+  #### Lab &#58; SharePoint Designer Interface
+
+  #### Lab &#58; SharePoint Designer (Basics)
+  After completing this module, students will be able to&#58;
+  - Describe the new UI features of the basic team site
+  - Log in and out of a site
+  - What the Quick Launch bar is
+  - Describe the Security Trimmed Interface of SharePoint
+  - Know where to create items on a site
+  - Find out who has access to a site
+  - Understand how to undelete items on a site (recycle bin)
+
+
+  ### Module 4&#58; Data Views
+  In this module we are going to take a look at Data Views and Data Sources.
+  #### Lessons
+  - DataSources and DataViews
+
+
+  #### Lab &#58; DataViews
+  After completing this module, students will be able to&#58;
+  - How to create and use Data Views and Data Sources
+
+
+  ### Module 5&#58; External Content Types
+  In this module we are going to take a look at the new Business Connectivity Services (BCS), the replacement/new version of Business Data Catalog (BDC).
+  #### Lessons
+  - Business Connectivity Services
+
+
+  #### Lab &#58; External Content Types
+  After completing this module, students will be able to&#58;
+  - Understand what BCS is
+  - How to create and use Entities with SharePoint Designer
+
+
+  ### Module 6&#58; Workflows
+  In this module we are going to take a look at implementing workflows with SharePoint Designer 2010.
+  #### Lessons
+  - In this module we are going to take a look at implementing workflows with SharePoint Designer 2010.
+
+
+  #### Lab &#58; BuiltInActivities (2007)
+
+  #### Lab &#58; BuiltInActivities (2010)
+
+  #### Lab &#58; LoopingWorkflow
+
+  #### Lab &#58; Create a looping set of workflows
+
+  #### Lab &#58; ModifyOOBWorkflow
+  After completing this module, students will be able to&#58;
+  - Build workflows with SharePoint Designer 2010
+  - Understand how to edit built in workflows
+  - Implement logging in your workflows

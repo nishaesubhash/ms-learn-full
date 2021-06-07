@@ -1,0 +1,278 @@
+### YamlMime:Course
+title: Introduction to Microsoft Excel 2019
+metadata:
+  title: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+  description: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+uid: course.55271
+courseNumber: '55271-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create basic worksheets using Microsoft Excel 2019.
+- skill: Perform calculations in an Excel worksheet.
+- skill: Modify an Excel worksheet.
+- skill: Modify the appearance of data within a worksheet.
+- skill: Manage Excel workbooks.
+- skill: Print the content of an Excel worksheet.
+- skill: Learn how to use handy features new in 2019.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  In this Introduction to Microsoft Excel 2019 training class, students will create and edit basic worksheets and workbooks. This course is designed for students who want to gain the necessary skills to create, edit, format, and print basic Microsoft Excel 2019 worksheets.
+
+  #### Audience profile
+  This course is intended for students who have little or no familiarity with Microsoft Excel 2019 or more experienced Excel users who want to learn the topics covered in this course in the 2019 interface.
+outlineSection: |-
+  ### Module 1&#58; Creating a Microsoft Excel Workbook
+  This module explains how to create and start working with workbooks and worksheets.
+  #### Lessons
+  - Starting Microsoft Excel
+  - Creating a Workbook
+  - Saving a Workbook
+  - The Status Bar
+  - Adding and Deleting Worksheets
+  - Copying and Moving Worksheets
+  - Changing the Order of Worksheets
+  - Splitting the Worksheet Window
+  - Closing a Workbook
+
+
+  #### Lab &#58; Creating a Microsoft Excel Workbook
+  After completing this module, students will be able to&#58;
+  - Start Microsoft Excel.
+  - Create a Microsoft Excel workbook.
+  - Save a Microsoft Excel workbook.
+  - Understand the Status Bar.
+  - Add and delete Microsoft Excel worksheets.
+  - Copy and move worksheets.
+  - Split the worksheet window.8. To close a Microsoft Excel workbook.
+
+
+  ### Module 2&#58; The Ribbon
+  This module explains how to work with the Ribbon.
+  #### Lessons
+  - Tabs
+  - Groups
+  - Commands
+
+
+  #### Lab &#58; The Ribbon Exercises
+  - Open a Workbook
+  - Select, Open, and Save a Template Agenda
+
+  After completing this module, students will be able to&#58;
+  - Work with tabs.
+  - Work with groups.
+  - Work with commands.
+  - Know which groups and commands are found on which tabs.
+
+
+  ### Module 3&#58; The Backstage View (The File Menu)
+  This module explains how to work with the Backstage View.
+  #### Lessons
+  - Introduction to the Backstage View
+  - Opening a Workbook
+  - Open a Workbook
+  - New Workbooks and Excel Templates
+  - Select, Open and Save a Template Agenda
+  - Printing Worksheets
+  - Print a Worksheet
+  - Adding Your Name to Microsoft Excel
+  - Adding a Theme to Microsoft Excel
+
+
+  #### Lab &#58; Backstage View Exercises
+  - Print a Worksheet
+  - Open a Workbook
+
+  After completing this module, students will be able to&#58;
+  - Work with the Backstage view.
+  - Open a Microsoft Excel workbook.
+  - Start a new Microsoft Excel workbook.
+  - Use Microsoft Excel templates.
+  - Print a Microsoft Excel workbook.
+  - Personalize your copy of Microsoft Excel
+
+
+  ### Module 4&#58; The Quick Access Toolbar
+  This module explains how to work with the Quick Access Toolbar.
+  #### Lessons
+  - Adding Common Commands
+  - Adding Additional Commands with the Customize Dialog Box
+  - Adding Ribbon Commands or Groups
+  - Placement
+  - Customize the Quick Access Toolbar
+
+
+  #### Lab &#58; Customize the Quick Access Toolbar
+  After completing this module, students will be able to&#58;
+  - Add common commands to the Quick Access Toolbar.
+  - Add additional commands to the Quick Access Toolbar.
+  - Move the Quick Access Toolbar.
+
+
+  ### Module 5&#58; Entering Data in Microsoft Excel Worksheets
+  This module explains how to enter data in Microsoft Excel worksheets.
+  #### Lessons
+  - Entering Text
+  - Adding and Deleting Cells
+  - Adding a Hyperlink
+  - Add WordArt to a Worksheet
+  - Using AutoComplete
+  - Entering Text and Using AutoComplete
+  - Entering Numbers and Dates
+  - Using the Fill Handle
+  - Entering Numbers and Dates
+
+
+  #### Lab &#58; Entering Data Exercises
+  - Entering Text and Using AutoComplete
+  - Entering Numbers and Dates
+
+  After completing this module, students will be able to&#58;
+  - Enter text in Microsoft Excel worksheets.
+  - Add or delete cells in worksheets.
+  - Add an outline for your data.
+  - Enter a hyperlink in a worksheet.
+  - Use AutoComplete.
+  - Enter numbers and dates in Microsoft Excel worksheets.
+  - Use the Fill Handle to add data to cells.
+
+
+  ### Module 6&#58; Formatting Microsoft Excel Worksheets
+  This module explains how to format Microsoft Excel worksheets.
+  #### Lessons
+  - Selecting Ranges of Cells
+  - Hiding Worksheets
+  - Adding Color to Worksheet Tabs
+  - Adding Themes to Workbooks
+  - Customize a Workbook Using Tab Colors and Themes
+  - Adding a Watermark
+  - The Font Group
+  - Working with Font Group Commands
+  - The Alignment Group
+  - Working with Alignment Group Commands
+  - The Number Group
+  - Working with Number Group Commands
+
+
+  #### Lab &#58; Formatting Worksheets Exercises
+  - Customize a Workbook Using Tab Colors and Themes
+  - Working with Font Group Commands
+  - Working with Alignment Group Commands
+  - Working with Nummber Group Commands
+
+  After completing this module, students will be able to&#58;
+  - Understand various ways you can format Microsoft Excel worksheets.
+  - Select a range of cells within a worksheet.
+  - Hide worksheets.
+  - Add color to workbook tabs.
+  - Add themes to worksheets.
+  - Bold, italicize and underline text.
+  - Add borders to cells.
+  - Change text and cell colors.
+  - Change the font and font size.
+  - Align text.
+  - Wrap text.
+  - Indent text.
+  - Merge and center text.
+  - Change number formats.
+  - Change date formats.
+  - Show decimals.
+
+
+  ### Module 7&#58; Using Formulas in Microsoft Excel
+  This module explains how to work with formulas in Microsoft Excel.
+  #### Lessons
+  - Math Operators and the Order of Operations
+  - Entering Formulas
+  - AutoSum (and Other Common Auto-Formulas)
+  - Copying Formulas and Functions
+  - Relative, Absolute, and Mixed Cell References
+  - Working with Formulas
+
+
+  #### Lab &#58; Working with Formulas
+  After completing this module, students will be able to&#58;
+  - Understand math operators and the order of operations in Excel.
+  - Enter basic formulas.
+  - Use AutoSum to sum data with one click.
+  - Understand absolute, relative, and mixed cell references.
+  - Copy formulas and functions.
+
+
+  ### Module 8&#58; Working with Rows and Columns
+  This module explains how to work with rows and columns in Microsoft Excel.
+  #### Lessons
+  - Inserting Rows and Columns
+  - Deleting Rows and Columns
+  - Transposing Rows and Columns
+  - Setting Row Height and Column Width
+  - Hiding and Unhiding Rows and Columns
+  - Freezing Panes
+  - Working with Rows and Columns
+
+
+  #### Lab &#58; Working with Rows and Columns
+  After completing this module, students will be able to&#58;
+  - Insert rows and columns in Microsoft Excel worksheets.
+  - Delete rows and columns in Microsoft Excel worksheets.
+  - Transpose rows and columns.
+  - Change row heights.
+  - Change column widths.
+  - Hide and unhide rows and columns.
+  - Freeze panes.
+
+
+  ### Module 9&#58; Editing Worksheets
+  This module explains how to edit worksheets in Microsoft Excel.
+  #### Lessons
+  - Find
+  - Find and Replace
+  - Using Find and Replace
+  - Using the Clipboard
+  - Using Format Painter
+  - Managing Comments
+
+
+  #### Lab &#58; Editing Worksheets Exercises
+  - Using Find and Replace
+  - Using the Clipboard
+  - Using Format Painter
+
+  After completing this module, students will be able to&#58;
+  - Locate information in your worksheet using Find.
+  - Use Find and Replace to quickly replace data with other data.
+  - Use the Cut, Copy, Paste and Format Painter commands to edit worksheets.
+  - Manage comments
+
+
+  ### Module 10&#58; Finalizing Microsoft Excel Worksheets
+  This module explains how to finalize Microsoft Excel worksheets.
+  #### Lessons
+  - Setting Margins
+  - Setting Page Orientation
+  - Setting the Print Area
+  - Print Scaling (Fit Sheet on One Page)
+  - Printing Headings on Each Page/Repeating Headers and Footers
+  - Headers and Footers
+  - Preparing to Print
+
+
+  #### Lab &#58; Preparing to Print
+  After completing this module, students will be able to&#58;
+  - Set margins in Microsoft Excel worksheets.
+  - Set the page orientation to portrait or landscape.
+  - Set the print area in a worksheet.
+  - Scale a worksheet so that all data prints on one page.
+  Add headers and footers to a worksheet.
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

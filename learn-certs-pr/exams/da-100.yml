@@ -6,16 +6,16 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on May 25, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
   Data Analysts enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. Data Analysts also collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
   <br/>
-
+  
   The Data Analyst should have a fundamental understanding of data repositories and data processing both on-premises and in the cloud.
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: prepare the data; model the data; visualize the data; analyze the data; and deploy and maintain deliverables.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
-practiceTestUrl: https://in.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on May 25, 2021. Please download the exam skills outline below to see what changed.
 - Prepare the data (20-25%)
 - Model the data (25-30%)
 - Visualize the data (20-25%)
@@ -57,7 +57,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

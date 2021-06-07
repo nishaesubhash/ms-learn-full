@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Master Data Services, Data Quality Services with SQL 2012-2014 and Excel
+metadata:
+  title: 'Course 55073-A: Master Data Services, Data Quality Services with SQL 2012-2014 and Excel'
+  description: 'Course 55073-A: Master Data Services, Data Quality Services with SQL 2012-2014 and Excel'
+uid: course.55073
+courseNumber: '55073-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Have a basic understanding of the concepts behind master data management.
+- skill: Configure Master Data Services.
+- skill: Create models and entities.
+- skill: Add attributes including domain-based attributes.
+- skill: Add a member via the web interface.
+- skill: Reverse a transaction.
+- skill: Create and configure attribute groups.
+- skill: Create and configure derived hierarchies.
+- skill: Create and configure collections.
+- skill: Create a leaf member with T-SQL.
+- skill: Delete a member with the web interface and examine results in SSMS.
+- skill: View errors in batch files.
+- skill: Load leaf members with SQL Server Integration Services and flat files.
+- skill: Create and configure versions.
+- skill: Navigate the business rules interface.
+- skill: Create a business rule.
+- skill: Populate a value based on another value.
+- skill: Explore and fix validation issues.
+- skill: Set up security in MDS.
+- skill: Create and configure a subscription view.
+- skill: Create a connection to an MDS database using Excel.
+- skill: Publish data to an MDS database using Excel.
+- skill: Filter data using Excel.
+- skill: Save a query to Excel.
+- skill: Create an entity from data in Excel.
+- skill: Create a new knowledge base.
+- skill: Create a DQS Quality Cleansing Project.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  Studies show that data decays at about 2% a month all organizations need to work from reliable information while ensuring that the integrity of information and consistency of data is constant across different applications. Microsoft SQL Server 2012-2014 Master Data Services is a powerful feature designed to help an organization create a structure and hierarchy for data, so that data collected and used across multiple departments, silos and databases is standardized and aligned. This ensures that different databases are interoperable. When combined with Data Quality Services and Excel a complete end to end system is available.
+
+  #### Audience profile
+  This course is intended for SQL Professionals, Business Intelligence Developers, Data Analysts and Data Stewards and Project Managers that need to learn how to utilize Master Data Services.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; COURSE OVERVIEW
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; COURSE OVERVIEW
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; MASTER DATA MANAGEMENT CONCEPTS
+  In this introductory module we will introduce the need for Master Data Management and discuss a number of high order concepts introducing the subject area.
+  #### Lessons
+  - What is Master Data Management?
+  - The Need for Master Data Management
+  - Data Quality
+  - Master Data vs. Transactional Data
+  - Master Data Management Team
+  - Master Data Management Architectures
+  - The MDM Extract-Transform-Load
+
+
+  #### Lab &#58; MASTER DATA MANAGEMENT CONCEPTS
+  After completing this module, students will be able to&#58;
+  - Have a basic understanding of the concepts behind master data management.
+
+
+  ### Module 3&#58; MICROSOFT MASTER DATA SERVICES OVERVIEW
+  In this module we will examine a master data management project implementation and describe the concept of the different systems involved. We will then move into key objects within MDS that are critically important for understanding MDS.
+  #### Lessons
+  - Project Implementation
+  - Master Data Services Key Terms
+  - Master Data Services Web Interface
+  - Installing Master Data Services
+
+
+  #### Lab &#58; MICROSOFT MASTER DATA SERVICES OVERVIEW
+  After completing this module, students will be able to&#58;
+  - Configure Master Data Services.
+
+
+  ### Module 4&#58; UNDERSTANDING DATA MODELS
+  We touched on the basics of the MDS object model already and covered core concepts such as entities, attributes, members and hierarchies. In this module we will expand on that and take an in-depth look at all the objects in the MDS model. In addition we will examine modeling concepts and deployment.
+  #### Lessons
+  - Modeling Process
+  - MDS Object - Model
+  - The Model Object
+
+
+  #### Lab &#58; UNDERSTANDING DATA MODELS
+  After completing this module, students will be able to&#58;
+  - Create models and entities.
+  - Add attributes including domain-based attributes.
+  - Add a member via the web interface.
+  - Reverse a transaction.
+  - Create and configure attribute groups.
+  - Create and configure derived hierarchies.
+  - Create and configure collections.
+
+
+  ### Module 5&#58; IMPORTING DATA
+  The objective of this module is to learn how to load data into MDS.
+  #### Lessons
+  - MDS Entity-Based Staging
+
+
+  #### Lab &#58; IMPORTING DATA
+  After completing this module, students will be able to&#58;
+  - Create a leaf member with T-SQL.
+  - Delete a member with the web interface and examine results in SSMS.
+  - View errors in batch files.
+  - Load leaf members with SQL Server Integration Services and flat files.
+
+
+  ### Module 6&#58; VERSION MANAGEMENT
+  In this module we will learn how to work with versions. The ability to version MDS models enables functionality such as what if scenarios, testing and others.
+  #### Lessons
+  - Understanding Versions
+  - Web Interface
+  - Version Statuses
+  - Copying a Version
+  - Locking. Unlocking and Committing Versions
+  - Version Flags
+  - Ancestry
+  - Validating Versions
+
+
+  #### Lab &#58; VERSION MANAGEMENT
+  After completing this module, students will be able to&#58;
+  - Create and configure versions.
+
+
+  ### Module 7&#58; BUSINESS RULES
+  The goal of this module is to gain an understanding of the business rules interface and how to implement business rules into your model. It is important that you know the interface requires some getting used to and is perhaps not the friendliest interface that you have ever used. Pay particular attention to how often you need to save your business rules.
+  #### Lessons
+  - Business Rules Overview
+  - How to Create  a Business Rule
+  - Conditions and Actions
+  - Publish a Business Rule
+  - Validation Issues
+
+
+  #### Lab &#58; BUSINESS RULES
+  After completing this module, students will be able to&#58;
+  - Navigate the business rules interface.
+  - Create a business rule.
+  - Populate a value based on another value.
+  - Explore and fix validation issues.
+
+
+  ### Module 8&#58; MDS SECURITY
+  The goal this module is to gain an understanding of the security in MDS. The security in some ways follows other security paradigms that you may be used to. Such as the concept of read, write, and deny permissions. However, the concepts such as granting permission to the model object for all groups of users so they can view the model may be foreign to you. Also make sure that you understand that MDS does not control security; that it is controlled by active directory. It is within active directory that the passwords and usernames are stored along with the user groups.
+  #### Lessons
+  - Master Data Services Security Overview
+  - Users and Groups
+  - Administrators
+  - Permission Levels
+  - Best Practices
+
+
+  #### Lab &#58; MDS SECURITY
+  After completing this module, students will be able to&#58;
+  - Set up security in MDS.
+
+
+  ### Module 9&#58; PUBLISHING DATA
+  The objective of this module is that you understand the types of subscription views that are available.
+  #### Lessons
+  - Subscription Views
+  - Formats
+  - How Subscribing Systems Can Extract Data
+  - Creating Views
+
+
+  #### Lab &#58; PUBLISHING DATA
+  After completing this module, students will be able to&#58;
+  - Create and configure a subscription view.
+
+
+  ### Module 10&#58; EXCEL ADD-IN
+  The objective of this module is to help you understand the Excel Master Data Services Add-in, which is the best feature that was added with the SQL 2012 release.
+  #### Lessons
+  - Creating Connections
+  - Publishing Data
+  - Filtering Data
+  - Saving a Query
+  - Create an Entity From Data
+  - Settings
+
+
+  #### Lab &#58; EXCEL ADD-IN
+  After completing this module, students will be able to&#58;
+  - Create a connection to an MDS database using Excel.
+  - Publish data to an MDS database using Excel.
+  - Filter data using Excel.
+  - Save a query to Excel.
+  - Create an entity from data in Excel.
+
+
+  ### Module 11&#58; DATA QUALITY SERVICES
+  The objective of this module is for you to understand Data Quality Services and how to use it in conjunction with Master Data Services.
+  #### Lessons
+  - Architecture
+  - Data Quality Cleansing
+  - Microsoft Data Quality Solution
+
+
+  #### Lab &#58; DATA QUALITY SERVICES
+  After completing this module, students will be able to&#58;
+  - Create a new knowledge base.
+  - Create a DQS Quality Cleansing Project.

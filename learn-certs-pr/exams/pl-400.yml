@@ -6,6 +6,8 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
+  <div><font color="red"><strong>The content of this exam will be updated on June 23, 2021. Please download the skills measured document below to see what will be changing.</strong></font><br/><br/></div>
+  
   Candidates for this exam design, develop, secure, and troubleshoot Power Platform solutions. Candidates implement components of a solution, including application enhancements, custom user experience, system integrations, data conversions, custom process automation, and custom visualizations.
   
   Candidates must have strong applied knowledge of Power Platform services, including in-depth understanding of capabilities, boundaries, and constraints. Candidates should have a basic understanding of DevOps practices for Power Platform.
@@ -14,14 +16,16 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: create a technical design; configure Common Data Service; create and configure Power Apps; configure business process automation; extend the user experience; extend the platform; and develop integrations.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+practiceTestUrl: https://in.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:
 - intermediate
 skills:
+- The content of this exam will be updated on June 23, 2021. Please download the exam skills outline below to see what will be changing.
 - Create a technical design (10-15%)
-- Configure Common Data Service (15-20%)
+- Configure Microsoft Dataverse (15-20%)
 - Create and configure Power Apps (15-20%)
 - Configure business process automation (5-10%)
 - Extend the user experience (10-15%)
@@ -54,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GBWZ
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -1,0 +1,210 @@
+### YamlMime:Course
+title: Microsoft Windows PowerShell v2 For Administrators
+metadata:
+  title: 'Course 50414-B: Microsoft Windows PowerShell v2 For Administrators'
+  description: 'Course 50414-B: Microsoft Windows PowerShell v2 For Administrators'
+uid: course.50414
+courseNumber: '50414-B'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Install and configure PowerShell v2 on various Windows operating systems
+- skill: Navigate the command line interface as well as the integrated scripting environment
+- skill: Leverage cmdlets to accomplish daily management tasks
+- skill: Format information returned by PowerShell v2 in a variety of styles
+- skill: Create PowerShell v2 scripts to automate routine tasks
+- skill: Manage multiple systems concurrently though PowerShell v2 remoting
+- skill: Understand the security capabilities within PowerShell v2 and how to manage them
+- skill: Enhance the management of other Microsoft products by using the skills and general knowledge covered in this course
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  This four-day instructor-led course provides students with the knowledge and skills to leverage Microsoft Windows PowerShell v2 to administer their Windows environment. Both the command line environment and the scripting capabilities inherent in Microsoft's automation engine are addressed during this hands-on course.
+
+  #### Audience profile
+  This course is intended for systems administrators responsible for managing Windows platforms who are interested in automating administrative tasks.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience managing Windows operating systems.
+  - Familiarity with Windows Server 2008, Windows Server 2008 R2, or Windows 7.
+  - Scripting experience is recommended but not required.
+outlineSection: |-
+  ### Module 1&#58; Introduction to PowerShell - the Basics
+  This module explains how to install and configure PowerShell. In addition, students will be introduced to many of the concepts of PowerShell, including cmdlets and PowerShell drives.
+  #### Lessons
+  - What is PowerShell?
+  - PowerShell Cmdlets
+  - PowerShell Snapins
+  - PowerShell Modules
+  - PowerShell Remoting
+  - Navigating in PowerShell
+  - PowerShell Profiles
+
+
+  #### Lab &#58; Introduction to PowerShell
+
+  After completing this module, students will be able to&#58;
+
+  - Identify the requirements for running PowerShell
+  - Describe PowerShell cmdlets
+  - Understand the purpose of snapins and modules
+  - Describe the remote management capabilities of PowerShell
+  - Reference PowerShell drives and navigate in PowerShell hosts
+  - Understand how to customize the PowerShell environment through profiles
+
+
+  ### Module 2&#58; The PowerShell Pipeline, Scripts and Syntax
+  This module explains how to use the PowerShell pipeline at the command line and in script files. It provides information on retrieving information on the properties and methods of objects. The module closes with information on command line syntax, managing output from cmdlets, and defining script blocks.
+  #### Lessons
+  - Pipelines
+  - Scripts
+  - Syntax, Output and Script Blocks
+
+
+  #### Lab &#58; The PowerShell Pipeline, Scripts and Syntax
+
+  After completing this module, students will be able to&#58;
+
+  - Define the PowerShell pipeline.
+  - Identify what the pipeline is used for.
+  - Use object properties and methods.
+  - Identify various components of statement syntax.
+
+
+  ### Module 3&#58; Variables and Data Types, Variable Scopes, and Collections
+  This module explains how to use cmdlets associated with variables. addresses how PowerShell interprets variables based on their content. It reviews the common data types and how to control variable data types. It looks into the scope of the variable itself and finishes with using arrays.
+  #### Lessons
+  - Variables and Data Types
+  - Variable Scopes
+  - Collections
+
+
+  #### Lab &#58; Variables and Data Types, Variable Scopes, and Collections
+
+  After completing this module, students will be able to&#58;
+
+  - Describe how PowerShell interprets variables.
+  - Identify common data types.
+  - Describe the different variable scopes.
+  - Understand how to work with collections of objects.
+
+
+  ### Module 4&#58; Security
+  This module explains how identify and configure script execution policies. It includes information on securing script files through the use of certificates as well as how to capture and use alternate credentials when executing commands. The module ends with a discussion on securing remote sessions.
+  #### Lessons
+  - Script Execution
+  - Signing Scripts
+  - Requesting Credentials and Using Secure Strings
+  - Securing Remote Sessions
+
+
+  #### Lab &#58; Security
+
+  After completing this module, students will be able to&#58;
+
+  - Identify script execution policy settings.
+  - Control script execution policy through the command line and group policy.
+  - Request credentials before executing a script.
+  - Describe commands available to secure information in scripts.
+  - Identify ways to secure remote sessions.
+
+
+  ### Module 5&#58; Remote Management
+  This module explains how use the different methods of executing commands remotely. It covers the requirements for using PowerShell remoting, managing remote sessions, and running background jobs.
+  #### Lessons
+  - Configuring Remote Management
+  - Using PowerShell Remoting
+  - Using Jobs
+
+
+  #### Lab &#58; Remote Management
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the different methods of remote management with PowerShell.
+  - Identify the requirements for remote management.
+  - Configure a system for remote management.
+  - Work with remote sessions.
+  - Manage background jobs.
+
+
+  ### Module 6&#58; Script Flow Control Statements
+  This module explains how use the language elements of PowerShell. It covers the statements for looping, branching, and managing the behavior of those statements through the use of break and continue keywords.
+  #### Lessons
+  - Foreach and For
+  - While / Do While / Do Until
+  - If / Switch
+  - Break /Continue
+
+
+  #### Lab &#58; Script Flow Control Statements
+
+  After completing this module, students will be able to&#58;
+
+  - Identify looping statements.
+  - Describe the variations between WHILE / DO WHILE / DO UNTIL.
+  - Describe the differences between IF and SWITCH.
+  - Identify when you can benefit from BREAK or CONTINUE.
+
+
+  ### Module 7&#58; Functions, Filters and Modules
+  This module explains how use the features of PowerShell which allow you to extend its functionality through reusable code. It includes creating robust functions by leveraging parameters and introduces modules which enhance the portability of reusable code.
+  #### Lessons
+  - Functions and Filters
+  - Scripting with Functions and Parameters
+  - Modules
+
+
+  #### Lab &#58; Functions, Filters and Modules
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the purpose of a function.
+  - Identify how to pass arguments into a function.
+  - Differentiate between a function and a filter.
+  - Describe how to use functions in a script file.
+  - Identify types of modules.
+
+
+  ### Module 8&#58; Error Handling
+  This module explains how use the error handling environment within PowerShell. It addresses the language components which enhance managing errors. The debugging options within both the console host and the ISE are presented as tools for debugging scripts.
+  #### Lessons
+  - Error Handling
+  - Script Debugging
+
+
+  #### Lab &#58; Error Handling
+
+  After completing this module, students will be able to&#58;
+
+  - Identify the types of errors
+  - Understand the uses of built-in variables for error handling
+  - Configure the way errors are treated
+  - Use language blocks for handling errors
+  - Implement debugging options
+
+
+  ### Module 9&#58; Administrative Uses
+  This module explains how use the topics covered in previous modules in every day administrative tasks. It combines the command line, script files, modules and functions to automate a variety of tasks. It introduces the concepts of advanced scripting which make PowerShell an enterprise-ready scripting environment.
+  #### Lessons
+  - Manipulating files and folders
+  - Modifying Registry Data
+  - Working with Events
+  - Working with Active Directory Objects
+  - Advanced Scripting
+
+
+  #### Lab &#58; Administrative Uses
+
+  After completing this module, students will be able to&#58;
+
+  - Work with files and folders.
+  - Change information in the registry.
+  - Read information from event logs.
+  - Understand how to work with Active Directory.
+  - Create simple user interfaces.

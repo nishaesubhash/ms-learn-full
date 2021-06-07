@@ -1,0 +1,198 @@
+### YamlMime:Course
+title: Quick SharePoint 2013 Maintenance for the Part-Time Administrator
+metadata:
+  title: 'Course 55105-A: Quick SharePoint 2013 Maintenance for the Part-Time Administrator'
+  description: 'Course 55105-A: Quick SharePoint 2013 Maintenance for the Part-Time Administrator'
+uid: course.55105
+courseNumber: '55105-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the terminology.
+- skill: Understand SharePoint administrators.
+- skill: Understand SharePoint farm architecture.
+- skill: Understand architecture of collection.
+- skill: Understand architecture of content databases.
+- skill: Run as a different user.
+- skill: Understand the differences depending on log-in for Central Administration.
+- skill: Understand the differences depending on log-in for site.
+- skill: Create a new web application and collection.
+- skill: Create and delete site collections.
+- skill: Manage blocked files.
+- skill: Manage locks.
+- skill: Change administrators.
+- skill: Work with quotas.
+- skill: Understand features.
+- skill: Understand and configure branding.
+- skill: Manage navigation.
+- skill: Utilize reports.
+- skill: Manage the recycle bin.
+- skill: Create and Modify libraries and lists.
+- skill: Utilize views.
+- skill: Add pages.
+- skill: Manage folders and metadata.
+- skill: Use Web Parts.
+- skill: Configure Information Management Policy.
+- skill: Use Document Sets.
+- skill: Utilize the Content Organizer.
+- skill: Configure workflow settings.
+- skill: Utilize basic workflows.
+- skill: Close and delete sites.
+- skill: Add a content database.
+- skill: Attach or detach a content database.
+- skill: Move site collections between databases.
+- skill: Move content databases.
+- skill: Move all databases in SharePoint 2013.
+- skill: Backup and restore.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This fast-paced course makes these assumptions&#58;
+  - You already have SharePoint 2013 deployed as this is not a planning or installation course.
+  - The student will or may be called on to perform administration or maintenance of SharePoint and the frequency of these calls may vary meaning you may have forgotten how to perform a procedure.
+  - The student is not a SharePoint IT professional, and this course is not intended to make you one. There are other, much longer, and more detailed courses that set you on that path.
+  - The student wants clear explanations with as little jargon as possible.
+  - The student needs take-always they can rapidly go back to quickly if called on to perform administration.
+  
+  Everything in this course, and indeed almost every course you ever take on Microsoft technology can also be located in MSDN, or TechNet, or a Microsoft blog. So then why take this course? You will get there faster, you will understand want you need to, and you will have a video toolkit to remind you how to perform procedures.  
+  In this course&#58;
+  - You will go through an explanation of each procedure.   
+  - The procedure will be explained and you will practice both manually, and with PowerShell, so you can choose which to use. 
+  - If PowerShell is used, you will have clearly shown, in color on a PowerPoint where you may need to insert your custom parameters.
+  - You will practice every procedure with an instructor available to answer any questions.
+  
+   You will receive videos of every procedure showing step-by-step how to perform the procedure. By taking the course the author grants you the permission to upload the videos to a library in SharePoint at your organization.
+
+  #### Audience profile
+  This course is intended for IT Pros, Developers, and Power Users.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  After completing this module, students will be able to&#58;
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Quick Architecture
+  #### Lessons
+  - Terminology
+  - SharePoint Administrators
+  - SharePoint Farm Architecture
+  - Architecture of Collection
+  - Architecture of Content Databases
+
+
+  #### Lab &#58; Quick Architecture
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the terminology.
+  - Understand SharePoint administrators.
+  - Understand SharePoint farm architecture.
+  - Understand architecture of collection.
+  - Understand architecture of content databases.
+  - Run as a different user.
+  - Understand the differences depending on log-in for Central Administration.
+  - Understand the differences depending on log-in for site.
+  - Create a new web application and collection.
+
+
+  ### Module 3&#58; Collection Administration
+  #### Lessons
+  - Creating and Deleting Site Collections
+  - Managing Blocked Files
+  - Managing Locks
+  - Changing Administrators
+  - Working with Quotas
+  - Understanding Features
+  - Branding
+  -    Levels
+  -    Master Pages
+  -    Composed Looks
+  -    Design Manager
+  - Managing Navigation
+  - Utilizing Reports
+  - Managing the Recycle Bin
+
+
+  #### Lab &#58; Collection Administration
+
+  After completing this module, students will be able to&#58;
+
+  - Create and delete site collections.
+  - Manage blocked files.
+  - Manage locks.
+  - Change administrators.
+  - Work with quotas.
+  - Understand features.
+  - Understand and configure branding.
+  - Manage navigation.
+  - Utilize reports.
+  - Manage the recycle bin.
+
+
+  ### Module 4&#58; Site Administration
+  #### Lessons
+  - Creating and Modifying Libraries and Lists
+  - Utilizing Views
+  - Adding Pages
+  - Managing Folders and Metadata
+  - Using Web Parts
+  - Configuring Information Management Policy
+  - Document Sets
+  - Utilizing the Content Organizer
+  - Exploring Workflow Settings
+  - Basic Workflows
+  - Closing and Deleting Sites
+
+
+  #### Lab &#58; Site Administration
+
+  After completing this module, students will be able to&#58;
+
+  - Create and Modify libraries and lists.
+  - Utilize views.
+  - Add pages.
+  - Manage folders and metadata.
+  - Use Web Parts.
+  - Configure Information Management Policy.
+  - Use Document Sets.
+  - Utilize the Content Organizer.
+  - Configure workflow settings.
+  - Utilize basic workflows.
+  - Close and delete sites.
+
+
+  ### Module 5&#58; Manage Databases for SharePoint 2013
+  #### Lessons
+  - Adding a Content Database
+  - Backing Up and Restoring Site Collections
+
+
+  #### Lab &#58; Manage Databases for SharePoint 2013
+
+  After completing this module, students will be able to&#58;
+
+  - Add a content database.
+  - Attach or detach a content database.
+  - Move site collections between databases.
+  - Move content databases.
+  - Move all databases in SharePoint 2013.
+  - Backup and restore.

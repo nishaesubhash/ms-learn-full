@@ -7,15 +7,13 @@ uid: exam.mb-700
 displayName: MB-700
 summary: |-
   <div>
-  <div><strong>The content of this exam will be updated on February 26, 2021. Please download the skills measured document below to see what will be changing.</strong><br/><br/></div>
+  <div><strong>The content of this exam was updated on March 17, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
   </div>
   
-  Solution Architects for Finance and Operations apps in Microsoft Dynamics 365 are trusted advisors who understand business recommended practices and software capabilities. They lead team members to implement Dynamics solutions that can achieve the predefined implementation goals.
-
-  A Solution Architect is accountable for the integrity and successful delivery of end to end solution. The architect provides critical guidance during pre-sales throughout the design process and continues the oversight throughout the remainder of the project lifecycle to address issues that arise throughout the implementation and ensuring the achievement of implementation goals.
-
-  The Solution Architect must have a breadth and depth of knowledge and experience on industry standards and product capabilities. The Solution Architect must have broad expertise in both functional and technical areas of Dynamics solution. They should know about platforms, tools, and functional areas such as finance, supply chain management and manufacturing. In addition, they have extensive domain knowledge in one or more customer industries.
-subTitle: 'This exam measures your ability to accomplish the following technical tasks: identify solution requirements; design solution components; and define solution testing and management strategies.'
+  Candidates for this exam are Microsoft Dynamics 365 professionals who advise stakeholders and translate business requirements into secure, scalable, and reliable solutions.
+  
+  Candidates should have knowledge of all Dynamics 365 apps and Power Platform. They must have deep understanding of Finance and Operations apps. In addition, they have extensive domain knowledge in one or more industry verticals. This role requires understanding how decisions in each area affects the overall solution.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: architect solutions; define solution strategies; manage implementations; and manage testing.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-700&examname=Exam%20MB-700:%20Microsoft%20Dynamics%20365%3A%20Finance%20and%20Operations%20Apps%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-700
@@ -24,10 +22,11 @@ locales:
 levels:
 - advanced
 skills:
-- The content of this exam will be updated on February 26, 2021. Please download the exam skills outline below to see what will be changing.
-- Identify solution requirements (30-35%)
-- Design solution components (40-45%)
-- Define solution testing and management strategies (25-30%)
+- The content of this exam was updated on March 17, 2021. Please download the exam skills outline below to see what changed.
+- Architect solutions (25-30%)
+- Define solution strategies (25-30%)
+- Manage implementations (25-30%)
+- Manage testing (10-15%)
 roles:
 - functional-consultant
 - solution-architect
@@ -37,6 +36,11 @@ courses:
 - uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.implement-finance-operations
+- uid: learn-dynamics.use-success-design-unified-operations
+- uid: learn.wwl.config-d365-finance-operations-apps
 relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
@@ -46,7 +50,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gm
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview including fundamentals, role-based and specialty certifications for Dynamics 365 and Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

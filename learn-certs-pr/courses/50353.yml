@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: SharePoint 2010 Overview for IT Professionals
+metadata:
+  title: 'Course 50353-B: SharePoint 2010 Overview for IT Professionals'
+  description: 'Course 50353-B: SharePoint 2010 Overview for IT Professionals'
+uid: course.50353
+courseNumber: '50353-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore new service applications, powershell features, monitoring improvements, search features, backup and recovery techniques and a full coverage of upgrading to 2010.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 3-day instructor-led course explores the new architectural changes made to SharePoint 2010 and how to upgrade your 2007 environment to 2010.
+
+  #### Audience profile
+  IT Pros who want to get a quick understanding with hands-on labs of the new features and interfaces for IT Pros in SharePoint 2010.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - SharePoint 2007 experience (for upgrade), understanding of database and web applications.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; Service Applications
+  In this module we are going to take a look at Service Applications and how the older Shared Service Provider is now obsolete.
+  #### Lessons
+  - Service Applications
+
+
+  #### Lab &#58; Explore Service Applications
+
+  #### Lab &#58; Install Service Application
+  After completing this module, students will be able to&#58;
+  - Describe Service Applications
+  - Understand how the Service Application architecture works
+  - Install new Service Applications
+
+
+  ### Module 3&#58; PowerShell
+  In this module we are going to take a look at new PowerShell features in SharePoint 2010.
+  #### Lessons
+  - PowerShell
+  - SharePoint and PowerShell
+
+
+  #### Lab &#58; PowerShell Basics
+
+  #### Lab &#58; PowerShell With SharePoint
+
+  #### Lab &#58; Profiles and MySites script
+  After completing this module, students will be able to&#58;
+  - What PowerShell is
+  - How to work with PowerShell scripts
+  - Be familiar with out of the box SharePoint PowerShell Scripts
+
+
+  ### Module 4&#58; Monitoring
+  In this module we are going to take a look at new monitoring features in SharePoint 2010.
+  #### Lessons
+  - Monitoring
+
+
+  #### Lab &#58; Configure Monitoring
+
+  #### Lab &#58; ULS Viewer
+
+  #### Lab &#58; Health Analyzer
+
+  #### Lab &#58; Logging Database
+  After completing this module, students will be able to&#58;
+  - Describe the improved monitoring features of SharePoint 2010
+  - How to use the ULS Viewer
+  - How to use the Health Analyzer
+  - Query the new Logging Database
+
+
+  ### Module 5&#58; Search
+  In this module we are going to take a look at new Search features in  SharePoint 2010, Search Federation, and the new Search product called FAST ESP.
+  #### Lessons
+  - Federated Search
+  - Search Architecture
+  - FAST Search
+  - Search 2010
+
+
+  #### Lab &#58; Install Search
+
+  #### Lab &#58; Explore Search
+
+  #### Lab &#58; Install FAST Search
+  After completing this module, students will be able to&#58;
+  - Understand the new features of SharePoint Search
+  - Install and configure SharePoint Search
+  - Install and configure FAST Search
+
+
+  ### Module 6&#58; Backup Restore Disaster Recovery
+  In this module we are going to take a look at new High Availability features in SharePoint 2010.
+  #### Lessons
+  - Disaster Recovery
+  - Backup
+  - Restore
+
+
+  #### Lab &#58; Backup
+
+  #### Lab &#58; Restore
+  After completing this module, students will be able to&#58;
+  - How to backup and restore SharePoint 2010
+  - How to use the granular restore feature of 2010
+
+
+  ### Module 7&#58; Install and Upgrading
+  In this module we are going to take a look at upgrading your older SharePoint 2007 farm to 2010!
+  #### Lessons
+  - Deep Details
+  - Upgrading 2007
+
+
+  #### Lab &#58; Installing SharePoint 2010
+
+  #### Lab &#58; Upgrade (Pre-reqs)
+
+  #### Lab &#58; Upgrade (Gradual)
+
+  #### Lab &#58; Upgrade (In-Place)
+  After completing this module, students will be able to&#58;
+  - Understand Upgrade Architecture
+  - Learn to perform a In-place upgrade
+  - Learn to perform a Gradual upgrade
+  - Understand what items to test after upgrade

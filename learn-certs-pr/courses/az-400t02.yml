@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: Implementing Continuous Integration
+metadata:
+  title: 'Course AZ-400T02-A: Implementing Continuous Integration'
+  description: 'Course AZ-400T02-A: Implementing Continuous Integration'
+uid: course.az-400t02
+courseNumber: 'AZ-400T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain why continuous integration matters
+- skill: Implement continuous integration using Azure DevOps
+- skill: Configure builds and the options available
+- skill: Create an automated build workflow
+- skill: Integrate other build tooling with Azure DevOps
+- skill: Create hybrid build processes
+- skill: Describe what is meant by code quality and how it is measured
+- skill: Detect code smells
+- skill: Integrate automated tests for code quality
+- skill: Report on code coverage during testing
+- skill: Add tooling to measure technical debt
+- skill: Detect open source and other licensing issues
+- skill: Implement a container build strategy
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides knowledge and skills to implement the DevOps practices of continuous integration. Students will learn how to implement continuous integration in an Azure DevOps pipeline, how to manage code quality and security principles, and how to implement a container build strategy.
+
+  #### Audience profile
+  Students in this course are interested in DevOps continuous integration processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  - Students should have fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+  - It is recommended that you have experience working in an IDE, as well as some knowledge of the Azure portal. However, students who may not have a technical background in these technologies, but who are curious about DevOps practices as a culture shift, should be able to follow the procedural and expository explanations of continuous integration regardless.
+outlineSection: |-
+  ### Module  1&#58; Implementing Continuous Integration in an Azure DevOps Pipeline
+  In this module, you’ll be introduced to continuous integration principles, including&#58; benefits, challenges, build best practices, and implementation steps. You will also learn about implementing a build strategy with workflows, triggers, agents, and tools.
+  #### Lessons
+  - Continuous Integration Overview
+  - Implementing a Build Strategy
+
+
+  #### Lab &#58; Enabling Continuous Integration with Azure Pipelines
+
+  #### Lab &#58; Creating a Jenkins Build Job and Triggering CI
+  After completing this module, students will&#58;
+  - Be able to explain why continuous integration matters
+  - Implement continuous integration using Azure DevOps
+
+
+  ### Module  2&#58; Managing Code Quality and Security Policies
+  In this module, you will learn how to manage code quality, including&#58; technical debt, SonarCloud, and other tooling solutions. You will also learn how to manage security policies with open source, OWASP, and WhiteSource Bolt.
+  #### Lessons
+  - Managing Code Quality
+  - Managing Security Policies
+
+
+  #### Lab &#58; Managing Technical Debt with Azure DevOps and SonarCloud
+
+  #### Lab &#58; Checking Vulnerabilities using WhiteSource Bolt and Azure DevOps
+  After completing this module, students will be able to&#58;
+  - Manage code quality including&#58; technical debt SonarCloud, and other tooling solutions.
+  - Manage security policies with open source, OWASP, and WhiteSource Bolt.
+  - Manage code quality including&#58; technical debt, SonarCloud, and other tooling solutions.
+
+
+  ### Module  3&#58; Implementing a Container Build Strategy
+  In this module, you will learn how to implement a container strategy including how containers are different from virtual machines and how microservices use containers. You will also learn how to implement containers using Docker.
+  #### Lessons
+  - Implementing a Container Build Strategy
+
+
+  #### Lab &#58; Existing .NET Applications with Azure and Docker Images
+  After completing this module, students will be able to&#58;
+  - Implement a container strategy including how containers are different from virtual machines and how microservices use containers.
+  - Implement containers using Docker.

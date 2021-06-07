@@ -1,0 +1,239 @@
+### YamlMime:Course
+title: PowerShell 5.0 and Desired State Configuration
+metadata:
+  title: 'Course 55202-A: PowerShell 5.0 and Desired State Configuration'
+  description: 'Course 55202-A: PowerShell 5.0 and Desired State Configuration'
+uid: course.55202
+courseNumber: '55202-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand Desired State Configuration.
+- skill: Understand that PowerShell handles both imperative and declarative language.
+- skill: Understand DSC requirements.
+- skill: Understand features added to version 4 of PowerShell.
+- skill: Understand features added to version 5 of PowerShell.
+- skill: Understand and execute updating the Help System.
+- skill: Understand management models.
+- skill: Understand and utilize MOF file creation workflow.
+- skill: Understand methodologies of configuration data.
+- skill: Understand functions and cmdlets available for DSC with WMF 5.0.
+- skill: Understand the basics of a DSC Pull Server.
+- skill: Understand how to get the parameters working for IntelliSense.
+- skill: Understand how to define a DSC configuration script.
+- skill: Understand how to utilize resources.
+- skill: Understand and utilize the Configuration keyword.
+- skill: Understand node filtering.
+- skill: Understand and utilize the DSC File Resource.
+- skill: Understand and utilize the DSC Archive Resource.
+- skill: Understand and utilize the DSC Environment Resource.
+- skill: Understand and utilize the DSC Group Resource.
+- skill: Understand and enable the Analytic Log.
+- skill: Understand and utilize the DSC Log Resource.
+- skill: Understand and utilize the DSC Registry Resource.
+- skill: Understand and utilize the DSC Script Resource.
+- skill: Understand and utilize the DSC Service Resource.
+- skill: Understand and utilize the DSC User Resource.
+- skill: Understand and utilize the DSC WindowsFeature Resource.
+- skill: Understand and utilize parameters.
+- skill: Understand both Push and Pull modes.
+- skill: Understand and utilize the LCM.
+- skill: Understand placing configurations and resources for distribution.
+- skill: Understand configuration drift.
+- skill: Understand and utilize the debugging feature.
+- skill: Understand how to utilize PowerShell.
+- skill: Understand and utilize the pipeline.
+- skill: Understand and utilize loops.
+- skill: Understand and utilize scripting.
+- skill: Understand and utilize functions.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Course 55202 is designed to get you up and running with Desired State Configuration (DSC). PowerShell DSC was introduced in version 4 and has been greatly expanded and enhanced in version 5. DSC goes
+  hand-in-glove with implementation of DevOps the revolutionary methodology to join the development and operations teams. Now you can “declare” your desired environment and the DSC structure will “make it so” and keep it so!
+
+  #### Audience profile
+  This is considered a skillset that all operations team need to master, and all developers should be familiar with the technology so they can develop DSC Resources to be used in deploying their software.
+prerequisitesSection: |-
+  The students are expected to understand the basics of PowerShell either through attending the introductory courses by BlueBuffaloPress or having gained the experience through some other method.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; PowerShell 5.0 Desired State Configuration Introduction
+  In this module, we explain Desired State Configuration (DSC), the concepts needed to understand the basics of how it works and discuss the features added in the two latest versions.
+  #### Lessons
+  - Understanding Desired State Configuration
+  - Understanding DSC Metaphor
+  - PowerShell is Imperative, or Declarative, or Both?
+  - Exploring DSC from 30,000 Feet!
+  - Examining Why to Put Effort into DSC (Or Inspire Me Dude)?
+  - Understanding DSC Requirements
+  - Examining PowerShell Version 4&#58; DSC Features Added
+  - Exploring PowerShell Version 5&#58; DSC Improvements
+
+
+  #### Lab &#58; PowerShell 5.0 Desired State Configuration Introduction
+  After completing this module, students will be able to&#58;
+  - Understand Desired State Configuration.
+  - Understand that PowerShell handles both imperative and declarative language.
+  - Understand DSC requirements.
+  - Understand features added to version 4 of PowerShell.
+  - Understand features added to version 5 of PowerShell.
+
+
+  ### Module 3&#58; DSC Architecture
+  DSC utilizes DSC resources to determine whether or not the current state of the node matches the expected state, and those resources know how to change the current state to the expected state. Before we start to write configuration files and utilize resources, we are going to explore the two models of management, review MOF file creation workflows, and look at different methods of configuring data.
+  #### Lessons
+  - Taking a Preliminary Look
+  - Updating the Help System
+  - Exploring Management Models
+  - Reviewing the MOF File Creation Workflow
+  - Examining Methodologies of Configuration Data
+  - Exploring Functions and Cmdlets Available for DSC with WMF 5.0
+  - Understanding DSC Pull Server
+
+
+  #### Lab &#58; DSC Architecture
+  - Let’s Allow PowerShell to Help Us!
+  - Create A Sample Configuration File and Compile it into an MOF
+  - Simple Deployment of MOF File to Change LCM Settings
+
+  After completing this module, students will be able to&#58;
+  - Understand and execute updating the Help System.
+  - Understand management models.
+  - Understand and utilize MOF file creation workflow.
+  - Understand methodologies of configuration data.
+  - Understand functions and cmdlets available for DSC with WMF 5.0.
+  - Understand the basics of a DSC Pull Server.
+
+
+  ### Module 4&#58; DSC Configuration Files
+  In this module, we will examine the process to create configuration files and utilize them.
+  #### Lessons
+  - Preparing the Environment
+  - Defining a DSC Configuration Script
+  - Configuration Keyword
+
+
+  #### Lab &#58; DSC Configuration Files
+  - Getting IntelliSense for the Parameters Working
+  - Using Resources
+  - Examine Node Filtering
+  - Expand Filtering in Your Configuration File
+
+  After completing this module, students will be able to&#58;
+  - Understand how to get the parameters working for IntelliSense.
+  - Understand how to define a DSC configuration script.
+  - Understand how to utilize resources.
+  - Understand and utilize the Configuration keyword.
+  - Understand node filtering.
+
+
+  ### Module 5&#58; DSC Resources
+  In this module, we will discuss and utilize DSC Resources.
+  #### Lessons
+  - Examining File Resource
+  - Exploring Archive Resource
+  - Examining Environment Resource
+  - Exploring Group Resource
+  - Examining Log Resource
+  - Understanding Package Resource
+  - Examining Registry Resource
+  - Exploring Script Resource
+  - Examining Service Resource
+  - Exploring User Resource
+  - Examining WindowsFeature Resource
+  - Understanding PsDscRunAsCredential
+
+
+  #### Lab &#58; DSC Resources
+  - Utilize the DSC File Resource
+  - Utilize the DSC Archive Resource
+  - Utilize the DSC Environment Resource
+  - Utilize the DSC Group Resource
+  - Enable the Analytic Log
+  - Utilize the DSC Log Resource
+  - Utilize the DSC Registry Resource
+  - Utilize the DSC Script Resource
+  - Utilize the DSC Service Resource
+  - Utilize the DSC User Resource
+  - Utilize the DSC WindowsFeature Resource
+
+  After completing this module, students will be able to&#58;
+  - Understand and utilize the DSC File Resource.
+  - Understand and utilize the DSC Archive Resource.
+  - Understand and utilize the DSC Environment Resource.
+  - Understand and utilize the DSC Group Resource.
+  - Understand and enable the Analytic Log.
+  - Understand and utilize the DSC Log Resource.
+  - Understand and utilize the DSC Registry Resource.
+  - Understand and utilize the DSC Script Resource.
+  - Understand and utilize the DSC Service Resource.
+  - Understand and utilize the DSC User Resource.
+  - Understand and utilize the DSC WindowsFeature Resource.
+
+
+  ### Module 6&#58; DSC Pull and Push Servers
+  In this module, we will discuss parameters, examine both push and pull models, and explore configurations and debugging.
+  #### Lessons
+  - Discussing Parameters
+  - Examining a Push Mode Example
+  - Exploring the Pull Mode
+  - Reviewing the Local Configuration Manager (LCM)
+  - Placing Configurations and Resources for Distribution by the Pull Server
+  - Discussing Configuration Drift
+  - Debugging DSC in Version 5
+
+
+  #### Lab &#58; DSC Pull and Push Servers
+  - Create a Pull Server
+  - Set Up the LCM
+  - Distribute an MOF Via the Pull Server
+  - DSC Fixes Things!
+  - Test the Debug Feature
+
+  After completing this module, students will be able to&#58;
+  - Understand and utilize parameters.
+  - Understand both Push and Pull modes.
+  - Understand and utilize the LCM.
+  - Understand placing configurations and resources for distribution.
+  - Understand configuration drift.
+  - Understand and utilize the debugging feature.
+
+
+  ### Module 7&#58; Appendix&#58; 752552 PowerShell 5.0 Basics
+  This appendix is a subset of BlueBuffaloPress course 752552 with all of the labs removed. It is intended as a basic tutorial, or refresher for students attending the course it is attached to. You will find this appendix in many of our PowerShell courses.
+  #### Lessons
+  - Introduction to PowerShell
+  - Utilizing PowerShell
+  - The Pipeline
+  - Processing Data with Loops
+  - Scripting and Functions
+
+
+  #### Lab &#58; Appendix&#58; 752552 PowerShell 5.0 Basics
+  After completing this module, students will be able to&#58;
+  - Understand how to utilize PowerShell.
+  - Understand and utilize the pipeline.
+  - Understand and utilize loops.
+  - Understand and utilize scripting.
+  - Understand and utilize functions.

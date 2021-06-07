@@ -6,7 +6,8 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><div><strong>The content of this exam was updated on January 27, 2021. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>The content of this exam was updated on May 25, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   </div>
   
   Candidates for this exam should have subject matter expertise working with people, processes, and technologies to continuously deliver business value.
@@ -17,7 +18,7 @@ summary: |-
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: develop an instrumentation strategy; develop a Site Reliability Engineering (SRE) strategy; develop a security and compliance plan; manage source control; facilitate communication and collaboration; define and implement continuous integration; and define and implement a continuous delivery and release management strategy.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
-practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
@@ -27,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- The content of this exam was updated on January 27, 2021. Please download the exam skills outline below to see what changed.
+- The content of this exam was updated on May 25, 2021. Please download the exam skills outline below to see what changed.
 - Develop an instrumentation strategy (5-10%)
 - Develop a Site Reliability Engineering (SRE) strategy (5-10%)
 - Develop a security and compliance plan (10-15%)
@@ -61,10 +62,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

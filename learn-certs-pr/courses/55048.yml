@@ -1,0 +1,185 @@
+### YamlMime:Course
+title: No-Code SharePoint 2013-2016 Workflows With SharePoint Designer 2013
+metadata:
+  title: 'Course 55048-B: No-Code SharePoint 2013-2016 Workflows With SharePoint Designer 2013'
+  description: 'Course 55048-B: No-Code SharePoint 2013-2016 Workflows With SharePoint Designer 2013'
+uid: course.55048
+courseNumber: '55048-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore SharePoint 2013 Designer User Interface.
+- skill: Use Backstage View.
+- skill: Create a Subsite.
+- skill: Create a Site Template.
+- skill: Delete a Subsite.
+- skill: Create a SharePoint List.
+- skill: Create a SharePoint Library.
+- skill: View Content Types.
+- skill: Create a New Content Type.
+- skill: Create a Site Column.
+- skill: Add a Content Type to a List or Library.
+- skill: Use The Out-Of-The-Box Workflows.
+- skill: Use The Three-State Workflow.
+- skill: Use The Approval Workflow.
+- skill: Use The Collect Feedback.
+- skill: Create a Workflow Lunch Request.
+- skill: Create a Workflow with a Custom Message.
+- skill: Create and Configure Workflow Parameters
+- skill: Create and Configure Stages, Steps, and Parallel Blocks.
+- skill: Create and Configure Reusable Workflow.
+- skill: Create and Configure State Machine Workflow.
+- skill: Use a List as a Data Source.
+- skill: Open a Workflow in Visual Designer.
+- skill: Create a Workflow in Visual Designer.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This course is designed for the Power User, Collection Administrator and Developers that want to learn the new SharePoint 2013   workflow development process using SharePoint Designer 2013, the Visual Designer and Visio 2013. SharePoint 2016 maintains the same functionality as SharePoint 2013 for workflows and continues to use SharePoint Designer 2013.  
+  
+  Videos included with the course and intended for you to take away are videos of each of the critical lessons taught in the course.
+
+  #### Audience profile
+  This course is intended for all business professionals
+  including IT professional, developers, managers, project leads, project managers, and team leads, but we do not expect coding skills, just thinking skills!
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic computer skills.
+  - Knowledge of what you want to do either now or in the future with SharePoint 2013 workflows.
+outlineSection: |-
+  ### Module 1&#58; COURSE OVERVIEW
+  NA
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; COURSE OVERVIEW
+  - NA
+
+  After completing this module, students will be able to&#58;
+  - NA
+
+
+  ### Module 2&#58; SHAREPOINT 2013 WORKFLOWS
+  NA
+  #### Lessons
+  - What Is A Workflow?
+  - What Is New In SharePoint 2013 Workflows?
+  - The Main Building Blocks
+  - Types Of Workflows
+  - Workflow Associations And Subscriptions
+  - Workflow Visualizations
+  - Optional Module Topics
+
+
+  #### Lab &#58; SHAREPOINT 2013 WORKFLOWS
+  - Exploring SharePoint 2013 Designer User Interface
+  - Backstage View
+  - Create a Subsite
+  - Create a Site Template
+  - Delete a Subsite
+  - Create a SharePoint List
+  - Create a SharePoint Library
+  - View Content Types
+  - Create a New Content Type
+  - Create a Site Column
+  - Adding a Content Type to a List or Library
+
+  After completing this module, students will be able to&#58;
+  - NA
+
+
+  ### Module 3&#58; SHAREPOINT 2013 OUT-OF-THE-BOX WORKFLOWS
+  NA
+  #### Lessons
+  - Content Types
+  - Workflow Tasks Lists
+  - Out-Of-The-Box Workflows
+  - Workflow Planning
+
+
+  #### Lab &#58; SHAREPOINT 2013 OUT OF THE BOX WORKFLOWS
+  - Out-Of-The-Box Workflows
+  - Three-State Workflow
+  - Approval Workflow
+  - Collect Feedback
+
+  After completing this module, students will be able to&#58;
+  - NA
+
+
+  ### Module 4&#58; SHAREPOINT DESIGNER 2013 WORKFLOWS
+  NA
+  #### Lessons
+  - Workflow Interop
+  - SharePoint 2013 Designer Workflow Interface
+  - Workflow Ribbon Commands
+  - Understanding the Workflow GUI
+  - Naming and Messages
+  - Workflow Parameters
+  - Stages, Steps and Parallel Blocks
+  - Reusable Workflows
+  - Workflow Associations and Subscriptions
+  - Workflow Best Practices
+
+
+  #### Lab &#58; SHAREPOINT DESIGNER 2013 WORKFLOWS
+  - Workflow Lunch Request
+  - Workflow with Custom Message
+  - Workflow Parameters 1
+  - Workflow Parameters 2
+  - Stages, Steps, and Parallel Blocks
+  - Reusable Workflow
+  - State Machine
+  - List as a Data Source
+
+  After completing this module, students will be able to&#58;
+  - NA
+
+
+  ### Module 5&#58; WORKFLOWS USING SHAREPOINT DESIGNER 2013 AND VISIO 2013
+  NA
+  #### Lessons
+  - Comparing Text to Visual Designer
+  - SharePoint Designer 2013 Visual Designer
+  - Errors in Workflows with Visio 2013
+  - Packaging Workflows
+
+
+  #### Lab &#58; WORKFLOWS USING SHAREPOINT DESIGNER 2013 AND VISIO 2013
+  - Open a Workflow in Visual Designer
+  - Create a Workflow in Visual Designer
+
+  After completing this module, students will be able to&#58;
+  - NA
+
+
+  ### Module 6&#58; CONCEPT REINFORCEMENT SCENARIOS
+  NA
+  #### Lessons
+  - Scenario 1
+  - Scenario 2
+  - Scenario 3
+  - Scenario 4
+  - Scenario 5 No Solution
+
+
+  #### Lab &#58; SCENARIO SOLUTIONS
+  - Scenario Solution 1
+  - Scenario Solution 2
+  - Scenario Solution 3
+  - Scenario Solution 4
+
+  After completing this module, students will be able to&#58;
+  - NA

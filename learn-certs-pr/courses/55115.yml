@@ -1,0 +1,345 @@
+### YamlMime:Course
+title: Planning, Deploying and Managing Microsoft Project Server 2013
+metadata:
+  title: 'Course 55115-A: Planning, Deploying and Managing Microsoft Project Server 2013'
+  description: 'Course 55115-A: Planning, Deploying and Managing Microsoft Project Server 2013'
+uid: course.55115
+courseNumber: '55115-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan a Microsoft PPM Deployment
+- skill: Configure SQL Server for SharePoint/Project Server 2013
+- skill: Deploy SharePoint and Project Server 2013
+- skill: Install and configure Project Server client software
+- skill: Create enterprise custom fields
+- skill: Configure and manage views and security
+- skill: Configure and manage time and task management settings
+- skill: Customize project sites
+- skill: Import projects and resources
+- skill: Work with Project Server Administration Tool
+- skill: Back and Restore Project Server 2013
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-project-server
+summary: |-
+  The goal of this three-day instructor-led course is to provide students with the knowledge and skills necessary to effectively plan, deploy and administer Microsoft Project Server 2013.
+
+  #### Audience profile
+  This course is intended for Administrators, Systems Engineers, PMO Managers, Project Managers, Consultants and other people responsible for the deployment and management of a Microsoft Project and Portfolio Management (PPM) Solution using Project Server 2013.
+prerequisitesSection: |-
+  - Microsoft Windows Server 20xx networking.
+  - Microsoft Project Professional.
+  - Basic project management concepts.
+outlineSection: |-
+  ### Module 1&#58; Overview of Project Server 2013
+  This module provides the background knowledge to effectively plan a Project Server 2013 deployment. Lessons presented in this module will detail what’s new in 2013, the logical and physical architecture, planning for high availability and scalability, and hardware & software requirements.
+  #### Lessons
+  - What’s New in Project Server 2013
+  -  Project Online in Office 365
+  -  SharePoint Permission Mode
+  -  Database Consolidation
+  -  My Tasks&#58; All Tasks in One Location
+  -  Improvements in Exchange Integration
+  -  Other Improvements
+  - Understanding Project Server 2013 Architecture
+  -  Logical Architecture
+  -  Physical Architecture
+  -  Client Applications
+  -  SharePoint Server
+  -  Microsoft SQL Server
+  -  Microsoft SQL Server Analysis Services
+  - Understanding Physical Configurations
+  -  Non-Redundant Configurations
+  -  High Availability Configurations
+  -  Network Load Balancing
+  -  Failover Clustering
+  -  Database Mirroring / Log Shipping
+  -  SQL Server AlwaysOn Availability Groups
+  - System Requirements
+  -  Requirements for Project Professional 2013
+  -  Requirements for Project Web App for Clients
+  -  Requirements for Web Front-End and Application Server
+
+  Describe the new features of Project Server 2013.
+
+  Explain the architecture of Project Server 2013.
+
+  Describe the physical configurations of Project Server 2013.
+
+  Explain the hardware and software requirements.
+
+  ### Module 2&#58; Installing and Configuring Prerequisites
+  This module describes how to install and configure the software and service prerequisites prior to installing SharePoint and Project Server 2013. Lessons presented in this module will detail creating and associating the necessary service accounts, installing and configuring the software components and configuring SQL Server.
+  #### Lessons
+  - Creating Service Accounts
+  -  Overview of Service Accounts
+  -  Creating Service Accounts
+  -  Creating Security Groups
+  - Configuring SQL Server
+  -  Install Required SQL Server Features
+  -  Configure SQL Services
+  -  Configure Collation Settings
+  -  Determine Authentication Mode
+  -  Configure SQL Server for Project Server 2013
+  -  Configure Windows Firewall Settings
+  - Installing SharePoint Software Prerequisites
+  -  SharePoint 2013 Products Preparation Tool
+  -  Manual Installation of Prerequisite Software
+
+
+  #### Lab &#58; Creating Service Accounts
+
+  #### Lab &#58; Create Security Groups
+
+  #### Lab &#58; Verify Prerequisite Software and Services
+
+  Create service accounts to be used in SharePoint/Project Server 2013.
+
+  Install and configure Microsoft SQL Server.
+
+  Install and verify SharePoint Software Prerequisites.
+
+  ### Module 3&#58; Deploying and Configuring SharePoint and Project Server 2013
+  This module describes how to install SharePoint and Project Server 2013. Lessons presented in this module will detail the stand-alone, single server and multi-server farm installations. You will learn the SharePoint design structure and how to use the Initial Farm Configuration Wizard, manually configuring SharePoint services and provision the Project Web App instance.
+  #### Lessons
+  - Installing SharePoint and Project Server Software
+  -  SharePoint Setup Program
+  -  Standalone Installation
+  -  Farm Installation
+  -  Project Server Setup Program
+  - Configuring SharePoint Server 2013
+  -  SharePoint 2013 Products Configuration Wizard
+  -  Running the Farm Configuration Wizard
+  -  Manually Configuring SharePoint Services
+  -  Configuring a Multi-Server Farm
+  - Deploying Project Web App
+  -  Overview of Sites and Site Collections
+  -  Creating a Web Application
+
+
+  #### Lab &#58; Installing SharePoint and Project Server Software
+
+  #### Lab &#58; Configuring SharePoint Server 2013
+
+  #### Lab &#58; Deploying Project Web App
+
+  Install SharePoint Server and Project Server 2013 Software.
+
+  Configure SharePoint Server 2013.
+
+  Deploy Project Web App.
+
+  ### Module 4&#58; Configuring Project Server Clients
+  This module describes how to configure Project Server clients. Lessons presented in this module will detail how to create Project Server profiles, configure Internet Explorer to work with Project Web App.
+  #### Lessons
+  - Configuring Project Professional 2013
+  -  Overview of Microsoft Project 2013
+  -  Installing Microsoft Project Professional 2013
+  -  Difference between Authentication and Authorization
+  -  Creating a Project Server Authentication Profile
+  -  Logging on to Project Server
+  -  Managing Local Project Cache
+  - Using Project Web App
+  -  Logging on to Project Web App using Internet Explorer
+  -  Adding the Project Web App Site to Trusted Sites Zone
+  -  Using the Running as a Different User Option
+  -  Supported 3rd Party Web Browsers
+
+
+  #### Lab &#58; Configuring Project Professional 2013
+
+  #### Lab &#58; Using Project Web App
+
+  Install and configure Microsoft Project Professional 2013.
+
+  Use Project Web App.
+
+  ### Module 5&#58; Configuring Project Server
+  This module describes how to configure and manage time and task management settings. Lessons presented in this module will detail how time and task reporting work in Project Server, what are financial periods and timesheet settings and how to configure them. You will learn how to configure Operational Policies and import resources and project plans.
+  #### Lessons
+  - Configuring Fiscal Periods
+  -  Configuring Time Reporting Periods
+  -  Creating Line Classifications
+  -  Configuring Timesheet Settings and Defaults
+  -  Configuring Administrative Time
+  -  Configuring Task Settings and Display
+  -  Manage Timesheets
+  -  Timesheet Manager
+  - Configuring Operational Policies
+  -  Configuring Additional Server Settings
+  -  Active Directory Enterprise Resource Pool Synchronization
+  -  Configuring Connected SharePoint Sites
+  - Importing Resources and Project Plans
+  -  Overview of Importing Data
+  -  Importing Resources to Enterprise
+  -  Importing Projects to Enterprise
+
+
+  #### Lab &#58; Configuring Time and Task Management Settings
+
+  #### Lab &#58; Configure Task Settings and Display
+
+  #### Lab &#58; Importing Resources and Projects
+
+  Configure Time and Task Management Settings.
+
+  Configure Operational Policies.
+
+  Import Resources and Project Plans.
+
+  ### Module 6&#58; Managing Project Server Security
+  This module describes how to manage Project Server security. Lessons presented in this module will cover SharePoint and Project Server permission modes and detail how security works in both permission modes. You will also learn how to create Project Server security users, groups and categories and configuring the various permissions.
+  #### Lessons
+  - Overview of Project Server Security
+  -  Understanding Permission Modes
+  -  Security Workflow – SharePoint Permission Mode
+  -  Security Workflow – Project Server Permission Mode
+  - SharePoint Security Permissions
+  -  Default SharePoint Groups
+  -  Adding Users to SharePoint Groups for PWA
+  -  Switching Permission Mode
+  - Project Server Security Permissions
+  -  Project Server Security Permissions
+  -  Global Permissions
+  -  Category Permissions
+  -  Category Dynamics Rules
+  -  Security Templates
+  - Creating Project Server Security Principals
+  -  Creating Project Server Users
+  -  Understanding Project Server Groups
+  -  Creating Project Server Groups
+  -  Understanding Project Server Categories
+  -  Creating Project Server Categories
+
+
+  #### Lab &#58; Working with SharePoint Security Permissions
+
+  #### Lab &#58; Creating Security Templates
+
+  #### Lab &#58; Working with Project Server Security Principals
+
+  Understand how Project Server security works.
+
+  Configure SharePoint Permission Mode.
+
+  Configure Project Server Permission Mode.
+
+  Create Project Server Security Entities
+
+  Project Server users
+
+  Project Server Groups
+
+  Project Server Categories
+
+  ### Module 7&#58; Configuring Enterprise Data Settings
+  This module describes how to configure the enterprise data settings, time and task management and operational policies. Lessons presented in this module will cover how to create and configure enterprise custom fields, calendars, and time & task management.
+  #### Lessons
+  - Configuring Enterprise Custom Fields
+  -  Overview of Custom Fields
+  -  Enterprise Custom Fields
+  -  Creating Enterprise Custom Fields
+  -  Creating Lookup Tables
+  -  Preconfigured Enterprise Custom Fields
+  - Configuring Enterprise Objects
+  -  Resource Breakdown Structure
+  -  Security Rules and the Resource Breakdown Structure
+  -  Configuring Enterprise Calendars
+  -  Configuring the Enterprise Global Template
+
+
+  #### Lab &#58; Configuring Enterprise Custom Fields
+
+  #### Lab &#58; Configuring Enterprise Objects
+
+  Configure Enterprise Custom Fields.
+
+  Configure Enterprise Objects.
+
+  ### Module 8&#58; Configuring the Business Intelligence Center
+  This module describes how to configure the Business Intelligence Center. Lessons presented in this module will detail how to configure Project Web App Reporting with Excel Services and Secured Store Service. You will also learn how to configure SQL Server Analysis Services and create an OLAP database.
+  #### Lessons
+  - Configuring Project Web App Reporting
+  -  Configuring Prerequisites
+  -  Configuring SQL Server
+  -  Configuring Excel Services
+  -  Configuring Secure Store Service
+  - Configuring OLAP Cubes for Project Web App
+  -  Overview of OLAP Cubes
+  -  How Project Server Creates OLAP Cubes
+  -  Requirements for SQL Server Analysis Services
+  -  Configuring the OLAP Database Configuration
+
+
+  #### Lab &#58; Configuring Project Web App Reporting
+
+  #### Lab &#58; Configuring OLAP Cubes for Project Web App
+
+  Configure Project Web App Reporting.
+
+  Configure OLAP Cubes for Project Web App.
+
+  ### Module 9&#58; Customizing Project Sites
+  This module describes how to configure and manage Project Sites. Lessons presented in this module will detail how Project Sites work, how to create a custom Project Site template.
+  #### Lessons
+  - Working with Project Sites and Elements
+  -  Working with Risks
+  -  Working with Issues
+  -  Working with Document Libraries
+  -  Working with Deliverables
+  -  Understanding Project Site Permissions
+  -  Configuring Project Site Provisioning Settings
+  - Creating a Custom Project Site Template
+  -  Customizing the Project Site
+  -  Adding Web Parts to a Project Site
+  -  Adding SharePoint Apps
+  -  Saving the Project Site as a SharePoint Template
+  -  Changing the Default Project Site Template
+
+
+  #### Lab &#58; Configuring Project Site Provisioning
+
+  #### Lab &#58; Creating a Custom Project Site Template
+
+  Work with Project Sites and Elements.
+
+  Create a Custom Project Site Template.
+
+  Resolve common application compatibility issues.
+
+  ### Module 10&#58; Project Server Administration
+  This module describes the administrative tasks that a Project Server Administrator will be required to know. Lessons presented in this module will detail how to work with administration tools, such as the SharePoint Developer Dashboard, Project Server Log Level Manager, Health Analyzer and Usage Logging. You will also learn how to backup and restore Project Server objects and databases using SharePoint Central Admin and the SQL Server Management Console.
+  #### Lessons
+  - Working with Administration Tools
+  -  SharePoint Developer Dashboard
+  -  Project Server Log Level Manager
+  -  Health Analyzer
+  -  Diagnostic Logs
+  -  Best Practices with Diagnostic Logs
+  - Managing Queue Jobs and Enterprise Objects
+  -  Managing Queue Jobs
+  -  Deleting Enterprise Objects
+  -  Forcing Check-In of Enterprise Objects
+  -  Backing Up and Restoring Project Server Data
+  - Project Server Disaster Recovery
+  -  Disaster Recovery using SharePoint Central Administration
+  -  Backing Up a Database using SQL Server Management Studio
+  -  Restoring a Database using SQL Server Management Studio
+
+
+  #### Lab &#58; Working with Administration Tools
+
+  #### Lab &#58; Working with Enterprise Objects
+
+  #### Lab &#58; Backing up and Restoring Project Server Databases
+
+  Work with Administration Tools. Manage Project Server Queue Jobs and Enterprise Objects.Backup and Restore Project Server Data.
+  #### Additional Reading
+  None

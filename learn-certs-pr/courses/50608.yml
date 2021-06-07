@@ -1,0 +1,162 @@
+### YamlMime:Course
+title: SharePoint 2010 for the iWorker - The Necessary Basics
+metadata:
+  title: 'Course 50608-A: SharePoint 2010 for the iWorker - The Necessary Basics'
+  description: 'Course 50608-A: SharePoint 2010 for the iWorker - The Necessary Basics'
+uid: course.50608
+courseNumber: '50608-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Confidently interact with SharePoint sites as contributors/end users
+- skill: Understand the purpose of each SharePoint element
+- skill: Understand how to collaborate effectively
+- skill: Understand “My Site”
+- skill: Confidently manage synchronization of SharePoint sites
+- skill: Understand the procedure to use Outlook to synchronize
+- skill: Understand the procedure to use SharePoint Workspace 2010
+- skill: Understand Searching for content or people in SharePoint 2010
+- skill: Understand Tags, Notes, Voting and advanced sharing options
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  In this 2 day instructor-led course, the students will learn to perform basic to advanced functions as an end user with SharePoint 2010 sites. This can be taught on-site or at a training company. This 2 day course can be combined with the Site Owner course to provide 5 days for the students.
+
+  #### Audience profile
+  The primary audience for this course is individuals who want to become more proficient with the use of SharePoint 2010 in the workplace. This course covers the basics for those who have never seen SharePoint or need to learn how to use it properly. This is a non-technical course for iWorkers.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience using a web browser
+  - Some Office 2007/2010 experience or exposure
+outlineSection: |-
+  ### Module 1&#58; Introduction to SharePoint 2010 as an End User
+  The students will be introduced to what SharePoint 2010 is and what it can do for the end user (employees) and for business (employers).
+  #### Lessons
+  - What is SharePoint?
+  - The SharePoint Players (roles of various people)
+  - Focus on the End User Expectations
+  - Complete walkthrough of a SharePoint site
+
+
+  #### Lab &#58; Explore a SharePoint 2010 site
+  After completing this module, students will be able to&#58;
+  - Describe what SharePoint 2010 is and what it looks like.
+  - Understand how to interact with the various parts of the site
+  - Proceed with interaction on their own SharePoint sites at work.
+  - Understand the correlation of Office 2010 with SharePoint 2010
+
+
+  ### Module 2&#58; Getting Comfortable with SharePoint 2010
+  The students will be introduced to permissions, lists and libraries.
+  #### Lessons
+  - Permissions on various objects in SharePoint and the roles of the players
+  - Procedures for common every day SharePoint tasks
+  - An introduction to lists and the importance of them
+  - An introduction to Libraries and the importance of them
+  - Authoring new documents
+  - Participation in Discussion Boards
+
+
+  #### Lab &#58; Lists, Libraries and Discussion Boards
+  After completing this module, students will be able to&#58;
+  - Describe various kinds of lists and the purpose of each
+  - Describe the purpose of libraries and how to use them effectively.
+  - Interact in a discussion board in SharePoint
+  - Author new documents in SharePoint
+
+
+  ### Module 3&#58; Other SharePoint sites you may have to use
+  The students will be introduced to other sites they will be exposed to at work.
+  #### Lessons
+  - A Meeting site
+  - A Wiki site
+  - A Records Center site
+  - UserID options
+  - My Site
+
+
+  #### Lab &#58; My Site configuration
+  After completing this module, students will be able to&#58;
+  - Interact with a Records Center site
+  - Interact with a Wiki site
+  - Interact with a meeting site
+  - Interact with “My Site”
+  - Set up their profile and User ID options
+
+
+  ### Module 4&#58; Search, Voting Buttons and Tags
+  The students will be introduced to SharePoint social computing features that enable them to share favorite SharePoint sites and documents by tagging them with “I like it” or adding their own keywords and descriptions. This will expand the possibilities in search by using these keywords and tags in your search query. Also, their colleagues can see what areas you like and can also search on these keywords.
+  #### Lessons
+  - Searching on a SharePoint page or site
+  - Using a dedicated search center site
+  - Using voting buttons (I like it) and tags (keywords)
+  - Using “people search”
+
+
+  #### Lab &#58; Searching a SharePoint 2010 site
+
+  #### Lab &#58; Rating content and pages in SharePoint
+  After completing this module, students will be able to&#58;
+  - Use all the functions of search to find anything, including tags, documents, words inside documents and people.
+  - Use the voting buttons and understand their significance to others.
+  - Add tags to everything for easy retrieval and sharing.
+  - Using voting buttons (5 star system) to rate content and pages.
+
+
+  ### Module 5&#58; Extra Columns and Document Metadata
+  The students will be introduced to lists and libraries with extra columns. They will learn the significance and the correlation of these columns to the metadata of the document. These columns may be needed for Governance, but are very useful for searching, routing, categorizing and sorting data. Students will also be encouraged not to use folders, but instead sort large libraries or lists using column select sort.
+  #### Lessons
+  - Exposure to extra columns in libraries and lists with compulsory data or not
+  - How these columns link to the properties of the document (metadata)
+  - How to sort columns to break down large libraries and lists
+  - How to focus on documents from a specific department or person
+  - How to use the Document panel within Word to access the metadata
+
+
+  #### Lab &#58; Editing properties, using Document Panel and sorting by column
+  After completing this module, students will be able to&#58;
+  - Input data directly into the columns of a list or library.
+  - Access the Document Panel within Office client programs.
+  - Sort by the data in columns or metadata.
+  - Shorten large libraries or lists using “sort by column”.
+  - Understand using folders for permissions, not for organization.
+
+
+  ### Module 6&#58; Time Sensitive Lists Synchronization
+  The students will be introduced to the procedure and concepts of synchronizing anything in SharePoint with their client applications such as the Office Suite. Specifically, students will learn to synchronize SharePoint Tasks and Calendars with Office Outlook and SharePoint Workspace 2010.
+  #### Lessons
+  - SharePoint Task list synchronization with Outlook 2007/2010
+  - SharePoint Calendar synchronization with Outlook 2007/2010
+  - Synchronizing SharePoint tasks and calendars with SharePoint Workspace 2010
+
+
+  #### Lab &#58; Synchronizing SharePoint tasks and calendars with Outlook
+
+  #### Lab &#58; Synchronizing SharePoint tasks and calendars with Workspace
+  After completing this module, students will be able to&#58;
+  - Synchronize Calendars with Outlook or SharePoint Workspace
+  - Synchronize Tasks with Outlook or SharePoint Workspace
+  - Use these synchronized copies offline and re-synchronize later
+
+
+  ### Module 7&#58; Optional Practices
+  This section can be used if this course is scheduled to run by itself at the start of the day without the Beginner course first. This section adds more hands on practices to the day to reinforce the topics learned earlier. This is a deeper dive and extra exposure to the concepts and procedures.
+  
+  The students will participate in collaboration scenarios that simulate work.
+  #### Lessons
+  - An introduction to each scenario and what is expected of the student
+
+
+  #### Lab &#58; Working with a Project site from start to finish
+  After completing this module, students will be able to&#58;
+  - Interact with fellow students on a real Project Site in SharePoint
+  - Fully understand all aspects of getting the project done in SharePoint
+  - Confidently show others how to perform functions in SharePoint
+  - Prepare themselves for the “Site Owner” course

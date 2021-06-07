@@ -1,0 +1,345 @@
+### YamlMime:Course
+title: SharePoint Online for Administrators
+metadata:
+  title: 'Course 55238-B: SharePoint Online for Administrators'
+  description: 'Course 55238-B: SharePoint Online for Administrators'
+uid: course.55238
+courseNumber: '55238-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the architecture of SharePoint Online
+- skill: Have knowledge of all the components in SharePoint Online
+- skill: Have on hands on experience configuring the components of SharePoint Online
+- skill: Have hands on experience configuring the options
+- skill: Work with Site Collections and storage options
+- skill: Manage user profiles and social profiling
+- skill: Understand and configure data connections in SharePoint Online
+- skill: Build a taxonomy structure
+- skill: Understand and configure Search in SharePoint Online
+- skill: Configure and deploy apps
+- skill: Understand and define Enterprise content management and Security and Compliancy
+- skill: Configure additional options and features in SharePoint Online such as Information Rights Management
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This course will introduce the audience to SharePoint Online Administration in Office 365 and explain and demonstrate the configuration options for SharePoint Online. The course is appropriate for existing SharePoint on-premises administrators and new administrators to Office 365 who need to understand how to correctly setup SharePoint Online for their company. The course will also help SharePoint on-premise administrators understand the differences between SharePoint on-premises and SharePoint Online.
+
+  #### Audience profile
+  This course is designed for Administrators who need to setup, configure and manage SharePoint Online as part of their Office 365 Administration.
+outlineSection: |-
+  ### Module 1&#58; Introduction to Office 365 and SharePoint Online
+  This first module will take you on a tour of Office 365 and SharePoint Online and ensure you are familiar with all the components that will be covered in later modules. You will understand the way identity management works in Office 365 and also the tools required to manage the environment. You will also learn about the options for migrating to SharePoint Online and building hybrid scenarios.
+  #### Lessons
+  - Introduction to the Office 365 Administration Center
+  - Configure Reporting
+  - Accessing SharePoint management tools
+  - Accessing security and compliancy
+  - Managing Office 365 and SharePoint Online with PowerShell
+  - Comparing On Premises SharePoint with SharePoint Online
+  - User identity in Office 365 and SharePoint Online
+  - Manging user domains
+  - Building Hybrid scenarios
+  - OneDrive and Sites redirection
+  - Yammer redirection
+  - Understand hybrid search
+  - Hybrid business data connectivity
+  - Hybrid taxonomy
+
+
+  #### Lab &#58; Configuring the Office 365 environment
+  - Create a new Outlook.com account
+  - Create a new Office 365 Trial
+  - Install Azure Active Directory PowerShell
+  - Install SharePoint Online Management Shell
+  - Create test users
+  - Install Office 2016 on to your client
+
+  After completing this module, students will be able to&#58;
+  - Describe the key components of SharePoint Online
+  - Navigate Office 365 and SharePoint admin centers
+  - Understand identity management
+  - Understand how to manage the environment in PowerShell
+  - Understand hybrid scenarios
+
+
+  ### Module 2&#58; Working with Site Collections
+  This module with help you to understand the topology of site collections and how to create and manage them. You will learn how to define delegated control and administration plus configure storage options and quotas for different site collections. You will learn how to configure external access to your content and sharing with external identities and finally how to delete and recover site site collections including PowerShell management.
+  #### Lessons
+  - Introduction to classic and modern admin centers
+  - Creating Site Collections
+  - Defining ownership and security for site collections
+  - Configuring Storage
+  - Configure External Access to site collections
+  - Recovering site collections
+  - Configure external sharing
+  - Managing site collections with PowerShell
+
+
+  #### Lab &#58; Managing Site Collections
+  - Create a new site collection using the UI
+  - Create a new Modern site collection
+  - Create a new site collection using PowerShell
+  - Configure Storage Quotas
+  - Configure external sharing
+  - Restore a site collection
+  - Create a site and deploy content for later labs
+
+  After completing this module, students will be able to&#58;
+  - Understand Site Collections
+  - Manage and delegate site collections
+  - Configure external sharing
+  - Delete and Restore site collections
+  - Manage site collections with PowerShell
+
+
+  ### Module 3&#58; Managing User Profiles
+  User Profiles are a key part of any social and collaboration platform and in this module you will learn how to manage the user profile options in SharePoint Online including the building of custom profile properties. You will also learn how to create and configure audiences for targeted content and then use the audiences for personal site redirection. Finally you will learn how to configure the search options and cleanup jobs for the profile service.
+  #### Lessons
+  - Overview of the profile service
+  - Defining profile properties
+  - Map profile properties to a term store
+  - Creating custom profile properties
+  - Managing audiences
+  - Creating audiences
+  - Managing user profile policies
+  - Configure trusted my site host locations
+  - Configure preferred search center locations
+  - Defining read access permission levels
+  - Configuring newsfeed options
+  - Setup email notifications
+  - Configure my site cleanup
+
+
+  #### Lab &#58; Managing the User Profile service
+  - Create a new custom user profile property
+  - Create a custom property mapped to a metadata term
+  - Create an Audience using profile propertiies and target content
+  - Configure My Site cleanup accounts
+
+  After completing this module, students will be able to&#58;
+  - Understand the profile service in SharePoint Online
+  - Create a custom property mapped to a detadata term
+  - Define profile policies and security control
+  - Create and manage audiences
+  - Define management of my sites when a users my site is deleted
+
+
+  ### Module 4&#58; Working with Data Connections
+  This module focuses on building and configuring data connections and the challenge of SharePoint of displaying data that resides in other data sources and then displaying that data in SharePoint sites. You will learn how to leverage PowerApps for forms development and flow to build business process along with Power Bi to display data. The business connectivity service is designed to allow data connections to be defined in order to display data from other locations such as Azure SQL and then allow users to add data web parts without the need to understand data connection configuration. You will also learn the importance of using the secure store service along side business data connections to define data access to remote data storage using single sign on.
+  #### Lessons
+  - Introduction to Data Connections
+  - Overview of PowerApps, Flow and PowerBi
+  - Overview of the business connectivity service
+  - Introduction to BDC definition files
+  - Creating BDC definition files
+  - Introduction to the secure store service
+  - Configuring the secure store service
+  - Creating secure store target application settings
+  - Configure connections to cloud services
+  - Configure connections to on-premises services
+  - Tools to build data connections
+  - Creating external content types
+  - Building external lists using external data
+
+
+  #### Lab &#58; Managing the business data connectivity service
+  - Create a new PowerApps form
+  - Create a new Flow
+  - Create a new secure store application
+  - Create a new BCS BDC connection
+  - Create an external content type
+  - Create a new external list to leverage the external data
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of data connection options in SharePoint Online
+  - Learn about using PowerApps, Flow and Power Bi
+  - An Overview of the business connectivity services
+  - Introduction to the Secure Store Service
+  - Understand the architecture of BCS and Secure store
+  - Learn how to build XML definition files for use in the BCS service
+  - Configure Single sign on credentials to external data sources
+  - Build external content types
+  - Create external lists
+
+
+  ### Module 5&#58; Managing the Term store
+  The term store is a key component of Enterprise Content Management and findability and this module will cover the creation of a term store through to building term sets and applying them to content. Terms can also be part of a social profile structure as well and you will learn how to inject terms through the UI and via PowerShell.
+  #### Lessons
+  - Overview of the term store
+  - Understanding terms and life cycle management
+  - Creating term groups
+  - Creating the term store
+  - Creating Term Sets in the UI
+  - Creating Term Sets via importing via a CSV
+  - Creating terms in the UI
+  - Creating terms via PowerShell and CSOM
+  - Manage terms with synonyms and pinning
+  - Configure delegated administration
+
+
+  #### Lab &#58; Creating and Managing the Term Store
+  - Create a Term Group and Term Set
+  - Manage Terms with PowerShell and CSOM
+  - Manage Terms with synonyms and pinning
+  - Configure delegated administration
+
+  After completing this module, students will be able to&#58;
+  - Understand the value of the term store in SharePoint data and lifecycle management
+  - Use terms to enable better search and findability
+  - Build term stores and terms
+  - Manage terms through synonyms and pinning
+  - Create terms via PowerShell
+  - Delegate administration rights
+  - Add terms to content and profiles
+
+
+  ### Module 6&#58; Configuring Search
+  Search is one of the most important tools available to a user in SharePoint as it enables data to be found and targeted in various ways. This module will show what options are available to extend the search service with powerful search optimization tools such as result sources and managed properties to enable search web parts to be used as part of a targeted content deployment. You will also learn about exporting the search configuration and importing it to other site collections or even other tenants.
+  #### Lessons
+  - An Introduction to the search service
+  - Classic versus Modern search experience
+  - Understanding Managed Properties
+  - Create Managed Properties
+  - Manage Authoritative pages
+  - Understand Result sources
+  - Create and configure result sources
+  - Understand Query rules
+  - Promoting results through query rules
+  - Remove search results from the index
+  - Exporting search configurations
+  - Importing search configurations
+
+
+  #### Lab &#58; Managing and configuring the Search Service
+  - Create a query in modern and classic
+  - Create a new result source
+  - Export the search configuration
+
+  After completing this module, students will be able to&#58;
+  - Understand the search service for classic and modern templates
+  - Configure managed properties and extend the search schema
+  - Define Authoritative pages
+  - Understand result sources
+  - Configure new result sources
+  - Apply result sources to search queries
+  - Understand query rules
+  - Promote results through query rules
+  - Removing search results from the index
+  - Export search configurations
+  - Import Search configurations
+
+
+  ### Module 7&#58; Configuring Apps
+  This module will focus on the configuration and deployment of the application management service in SharePoint Online. Apps are a great way to add features and functionality to SharePoint and Apps can be deployed in several ways into SharePoint Online including via the store and via the Application catalog. You will learn how to configure apps from both environments as well as deploying a full commercial app from a 3rd party.
+  #### Lessons
+  - An Introduction to Apps
+  - Understanding the App Catalog
+  - Building the App catalog
+  - Adding Apps to the catalog
+  - Add Apps to your SharePoint sites
+  - Adding Apps via the marketplace store
+  - Manage App licensing
+  - Configure store access settings
+  - Monitoring app usage
+
+
+  #### Lab &#58; Configuring Apps
+  - Create and configure an app catalog
+  - Add an Office 365 store app
+  - Add an app via the app catalog
+  - Add an Azure app
+  - Monitor and Manage app usage
+
+  After completing this module, students will be able to&#58;
+  - Understand how apps work in SharePoint Online
+  - Learn the differences between store apps and catalog apps
+  - Build the app catalog site collection
+  - Deploy apps to the catalog
+  - Add apps to SharePoint sites
+  - Understand the difference between Azure Apps and SharePoint apps
+  - Deploy an Azure app
+  - Understand licensing
+  - Configure access to the online store marketplace
+  - Monitoring and managing app usage
+
+
+  ### Module 8&#58; Enterprise Content Management in SharePoint Online
+  Enterprise Content Management (ECM) deals with the control and management of data as it is created and stored in SharePoint Online. In this module you will learn about lifecycle management, document management and data loss prevention capabilities, eDiscovery and classification and data governance in SharePoint Online. You will learn how to build various components to help manage ECM such as records centers, policy centers and configure policies in the security and compliancy center to configure eDiscovery, labels and data loss prevention.
+  #### Lessons
+  - An Introduction to ECM in SharePoint Online
+  - Components of ECM
+  - Office 365 versus classic compliancy
+  - Understanding In-Place records management
+  - Configure In-Place records management
+  - Understanding the records center
+  - Build and configure a records center
+  - Understanding the compliancy policy center
+  - Build a compliancy policy center and configure policies
+  - Discover the security and compliancy center
+  - Configure an eDiscovery center
+  - Build an eDiscovery case
+  - Understand data loss prevention
+  - Build a data loss prevention policy and query
+  - Working with classification and data governance
+
+
+  #### Lab &#58; Configuring ECM in SharePoint Online
+  - Configure In-Place Records Management
+  - Create a Records Center
+  - Create an eDiscovery case
+  - Configure DLP
+
+  After completing this module, students will be able to&#58;
+  - Understand the components of ECM in SharePoint Online
+  - Configure In-Place records management
+  - Build a records center
+  - Send data to a records center based on property values
+  - Discover the security and compliancy center
+  - Build eDiscovery cases
+  - Discover data based on compliancy requirements
+  - Understand Data Loss Prevention (DLP)
+  - Understand governance and data labels
+  - Build DLP queries and policies
+
+
+  ### Module 9&#58; Manage options for SharePoint Online
+  There are several additional options available for SharePoint Online that are not configured in a specific category. This module will cover the configuration and options available in SharePoint and Office 365 for these components. Specific components can include options like OneDrive management and site classification options through to the enabling and configuration of Information Rights Management that allows additional security options on items in SharePoint. Finally you will understand the difference and reasons for using early release feature options for Office 365 which can affect SharePoint features to your users.
+  #### Lessons
+  - Configure OneDrive features
+  - Configure use of Yammer or Newsfeeds
+  - Understand Information Rights Management
+  - Configure Information Rights Management
+  - Define site classification options
+  - Understand early release options for Office 365
+  - Configure Early release options for your Office 365 tenant
+  - Manage Access Control
+
+
+  #### Lab &#58; Configure Options for SharePoint Online
+  - Configure OneDrive options
+  - Define Site creation options
+  - Configure Information Rights Management
+
+  After completing this module, students will be able to&#58;
+  - Understand the options available for SharePoint Online in Office 365
+  - Configure feature options for OneDrive
+  - Understand the differences between Yammer and Newsfeed options
+  - Understand Information Rights Management (IRM)
+  - Configure Information Rights Management
+  - Enable IRM on SharePoint libraries
+  - Apply IRM policies to items in SharePoint
+  - Define site classification options
+  - Understand the option for enabling early release features
+  - Enable early release features
+  - Understand Access control options.
+
+  #### Additional Reading
+  Not applicable

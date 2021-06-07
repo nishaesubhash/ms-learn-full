@@ -1,0 +1,288 @@
+### YamlMime:Course
+title: The SharePoint 2013 Server Collection and Site Templates
+metadata:
+  title: 'Course 55102-B: The SharePoint 2013 Server Collection and Site Templates'
+  description: 'Course 55102-B: The SharePoint 2013 Server Collection and Site Templates'
+uid: course.55102
+courseNumber: '55102-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Know the site templates included with SharePoint Server 2013.
+- skill: Know the common features of templates.
+- skill: Understand and utilize the Project Site template and the features available.
+- skill: Understand and utilize the Community Site template and the features available.
+- skill: Understand and utilize the Document Center template and the features available.
+- skill: Understand and utilize the eDiscovery Center template and the features available.
+- skill: Understand and utilize the Records Center template and the features available.
+- skill: Understand and utilize the Business Intelligence Center template and the features available.
+- skill: Understand and utilize the Enterprise Search Center template and the features available.
+- skill: Understand and utilize the My Site Host template and the features available.
+- skill: Understand and utilize the Community Portal template and the features available.
+- skill: Understand and utilize the Visio Process Repository template and the features available.
+- skill: Understand and utilize the Enterprise Wiki template and the features available.
+- skill: Understand and utilize the Product Catalog template and the features available.
+- skill: Understand and utilize the Publishing Site template and the features available.
+- skill: Understand and utilize the Publishing Site with Workflow template and the features available.
+- skill: Understand and utilize the Team Site template and the features available.
+- skill: Understand and utilize the Blog site template and the features available.
+- skill: Understand and utilize the Developer Site template and the features available.
+- skill: Understand and utilize the Basic Search Center template and the features available.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This fast-paced instructor-led course is designed to give Power Users, developers and IT professionals a high-leveled understanding of the capabilities of SharePoint Server 2013, that they might maximize their organizations return on investment in the product. Each template will be examined and demonstrated with its key features and purposes explained.
+
+  #### Audience profile
+  This course is intended for Power Users, developers and IT professionals that will be involved with the design, development and maintenance of SharePoint 2013.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+  - Successfully log into their virtual machine
+  - Have a full understanding of what the course intends to cover
+
+
+  ### Module 2&#58; Common Features of Templates
+  This module will give you an overview of the common features included with the templates available in SharePoint Server 2013.
+  #### Lessons
+  - SharePoint Server 2013 Site Templates
+  - Common Configurable Features
+
+
+  #### Lab &#58; Common Features of Templates
+  - Know the site templates included with SharePoint Server 2013.
+  - Know the common features of templates.
+
+
+  ### Module 3&#58; Project Site
+  This module will give you an overview of the features and options available within the Project Site template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Project Site
+
+
+  - Understand and utilize the Project Site template and the features available.
+
+
+  ### Module 4&#58; Community Site
+  This module will give you an overview of the features and options available within the Community Site template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Community Site
+
+
+  - Understand and utilize the Community Site template and the features available.
+
+
+  ### Module 5&#58; Document Center
+  This module will give you an overview of the features and options available within the Document Center template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Document Center
+
+
+  - Understand and utilize the Document Center template and the features available.
+
+
+  ### Module 6&#58; eDiscovery Center
+  This module will give you an overview of the features and options available within the eDiscovery Center template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; eDiscovery Center
+
+  - Understand and utilize the eDiscovery Center template and the features available.
+
+
+  ### Module 7&#58; Records Center
+  This module will give you an overview of the features and options available within the Records Center template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Records Center
+
+  - Understand and utilize the Records Center template and features available
+
+
+  ### Module 8&#58; Business Intelligence Center
+  This module will give you an overview of the features and options available within the Business Intelligence Center template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Business Intelligence Center
+
+  - Understand and utilize the Business Intelligence Center template and the features available.
+
+
+  ### Module 9&#58; Enterprise Search Center
+  This module will give you an overview of the features and options available within the Enterprise Search Center.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Enterprise Search Center
+
+  - Understand and utilize the Enterprise Search Center template and the features available.
+
+
+  ### Module 10&#58; My Site Host
+  This module will give you an overview of the features and options available within the My Site Host.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; My Site Host
+
+  - Understand and utilize the My Site Host template and the features available.
+
+
+  ### Module 11&#58; Community Portal
+  This module will give you an overview of the features and options available within the Community Portal template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Community Portal
+
+  - Understand and utilize the Community Portal template and the features available.
+
+
+  ### Module 12&#58; Visio Process Repository
+  This module will give you an overview of the features and options available within the Visio Process Repository template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Visio Process Repository
+
+  - Understand and utilize the Visio Process Repository template and the features available.
+
+
+  ### Module 13&#58; Enterprise Wiki
+  This module will give you an overview of the features and options available within the Enterprise Wiki template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Enterprise Wiki
+
+  - Understand and utilize the Enterprise Wiki template and the features available.
+
+
+  ### Module 14&#58; Product Catalog
+  This module will give you an overview of the features and options available within the Product Catalog template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Product Catalog
+
+  - Understand and utilize the Product Catalog template and the features available.
+
+
+  ### Module 15&#58; Publishing Site
+  This module will give you an overview of the features and options available within
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Publishing Site
+
+  - Understand and utilize the Publishing Site template and the features available.
+
+
+  ### Module 16&#58; Publishing Site with Workflow
+  This module will give you an overview of the features and options available within the Publishing Site with Workflow template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Publishing Site with Workflow
+
+  - Understand and utilize the Publishing Site with Workflow template and the features available.
+
+
+  ### Module 17&#58; Team Site
+  This module will give you an overview of the features and options available within the Team Site template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Team Site
+
+  - Understand and utilize the Team Site template and the features available.
+
+
+  ### Module 18&#58; Blog Site
+  This module will give you an overview of the features and options available within the Blog site template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Blog Site
+
+  - Understand and utilize the Blog site template and the features available.
+
+
+  ### Module 19&#58; Developer Site
+  This module will give you an overview of the features and options available within the Developer Site template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Developer Site
+
+  - Understand and utilize the Developer Site template and the features available.
+
+
+  ### Module 20&#58; Basic Search Center
+  This module will give you an overview of the features and options available within the Basic Search Center template.
+  #### Lessons
+  - Features
+  - Utilizing
+
+
+  #### Lab &#58; Basic Search Center
+
+  - Understand and utilize the Basic Search Center template and the features available.

@@ -1,0 +1,185 @@
+### YamlMime:Course
+title: Discovering the Power of Excel 2010-2013 PowerPivot Data Analytic Expressions (DAX)
+metadata:
+  title: 'Course 55108-B: Discovering the Power of Excel 2010-2013 PowerPivot Data Analytic Expressions (DAX)'
+  description: 'Course 55108-B: Discovering the Power of Excel 2010-2013 PowerPivot Data Analytic Expressions (DAX)'
+uid: course.55108
+courseNumber: '55108-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: This course is intended for Power Users, Business Intelligence Developers, and IT Professionals that will be involved with the development of Excel PowerPivot queries and tabular modeling.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This course is intended to expose you to PowerPivot Data Analytic Expressions (DAX) concepts such as the Data Model and evaluation context, DAX functions, operators, and constants. This release adds a module on the Data Model, an introduction to patterns, and has lab versions for both Excel 2010 and 2013.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with Excel and Microsoft SQL query writing is helpful.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+
+  After completing this module, students will be able to&#58;
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Exploring Data Modeling
+  In this module, we will explore the differences between versions of Excel, examine how to activate the PowerPivot for Excel Add-in, explain the PowerPivot Data Model, and cover relationships.
+  #### Lessons
+  - Differences Between Excel 2010 & 2013
+  - PowerPivot for Excel Add-In
+  - PowerPivot Data Model
+  - VLOOKUP vs Relationships
+  - Relationships
+
+
+  #### Lab &#58; Exploring Data Modeling
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the differences between Excel 2010 & 2013.
+  - Understand and activate the PowerPivot for Excel Add-in.
+  - Understand the PowerPivot Data Model.
+  - Understand VLOOKUP vs relationships.
+  - Understand relationships.
+
+
+  ### Module 3&#58; Introduction to DAX
+  In this module we will introduce DAX and explain the syntax. We will then explore the different parts that make up a DAX formula, demonstrate how they work, and cover errors that you may encounter along the way. This module aims to get you started with the basics.
+  #### Lessons
+  - Introduction to DAX
+  - Explaining Syntax
+  - Exploring Data Types
+  - Utilizing Operators
+  - Understanding Values
+  - Handling Errors
+
+
+  #### Lab &#58; Introduction to DAX
+
+  After completing this module, students will be able to&#58;
+  - Explain and utilize DAX syntax.
+  - Explain and utilize DAX data types and operator overloading.
+  - Explain and utilize DAX operators.
+  - Explain and utilize DAX values.
+  - Explain error handling.
+
+
+  ### Module 4&#58; Using DAX Functions
+  In this module we will cover DAX functions and their abilities. We will demonstrate their capabilities as well as show you how to utilize them.
+  #### Lessons
+  - Mathematical Functions
+  - Statistical Functions
+  - Logical Functions
+  - Information Functions
+  - Text Functions
+  - Conversion Functions
+  - Aggregation Functions
+  - Relational Functions
+
+
+  #### Lab &#58; Using DAX Functions
+
+  After completing this module, students will be able to&#58;
+
+  - Explain and utilize mathematical functions.
+  - Explain statistical functions.
+  - Explain and utilize logical functions.
+  - Explain information functions.
+  - Explain text functions.
+  - Explain and utilize conversion functions.
+  - Explain and utilize aggregation functions.
+  - Explain and utilize relational functions.
+
+
+  ### Module 5&#58; Understanding Evaluation Contexts
+  This module aims to clarify more advanced DAX concepts, which require an understanding of evaluation contexts.
+  #### Lessons
+  - The CALCULATE Function
+  - Filter Functions
+  - Single Table Evaluation Context
+  - Multiple Table Evaluation Context
+
+
+  #### Lab &#58; Understanding Evaluation Contexts
+
+  After completing this module, students will be able to&#58;
+
+  - Explain and utilize the CALCULATE function.
+  - Explain and utilize filter functions.
+  - Explain and utilize single table evaluation context.
+  - Explain and utilize multiple table evaluation context.
+  - Create and configure calculated fields.
+  - Create and configure calculated columns.
+
+
+  ### Module 6&#58; Working with Dates
+  In this module we will explore how to work with dates and utilize Time Intelligence.
+  #### Lessons
+  - Date Functions
+  - Working with Calendars
+  - Using Multiple Calendars
+
+
+  #### Lab &#58; Working with Dates
+
+  After completing this module, students will be able to&#58;
+
+  - Explain and utilize date functions.
+  - Explain working with calendars.
+  - Explain using multiple calendars.
+  - Create and configure date calculations.
+
+
+  ### Module 7&#58; Utilizing Advanced DAX Functionality
+  In this module we will cover many-to-many relationships and demonstrate their use along with exploring banding and DAX query capabilities.
+  #### Lessons
+  - Many-to-Many Relationships
+  - Banding
+  - Evaluate
+  - Simplifying Your Life with DAX Studio
+
+
+  #### Lab &#58; Utilizing Advanced DAX Functionality
+
+  After completing this module, students will be able to&#58;
+
+  - Explain many-to-many relationships.
+  - Explain banding.
+  - Explain EVALUATE.
+  - Explain and utilize advanced DAX capabilities.
+  - Explain the benefits of DAX Studio.
+
+
+  ### Module 8&#58; Examining Patterns
+  In this module, we have attempted to go into a more in-depth explanation of how the code works.
+  #### Lessons
+  - Walkthrough a Basic Pattern
+
+
+  #### Lab &#58; Examining Patterns
+
+  After completing this module, students will be able to&#58;
+  - Explain and utilize patterns.
+
+  #### Additional Reading
+  None

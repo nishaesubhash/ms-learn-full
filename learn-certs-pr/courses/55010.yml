@@ -1,0 +1,253 @@
+### YamlMime:Course
+title: SharePoint Designer 2010 - Customizing and Branding SharePoint 2010
+metadata:
+  title: 'Course 55010-A: SharePoint Designer 2010 - Customizing and Branding SharePoint 2010'
+  description: 'Course 55010-A: SharePoint Designer 2010 - Customizing and Branding SharePoint 2010'
+uid: course.55010
+courseNumber: '55010-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Choose the best tool to use for each type of customization (Designer? The Browser? InfoPath, Visual Studio?)
+- skill: Use SharePoint Designer for site administration
+- skill: Understand how HTML, CSS and JavaScript are used to deliver the SharePoint user interface
+- skill: Know when to edit a web part, a page or a master page
+- skill: Get started with branding a site
+- skill: Use the Data View Web Part to create custom views and reports
+- skill: Use the Content Editor Web Part to display formatted text and apply CSS and JavaScript to a page
+- skill: Work with external data (Data View Web Part, RSS feeds, data from other SharePoint sites, BCS, External Lists)
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This three-day instructor-led course provides students with the knowledge and skills to quickly make a SharePoint site your SharePoint Site. While focused on SharePoint Designer, this class covers the SharePoint customization, in particular, customization that can be done without custom code or SharePoint server access. This includes browser based customization, SharePoint Designer customization, InfoPath form customization and the Data View and Content Editor web parts. Topics include how to customize navigation, themes, and master pages and how to get a start on branding. Also covered are how do customize the display of lists and libraries and how to connect data external to your site. Note&#58; This class does not cover workflows.
+
+  #### Audience profile
+  This course is intended for Site Owners and administrators who need to know how to use SharePoint Designer 2010 to customize SharePoint 2010 and SharePoint Online/Office 365 sites. This class is also for the graphics designer who needs to know the right ways to change SharePoint without breaking SharePoint. And, this class is for developers who don’t want to “reinvent the wheel” and need to know when SharePoint Designer should be used and when Visual Studio should be used. This class is an excellent prerequisite for formal branding classes.
+prerequisitesSection: |-
+  Before attending this course, students must&#58;
+  - Have a strong background in SharePoint 2010 as both an end user and as a Site Owner or Site Collection Administrator
+  - Know how to create subsites, create custom lists, add custom columns and create views
+  - Have basic skills in HTML and CSS
+  - A basic knowledge of JavaScript is helpful
+outlineSection: |-
+  ### Module 1&#58; SharePoint Customization
+  This module provides an introduction to the topics covered in the class, defines the roles of customizers, defines the terminology used in the class and introduces the customization tools.
+  #### Lessons
+  - Who is this class for?
+  - Why Do You Customize?
+  - Customization Options
+  - Who Customizes?
+  - What about your SharePoint Governance Plan?
+  - SharePoint Customization Tools
+  - SharePoint Architecture
+
+
+  #### Lab &#58; Create the lab subsite
+
+  ### Module 2&#58; A Review of Browser Based Customization
+  This module explains how use the browser based customization features and how to not “reinvent the wheel”.
+  #### Lessons
+  - Browser Based Customization - Look and Feel
+  - Title, Description and Icon
+  - Site Theme
+  - Navigation
+  - Top Link Bar and Quick Launch Navigation
+  - Links lists and other site navigation
+  - The Content Editor Web Part
+
+
+  #### Lab &#58; Browser Based Customization
+
+  After completing this module, students will be able to&#58;
+  - Perform common browser based site customizations.
+
+
+  ### Module 3&#58; SharePoint Designer Overview
+  This module introduces SharePoint Designer 2010 and explores its integration with SharePoint.
+  #### Lessons
+  - Overview
+  - Launching SharePoint Designer
+  - Opening a Site from Site Actions or the Ribbon
+  - Opening a Site from the Windows Start Button
+  - Connecting to Remote Sites and Office 365
+  - Possible Connection Errors
+  - SharePoint Designer Navigation
+  - Quick Access Toolbar
+  - SharePoint Components and Structure
+  - Rolling Back Changes
+  - Keeping in Sync While Working in Both Designer and the Browser
+
+
+  #### Lab &#58; Exploring SharePoint Designer
+
+  After completing this module, students will be able to&#58;
+  - Launch SharePoint from Windows or a SharePoint Site.
+  - Configure SharePoint Designer Options.
+  - Navigate site content.
+  - Edit a SharePoint page.
+
+
+  ### Module 4&#58; SharePoint Administration
+  This module reviews the site administration features of SharePoint Designer. SharePoint Designer has become more than a page editor. Today you can do almost all of the site administration normally done in the browser from within SharePoint Designer.
+  #### Lessons
+  - Creating lists and libraries and updating their settings
+  - Uploading, managing and deleting library files and folders
+  - Creation and Maintenance of subsites
+
+
+  #### Lab &#58; Working with Lists and Libraries
+
+  After completing this module, students will be able to use SharePoint Designer to&#58;
+  - Create new lists and libraries.
+  - Work with list and library properties.
+  - Work with library content.
+  - Work with Content Types and Site Columns.
+  - Create subsites.
+
+
+  ### Module 5&#58; How SharePoint uses HTML, CSS and JavaScript
+  This module explains how SharePoint is built from HTML, CSS and JavaScript and how pages are built using Master Pages, content pages, ASP controls and SharePoint Controls. This module also introduces CSS and JavaScript customizations.
+  #### Lessons
+  - How HTML is used in SharePoint
+  - Master Pages vs. Content Pages
+  - HTML vs. SharePoint and ASP.Net Controls
+  - How JavaScript is used in SharePoint
+  - SharePoint's JavaScript Libraries
+  - Adding Your Own Custom JavaScript
+  - How CSS is used in SharePoint
+  - Where to Store Your Custom CSS File
+  - Exploring SharePoint CSS
+  - Tools to Explore HTML and CSS
+  - Examples of using CSS
+
+
+  #### Lab &#58; HTML, CSS and JavaScript
+
+  After completing this module, students will be able to&#58;
+  - Explore and edit HTML using SharePoint Designer.
+
+
+  ### Module 6&#58; How SharePoint Uses ASP.NET and SharePoint Controls
+  This module explains how SharePoint uses ASP and SharePoint controls to build navigation and general SharePoint Content.
+  #### Lessons
+  - HTML Controls
+  - ASP.NET Controls
+  - SharePoint Controls
+
+
+  #### Lab &#58; Using ASP.NET and SharePoint Controls
+
+  After completing this module, students will be able to&#58;
+  - Add and configure common HTML controls.
+  - Add and configure supported ASP.Net controls.
+  - Add and configure SharePoint controls.
+
+
+  ### Module 7&#58; Creating and Customizing Pages
+  This module explores how to create and use Wiki pages, Web Part pages and Publishing pages.
+  #### Lessons
+  - SharePoint Pages
+  - The Home Page
+  - Securing Pages
+  - Creating SharePoint Wiki Pages
+  - Creating SharePoint Web Part Pages
+  - Creating SharePoint Publishing Pages
+
+
+  #### Lab &#58; Creating and Using SharePoint Pages
+
+  After completing this module, students will be able to&#58;
+  - Create SharePoint Wiki Pages.
+  - Create SharePoint Web Part Pages.
+  - Create SharePoint Publishing Pages.
+
+
+  ### Module 8&#58; Content Editor Web Part
+  This module explains how to using the Content Editor Web Part to display text and to embed HTML, CSS and JavaScript.
+  #### Lessons
+  - The Content Editor Web Part
+  - Using a Content Editor Web Part for Formatted Text
+  - Reusing a Content Editor Web Part
+  - Using a Content Editor Web Part for HTML, CSS and JavaScript
+
+
+  #### Lab &#58; The Content Editor Web Part
+
+  After completing this module, students will be able to&#58;
+  - Create, use and reuse a Content Editor Web Part to display text and to embed HTML, CSS and JavaScript.
+
+
+  ### Module 9&#58; Customizing SharePoint Navigation
+  This module explains how to customize SharePoint navigation, including Quick Launch and Tree View tricks.
+  #### Lessons
+  - Navigation in SharePoint
+  - Hide Content Based on User Permissions
+  - The Quick Launch Area
+  - Quick Launch Customization&#58; Creating “Flyout” menus; Styling Quick Launch
+  - Tree View Customization&#58; Control what is displayed in the Tree View; Change the Site Content Link; Styling the Tree View; And more…
+  - Creating a Static Menu That Looks Like a SharePoint Menu
+
+
+  #### Lab &#58; Customizing SharePoint Navigation
+
+  After completing this module, students will be able to&#58;
+  - Customize the display of Quick Launch.
+  - Control what is displayed in a Tree View.
+
+
+  ### Module 10&#58; SharePoint Master Pages and an Introduction to Branding
+  This module explores the use of master pages in SharePoint sites and explains how to customize and create new master pages.
+  #### Lessons
+  - Master Pages in SharePoint
+  - Master Pages vs. Themes
+  - Out of the Box Master Pages
+  - Uploading and Using Master Pages
+  - Master Page Placeholders
+  - Starter Master Pages
+  - What is Branding?
+  - Creating a New Master Page from a Starter Master Page
+
+
+  #### Lab &#58; Master Pages
+
+  After completing this module, students will be able to&#58;
+  - Select and apply a master page.
+  - Upload master pages.
+  - Create new master pages.
+
+
+  ### Module 11&#58; Data View Web Part - Creating Custom Views
+  This module explains how to use SharePoint Designer Data View Web Parts to create views and reports of SharePoint data beyond what is possible with out of the box views.
+  #### Lessons
+  - Data View Web Parts
+  - Moving Beyond Basic List Views
+  - Editing Data View Web Part XSLT
+
+
+  #### Lab &#58; Data View Web Part Custom Views
+
+  After completing this module, students will be able to&#58;
+  - Use Data View Web Parts to create custom views of SharePoint lists.
+
+
+  ### Module 12&#58; Working with External Data
+  This module explains how to create Data View Web Parts to access data external to a SharePoint Site.
+  #### Lessons
+  - Accessing External Data
+  - SharePoint Designer Data Sources
+  - Connecting to Lists in Another Site
+  - Creating a Data View for a Custom External RSS Feed
+  - Displaying Data from an XML File
+
+
+  #### Lab &#58; Creating Data View Web Parts
+
+  After completing this module, students will be able to&#58;
+  - Display data external to a SharePoint site by using a Data View Web Part.

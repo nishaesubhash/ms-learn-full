@@ -1,0 +1,105 @@
+### YamlMime:Course
+title: Infusing Magnificent Multimedia (Microsoft PowerPoint 2007 & 2010)
+metadata:
+  title: 'Course 50479-B: Infusing Magnificent Multimedia (Microsoft PowerPoint 2007 & 2010)'
+  description: 'Course 50479-B: Infusing Magnificent Multimedia (Microsoft PowerPoint 2007 & 2010)'
+uid: course.50479
+courseNumber: '50479-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Insert sound into presentation
+- skill: Insert movie clips into presentation
+- skill: Set option for the media clip
+- skill: Setting animation options for the media clip
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-powerpoint
+summary: |-
+  This one-day course empowers information workers the knowledge and skills to incorporate multimedia elements into Microsoft PowerPoint presentations. Participants will be able to play sounds in a presentation, make the sound play when they want, for as long as they want. Participants will also learn how to make a sound repeat, get tips on hiding the sound icon on a slide during the slide show. In this course, participant will also work with movie files and learn how to insert them, play them, and set other options for them.
+
+  #### Audience profile
+  This course is intended for Information workers who have an understanding of Microsoft Office PowerPoint 2003/2007/2010.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - This course assumes that students have some familiarity with PowerPoint.
+outlineSection: |-
+  ### Module 1&#58; Play a Sound
+  #### Lessons
+  - Inserting the sound
+  - Starting the sound
+  - Continuing the sound
+  - More sound options
+
+
+  #### Lab &#58; Play a Sound
+
+  After completing this module, students will be able to&#58;
+  - Insert and set sound options.
+
+
+  ### Module 2&#58; Play Music From CD (Not available for Microsoft PowerPoint 2010)
+  This module explains how to insert sound from a CD audio track.
+  #### Lessons
+  - Insert music from CD
+
+
+  #### Lab &#58; Play music from CD
+
+  After completing this module, students will be able to&#58;
+  - Insert track from a CD
+
+
+  ### Module 3&#58; Play a Movie
+  This module introduces the concept of how to insert a movie in the presentations.
+  #### Lessons
+  - Insert a movie
+  - Decide how to start it
+  - Create a delay; extend play
+  - Go full screen
+
+
+  #### Lab &#58; Play a Movie
+
+  After completing this module, students will be able to&#58;
+  - Insert a movie in a presentation
+  - Set play options for movie
+
+
+  ### Module 4&#58; Create “Play” buttons
+  This module explains how to use the Play, Pause, and Stop movie effects, which are available for them to apply.
+  #### Lessons
+  - Movie effects
+  - Create buttons
+  - Set up the buttons as triggers
+
+
+  #### Lab &#58; Create “Play” buttons
+
+  After completing this module, students will be able to&#58;
+  - Use the triggers options.
+
+
+  ### Module 5&#58; Adding Special Effects
+  This module explains how to add animated gif, effects to text, object and charts.
+  #### Lessons
+  - Applying an Animation
+  - Animating Text and Objects
+  - Setting Animation Timing
+  - Animating a Chart
+  - Inserting Sounds and Video
+  - Changing Multimedia Settings
+  - Inserting Animated GIF's
+
+
+  #### Lab &#58; Adding Special Effects
+
+  After completing this module, students will be able to&#58;
+  - Insert animated gif to presentations
+  - Apply animation to text, objects, charts

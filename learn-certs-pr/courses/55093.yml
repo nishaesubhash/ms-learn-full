@@ -1,0 +1,172 @@
+### YamlMime:Course
+title: Windows Azure Data Services (basics)
+metadata:
+  title: 'Course 55093-A: Windows Azure Data Services (basics)'
+  description: 'Course 55093-A: Windows Azure Data Services (basics)'
+uid: course.55093
+courseNumber: '55093-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Handle programmatically secured massive storage for structured and unstructured data.
+- skill: Code a PaaS communication pipeline.
+- skill: Converse programmatic a non-Azure Application to use cloud and on premise storage.
+- skill: Create Programmatic Message storage and structured data retrieval from non-SQL mass data storage to Web Tier.
+- skill: Create Content type coding for metadata contingent blob storage access VI. Retrieving Blob Data from Storage.
+- skill: Establish programmatic metadata enrichments for Blobs (basics).
+- skill: Introduce Metadata contingent Blob handling.
+- skill: Establish Programmatic Blob delete.
+- skill: Establish Programmatic Blob copy.
+- skill: Establish Programmatic safeguarding of Blobs from deleting.
+- skill: Establish Programmatic message handling from Web app to log emulator via Windows Azure Queues (basics).
+- skill: Create the Initial Solution.
+- skill: Code a PaaS communication pipeline.
+- skill: Retrieving Messages from the Queue.
+- skill: Establish a programmatic exposure of regular file system APIs as an Azure service (no-code integration for non-Azure apps).
+- skill: Create programmatic conversion of a non-Azure Application to use cloud and on premise storage.
+- skill: Move complex applications to the cloud without changes to its code via dynamic store relocator.
+- skill: Programmatically implement and deploy a corporate private Cloud App Drive.
+- skill: Create and configure a VM.
+- skill: Modify a given PaaS application.
+- skill: Establish bridge communication to an IaaS application.
+- skill: Understand deployment scenarios for PaaS/IaaS application referenced as Cloud App in Windows Azure.
+- skill: Connect a sample Web application with the SQL Server using a public endpoint.
+- skill: Deploy a sample Web application to a Cloud App in Windows Azure.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+summary: |-
+  This three day course introduces into Windows Azure Storage consisting of features like tables, blobs, queues and drives and how these features can be used in combination between IaaS and PaaS as well as on-premise components and how Azure Storage can be combined with classic SQL concepts. New no-sql storage mechanisms substitute relational database engines, ‘old’ terms like database and foreign keys are substituted with new paradigm changing concepts like collections of entities, primary keys providing data flow controls through datacenter, key/value pair constructs for metadata based mass structured data access, and binary data stores via Blob services. High performance, secure and reliable message handling for string, xml or binary content via Azure and Windows Azure Drives that allow you to read and write data to blob storage using standard file system functions will be explored from a developer, ITPro and end-user perspective.
+
+  #### Audience profile
+  This course is intended for IT Professional (IT Pros), Developers and Architects.  
+  
+  IT Professional (IT Pros) who also create software applications, build or write computer code or develop Web sites or complex macros as a secondary responsibility and Developers who create software applications, develop web sites, create complex macros. Both should have a minimum of three months programming experience in C# and have basic Visual Studio 2010 or Visual Studio 2012 or Visual Studio 2013 navigation skills and Architects tasked with transitioning of on-Premise Data to Microsoft Azure Cloud or tasked to build Hybrid solution defined as continuous data pipe between on-premise and Cloud.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  Knowledge and skills to accomplish a given assignment in Visual Studio when using the General Development Settings collection in Visual Studio 2010 or Visual Studio 2012 or Visual Studio 2013.
+outlineSection: |-
+  ### Module 1&#58; Massive Storage handling for structured data (basic procedures)
+  This module explains how to programmatically establish a high performance, secure and reliable Windows Azure Data Services usage scenario consisting of features like tables, blobs, queues and drives.
+  #### Lessons
+  - Define the Windows Azure storage and the benefits this service provides
+  - Understand a Windows Azure storage account
+  - Apply security principles
+
+
+  #### Lab &#58; PaaS WebRole Development for Massive Storage handling (Basic Procedures)
+
+  #### Lab &#58; Storage Emulator coding via WCF Data Services
+
+  #### Lab &#58; Programmatic Message storage and structured data retrieval from non-sql mass data storage to Web Tier
+
+  After completing this module, students will be able to&#58;
+
+  - Handle Massive Storage for structured data (basic procedures)
+  - Develop PaaS WebRoles for Massive Storage handling (Basic Procedures)
+  - Code Storage Emulator coding via WCF Data Services including creation and reading of metadata
+  - Code Message Storage and structured data retrieval from non-sql mass data storage to Web Tier
+
+
+  ### Module 2&#58; Content type coding for metadata contingent blob storage access
+  This module explains how to use a web page as presentation layer referenced to as “image gallery” to visualize Windows Azure storage retrieval.
+  #### Lessons
+  - REST API for the Blob service exposed
+  - Hierarchical namespace transitions into a file system
+  - Blob services definitions
+  - Blob types
+  - Immediate and delayed Blob operations
+  - Ad-hoc and Policy based access to Blobs
+
+
+  #### Lab &#58; Retrieving Blob Data from Storage
+
+  #### Lab &#58; Programmatic metadata enrichments for Blobs (basics)
+
+  #### Lab &#58; Metadata contingent Blob handling
+
+  #### Lab &#58; Programmatic Blob delete
+
+  #### Lab &#58; Programmatic Blob copy
+
+  #### Lab &#58; Programmatic safeguarding of Blobs from deleting
+
+  After completing this module, students will be able to&#58;
+
+  - Code Content Type for metadata contingent blob storage access
+  - Retrieve Blob Data from Storage
+  - Programmatically enrich metadata Blobs (basics)
+  - Establish Metadata contingent Blob handling
+  - Programmatically delete Blob delete
+  - Programmatically copy Blobs
+  - Programmatically safeguard Blobs from deleting
+
+
+  ### Module 3&#58; Programmatic message handling from Web app to log emulator via Windows Azure Queues (basics)
+  This module explains how to create and configure the initial solution to work with queues in Windows Azure.
+  #### Lessons
+  - Queue Name scope
+  - Usage scenario for blob vs. queue
+  - Queue integration patterns
+
+
+  #### Lab &#58; Creating the Initial Solution
+
+  #### Lab &#58; Coding a PaaS communication pipeline
+
+  #### Lab &#58; Retrieving Messages from the Queue
+
+  ### Module 4&#58; Programmatic exposure of regular file system APIs as an Azure service (no-code integration for non-Azure apps)
+  This module explains how to build a bridge connectivity between a PaaS Web Application and an IaaS Host services application located on an IaaS VM, via public and private endpoint mechanisms.
+  #### Lessons
+  - Differences and commonalities for the three established industry terms for cloud services
+  - Set of features of Virtual Machines
+  - Virtual Machine Portability to other cloud provider
+  - Mounting of durable drives
+
+
+  #### Lab &#58; Programmatic conversion of a non-Azure Application to use cloud and on premise storage
+
+  #### Lab &#58; Moving complex applications to the cloud without changes to its code via dynamic store relocator
+
+  #### Lab &#58; Programmatically implement and deploy a corporate private Cloud App Drive
+
+  After completing this module, students will be able to&#58;
+
+  - Programmatically convert a non-Azure Application to use cloud and on premise storage
+  - Programmatically expose regular file system APIs as an Azure service (no-code integration for non-Azure apps)
+  - Move complex applications to the cloud without changes to its code via dynamic store relocator
+  - Programmatically implement and deploy a corporate private Cloud App Drive
+
+
+  ### Module 5&#58; Data Exchange between IaaS and PaaS
+  This module explains how to build a bridge connectivity between a PaaS Web Application and an IaaS Host services application located on an IaaS VM, via public and private endpoint mechanisms.
+  #### Lessons
+  - Differences and commonalities for the three established industry terms for cloud services
+  - Set of features of Virtual Machines
+  - Virtual Machine Portability to other cloud provider
+  - Mounting of durable drives
+
+
+  #### Lab &#58; Build an IaaS application via WAMP
+
+  #### Lab &#58; IaaS application (Microsoft SQL Server 2012 SP1 Standard on Windows Server 2012) configuration
+
+  #### Lab &#58; Download and install sample database to prep for PaaS app connection
+
+  #### Lab &#58; PaaS Application to IaaS connectivity in the Cloud
+
+  #### Lab &#58; Cloud TDD for rapid PaaS – IaaS data exchange
+
+  After completing this module, students will be able to&#58;
+
+  - Create and configure a VM
+  - Modify a given PaaS application
+  - Establish bridge communication to an IaaS application
+  - Understand deployment scenarios for PaaS/IaaS application referenced as Cloud App in Windows Azure
+  - Connect a sample PaaS Web application with classic SQL Server utilizing endpoints
+  - Deploy a sample Web application as a Cloud App in Windows Azure

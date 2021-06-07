@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: Useful Formulas & Functions (Microsoft Excel 2007 & 2010)
+metadata:
+  title: 'Course 50449-B: Useful Formulas & Functions (Microsoft Excel 2007 & 2010)'
+  description: 'Course 50449-B: Useful Formulas & Functions (Microsoft Excel 2007 & 2010)'
+uid: course.50449
+courseNumber: '50449-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Apply Formula and Functions Basic
+- skill: Statistical and Logical Functions
+- skill: Lookup and Reference Formulas
+- skill: Text Formulas
+- skill: Date and Time Formulas
+- skill: Array and Database Functions
+- skill: Efficiency Tips
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This 1 day course provides students with the knowledge and skills to the usage of useful formulas and functions in Microsoft Excel 2007 and Microsoft Excel 2010.
+
+  #### Audience profile
+  This course is intended for users of Microsoft Office Excel who want to learn about useful formulas and functions.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A basic working knowledge of Microsoft Office Excel
+outlineSection: |-
+  ### Module 1&#58; Making Data Work For You
+  This module explains how to understand and apply Excel basic formulas and functions.
+  #### Lessons
+  - Formula basics
+  - Using cell references
+  - Copy formula without changing cell reference
+  - Transpose formula
+  - Using nested functions
+
+  After completing this module, students will be able to&#58;
+  - Understand and apply formula basics
+  - Use cell references
+  - Copy formula without changing cell reference
+  - Transpose formula using paste special
+  - Use nested functions
+
+
+  ### Module 2&#58; Statistical and Logical Functions
+  This module explains how to use logical functions including CountIf, Sumif, If, IsError.
+  #### Lessons
+  - Perform calculation using CountIF
+  - Perform calculation using SumIF
+  - Perform calculation using AverageA
+  - Using IF function to prevent division by zero
+  - Using IsError function to avoid error display
+  - Creating multiple conditions using nested IF
+  - Using logical function OR, And
+
+  After completing this module, students will be able to&#58;
+  - Perform calculation using CountIf, SumIf, AverageA
+  - Use If function to prevent division by zero
+  - Use IsError function to avoid error display
+  - Create multiple conditions using nested IF
+  - Use logical function OR, AND
+
+
+  ### Module 3&#58; Lookup and Reference Formulas
+  This module explains how to apply and use lookup formulas including vlookup, hlookup, match and index.
+  #### Lessons
+  - Use Vlookup to find specific data
+  - Use Hlookup to find values in rows
+  - Use Match and Index to retrieve data
+
+  After completing this module, students will be able to&#58;
+  - Use Vlookup to find specific data
+  - Use Hlookup to find values in rows
+  - Use Match and Index to retrieve data
+
+
+  ### Module 4&#58; Text Formulas
+  This module explains how to apply Text formula to help change casing of text, append text and numerical value in excel spreadsheet.
+  #### Lessons
+  - Changing case of text
+  - Append text and numerical value
+  - Convert imported text format into numbers
+  - Break imported date field into individual columns
+
+  After completing this module, students will be able to&#58;
+  - Change case of text using Upper, Lower or Proper formula
+  - Append text and numerical value
+  - Convert imported text format into numbers
+  - Break imported date field into individual columns
+
+
+  ### Module 5&#58; Date and Time Formulas
+  This module explains how to make use of calculate the difference of two given Date fields and to perform calculation with Time fields.
+  #### Lessons
+  - Perform addition to Date fields
+  - Calculate difference between two Dates
+  - Perform calculations with Time fields
+
+  After completing this module, students will be able to&#58;
+  - Perform addition and calculate difference between two dates
+  - Perform calculations with Time fields
+
+
+  ### Module 6&#58; Array and Database Functions
+  This module explains how to apply and use advance formula including Array, Frequency and Database functions.
+  #### Lessons
+  - Using Array Formulas
+  - Calculate the difference between Maximum and Minimum values
+  - Using Frequency function to Count responses
+  - Using Database functions DSum and DCount
+
+  After completing this module, students will be able to&#58;
+  - Use Array Formulas
+  - Calculate the difference between Maximum and Minimum values in an Array
+  - Use Frequency function to Count responses in tabulated data
+  - Use Database functions DSum and DCount
+
+
+  ### Module 7&#58; Efficiency Tips
+  This module discusses some useful Excel Tips including application of Data Validations and Auditing Tools.
+  #### Lessons
+  - Shortening worksheets names
+  - Protecting cells containing formulas
+  - Using Data Validation
+  - Displaying Formula syntax
+  - Using Auditing Tools for errors checking
+  - Tracing precedent and dependent
+  - Adding comments to worksheet
+
+  After completing this module, students will be able to&#58;
+  - Understand the advantages of shortening worksheet names
+  - Protect cells from amendments by others
+  - Use Data validation to improve data entries
+  - Use Auditing Tools for checking errors
+  - Add useful notes by commenting worksheet

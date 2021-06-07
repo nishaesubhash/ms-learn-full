@@ -1,0 +1,272 @@
+### YamlMime:Course
+title: Quick Microsoft SQL Server 2012-2014 Integration Services
+metadata:
+  title: 'Course 55120-A: Quick Microsoft SQL Server 2012-2014 Integration Services'
+  description: 'Course 55120-A: Quick Microsoft SQL Server 2012-2014 Integration Services'
+uid: course.55120
+courseNumber: '55120-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand packages.
+- skill: Manage with Control Flow.
+- skill: Move data with Data Flow.
+- skill: Understand variables.
+- skill: Understand parameters.
+- skill: Utilize the Import/Export Wizard.
+- skill: Work in the Explore window.
+- skill: Create SQL Server Integration Services packages.
+- skill: Utilize Connection Managers.
+- skill: Code the Script Task.
+- skill: Utilize Looping and Sequence Tasks.
+- skill: Utilize Data Preparation Tasks.
+- skill: Load data with the Analysis Services Tasks.
+- skill: Use the Workflow Tasks.
+- skill: Manage SQL with the SQL Tasks.
+- skill: Administration of SQL using the SQL Management Objects Tasks.
+- skill: Optimize sources for extraction.
+- skill: Use Destinations and understand choices.
+- skill: Examine the Transformation and other Tasks (about 25 of them).
+- skill: Create dynamic packages.
+- skill: Utilize SQL Server Integration Services data typing.
+- skill: Define and use variables and parameters.
+- skill: Use expressions in packages.
+- skill: Utilize sequences in a container.
+- skill: Utilize container loops.
+- skill: Perform joins with the Lookup Transformation.
+- skill: Perform joins with the Merge Transformation.
+- skill: Examine the SSIS engine.
+- skill: Use the best practices.
+- skill: 'Design to troubleshoot: using Precedence Constraints.'
+- skill: Work with advanced logging and reporting.
+- skill: Handle errors.
+- skill: Understand how to choose the Script Task or Script Component.
+- skill: Work with XML.
+- skill: 'Use package hierarchies: Parent Child.'
+- skill: Understand deployment strategies.
+- skill: Understand how to use what they’ve learned in real-world scenarios.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This two-day instructor-led course is intended for those that are new to SQL Server Integration Services or are interested in learning the features available. This course uses an instructor-led topic explanation, instructor performing detailed demonstrations, then the student performing exercises to duplicate what the instructor demonstrated. This style of training is a combination of traditional classroom training and mentored learning. Additionally, videos of the demonstrations performed by the course author are included with the course as a take-away. The course completes with additional scenario-based labs to reinforce the course content.
+
+  #### Audience profile
+  This course is intended for IT Professionals.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; SQL Server Integration Services Architecture
+  In this module we will explore architecture and version changes of SQL Server Integration Services. We’ll then cover the building blocks needed to understand packages and how they are created.
+  #### Lessons
+  - Version Changes of SSIS From 2008-2012
+  - The SQL Server Integration Service
+  - Understanding Packages
+  - Managing with Control Flow
+  - Moving Data with Data Flow
+  - Understanding Variables
+  - Understanding Parameters
+
+
+  #### Lab &#58; SQL Server Integration Services Architecture
+
+  After completing this module, students will be able to&#58;
+  - Understand packages.
+  - Manage with Control Flow.
+  - Move data with Data Flow.
+  - Understand variables.
+  - Understand parameters.
+
+
+  ### Module 3&#58; SQL Server Integration Services Tools
+  In this module we will learn about and utilize the tools available to assist with package creation.
+  #### Lessons
+  - Utilizing the Import/Export Wizard
+  - Working in the Explore Window
+  - Creating SQL Server Integration Services Packages
+  - Utilizing Connection Managers
+
+
+  #### Lab &#58; SQL Server Integration Services Tools
+
+  After completing this module, students will be able to&#58;
+  - Utilize the Import/Export Wizard.
+  - Work in the Explore window.
+  - Create SQL Server Integration Services packages.
+  - Utilize Connection Managers.
+
+
+  ### Module 4&#58; SQL Server Integration Services Tasks
+  SSIS tasks are the foundation of the Control Flow in SSIS. In this module we will walk through tasks and utilize them.
+  #### Lessons
+  - Coding the Script Task
+  - Looping and Sequence Tasks
+  - Utilizing Data Preparation Tasks
+  - Data Loading with the Analysis Services Tasks
+  - Using the Workflow Tasks
+  - Managing SQL with the SQL Tasks
+  - Administration of SQL Using the SQL Management Objects Tasks
+
+
+  #### Lab &#58; SQL Server Integration Services Tasks
+
+  After completing this module, students will be able to&#58;
+  - Code the Script Task.
+  - Utilize Looping and Sequence Tasks.
+  - Utilize Data Preparation Tasks.
+  - Load data with the Analysis Services Tasks.
+  - Use the Workflow Tasks.
+  - Manage SQL with the SQL Tasks.
+  - Administration of SQL using the SQL Management Objects Tasks.
+
+
+  ### Module 5&#58; Data Flow
+  The Data Flow Task is where the bulk of your data heavy lifting occurs in SSIS. In this module we’ll discuss methods for optimizing sources and explain destination options.
+  #### Lessons
+  - Optimizing Sources for Extraction
+  - Using Destinations and Understanding choices
+  - Examining the Transformation and Other Tasks (about 25 of them)
+
+
+  #### Lab &#58; Data Flow
+
+  After completing this module, students will be able to&#58;
+  - Optimize sources for extraction.
+  - Use Destinations and understand choices.
+  - Examine the Transformation and other Tasks (about 25 of them).
+
+
+  ### Module 6&#58; Variables, Parameters and Expressions
+  At one point or another, when utilizing SSIS packages, you will encounter the need for dynamic capabilities. This module aims to give you an understanding of how expressions work, and how variables and parameters set up expressions on your SSIS project.
+  #### Lessons
+  - Creating Dynamic Packages
+  - Utilizing SQL Server Integration Services Data Typing
+  - Define and Use Variables and Parameters
+  - Using Expressions in Packages
+
+
+  #### Lab &#58; Variables, Parameters and Expressions
+
+  After completing this module, students will be able to&#58;
+  - Create dynamic packages.
+  - Utilize SQL Server Integration Services data typing.
+  - Define and use variables and parameters.
+  - Use expressions in packages.
+
+
+  ### Module 7&#58; Containers
+  Containers are objects in SQL Server Integration Services that provide structure to packages and services to tasks. In this module we will explain how to create and configure containers, and utilize them effectively.
+  #### Lessons
+  - Overview of Containers
+  - Utilizing Sequences in a Container
+  - Utilizing Container Loops
+
+
+  #### Lab &#58; Containers
+
+  After completing this module, students will be able to&#58;
+  - Utilize sequences in a container.
+  - Utilize container loops.
+
+
+  ### Module 8&#58; Performing Joins
+  By using joins, you can retrieve data from two or more tables based on logical relationships between the tables. In this module we will explore joins and demonstrate how to use them.
+  #### Lessons
+  - Performing Joins with the Lookup Transformation
+  - Performing Joins with the Merge Transformation
+  - Utilizing Cache Modes in Joins
+
+
+  #### Lab &#58; Performing Joins
+
+  After completing this module, student will be able to&#58;
+  - Perform joins with the Lookup Transformation.
+  - Perform joins with the Merge Transformation.
+
+
+  ### Module 9&#58; Tuning SQL Server Integration Services Packages
+  Before putting your package into production, it is beneficial to take some time to review your package with an eye toward preventing, or at least mitigating, performance problems. In this module we will take a close look at how the SSIS engine works and cover best practices to ensure proper performance.
+  #### Lessons
+  - Examining the SSIS Engine
+  - Using the Best Practices
+
+
+  #### Lab &#58; Tuning SQL Server Integration Services Packages
+
+  After completing this module, students will be able to&#58;
+  - Examine the SSIS engine.
+  - Use the best practices.
+
+
+  ### Module 10&#58; Debugging SQL Server Integration Services Packages
+  This module describes procedures for debugging SSIS packages and follows with a section on error handling.
+  #### Lessons
+  - Designing to Troubleshoot&#58; Using Precedence Constraints
+  - Working with Advanced Logging and Reporting
+  - Handling Errors
+
+
+  #### Lab &#58; Debugging SQL Server Integration Services Packages
+
+  After completing this module, students will be able to&#58;
+  - Design to troubleshoot&#58; using Precedence Constraints.
+  - Work with advanced logging and reporting.
+  - Handle errors.
+
+
+  ### Module 11&#58; Common SQL Server Integration Services Design Patterns
+  Design patterns help to solve common problems encountered when developing data integration solutions. In this module we’ll discuss how to choose among certain options, and cover deployment strategies.
+  #### Lessons
+  - Choosing the Script Task or Script Component
+  - Working with XML
+  - Using Package Hierarchies&#58; Parent Child
+  - Understanding Deployment Strategies
+
+
+  #### Lab &#58; Common SQL Server Integration Services Design Patterns
+
+  After completing this module, students will be able to&#58;
+  - Understand how to choose the Script Task or Script Component.
+  - Work with XML.
+  - Use package hierarchies&#58; Parent Child.
+  - Understand deployment strategies.
+
+
+  ### Module 12&#58; Installing, Upgrading, and Migrating to Windows 7
+  This module includes concept reinforcement scenarios to encourage students to use what they’ve learned throughout this course. Scenario solutions are provided.
+  #### Lessons
+  - Scenario 1
+  - Scenario 2
+  - Scenario 3
+
+
+  #### Lab &#58; Concept Reinforcement Scenarios
+
+  After completing this module, students will be able to&#58;
+  - Understand how to use what they’ve learned in real-world scenarios.
+
+  #### Additional Reading
+  None

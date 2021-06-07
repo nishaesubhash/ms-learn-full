@@ -1,0 +1,163 @@
+### YamlMime:Course
+title: Intermediate Microsoft Word 2016
+metadata:
+  title: 'Course 55174-A: Intermediate Microsoft Word 2016'
+  description: 'Course 55174-A: Intermediate Microsoft Word 2016'
+uid: course.55174
+courseNumber: '55174-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to use Word 2016's advanced editing tools.
+- skill: Learn to work with images, including placing and sizing images, wrapping text around images, and using borders and effects.
+- skill: Learn to adjust page orientation and layout.
+- skill: Learn to work with columns.
+- skill: Learn to work with page and section breaks.
+- skill: Learn about document views, using the navigation pane, and viewing multiple windows.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-word
+summary: |-
+  Students in this Intermediate Word 2016 training class should already be able to create, edit, and print Word 2016 documents on Windows. In this Word 2016 class, students will learn advanced formatting, use Word 2016 drawing tools, create and manage tables, and work with column layouts.
+
+  #### Audience profile
+  This course is intended for students who have basic skills with Microsoft Word 2016 who want to learn intermediate-level skills or students who want to learn the topics covered in this course in the 2016 interface.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic Microsoft Word skills
+outlineSection: |-
+  ### Module 1&#58; Advanced Formatting
+  This module explains how to work with formatting features in Microsoft Word.
+
+
+  #### Lessons
+  - Shading and Borders
+  - Exercise&#58; Using Shading and Borders
+  - Setting Line and Paragraph Spacing
+  - Changing Styles
+  - Exercise&#58; Changing Styles
+  - Paragraph Marks and Other Formatting Symbols
+  - Exercise&#58; Using Formatting Symbols
+
+  After completing this module, students will be  able to&#58;
+  - Use shading and borders to enhance your document.
+  - To set line and paragraph spacing.
+  - Format your document using styles.
+  - Show, hide, and use formatting symbols.
+
+
+  ### Module 2&#58; Working with Tables
+  This module explains how to work with tables.
+  #### Lessons
+  - Inserting a Table.
+  - Exercise&#58; Insert a Table.
+  - Table Styles
+  - Exercise&#58; Adding Styles to a Table
+  - Formatting a Table
+  - Exercise&#58; Formatting a Table
+
+  After completing this module, students will be able to&#58;
+  - Insert a table into a document.
+  - Format a table using styles.
+  - Format data within a table.
+
+
+  ### Module 3&#58; Working with Images
+  This module explains how work with images in Microsoft Word.
+  #### Lessons
+  - Inserting Images
+  - Exercise&#58; Insert an Image into a Microsoft Word Document
+  - Placing and Sizing Images
+  - Exercise&#58; Place and Size an Image in a Microsoft Word Document
+  - Wrapping Text around an Image
+  - Exercise&#58; Wrapping Test around an Image
+  - Adjusting Images
+  - Exercise&#58; Adjusting Images in Microsoft Word
+  - Borders and Effects
+  - Exercise&#58; Adding Borders and Effects to Images in Microsoft Word
+
+  After completing this module, students will be able to&#58;
+  - Insert images into a Microsoft Word document.
+  - Place and size images in a Microsoft Word document.
+  - Wrap text around images.
+  - Adjust the look and feel of images.
+  - Add borders and effects to images.
+
+
+  ### Module 4&#58; Page Layout
+  This module explains how to work with page layout options in Microsoft Word.
+  #### Lessons
+  - Orientation and Paper Size
+  - Working with Columns
+  - Exercise&#58; Changing the Page Setup
+  - Advanced Formatting
+  - Working with Fields
+  - Page and Section Breaks
+  - Exercise&#58; Adding Page and Section Breaks
+
+  After completing this module, students will be able to&#58;
+  - Set the page orientation as portrait or landscape.
+  - Set the print size of the paper.
+  - Split your text into multiple columns.
+  - Add page breaks.
+  - Add section breaks.
+
+
+  ### Module 5&#58; Working with Illustrations
+  This module explains how to work with illustrations in Microsoft Word.
+  #### Lessons
+  - Adding and Editing Charts
+  - Exercise&#58; Working with Charts
+  -	Working with Clip Art
+  -	Exercise&#58; Working with Clip Art
+  -	Using Shapes
+  - Exercise&#58; Adding Shapes
+  - Working with SmartArt
+  -	Exercise&#58; Working with SmartArt
+  -	Creating Captions
+  -	Using Building Blocks
+  - Exercise&#58; Inserting a Building Block in Your Document
+
+  After completing this module, students will be able to&#58;
+  - Insert charts into Microsoft Word documents.
+  - Edit charts in Microsoft Word documents.
+  - Use clip art to illustrate your documents.
+  - Insert shapes into Microsoft Word documents.
+  - Use SmartArt to illustrate your documents.
+  - Use Captions.
+  - Use Word Building Blocks.
+
+
+  ### Module 6&#58; Viewing Your Documents
+  This module explains how to use various features to view your documents in Microsoft Word.
+  #### Lessons
+  - Document Views
+  - Using the Navigation Pane
+  - Multiple Windows
+  - Exercise&#58; Working with Multiple Windows
+
+  After completing this module, students will be able to&#58;
+  - Show and hide the navigation pane.
+  - Use the Navigation pane to quickly get to different sections of documents.
+  - Use the Navigation panel to reorganize documents.
+  - Use the Navigation pane to search within your document.
+  - Use multiple windows to view different parts of one document at the same time.
+  - Use multiple windows to view multiple documents at the same time.
+
+
+  ### Module 7&#58; New Features Since 2013
+  This module explains how to edit PDFs and use live layout and alignment guides, two features new since 2013.
+  #### Lessons
+  - Editing PDF Documents in Microsoft Word
+  - Exercise&#58; Editing a PDF in Word
+  - Using Live Layout and Alignment Guides
+
+  After completing this module, students will be able to&#58;
+  - Edit PDF documents in Microsoft Word.
+  - Use live layout and alignment guides.

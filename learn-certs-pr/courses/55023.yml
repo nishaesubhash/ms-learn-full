@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Microsoft System Center Orchestrator 2012 for Runbook Authors
+metadata:
+  title: 'Course 55023-A: Microsoft System Center Orchestrator 2012 for Runbook Authors'
+  description: 'Course 55023-A: Microsoft System Center Orchestrator 2012 for Runbook Authors'
+uid: course.55023
+courseNumber: '55023-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain the structure and function of the components of Orchestrator architecture
+- skill: Define key Orchestrator concepts and terminology
+- skill: List and describe the structure and function of the Runbook Designer, Runbook Tester, Orchestration Console and Deployment Manager and use them to design, test, manage and deploy Runbooks
+- skill: Understand basic Runbook Design constructs and begin to use them to create basic Runbooks in Runbook Designer
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This is a one or two-day instructor-led course that provides participants with knowledge and skills to begin to use System Center Orchestrator. The course focuses on use of Orchestrator after its installation. It also focuses on how IT processes can be automated using Orchestrator.
+  
+  There are two versions of this course&#58; one-day / 7 hours / 420 minutes without Hands-on Labs, and two-day / 14 hours / 840 minutes with Hands-on Labs. The Course Outline listed here is for the two-day, 14-hour course. The one-day, 7-hour course covers the same presentation material in the same order, condensed to one day as labs are not included.
+
+  #### Audience profile
+  This course is intended for Enterprise Systems Engineers, Administrators and System Integrators in the role of Runbook Authors tasked with automating IT processes using Microsoft® System Center Orchestrator 2012.
+prerequisitesSection: |-
+  Before attending this course, participants must have&#58;
+  - Experience performing IT activities including deployment, configuration, and troubleshooting Windows®-based computers as a Windows® Server Administrator
+  - Familiarity with basic programming constructs including data types, operators, variables, expressions, assignment, simple I/O, and conditional and iterative flow control structures / selection (if-then iteration; loops, for, while)
+  - Experience as a user of Active Directory
+  - Familiarity with System Center features and functionality
+
+  Recommended&#58;
+  It is recommended participants have achieved the following Microsoft certifications or possess equivalent knowledge
+  - MCTS&#58; System Center Operations Manager 2007, Configuring (Exam&#58; 70-400)
+  - MCTS&#58; Microsoft System Center Virtual Machine Manager 2008 Configuration (Exam&#58; 70-403)
+  - MCTS&#58; Windows Server Virtualization, Configuration (Exam&#58; 70-652)
+
+  An understanding of the System Center and Virtualization is desired, specifically&#58;
+  - Virtual Machine Manager 2012, Operations Manager 2007 R2, Service Manager 2012, Virtualization Technologies&#58; Hyper-V and Windows Server 2008 R2, Automated deployment of server technologies
+outlineSection: |-
+  ### Module 1&#58; Introduction to System Center Orchestrator 2012
+  This module provides an overview of System Center Orchestrator 2012 architecture.
+  #### Lessons
+  - System Center Orchestrator Architecture
+  - Orchestrator key Concepts and Terminology
+
+
+  After completing this module, students will be able to&#58;
+  - List the components of System Center Orchestrator 2012's architecture and describe their functionality
+  - Describe the role of integration packs (IPs), the Orchestrator Integration Toolkit (OIK) and Solution Development Kit (SDK) in extending Orchestrator functionality
+  - Define Orchestrator key concepts and terminology
+
+
+  ### Module 2&#58; Runbook Designer, Standard Activities, and Runbook Tester
+  This module walks participants through the Runbook Designer and Runbook Tester and demonstrates their functionality, and lists and describes Standard Activities.
+  #### Lessons
+  - Tour of the Runbook Designer
+  - Standard Activities
+  - Tour of the Runbook Tester
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the layout and functionality of the Orchestrator Runbook Designer user interface used by Runbook Designers to create, modify, and deploy Runbooks
+  - Describe the layout and functionality of the Runbook Tester interface used to test Runbooks before deployment
+  - List and describe Standard Activities&#58; Scheduling, Monitoring File Management, Email, Notification, Utilities, Active Directory, Windows Tasks, Text File Management
+
+
+  ### Module 3&#58; Tour of the Orchestration Console and Deployment Manager, Data Store Configuration
+  This module walks participants through the Orchestration Console, Deployment Manager and Data Store Configuration and demonstrates their functionality.
+  #### Lessons
+  - Tour of the Orchestration Console
+  - Tour of Deployment Manager and Data Store Configuration
+
+
+  After completing this module, students will be able to&#58;
+  - Describe the layout and functionality of the Orchestration Console used by Runbook Designers for Runbook execution and status checking (versus authoring), including viewing the real-time status of jobs and running instances, and starting and stopping Runbooks, jobs, or instances
+  - Describe the layout and functionality of the Deployment Manager tool used by Runbook Designers to deploy integration packs (IPs), Runbook servers, and Runbook Designers
+  - Describe the functionality of Data Store Configuration
+
+
+  ### Module 4&#58; Runbook Design Basics
+  This module walks through how to create Runbooks using basic Runbook Designer programmatic constructs.
+  #### Lessons
+  - Viewing and setting Runbook, Activity and Smart Link properties and permissions
+  - Runbook Control and Data Flow and Manipulation
+
+
+  After completing this module, students will be able to&#58;
+  - View or set Runbook, Activity and Smart Link properties and permissions, and list common Activity properties
+  - List and describe the basics of Runbook control flow and data control flow and manipulation, including&#58;
+  - Sequence, selection (branching), iteration (looping) for both activities and nested Runbooks
+  - Smart Links and link logic
+  - Junctions
+  - Managing published data, subscription, multi-value data, flattening, data mapping, inter-Runbook data passing, data manipulation functions, handling of persistent data
+
+
+
+  ### Module 5&#58; Creating Basic Runbooks in Runbook Designer
+  This module walks through how to use create basic Runbooks in System Center Orchestrator 2012.
+  #### Lessons
+  - Viewing and setting Runbook, Activity and Smart Link properties and permissions
+  - Runbook Control and Data Flow and Manipulation
+
+
+  After completing this module, students will be able to&#58;
+  - Create basic workflows in Runbook Designer, including&#58;
+  - Simple File Management
+  - Managing an Operating System
+  - Read data from the Service Manager CMDB
+  - Correlate the data from Operations Manager, the CMDB, and Configuration Manager
+  - Take action on impacted devices and remediate the root cause of the alert
+  - Keep incident and problem management up to date throughout the process
+  - The remediation can be as easy as
+  - Deploying software using the Configuration Manager Integration Pack
+  - Executing a PowerShell script
+  - Calling a third party tool to perform maintenance actions
+  - Describe Runbook Design best practices, how a Runbook executes
+
+
+  ### Module 6&#58; Summary and Wrap
+  This module summarizes key points for each topic in the course, identifies topic areas to focus on and review, and helps participants prepare to apply the concepts back on the job.

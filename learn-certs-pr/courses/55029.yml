@@ -1,0 +1,228 @@
+### YamlMime:Course
+title: Introduction to SharePoint 2013 for Collaboration and Document Management
+metadata:
+  title: 'Course 55029-B: Introduction to SharePoint 2013 for Collaboration and Document Management'
+  description: 'Course 55029-B: Introduction to SharePoint 2013 for Collaboration and Document Management'
+uid: course.55029
+courseNumber: '55029-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate SharePoint sites.
+- skill: Manage content in lists and libraries.
+- skill: Create and edit Alerts.
+- skill: Collaborate using Tasks lists, Discussion Boards and Community Sites.
+- skill: Work with libraries, including upload, download, editing, check out/in and versioning.
+- skill: Use the SharePoint social features.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This ½ to full day class is designed for SharePoint team members who need to know how to use the team collaboration, document management and social features of Microsoft SharePoint 2013. This class can be delivered using a Site Collection on an in-house server, virtual machines or Office 365.
+
+  #### Audience profile
+  - SharePoint end users
+  - SharePoint Site Owners and Power Users who will be attending a SharePoint 2013 Site Owner class
+  - SharePoint administrators and developers
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic Microsoft Office skills.
+outlineSection: |-
+  ### Module 1&#58; SharePoint Overview
+  This module provides an introduction to the topics covered in the class, introduces SharePoint terminology and provides an overview of the available versions of SharePoint 2013 and Office 365.
+  #### Lessons
+  - What is SharePoint?
+  - Team Collaboration
+  - Document Management
+  - Web Sites
+  - Social Features
+  - SharePoint Security
+
+
+  After completing this module, students will be able to&#58;
+  - Explain the core SharePoint feature sets
+
+
+  ### Module 2&#58; Accessing SharePoint
+  This module covers the logging onto SharePoint and SharePoint site navigation.
+  #### Lessons
+  - Logging onto SharePoint
+  - SharePoint Navigation&#58; The Suite Bar
+  - SharePoint Navigation&#58; The SharePoint Screen
+  - SharePoint Navigation&#58; The Title area crumb trail
+  - SharePoint Navigation&#58; Following and returning to sites
+  - SharePoint Navigation&#58; The SharePoint Ribbons
+  - SharePoint Navigation&#58; Quick Launch and Web Parts
+  - Regional Settings
+
+
+  #### Lab &#58; Accessing SharePoint
+
+  After completing this module, students will be able to&#58;
+  - Log into SharePoint 2013 and Office 365.
+  - Explore a library.
+  - Navigate SharePoint Pages.
+  - Follow and return to sites.
+
+
+  ### Module 3&#58; SharePoint Libraries
+  This module covers the use of SharePoint libraries and document management.
+  #### Lessons
+  - Document Libraries
+  - Ribbon options and the “Open Menu” link (…)
+  - Accessing Documents
+  - Office Web Apps
+  - Checking Out Documents
+  - Deleting Documents and the Recycle Bin
+  - Creating and Managing Alerts
+  - Uploading Documents
+  - Blocked File Types
+  - Creating Folders
+  - Creating New Documents
+  - Versioning
+  - List and Library Views
+  - Asset and Picture Libraries
+
+
+  #### Lab &#58; SharePoint Libraries
+
+  After completing this module, students will be able to&#58;
+  - Navigate library pages and web parts.
+  - Navigate a library using the Ribbon, document dropdown menus and the Crumb Trail.
+  - Open and edit documents in Word and other applications.
+  - Open and edit documents using Office Web Apps.
+  - Check out and check in documents using browser and Office features.
+  - Delete documents and recover them from the Recycle Bin.
+  - Upload a single file, multiple files and use Windows Explorer view.
+  - Understand that certain file types are blocked and cannot be uploaded.
+  - Work with folders.
+  - Create new documents from within SharePoint.
+  - Work with document versioning.
+  - Display libraries using views.
+
+
+  ### Module 4&#58; SharePoint Lists
+  This module covers the use of SharePoint 2013 lists.
+  #### Lessons
+  - SharePoint Lists
+  - Working with Custom Lists
+  - Working with Task Lists
+  - Using Task Lists to manage team tasks
+  - Adding and Updating Tasks
+  - Using Task Views
+  - Synchronizing Task Lists with Outlook
+  - Working with SharePoint Calendars
+  - Calendar Navigation and Views
+  - Adding Calendar Events
+  - Dealing with long lists of events
+  - Synchronizing SharePoint Calendars with Outlook
+  - External Lists
+
+
+  #### Lab &#58; SharePoint Lists
+
+  After completing this module, students will be able to&#58;
+  - Create, edit and update tasks and other SharePoint lists.
+  - Work with list views.
+  - Synchronize Task Lists with Outlook.
+  - Create, edit and update events.
+  - Work with calendar views.
+  - Synchronize SharePoint Calendars with Outlook.
+  - Explain the role of External Lists
+
+
+  ### Module 5&#58; SharePoint Search
+  This module covers the SharePoint 2013 search features.
+  #### Lessons
+  - Searching SharePoint
+  - What is searchable
+  - Search results and refiners
+  - Search Tips and Tricks
+
+
+  #### Lab &#58; SharePoint Search
+
+  After completing this module, students will be able to&#58;
+  - Search for content.
+  - Search for people.
+  - Refine their searches.
+
+
+  ### Module 6&#58; SharePoint Wikis
+  This module covers working with SharePoint 2013 Wikis.
+  #### Lessons
+  - Uses of a Wiki
+  - Editing Wiki Articles
+  - Working with Wiki Version Tracking
+  - Wiki Views
+
+
+  #### Lab &#58; SharePoint Wikis
+
+  After completing this module, students will be able to&#58;
+  - Use Wikis as FAQ lists, self-service help sites, and knowledge bases.
+  - Create, edit and update Wiki articles.
+  - Work with Wiki views.
+
+
+  ### Module 7&#58; SharePoint Social Features
+  This module introduces the SharePoint 2013 social features.
+  #### Lessons
+  - What are “Social Features”?
+  - Interacting with People
+  - About Me and Updating Your Profile
+  - Your Newsfeed
+  - Micro-blogging
+  - Tagging and Rating Documents
+  - Blogs
+
+
+  #### Lab &#58; SharePoint Social Features
+
+  After completing this module, students will be able to&#58;
+  - Update their user profile.
+  - Follow sites, content and people.
+  - Add folksonomy to content using tags and ratings.
+  - Use the Newsfeed features to micro-blogging and follow coworkers.
+
+
+  ### Module 8&#58; Discussion Boards
+  This module covers working with SharePoint 2013 Discussion Boards.
+  #### Lessons
+  - SharePoint Discussion Boards
+  - Reading, creating and responding to discussions
+
+
+  #### Lab &#58; Discussion Boards
+
+  After completing this module, students will be able to&#58;
+  - Read and explore Discussion Boards.
+  - Create and reply to discussions.
+
+
+  ### Module 9&#58; Community Sites
+  This module covers working with SharePoint 2013 Community Sites.
+  #### Lessons
+  - Community Sites
+  - Requesting Access
+  - Joining the Community
+  - Exploring Topics
+  - Posting and Replying
+  - Best Replies and Alerts
+
+
+  #### Lab &#58; Community Sites
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the difference between Discussion Board lists and Community Site subsites.
+  - How access to Community Sites is controlled and how to request access and join the community.
+  - How to create new discussions and how to reply to existing discussions.
+  - How to mark replies as Best Reply.
+  - How to create Alerts on topics of interest.

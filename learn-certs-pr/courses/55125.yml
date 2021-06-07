@@ -1,0 +1,198 @@
+### YamlMime:Course
+title: Quick Microsoft SQL Server 2012 Analysis Services
+metadata:
+  title: 'Course 55125-A: Quick Microsoft SQL Server 2012 Analysis Services'
+  description: 'Course 55125-A: Quick Microsoft SQL Server 2012 Analysis Services'
+uid: course.55125
+courseNumber: '55125-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand common Analysis Services solutions.
+- skill: Understand version changes of SSAS from 2008-2014.
+- skill: Understand Analysis Services installation and architecture.
+- skill: Understand how to choose the right model.
+- skill: Understand the Analysis Services tools available.
+- skill: Understand the multidimensional model.
+- skill: Utilize data sources and data source views.
+- skill: Create a cube.
+- skill: Understand and utilize dimensions.
+- skill: Understand and utilize attributes.
+- skill: Understand and utilize relationships.
+- skill: Understand and utilize hierarchies.
+- skill: Understand and utilize measures and measure groups.
+- skill: Understand and utilize calculated members.
+- skill: Understand and utilize perspectives.
+- skill: Understand and utilize translations.
+- skill: Browse perspectives and translations.
+- skill: Understand and utilize deployment options.
+- skill: Understand and utilize processing strategies.
+- skill: Understand and utilize security.
+- skill: Deploy a multidimensional model.
+- skill: Understand the tabular model.
+- skill: Create a tabular project.
+- skill: Analyze the data using Microsoft Excel.
+- skill: Create and configure calculated measures and calculated fields.
+- skill: Backup and Restore.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- sql-server
+summary: |-
+  This fast-paced three-day instructor-led course is intended for IT professionals who are interested in quickly learning how to utilize an Analysis Services multidimensional or tabular solution. This course also discusses how to use the Analysis Services development tools to create both multidimensional and tabular projects, and follows with explanations on how to use the management and administrative tools to manage both Analysis Services solutions.
+
+  #### Audience profile
+  This course is intended for SQL professionals, Microsoft Analysis Services cube and report developers, and business intelligence professionals.
+prerequisitesSection: |-
+  None
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Introduction to Microsoft SQL Server Analysis Services
+  Analysis Services is an online analytical processing (OLAP) database, a type of database that is highly optimized for the kinds of queries and calculations that are common in a business intelligence environment. In this module we aim to get you familiar with the recent changes, explore the architecture options, and explain the tools available.
+  #### Lessons
+  - Common Analysis Services Solutions
+  - Version Changes of SSAS from 2008-2014
+  - Analysis Services Installation and Architecture&#58; One Product, Two Models
+  - Choosing the Right Model
+  - Analysis Services Tools
+
+
+  #### Lab &#58; Introduction to Microsoft SQL Server Analysis Services
+
+  After completing this module, students will be able to&#58;
+  - Understand common Analysis Services solutions.
+  - Understand version changes of SSAS from 2008-2014.
+  - Understand Analysis Services installation and architecture.
+  - Understand how to choose the right model.
+  - Understand the Analysis Services tools available.
+
+
+  ### Module 3&#58; The Multidimensional Solution
+  In the multidimensional model, data is modeled as a series of cubes and dimensions. In this module we will explore how to create and configure a cube. Dimensions will be discussed in a later module.
+  #### Lessons
+  - Understanding the Multidimensional Model
+  - Utilizing Data Sources and Data Source Views
+  - Creating a Cube
+
+
+  #### Lab &#58; The Multidimensional Solution
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the multidimensional model.
+  - Utilize data sources and data source views.
+  - Create a cube.
+
+
+  ### Module 4&#58; Dissecting with Dimensions
+  Dimensions are the categories by which you slice your data to view specific quantities of interest. In this module we will explore dimensions and how they are used in conjunction with attributes, relationships, and hierarchies.
+  #### Lessons
+  - Developing Dimensions
+  - Utilizing Attributes
+  - Relating with Relationships
+  - Handling Hierarchies
+
+
+  #### Lab &#58; Dissecting with Dimensions
+
+  After completing this module, students will be able to&#58;
+
+  - Understand and utilize dimensions.
+  - Understand and utilize attributes.
+  - Understand and utilize relationships.
+  - Understand and utilize hierarchies.
+
+
+  ### Module 5&#58; Managing Measures
+  Each cube is made up of one or more measure groups, and each measure group in a cube contains one or more measures. In this module we will explore all there is to know about measures and measure groups, and we’ll also cover calculated members.
+  #### Lessons
+  - Measures and Measure Groups
+  - Calculated Members
+
+
+  #### Lab &#58; Managing Measures
+
+  After completing this module, students will be able to&#58;
+
+  - Understand and utilize measures and measure groups.
+  - Understand and utilize calculated members.
+
+
+  ### Module 6&#58; Configuring Cube Options
+  Perspectives have the ability to hide certain parts of a complex model, which can help usability, and security roles can be used to deny access to specific rows of data from tables to specific users. Translations allow the metadata of a multidimensional model to appear in different languages for users with different locales on their desktops. In this module we will cover both configurations and the options available.
+  #### Lessons
+  - Understanding Perspectives
+  - Utilizing Translations
+  - Browsing Perspectives and Translations
+
+
+  #### Lab &#58; Configuring Cube Options
+
+  After completing this module, students will be able to&#58;
+  - Understand and utilize perspectives.
+  - Understand and utilize translations.
+  - Browse perspectives and translations.
+
+
+  ### Module 7&#58; Deploying
+  Deploying an Analysis Services project creates the defined objects in an instance of Analysis Services. In this module we will explore deployment options, processing strategies, and security.
+  #### Lessons
+  - Examining Deployment Options
+  - Processing Strategies
+  - Exploring Security
+
+
+  #### Lab &#58; Deploying
+
+  After completing this module, students will be able to&#58;
+
+  - Understand and utilize deployment options.
+  - Understand and utilize processing strategies.
+  - Understand and utilize security.
+  - Deploy a multidimensional model.
+
+
+  ### Module 8&#58; The Tabular Solution
+  Tabular models are in-memory databases in Analysis Services. In this module we will explore the tabular model, create a tabular project, deploy and query the solution using Data Analytic Expressions (DAX).
+  #### Lessons
+  - Understanding the Tabular Model
+  - Creating a Tabular Project
+  - Deploying
+  - Browsing the Model
+  - Querying the Solution and Understanding DAX
+  - Maintaining and Optimizing
+
+
+  #### Lab &#58; The Tabular Solution
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the tabular model.
+  - Create a tabular project.
+  - Analyze the data using Microsoft Excel.
+  - Create and configure calculated measures and calculated fields.
+  - Backup and Restore.
+
+  #### Additional Reading
+  None

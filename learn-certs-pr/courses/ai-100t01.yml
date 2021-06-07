@@ -1,0 +1,94 @@
+### YamlMime:Course
+title: Designing and Implementing an Azure AI Solution
+metadata:
+  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  iltScheduling: true
+uid: course.ai-100t01
+courseNumber: 'AI-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  Gain the necessary knowledge for designing Azure AI solution by building a customer support chat Bot using artificial intelligence from the Microsoft Azure platform including language understanding and pre-built AI functionality in the Azure Cognitive Services.
+
+  #### Audience profile
+  This course is aimed at Cloud Solution Architects, Azure artificial intelligence designers, and AI developers.
+prerequisitesSection: |-
+  Successful Azure AI Engineers start this role with professional experience with cloud technologies, and experience with software development kits.  
+  
+  Specifically&#58;
+  -	Implementing solutions in C# or Python
+  -	Application development in the cloud
+  -	Understanding Azure storage technologies  
+  
+  To gain these prerequisite skills, take the following free online training before attending the course&#58;
+  -	[Explore Microsoft Azure cloud concepts](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  -	[Take your first steps with C#](/learn/paths/csharp-first-steps/) or [Take your first steps with Python](/learn/paths/python-first-steps/)
+  -	[Core Cloud Services – Introduction to Azure](/learn/modules/welcome-to-azure/)
+  -	[Core Cloud Services – Azure compute options](/learn/modules/intro-to-azure-compute/)  
+  
+  If you are completely new to Azure AI services, please complete [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals) first.
+  
+outlineSection: |-
+  ### Module  1&#58; Introducing Azure Cognitive Services
+  The student will learn about the available Cognitive Services on Microsoft Azure and their role in architecting AI solutions.
+  #### Lessons
+  - Overview of Azure Cognitive Services
+  - Creating a Cognitive Service on the Azure Portal
+  - Access and Test a Cognitive Service
+
+
+  ### Module  2&#58; Creating Bots
+  The student will learn about the Microsoft Bot Framework and Bot Services.
+  #### Lessons
+  - Introducing the Bot Service
+  - Creating a Basic Chat Bot
+  - Testing with the Bot Emulator
+
+
+  ### Module  3&#58; Enhancing Bots with QnA Maker
+  The student will learn about the QnA Maker and how to integrate Bots and QnA Maker to build up a useful knowledge base for user interactions.
+  #### Lessons
+  - Introducing QnA Maker
+  - Implement a Knowledge Base with QnA Maker
+  - Integrate QnA with a Bot
+
+
+  ### Module  4&#58;  Learn How to Create Language Understanding Functionality with LUIS
+  The student will learn about Language Understanding with Intents and Utterances (LUIS) and how to create intents and utterances to support a natural language processing solution.
+  #### Lessons
+  - Introducing Language Understanding
+  - Create a new LUIS Service
+  - Build LUIS
+
+
+  ### Module  5&#58; Enhancing Your Bots with LUIS
+  The student will learn about integrating LUIS with a Bot to better understand the users’ intentions when interacting with the Bot.
+  #### Lessons
+  - Overview of language understanding for AI applications
+  - Integrate LUIS and Bot to create an AI-based solution
+
+
+  ### Module  6&#58; Integrate Cognitive Services with Bots and Agents
+  The student will learn about integrating Bots and Agents with Azure Cognitive Services for advanced features such as sentiment analysis, image and text analysis, and OCR and object detection.
+  #### Lessons
+  - Understand Cognitive Services for Bot Interactions
+  - Perform Sentiment Analysis for your Bot with Text Analytics
+  - Detect Language in a Bot with the Language Cognitive Services
+  - Integrate Computer Vision with Bots

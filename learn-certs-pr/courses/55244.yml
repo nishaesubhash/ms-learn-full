@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: JavaScript for Developers
+metadata:
+  title: 'Course 55244-A: JavaScript for Developers'
+  description: 'Course 55244-A: JavaScript for Developers'
+uid: course.55244
+courseNumber: '55244-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Write and test JavaScript code in modern browsers.
+- skill: Understand and work with the browser’s Document Object Model (DOM).
+- skill: Work DOM objects and write code to respond to events.
+- skill: Add jQuery to their projects and use jQuery to manipulate the DOM and to make Ajax calls.
+- skill: Understand Ajax and Web Services, including HTTP Verbs and asynchronous Ajax calls.
+- skill: Work with XML and JSON data formats.
+- skill: Understand and use RESTful Web Services including ODATA queries.
+- skill: Work with Anonymous Functions, Self-Invoking Functions and Closures.
+- skill: Understand the role of the Window and Navigator objects.
+- skill: Describe and understand variables, “variable hoisting”, and JavaScript objects.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  This five-day instructor-led is an in depth hands-on study of JavaScript. The course includes detailed hands-on labs and Q&A labs. The labs include multiple projects that update an existing web site.
+
+  #### Audience profile
+  This course is intended for both novice and experienced programmers. Some experience in C++, C# or Java is helpful.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Useful, but not required&#58;
+  - Previous programming experience using C, C# or Java.
+  - HTML and CSS web development.
+outlineSection: |-
+  ### Module 1&#58; Basic Scripting
+  JavaScript has been described as a simple scripting language and also as a complex object oriented language. In this module we will explore basic scripting. Many of the topics in the module will be expanded upon in later sections of this course. In this module we will look at the basics to write and call a JavaScript function, find HTML elements in a web page, change properties of HTML elements, write loops, test strings and values (IF statements), and a few more.
+  #### Lessons
+  - JavaScript Basics
+  - JavaScript or ECMAScript?
+  - Which Version of JavaScript am I Using?
+  - Shims, Shivs, and Polyfills
+  - Writing and Testing JavaScript
+  - Editors and the F12 Tools
+  - Key Parts of a Script
+
+
+  #### Lab &#58; Basic Scripting
+  - Q&A quiz
+  - Exercise 1 - Experimenting with the F12 Developer Tools
+  - Exercise 2 - Update the time on the page by using JavaScript
+  - Exercise 3 - Add JavaScript to respond to an event
+
+  After completing this module, students will be able to&#58;
+  - Add basic scripts to a web page.
+  - Use the F12 tools to explore pages.
+
+
+  ### Module 2&#58; The Document Object Model
+  Neither browsers nor JavaScript work directly with the HTML file that was received from the web server. The browser parses this file and converts it into a tree structure called the Document Object Model, or DOM for short. In this module we explore working with Elements and DOM objects.
+  #### Lessons
+  - The DOM
+  - Accessing Objects from the DOM
+  - Responding to Events
+  - Adding Elements to the DOM
+
+
+  #### Lab &#58; The Document Object Model
+  - Q&A quiz
+  - Add an Animation to the Home Page.
+  - Move the JavaScript to a File
+  - Add JavaScript to Supply Mouse Over Tips to the Menu Tabs
+
+  After completing this module, students will be able to&#58;
+  - Describe the DOM and Elements.
+  - Write JavaScript code to search and update the DOM.
+  - Write code to respond to DOM object events.
+  - Add and remove Elements to and from the DOM.
+
+
+  ### Module 3&#58; Introduction to jQuery
+  A lot of the coding work you will do with JavaScript will be to first find an HTML element, and then manipulate that element. Often, all we are doing is some searching, or querying, of the HTML and then performing a quick update. In this module we will exploring using the jQuery library to search for, and modify, elements in the DOM.
+  #### Lessons
+  - jQuery
+  - Downloading the jQuery Library
+  - jQuery Versions
+  - Linking to the Library
+  - Selecting Elements using jQuery
+  - Working with the Data Returned by jQuery
+  - Setting CSS Properties
+  - Running a Function Against the jQuery Return Set
+
+
+  #### Lab &#58; jQuery
+  - Q&A quiz
+  - Add the jQuery Library to the Project
+  - Create New Elements using jQuery
+
+  After completing this module, students will be able to&#58;
+  - Describe the role of libraries like jQuery in JavaScript and web development.
+  - Add the jQuery library to a project.
+  - Find and retrieve, update and create new elements in the DOM.
+
+
+  ### Module 4&#58; Ajax and Web Services
+  This module explores web services and the use of Ajax to call those services.
+  #### Lessons
+  - Web Services
+  - HTTP Verbs
+  - Data Formats - XML and JSON
+  - Ajax
+  - RESTful Web Services
+  - OData
+  - OData Queries
+  - OData Updates
+
+
+  #### Lab &#58; Ajax and Web Services
+  - Q&A quiz
+  - Exploring a REST Web Service
+  - Load Data from a Web Service
+
+  After completing this module, students will be able to&#58;
+  - Describe web services and how to interact with them from JavaScript and jQuery.
+  - Work with XML and JSON data.
+  - Create queries and update data using REST and OData.
+
+
+  ### Module 5&#58; Diving in Deeper
+  In this module we will explore the topics you will need to know as you move from a “JavaScript scripter” to a “JavaScript developer”. Some of the topics include&#58; More about Data Types and data conversion, Variables&#58; more on Scopes, Hoisting, Creating and Deleting, Functions&#58; Anonymous functions, Closures, Self-invoking functions, the “this” keyword and the Module Pattern, more on error handling, and recursion.
+  #### Lessons
+  - Is JavaScript Compiled?
+  - Data Types and Objects
+  - Extending Data Types
+  - Variables, Scopes and Hoisting
+  - Functions
+  - The “this” Keyword
+  - Errors
+  - Recursion
+
+
+  #### Lab &#58; Diving in Deeper
+  - Q&A quiz
+
+  After completing this module, students will be able to&#58;
+  - Describe how JavaScript variables are used, stored, and manipulated.
+  - Understand how JavaScript variables and functions are scoped, and occasionally “hoisted”.
+  - Create functions, anonymous functions and Closures.
+  - Describe and use the “this” keyword in functions.
+  - Create try-catch blocks and handle errors.

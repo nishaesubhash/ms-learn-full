@@ -1,0 +1,220 @@
+### YamlMime:Course
+title: Microsoft Azure 管理员
+metadata:
+  title: 'Course AZ-104T00ZH-A: Microsoft Azure 管理员'
+  description: 'Course AZ-104T00ZH-A: Microsoft Azure 管理员'
+uid: course.az-104t00zh
+courseNumber: 'AZ-104T00ZH-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+summary: |-
+  本课程教授 IT 专业人员介绍如何管理其 Azure 订阅、保护标识、管理基础结构、配置虚拟网络、连接 Azure 和本地站点、管理网络流量、实现存储解决方案、创建和缩放虚拟机、实现 Web 应用程序和容器、备份和共享数据以及监视解决方案。
+
+  #### Audience profile
+  本课程适用于 Azure 管理员。Azure 管理员在云环境中实现、管理和监视标识、治理、存储、计算和虚拟网络。Azure 管理员将根据需要预配、调整大小、监视和调整资源。
+prerequisitesSection: |-
+  在参加本课程之前，学生必须&#58;
+  - 成功的 Azure 管理员需具备操作系统、虚拟化、云基础结构、存储结构和网络方面的经验。
+  - 了解本地虚拟化技术，包括&#58; VM、虚拟网络和虚拟硬盘。
+  - 了解网络配置，包括 TCP/IP、域名系统 (DNS)、虚拟专用网络 (VPN)、防火墙和加密技术。
+  - 了解 Active Directory 概念，包括域、林、域控制器、复制、Kerberos 协议和轻型目录访问协议 (LDAP)。
+  - 了解恢复能力和灾难恢复，包括备份和还原操作。
+outlineSection: |-
+  ### Module 1&#58; 标识
+  在本模块中，你将学习如何使用 Azure Active Directory 保护标识并实现用户和组。
+  #### Lessons
+  - Azure Active Directory
+  - 用户和组
+
+
+  #### Lab &#58; 管理 Azure Active Directory 标识
+  完成本模块后，学生将能够&#58;
+  - 通过 Azure Active Directory 保护和管理标识。
+  - 实现和管理用户和组。
+
+
+  ### Module 2&#58; 治理与符合性
+  在本模块中，你将学习有关管理订阅和帐户、实现 Azure 策略以及使用基于角色的访问控制的知识。
+  #### Lessons
+  - 订阅和帐户
+  - Azure Policy
+  - 基于角色的访问控制 (RBAC)
+
+
+  #### Lab &#58; 管理订阅和 RBAC
+
+  #### Lab &#58; 通过 Azure Policy 管理治理
+  完成本模块后，学生将能够&#58;
+  - 实现和管理 Azure 订阅和帐户。
+  - 实现 Azure Policy，包括自定义策略。
+  - 使用 RBAC 分配权限。
+
+
+  ### Module 3&#58; Azure 管理
+  在本模块中，你将学习 Azure 管理员用于管理其基础结构的工具。这包括 Azure 门户、Cloud Shell、Azure PowerShell、CLI 和资源管理器模板。本模块包括：
+  #### Lessons
+  - Azure 资源管理器
+  - Azure 门户和 Cloud Shell
+  - Azure PowerShell 和 CLI
+  - ARM 模板
+
+
+  #### Lab &#58; 使用 Azure 门户管理 Azure 资源
+
+  #### Lab &#58; 使用 ARM 模板管理 Azure 资源
+
+  #### Lab &#58; 使用 Azure PowerShell 管理 Azure 资源
+
+  #### Lab &#58; 使用 Azure CLI 管理 Azure 资源
+  完成本模块后，学生将能够&#58;
+  - 利用 Azure 资源管理器来组织资源。
+  - 使用 Azure 门户和 Cloud Shell。
+  - 使用 Azure PowerShell 和 CLI。
+  - 使用 ARM 模板部署资源。
+
+
+  ### Module 4&#58; 虚拟网络
+  在本模块中，你将学习基本的虚拟网络概念，如虚拟网络和子网划分、IP 寻址、网络安全组、Azure 防火墙和 Azure DNS。
+  #### Lessons
+  - 虚拟网络
+  - IP 寻址
+  - 网络安全组
+  - Azure 防火墙
+  - Azure DNS
+
+
+  #### Lab &#58; 实现虚拟网络
+  完成本模块后，学生将能够&#58;
+  - 实现虚拟网络和子网。
+  - 配置公共和专用 IP 寻址。
+  - 配置网络安全组。
+  - 配置 Azure 防火墙。
+  - 配置专用和公共 DNS 区域。
+
+
+  ### Module 5&#58; 站点间连接
+  在本模块中，你将学习站点间连接功能，包括 VNet 对等互连、虚拟网络网关和站点到站点连接。
+  #### Lessons
+  - VNet 对等互连
+  - VPN 网关连接
+  - ExpressRoute 和虚拟 WAN
+
+
+  #### Lab &#58; 实现站点间连接
+  完成本模块后，学生将能够&#58;
+  - 配置 VNet 对等互连。
+  - 配置 VPN 网关。
+  - 选择适当的站点间连接解决方案。
+
+
+  ### Module 6&#58; 网络流量管理
+  在本模块中，你将学习网络流量策略，包括网络路由和服务终结点、Azure 负载均衡器、Azure 应用程序网关和流量管理器。
+  #### Lessons
+  - 网络路由和终结点
+  - Azure 负载均衡器
+  - Azure 应用程序网关
+  - 流量管理器
+
+
+  #### Lab &#58; 实现流量管理
+  完成本模块后，学生将能够&#58;
+  - 配置网络路由，包括自定义路由和服务终结点。
+  - 配置 Azure 负载均衡器。
+  - 配置 Azure 应用程序网关。
+  - 选择适当的网络流量解决方案。
+
+
+  ### Module 7&#58; Azure 存储
+  在本模块中，你将学习基本存储功能，包括存储帐户、Blob 存储、Azure 文件和文件同步、存储安全和存储工具。
+  #### Lessons
+  - 存储帐户
+  - Blob 存储
+  - 存储安全
+  - Azure 文件和文件同步
+  - 管理存储
+
+
+  #### Lab &#58; 管理 Azure 存储
+  完成本模块后，学生将能够&#58;
+  - 创建 Azure 存储帐户。
+  - 配置 Blob 容器。
+  - 保护 Azure 存储。
+  - 配置 Azure 文件共享和文件同步。
+  - 使用存储资源管理器等工具管理存储。
+
+
+  ### Module 8&#58; Azure 虚拟机
+  在本模块中，你将学习 Azure 虚拟机，包括规划、创建、可用性和扩展。
+  #### Lessons
+  - 虚拟机规划
+  - 创建虚拟机
+  - 虚拟机可用性
+  - 虚拟机扩展
+
+
+  #### Lab &#58; 管理虚拟机
+  完成本模块后，学生将能够&#58;
+  - 规划虚拟机实现。
+  - 创建虚拟机。
+  - 配置虚拟机可用性，包括规模集。
+  - 使用虚拟机扩展。
+
+
+  ### Module 9&#58; 无服务器计算
+  在本模块中，你将学习管理无服务器计算功能，例如 Azure 应用服务、Azure 容器实例和 Kubernetes。
+  #### Lessons
+  - Azure 应用服务计划
+  - Azure 应用服务
+  - 容器服务
+  - Azure Kubernetes 服务
+
+
+  #### Lab &#58; 实现 Web 应用
+
+  #### Lab &#58; 实现 Azure 容器实例
+
+  #### Lab &#58; 实现 Azure Kubernetes 服务。
+  完成本模块后，学生将能够&#58;
+  - 创建应用服务计划。
+  - 创建 Web 应用。
+  - 实现 Azure 容器实例。
+  - 实现 Azure Kubernetes 服务。
+
+
+  ### Module 10&#58; 数据保护
+  在本模块中，你将学习备份文件和文件夹以及虚拟机备份。
+  #### Lessons
+  - 文件和文件夹备份
+  - 虚拟机备份
+
+
+  #### Lab &#58; 实现数据保护
+  完成本模块后，学生将能够&#58;
+  - 备份和还原文件和文件夹。
+  - 备份和还原虚拟机。
+
+
+  ### Module 11&#58; 监视
+  在本模块中，你将学习监视 Azure 基础结构，包括 Azure Monitor、警报和 Log Analytics。
+  #### Lessons
+  - Azure Monitor
+  - Azure 警报
+  - Log Analytics
+  - 网络观察程序
+
+
+  #### Lab &#58; 实现监视
+  完成本模块后，学生将能够&#58;
+  - 使用 Azure Monitor。
+  - 创建 Azure 警报。
+  - 使用 Log Analytics 进行查询。
+  - 使用网络观察程序。

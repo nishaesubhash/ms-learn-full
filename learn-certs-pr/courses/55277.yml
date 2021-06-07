@@ -1,0 +1,227 @@
+### YamlMime:Course
+title: Introduction to Microsoft PowerPoint 2019
+metadata:
+  title: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+  description: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+uid: course.55277
+courseNumber: '55277-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Start and end a PowerPoint session.
+- skill: Edit a presentation.
+- skill: Create different types of slides.
+- skill: Use the Outline tab.
+- skill: Add Clipart to a slide.
+- skill: Format slides and use templates.
+- skill: Use the Slide Sorter to reorganize a presentation.
+- skill: Apply Tables and Charts to a presentation.
+- skill: Print various components of a presentation.
+- skill: Run a slide show.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Introduction to PowerPoint 2019 training class is designed for students who are interested in learning the fundamentals needed to create and modify basic presentations using Microsoft Office PowerPoint 2019. Students will explore the PowerPoint environment and create a presentation. Students will format text on slides to enhance clarity and add graphical objects to a presentation and modify them. Students will also add tables and charts to a presentation to present data in a structured form and then finalize a presentation.
+
+  #### Audience profile
+  Students who have little or no familiarity with Microsoft PowerPoint 2019 or more experienced Word users who want to learn the topics covered in this course in the 2019 interface.
+prerequisitesSection: |-
+  Experience in the following is required for this Microsoft PowerPoint class&#58;
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment.
+  - Ability to launch and close programs; navigate to information stored on the computer; and manage files and folders.
+outlineSection: |-
+  ### Module 1&#58; Creating a PowerPoint Presentation
+  This module explains how to create a presentation in Microsoft PowerPoint.
+  #### Lessons
+  - Starting Microsoft PowerPoint
+  - Normal View
+  - Creating a Presentation
+  - Saving a Document
+  - Importing a File
+  - The Status Bar
+  - Closing a Presentation
+
+
+  #### Lab &#58; Creating a Microsoft PowerPoint Presentation
+  After completing this module, students will be able to&#58;
+  - Start Microsoft PowerPoint.
+  - Learn about Normal view.
+  - Create a PowerPoint presentation.
+  - Save a PowerPoint presentation.
+  - Import a file into PowerPoint.
+  - Learn about the Status Bar.
+  - Close a PowerPoint presentation
+
+
+  ### Module 2&#58; The Ribbon
+  This module explains how to work with the Ribbon in Microsoft PowerPoint.
+  #### Lessons
+  - The Ribbon
+  - Tabs
+  - Groups
+  - Commands
+  - The Tell Me Tab
+
+
+  #### Lab &#58; Exploring the Ribbon
+  After completing this module, students will be able to&#58;
+  - Work with tabs, groups, and commands
+  - Learn which group and commands are found on which tabs.
+
+
+  ### Module 3&#58; The Quick Access Toolbar
+  This module explains how to work with the Quick Access Toolbar in Microsoft PowerPoint.
+  #### Lessons
+  - Adding Common Commands
+  - Adding More Commands with the Customize Dialog Box
+  - Adding Ribbon Commands or Groups
+  - Placement
+
+
+  #### Lab &#58; Customizing the Quick Access Toolbar
+  After completing this module, students will be able to&#58;
+  - Add common commands to the Quick Access Toolbar.
+  - Add additional commands to the Quick Access Toolbar.
+  - Move the Quick Access Toolbar.
+
+
+  ### Module 4&#58; The Backstage View (The File Menu)
+  This module explains how to work with the Backstage View in Microsoft PowerPoint.
+  #### Lessons
+  - Introduction to the Backstage View
+  - Opening a Presentation
+  - New Presentations and Presentation Templates
+  - Presentation Properties
+  - Adding Your Name to Microsoft PowerPoint
+
+
+  #### Lab &#58; Backstage View Exercises
+  - Opening a Presentation
+  - Creating an Agenda Using a Template
+
+  After completing this module, students will be able to&#58;
+  - Use the Backstage view.
+  - Open a Microsoft PowerPoint presentation.
+  - Start a new Microsoft PowerPoint presentation.
+  - Use Microsoft PowerPoint templates.
+  - Modify presentation properties.
+  - Personalize your copy of Microsoft PowerPoint.
+
+  ### Module 5&#58; Formatting Microsoft PowerPoint Presentations
+  This module explains how to format Microsoft PowerPoint presentations.
+  #### Lessons
+  - Selecting a Slide Layout
+  - Adding Text
+  - Adding Text from a Text File or Word Outline
+  - Editing Text
+  - Formatting Text
+  - Formatting Text as WordArt
+  - Creating Bulletted and Numbered Lists
+  - Ink Equation
+  - Formatting Text Placeholders
+  - Adding Slides to a Presenations
+  - Arranging Slides
+
+
+  #### Lab &#58; Formatting Text
+  After completing this module, students will be able to&#58;
+  - Select a slide layout.
+  - Add text to a slide.
+  - Import content from a text file outline.
+  - Edit text.
+  - Format text.
+  - Format text placeholders.
+  - Apply styles to slides.
+  - Add slides to a presentation.
+  - Delete slides from a presentation.Learn to arrange slides.
+
+  ### Module 6&#58; Working with Images
+  This module explains how to work with images in Microsoft PowerPoint.
+  #### Lessons
+  - Adding Images to a Slide
+  - Inserting a Picture
+  - Inserting Icons
+  - Inserting Clip Art
+  - Capturing and Inserting a Screenshot
+  - Editing an Image
+  - Formatting Images
+  - Creating Custom Color with the Eyedropper
+  - Applying a Style and Cropping an Image
+  - Arranging Images
+  - Adding Shapes
+  - Using Digital Ink
+
+
+  #### Lab &#58; Working with Images and Shapes
+  After completing this module, students will be able to&#58;
+  - Add images to a presentation.
+  - Insert a picture.
+  - Insert clip art.
+  - Insert a screenshot.
+  - Edit an image.
+  - Rotate and resize an image.
+  - Group and ungroup images.
+  - Arrange images.
+  - Add shapes.
+
+
+  ### Module 7&#58; Working with Tables and Charts
+  This module explains how to work with tables and charts in Microsoft PowerPoint.
+  #### Lessons
+  - Inserting a Table
+  - Formatting Tables
+  - Importing Tables from Exertal Sources
+  - Inserting a Chart
+  - Formatting a Chart
+  - Importing Charts from Exertnal Sources
+
+
+  #### Lab &#58; Working with Tables and Charts Exercises
+  - Working with a Table
+  - Working with Charts
+
+  After completing this module, students will be able to&#58;
+  - Insert a table in a slide.
+  - Format a table.
+  - Copy a table from other Microsoft Office applications into PowerPoint.
+  - Insert a chart in a slide.
+  - Format a chart.
+  - Copy a chart from other Microsoft Office applications into PowerPoint.
+
+
+  ### Module 8&#58; Finalizing Microsoft PowerPoint Presentations
+  This module explains how to finalize Microsoft PowerPoint presentations.
+  #### Lessons
+  - Checking Spelling
+  - Accessing Differnt Views of a Presentation
+  - Organizing a Presentation in Sections
+  - Adding Transitions to Slides
+  - Adding Speaker Notes
+  - Running a Slide Show
+  - Printing a Presentation
+
+
+  #### Lab &#58; Finalizing Presenation Exercises
+  - Viewing the Presenation
+  - Finalizing Your Presenation
+
+  After completing this module, students will be able to&#58;
+  - Check spelling in your presentation.
+  - Access different views of a presentation.
+  - Divide a presentation into different sections.
+  - Add transitions to a slide.
+  - Add speaker notes.
+  - Run a slide show.
+  - Print a presentation
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - N/A

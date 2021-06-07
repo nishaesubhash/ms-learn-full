@@ -1,0 +1,319 @@
+### YamlMime:Course
+title: Microsoft Project 2019
+metadata:
+  title: 'Course 55290-A: Microsoft Project 2019'
+  description: 'Course 55290-A: Microsoft Project 2019'
+uid: course.55290
+courseNumber: '55290-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Conocer la utilidad de la Herramienta Microsoft Project 2019 en la disciplina de la Dirección Profes
+- skill: Crear un nuevo proyecto,
+- skill: Crear y mantener calendarios,
+- skill: Crear campos personalizados, con opción de búsqueda, formulas e indicadores,
+- skill: Configurar la Información del proyecto,
+- skill: Conocer la utilidad de la programación manual y la programación automática,
+- skill: Crear y conocer la utilidad de la EDT
+- skill: Programar de manera lógica las tareas, su duración y sus interrelaciones,
+- skill: Establecer tareas repetitivas,
+- skill: Administrar varios proyectos y crear un repositorio de recursos compartidos,
+- skill: Documentar y editar la información de los recursos,
+- skill: Asignar tareas a los recursos,
+- skill: Resolver problemas de sobreasignación de los recursos,
+- skill: Asignar costos de los recursos humanos y materiales,
+- skill: Establecer el costo y la duración total del proyecto,
+- skill: Establecer y mantener líneas base,
+- skill: Actualizar y comparar el progreso del proyecto,
+- skill: Configurar la presentación de los datos, mediante la aplicación de filtros, grupos, vistas o tablas,
+- skill: Configurar y mostrar reportes,
+learningPartnersLink: /learn/certifications/partners
+locales:
+- es-mx
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Este curso está diseñado para que el participante aprenda a usar la herramienta y aprovecharla para realizar la planificación detallada de cada etapa del proyecto y pueda dar seguimiento a las tareas durante su ejecución, haciendo hincapié en las facilidades que ofrece en materia de generación de reportes, en el control de las tareas hasta su terminación, el uso de recursos, el costo del proyecto y sobre todo comunicación efectiva entre los involucrados en el proyecto. Este material está diseñado como un manual, fuertemente relacionado al curso con el mismo nombre, aunque puede ser utilizado como una guía para el aprendizaje de la herramienta Microsoft Project 2019, se recomienda que se utilice de la mano del curso, la estructura general del presente documento está orientada al conocimiento y práctica del Software de especialidad para la Dirección de Proyectos Microsoft Project 2019 Professional
+
+  #### Audience profile
+  Derivado de la especialidad que se requiere para dirigir proyectos profesionalmente, este se considera un curso de nivel intermedio, principalmente en lo que respecta a la materia, conceptos y temas relacionados, por lo que la audiencia objetivo es&#58;
+  - Profesionales de la Dirección de Proyectos, con necesidad de usar una herramienta ampliamente difundida y adecuada para el seguimiento y control profesional de los proyectos
+  - Personas con necesidad de conocer y aplicar las mejores prácticas de Dirección de Proyectos mediante el uso de un software especializado
+  - En general, todas aquellas personas interesadas en gestionar proyectos de una manera automatizada, contar con herramientas de reportes, análisis, predicción y control general de los proyectos con la aplicación del software Microsoft Project 2019
+prerequisitesSection: |-
+  - Conocimiento del entorno del sistema operativos Windows 10
+  - Conocimientos en versiones anteriores de Microsoft Project o algún otro sistema de gestión de proyectos (no indispensable)
+  - Conocimiento y experiencia en proyectos de mediano a gran tamaño (no indispensable)
+  - Experiencia previa en manejo de personal involucrado en proyectos, manejo de costos y
+  tiempos, identificación de riesgos y desarrollo de las comunicaciones del proyecto (no indispensable)
+  - Experiencia en cierre de proyectos y gestión de las expectativas de los interesados (no
+  indispensable)
+outlineSection: |-
+  ### Module 1&#58; Introduccin
+  Durante este mdulo, se har un recorrido por las principales etapas de un proyecto (Inicio, Planificacin, Ejecucin, Monitoreo y Control y Cierre) haciendo nfasis como es que la herramienta ayuda a su elaboracin y ejecucin para que se pueda tener informacin que permita la toma de decisiones, adems se har un breve recorrido por la nueva opcin de usar Project 2019 en la nube, para que se tengan los conocimientos apropiados para usar, en caso de requerirlo, esta funcionalidad de trabajo colaborativo
+  #### Lessons
+  - Proyectos tradicionales
+  - Proyectos colaborativos
+
+
+  #### Lab &#58; Aportes de Microsoft Project a la Direccin de Proyectos
+  - Aportes de Microsoft Project a la Direccin de Proyectos
+
+  After completing this module, students will be able to&#58;
+  - Distinguir las ventajas de la herramienta para la gestin de un proyecto
+
+
+  ### Module 2&#58; Introduccin a Microsoft Project 2019
+  En este captulo se mostrarn las mejoras que esta versin tiene en comparacin con la versin 2016, adems de que se har un recorrido de alto nivel por las caractersticas, mens, tablas y vistas principales de la herramienta, con la finalidad de que se familiarice con el software y sea ms sencillo identificarlas en los capitulo siguientes, se mostrarn las novedades de esta versin, los mens de archivo, tarea, recurso, proyecto, reportes, vista y formato, as como las vistas del diagrama de red, calendario, escala de tiempo, recursos, etc. Haciendo un breve recorrido por las tablas de costos, seguimiento, esfuerzo, entre otras.
+  #### Lessons
+  - Novedades de esta versin
+  - Visita rpida a Project 2019
+  - Pantalla principal
+  - Men
+  - Vistas
+  - Tablas
+
+
+  #### Lab &#58; Introduccin a Microsoft Project 2019
+  - Introduccin a Microsoft Project 2019
+
+  After completing this module, students will be able to&#58;
+  - Identificar a groso modo
+  - Identificar las funcionalidades de Project 2019
+  - Identificar las vistas, menus y tablas que continenen formas
+  - Entrar de datos para que pueda interactuar con la herramienta de manera ordenada
+
+
+  ### Module 3&#58; Crear un nuevo proyecto
+  En este mdulo se mostrar como crear un nuevo archivo para un proyecto que se est creando, se ensear la forma de importar datos del proyecto desde Excel, la importancia de la configuracin manual y automtica, las caractersticas y consecuencias de la configuracin inicial y del modo de programacin,  se explicar la forma de establecer las excepciones y las semanas laborales, as como la modificacin de horarios para los diferentes calendarios, finalmente se mostrar como guardar y proteger los archivos generados.
+  #### Lessons
+  - Nuevo Proyecto
+  - Importar datos para crear un Proyecto
+  - Modo manual y modo automtico
+  - Configuracin inicial
+  - Configuracin de las opciones de programacin de inicio o fin
+  - Establecer el calendario general del Proyecto
+  - Guardar archivos
+  - Proteccin de archivos
+
+
+  #### Lab &#58; Crear un nuevo proyecto
+  - Crear un nuevo proyecto
+
+  After completing this module, students will be able to&#58;
+  - Configurar la herramienta para poder gestionar el cronograma de un proyecto, tomando en cuenta los
+  - calendarios laborables a los que est sujeto, adems de importar datos, guardar y proteger archivos
+
+
+  ### Module 4&#58; Creacin de la Estructura de Desglose de Trabajo (Work Breakdown Structure)
+  En el desarrollo de este mdulo se expondr la importancia de crear una EDT antes de programar las tareas, tomando en cuenta los estndares ms conocidos de la direccin de proyectos, se mostrar como se registran las tareas resumen del proyecto, las tareas resumen y las tareas subordinadas mediante las diversas opciones que la herramienta provee para este fin, se mostrar la forma de agregar tareas a una tarea resumen y poner la duracin definitiva o estimada diferente de la que el programa pone por defecto, adicionalmente se mostrar como aadir tareas peridicas que se agregarn de manera automtica al cronograma y los datos que puede contener cada tarea, asimismo se mencionar como agregar detalles a la tarea, como notas, objetos o vnculos y finalmente se mostrar como convertir una tarea en un hito y la importancia de programar por hitos.
+  #### Lessons
+  - Utilidad de la Estructura de Desglose del Trabajo (Work Breakdown Structure)
+  - Tarea resumen del proyecto, Tareas resumen y tareas subordinadas
+  - Identificador de la Estructura de Desglose del Trabajo (Work Breakdown Structure)
+  - Agregar Tareas
+  - Duracin de las tareas
+  - Tareas peridicas
+  - Agregar detalles de las tareas
+  - Agregar Hitos
+
+
+  #### Lab &#58; Creacin de la EDT
+  - Creacin de la EDT
+
+  After completing this module, students will be able to&#58;
+  - Crear y distinguir grupos de tareas, colocar un identificador a cada grupo, agregar tareas, su
+  - duracin y detalles de las mimas, adems de agregar tareas recurrentes e hitos.
+
+
+  ### Module 5&#58; Relaciones de dependencia de las tareas
+  A travs de este mdulo, se tocarn temas relacionados con las dependencias que se deben considerar para cada tarea a fin de crear un diagrama de red que representa los diferentes camino que se deben seguir para llegar al resultado del proyecto, adems se mostrar como agregar dichas condicionantes a las tareas en la columna de predecesoras, en el diagrama de Gantt y en la opcin de detalle de la tarea, tomando en consideracin dichas dependencias, se mostrar como agregar adelantos (tareas que empiezan aunque su predecesora no ha terminado); agregar retrasos (tareas que deben esperar un tiempo antes de empezar an cuando la tarea predecesora ya ha terminado) y a crear un tiempo de espera en horario natural.
+
+  Finalmente se mostrar como mostrar y modificar la vista de diagrama de red, mostrando las ventajas de esta vista.
+
+  #### Lessons
+  - Tipos de relaciones de dependencias
+  - Mtodos para crear las dependencias
+  - Adelantos, retrasos y demoras
+  - Mostrar la secuencia de las tareas
+  - Diagrama de red
+
+
+  #### Lab &#58; Relacin de Dependencias
+  - Relacin de Dependencias
+
+  After completing this module, students will be able to&#58;
+  - Entender y registrar diferentes tipos de dependencias entre las tareas previamente registradas,
+  - agregar adelantos, retrasos y demoras permitidas, adems de mostrar la secuencia de las tareas y
+  - mostrar y configurar el diagrama de red
+
+
+  ### Module 6&#58; Recursos del Proyecto
+  En el recorrido de este mdulo, se expondrn los diferentes recursos que se deben considerar en un proyecto y la vista oportuna para registrarlos, poniendo todos los datos relacionados como su identificador, su costo, disponibilidad, sus calendarios, etc.  Adems de que se mostrar la forma de modificar los calendarios de cada recurso, lo cual podr afectar la duracin de las tareas al asignarles dicha responsabilidad y como esto afecta a la duracin final del proyecto.
+  After completing this module, students will be able to&#58;
+  - Tipos de recursos
+  - Registro de los recursos
+  - Establecer un mtodo de comunicacin
+  - Datos de los recursos
+  - Contabilizar las variaciones de las tasas de recursos
+  - Calendario de los recursos
+  - Asignacin de los recursos
+  - Repercusiones en el cronograma
+
+
+  ### Module 7&#58; Estimaciones de los paquetes de trabajo
+  En este mdulo aprenderemos a calcular la duracin de las tareas en funcin del esfuerzo y de los recursos asignados a cada tarea, primeramente, se describir la implicacin de cada concepto en las tareas y se mostrarn las repercusiones de cada restriccin a la duracin y/o costo e las tareas, por otro lado, se mostrar como es que se puede hacer la configuracin de estas restricciones a partir de cada tarea, de cada cambio o en todo el proyecto en general
+  #### Lessons
+  - Estimados de los paquetes de trabajo
+  - Esfuerzo
+  - Condiciones de programacin del proyecto
+  - Condicionantes de programacin para las tareas
+  - Asignar recursos a las tareas
+  - Tareas condicionadas por el esfuerzo
+
+
+  #### Lab &#58; Estimaciones de los paquetes de trabajo
+  - Estimaciones de los paquetes de trabajo
+
+  After completing this module, students will be able to&#58;
+  - Conocer y distinguir las repercusiones de la condicionantes de programacin para el proyecto y
+  - para cada tarea (Duracin fija, trabajo fijo, Unidades fijas), observar y resolver algunos
+  - problemas de programacin derivado de sus condicionantes y de trabajar con las tareas condicionadas
+  - por el esfuerzo
+
+
+  ### Module 8&#58; Ajustar el cronograma inicial
+  En el desarrollo de este mdulo se explicar el concepto y utilidad de la ruta crtica, as como la forma de calcularla manualmente, de tal forma que se pueda apreciar las bondades del calculo automtico de esta herramienta, se tocar el tema de las holguras de las tareas, que es un tiempo en el que las tareas pueden retrasarse sin afectar la fecha fin del proyecto y como utilizarlas y controlarlas en beneficio del mismo, adicionalmente se mostrarn las restricciones de la tarea, para determinar que esta empiece&#58; antes, despus o en una fecha establecida. Finalmente, en este mdulo se hablar sobre el men de inspector de tareas que ayuda a corregir las sobre asignaciones en la tarea de manera automtica o como sugerencia.
+  #### Lessons
+  - La ruta crtica
+  - Holgura de las tareas
+  - Demora permitida
+  - Restricciones de la tarea
+  - Inspector de tarea
+
+
+  #### Lab &#58; Ajustar el cronograma inicial
+  - Ajustar el cronograma inicial
+
+  After completing this module, students will be able to&#58;
+  - De entender la utilidad de la ruta crtica, determinar y aprovechar las holguras entre tareas,
+  - configurar las tareas derivado de sus restricciones y usar el inspector de tareas
+
+
+  ### Module 9&#58; Nivelacin de recursos
+  Durante este mdulo, en primera instancia se tocar el tema de la necesidad de nivelar los recursos, porque sucede este problema y los diferentes caminos para corregirlo, a partir de ello se revisar la opcin de la grfica de recursos como un medio para identificar que miembro del equipo est sobre asignado, a continuacin se examinarn las vistas de uso de recursos y uso de la tarea como una forma de determinar cuntas horas est asignado a una actividad y a partir de ello, corregir el problema, seguidamente se observar la vista de organizador de equipos para aprender cmo es que se pueden “enviar” tareas a otros recursos, asimismo,  se hablara de las opciones de redistribucin y de la distribucin con margen de demora para evaluar la afectacin del movimiento de la duracin o fecha de inicio y fin de la tarea, en la fecha fin del proyecto.
+  #### Lessons
+  - Necesidad de nivelacin
+  - Grfica de recursos
+  - Uso de recursos
+  - Uso de la tarea
+  - Organizador de Equipos
+  - Opciones de redistribucin
+  - Opcin de redistribucin con margen de demora
+
+
+  #### Lab &#58; Nivelacin de recursos
+  - Nivelacin de recursos
+
+  After completing this module, students will be able to&#58;
+  - Entender el problema de la sobre asignacin de los recursos, identificar cules son las tareas y
+  - y los recursos que presentan dicho problema y las diferentes opciones para solucionarlo
+
+
+  ### Module 10&#58; Cronograma final
+  Durante este mdulo se tocarn los temas relativos a la gestin del proyecto total, para lo cual se analizarn los datos que proporcionan las estadsticas del proyecto, como una fuente de informacin para tener claro la fecha inicio y fin del proyecto, a partir de lo cual, se puede decidir si la fecha fin es adecuada para las necesidades del negocio y entonces grabar la lnea base correspondiente, incluso se tocar el tema de establecer lnea base para actividades seleccionadas y mltiples lneas base, derivadas de cambios aprobados durante el proyecto, con esta accin se podr dar seguimiento a la ejecucin del proyecto y para determinar su xito o apego al plan se analizarn las diversas formas de registrar el avance de cada tarea, desde diferentes datos de entrada y las formas de reportarlo.
+  #### Lessons
+  - Gestin del proyecto
+  - Estadsticas del proyecto
+  - Establecer lnea base
+  - Establecer lnea base para actividades seleccionadas
+  - Mltiples lneas base
+  - Seguimiento al proyecto
+  - Registrar avance
+  - Registrar el avance de la tarea usando trabajo real
+  - Formulario Detalles de tarea
+  - Formato de uso de la tarea
+  - Programar horas extras
+  - Acelerar el proceso de actualizacin
+  - Gantt de seguimiento
+  - Estadsticas
+  - Tarea inactiva
+  - Interrupcin de la tarea
+
+
+  #### Lab &#58; Cronograma Final
+  - Cronograma Final
+
+  After completing this module, students will be able to&#58;
+  - Establecer la lnea base del cronograma, usar y aprovechar las estadsticas del proyecto, crear
+  - diferentes lneas base, registrar el avance de las tareas desde diferentes opciones y en general
+  - darle seguimiento al cronograma
+
+
+  ### Module 11&#58; Informes e impresiones
+  En el desarrollo de este mdulo, se aprendern las diversas formas para enviar informacin del proyecto, ya sea mediante la impresin total o de tareas seleccionadas o travs de informes especficos de datos que son de inters para los involucrados en el proyecto, se mostrarn las bondades de cada informe, incluyendo la escala de tiempo. Adems, se expondr como configurar el formato de las columnas, el diagrama de Gantt y ensear la forma de hacer filtros, agrupaciones y resaltado de datos, de tal forma que el seguimiento al proyecto sea mucho ms sencillo.
+  #### Lessons
+  - Imprimir
+  - Escala de Tiempo
+  - Informes
+  - Informes visuales
+  - Nuevas columnas
+  - Formato de las columnas
+  - Formato del Gantt
+  - Filtros, agrupacin, resaltado de datos
+  - Nuevos filtros
+
+
+  #### Lab &#58; Informes e impresiones
+  - Informes e impresiones
+
+  After completing this module, students will be able to&#58;
+  - Generar impresiones, informes y resmenes para comunicar el avance del proyecto y darle seguimiento
+  - de manera ms eficiente
+
+
+  ### Module 12&#58; Mltiples proyectos
+  Durante este mdulo se mostrar la forma de vincular dos archivos de proyectos, de tal forma que se puedan gestionar de manera conjunta, se presentar la forma de crear un conjunto de recursos compartidos entre los diferentes archivos con la finalidad de que se pueda conocer la carga de trabajo que cada recurso tiene en cada proyecto en el que participa y est relacionado mediante un archivo maestro, finalmente se expondr la forma en que se deben vincular las tareas de diferentes archivos para que se genere una dependencia en tareas de diferentes fuentes.
+  #### Lessons
+  - Crear un archivo maestro
+  - Insertar un subproyecto
+  - Compartir recursos
+  - Informacin sobre recursos compartidos
+  - Vincular tareas en proyectos y subproyectos
+
+
+  #### Lab &#58; Mltiples proyectos
+  - Mltiples proyectos
+
+  After completing this module, students will be able to&#58;
+  - Crear un archivo maestro para gestionar varios proyectos vinculados, compartir recursos y establecer
+  - vnculos entre las tareas de diferentes proyectos.
+
+
+  ### Module 13&#58; Temas avanzados
+  A travs de este mdulo se revisarn algunas caractersticas de personalizacin de la herramienta, tales como las diferentes tablas de control de los proyectos, incluyendo las de valor ganado y como se establece la fecha de estado del proyecto, adicionalmente, se mostrar como visualizar las lneas de progreso que marcan de manera grfica los desfases a la fecha de anlisis, a continuacin, se observarn las ventajas de la opcin de comparar versiones de los proyectos y las formas de agregar indicadores numricos y grficos para advertir el avance de cada tarea y del proyecto, finalmente se ofrecer una explicacin de como modificar los mens de accesos rpido y los mens de la cinta de opciones.
+  #### Lessons
+  - Control de proyectos
+  - Fecha de estado del proyecto
+  - Lneas de progreso
+  - Comparar versiones de proyectos
+  - Mens de acceso rpido
+  - Mens de la cinta de opciones
+  - Formulas e indicadores grficos
+  - Crear platillas
+
+
+  #### Lab &#58; Temas avanzados
+  - Temas avanzados
+
+  After completing this module, students will be able to&#58;
+  - Utilizar varias funcionalidades para controlar los proyectos como indicadores y grficos, actualizar
+  - el cronograma de manera eficiente, observar el avance del proyecto, comparar versiones y modificar
+  - los mens de acceso rpido y los mens del programa
+
+  #### Additional Reading
+  N/A

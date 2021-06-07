@@ -1,0 +1,266 @@
+### YamlMime:Course
+title: PowerShell for System Center Configuration Manager Administrators
+metadata:
+  title: 'Course 55133-B: PowerShell for System Center Configuration Manager Administrators'
+  description: 'Course 55133-B: PowerShell for System Center Configuration Manager Administrators'
+uid: course.55133
+courseNumber: '55133-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create additional site system roles on existing or new servers.
+- skill: Modify high level site settings.
+- skill: Create and modify Discovery Methods, Boundaries and Boundary Groups.
+- skill: Create Collections using any of the membership rules available.
+- skill: Delegate authority through Roles and Scopes.
+- skill: Install the Configuration Manager client, modify client settings and restrict access to site systems.
+- skill: Deploy software to clients.
+- skill: Deploy software updates to clients.
+- skill: Configure compliance settings targeted against collections.
+- skill: Modify settings that govern monitoring functions such as Alerts and Status Settings.
+- skill: Work with Task Sequences for Operating System Deployment.
+- skill: Write basic PowerShell scripts using cmdlets learned and scripting constructs to accomplish configuration tasks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  This three-day instructor-led course provides students with the knowledge and skills needed to use PowerShell for System Center Configuration Manager (SCCM) administration. In this course, students learn how to access the PowerShell cmdlets included with SCCM 1802 and use them to perform configuration tasks for a primary site. Individual cmdlets will be used in working with objects such as Boundaries, Boundary Groups, Collections, Software Deployment, Patching, Compliance Settings, OSD Task Sequences, and many others. Basic scripting will also be covered so that students can learn how to put PowerShell to use when working with large sets of objects.
+
+  #### Audience profile
+  This course is intended for IT professionals who need to manage the day-to-day environment of an SCCM 1802 or newer environment. Knowledge of the workings of a standalone primary SCCM site and basic
+  PowerShell experience is recommended.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic Windows and Active Directory knowledge.
+  - Conceptual knowledge of Configuration Manager objects and how they interact.
+  - Basic experience performing configuration tasks in SCCM using the graphical console.
+  - Experience working from a command prompt.
+  - Basic knowledge of the fundamentals of Windows PowerShell.
+outlineSection: |-
+  ### Module 1&#58; Review of System Center Configuration Manager Concepts
+  This module explains the main capabilities of a System Center Configuration Manager hierarchy. In a brief review students will learn how the various objects work together to provide the functionality delivered with SCCM 1802.
+  #### Lessons
+  - Architecture of an System Center Configuration Manager 1802 Installation
+  - Managing Assets
+  - Content Delivery and Management
+  - Security, Monitoring, and Remote Management
+
+
+  #### Lab &#58; Reviewing a Primary Site Installation
+  - Install SQL Server 2017
+  - Install Configuration Manager 1802
+  - Review the Administration Workspace
+  - Review the Assets and Compliance Workspace
+  - Looking at the Software Library
+  - Review the Monitoring Workspace
+
+  After completing this module, students will be able to&#58;
+  - Describe the key components of a System Center Configuration Manager installation.
+  - Explain the inventory and software usage monitoring functionality.
+  - Describe how the software distribution, software update, and operating system deployment features of SCCM deliver content to devices and users.
+  - Show how security roles and scopes allow for distributed administration.
+  - Obtain detailed information about system or component status, results from deployments and overall SCCM monitoring.
+  - Explain the remote management functionality.
+
+
+  ### Module 2&#58; Managing Resources
+  This module explains how to use PowerShell cmdlets to work with resources. Topics include configuring discovery methods, creating and modifying Boundaries and Boundary Groups, and working with Collections. On-demand and scheduled collection membership evaluation settings will also be discussed.
+  #### Lessons
+  - Implementing Discovery
+  - Organizing Resources with Collections
+  - Working with Boundaries
+
+
+  #### Lab &#58; Configuring Discovery, Collections and Boundaries
+  - Configuring Discovery
+  - Creating Collections
+  - Working with Boundaries and Boundary Groups
+
+  After completing this module, students will be able to&#58;
+  - Obtain details on the discovery methods configured in your site and make modifications to those methods.
+  - Invoke an on-demand discovery cycle.
+  - Create and populate device and user collections.
+  - Gather details on collection memberships and force immediate collection membership evaluation.
+  - Manually create site boundaries and configure discovery to automate boundary creation.
+  - Create, populate and modify boundary groups.
+
+
+  ### Module 3&#58; Working with Clients
+  This module explains how to configure the software distribution functionality, create and modify software packages and applications, establish Global Conditions for use with Requirement Rules, and work with Distribution Points and Distribution Point Groups.
+  #### Lessons
+  - Installing the Configuration Manager Client
+  - Managing Client Settings
+  - Managing Client Operations
+  - Monitoring Client Status
+
+
+  #### Lab &#58; Utilizing PowerShell to Manage Clients
+  - Install the Configuration Manager client
+  - Managing Client Settings
+  - Managing Client Operations
+  - Monitoring Client Status
+
+  After completing this module, students will be able to&#58;
+  - Configure the client push installation method.
+  - Perform a client installation using a client push installation.
+  - Manage the default client settings.
+  - Create, modify and deploy custom client device and user settings.
+  - Notify clients of policy changes and manage client operations.
+  - Configure client status settings and refresh client status statistics.
+
+  ### Module 4&#58; Distributing Software
+  This module explains how to use the PowerShell cmdlets to create and configure the integration of SCCM and WSUS using a Software Update Point. It also describes how to create and modify Software Update Groups and Automatic Deployment Rules. Cmdlets are also used to manage Deployment Packages and their associated Deployments.
+  #### Lessons
+  - Configure the Software Distribution Components
+  - Working with Distribution Points
+  - Creating Content for Distribution
+  - Deploying Software Applications
+
+
+  #### Lab &#58; Using Cmdlets to Publish Content
+  - Extending the Infrastructure
+  - Configuring a Legacy Package for Distribution
+  - Deploying a Windows Installer Application
+  - Implementing New Features of Configuration Manager
+
+  After completing this module, students will be able to&#58;
+  - Configure the software distribution component.
+  - Create and modify on-premises distribution points.
+  - Create software packages and programs.
+  - Create applications and deployment types.
+  - Transfer or refresh the content on distribution points.
+  - Implement new features of the application model of Configuration Manager 1802.
+  - Deploy software programs and applications.
+  Configure a simulated application deployment.
+
+  ### Module 5&#58; Updating Systems with WSUS and SCCM
+  This module explains how to use PowerShell cmdlets to create and manage Configuration Items and
+  Baselines, as well as VPN, Remote Connection, User Profile, and Wireless Configuration Items. Deployment of Baselines is also discussed.
+  #### Lessons
+  - Integrating Configuration Manager and WSUS
+  - Managing Updates through Software Update Groups
+  - Creating and Deploying Update Packages
+  - Working with Automatic Deployment Rules
+
+
+  #### Lab &#58; Using Configuration Manager Cmdlets to Manage Software Updates
+  - Preparing the Environment for Software Updates
+  - Deploy Updates
+  - Create an Automatic Deployment Rule
+
+  After completing this module, students will be able to&#58;
+  - Link Windows Server Update Services and System Center Configuration Manager 1802 by creating a Software Update Point.
+  - Synchronize updates between WSUS and SCCM.
+  - Gather information on updates and organize them into software update groups.
+  - Create and manage software update deployments.
+  - Create automatic deployment rules.
+
+  ### Module 6&#58; How PowerShell Can Manage Compliance Settings
+  This module explains how to take advantage of the PowerShell cmdlets wth SCCM to configure the
+  Operating System Deployment function. It also describes how to configure Drivers and Driver Packages, Boot Images, Operating System Images and Task Sequences. Deployment of Task Sequences to Collections is also covered.
+  #### Lessons
+  - Creating Compliance Settings Objects
+  - Deploying and Monitor the Baseline
+
+
+  #### Lab &#58; How PowerShell Can Manage Compliance
+  - Creating Compliance Settings Objects
+  - Deploy and Monitor the Baseline
+
+  After completing this module, students will be able to&#58;
+  - Create and modify configuration items.
+  - Create, populate and deploy configuration baselines.
+  - Establish a baseline compliance summarization schedule.
+  - Force an immediate baseline compliance summarization.
+
+
+  ### Module 7&#58; Configuring Operating System Deployment Objects
+  This module explains how to use PowerShell to manage devices with a Configuration Manager client. Topics include installing the client software, invoking client actions, modifying client settings and changing the status of clients. The module also describes how to set a client device variable, deploy new settings to the client, and refresh client status results.
+  #### Lessons
+  - Preparing the OSD Environment
+  - Working with Task Sequences
+
+
+  #### Lab &#58; Operating System Deployment with Windows PowerShell
+  - Creating Required OSD Objects
+  - Prepare the Task Sequence
+
+  After completing this module, students will be able to&#58;
+  - Create and modify boot images.
+  - Import drivers into your site.
+  - Create and populate driver packages.
+  - Create operating system images and operating system installer images.
+  - Create, modify and deploy task sequences.
+
+
+  ### Module 8&#58; Working at the Site Level
+  This module explains how to manage site level configurations such as adding site system roles and creating Secondary sites. It also describes how to setup email notification for alerts and modify the hierarchy settings.
+  #### Lessons
+  - Modify the Site
+  - Adding Site System Roles
+  - Adding a Secondary Site
+
+
+  #### Lab &#58; Modifying Site Settings
+  - Modifying the Site Configuration
+  - Adding Site System Roles
+
+  After completing this module, students will be able to&#58;
+  - Modify the properties of a primary site.
+  - Configure Wake On LAN.
+  - Modify site maintenance tasks.
+  - Configure email notification for alerts.
+  - Add additional site system roles.
+  - Deploy a secondary site.
+
+
+  ### Module 9&#58; Security and Monitoring
+  This module explains how to use cmdlets to implement role based administration through security roles and scopes. It also describes how Endpoint Protection policies can be configured and deployed. The module also explains various monitoring functions available through PowerShell such as Alerts, Status Filter Rules, Status Summarizers, Status Message Queries and Alert Subscriptions.
+  #### Lessons
+  - Configuring Role Based Administration
+  - Implementing Endpoint Protection
+  - Configuring Monitoring Options
+
+
+  #### Lab &#58; Implementing Security and Monitoring
+  - Configuring Role Based Administration
+  - Configuring Anti-Malware Protection
+  - Modifying Monitoring Options
+
+  After completing this module, students will be able to&#58;
+  - Copy and modify security roles.
+  - Create security scopes.
+  - Create administrative users.
+  - Add security roles and scopes to administrative users.
+  - Create an Endpoint Protection Point site system role.
+  - Create, modify and deploy antimalware policies.
+  - Start an on-demand antimalware scan.
+  - Modify the scan results summarization schedule and force immediate summarization.
+  - Modify status summarizers.
+  - Create status filter rules.
+  - Create and manage in-console alerts and alert subscriptions.
+  - Create and manage status message queries.
+
+
+  ### Module 10&#58; Using PowerShell Scripting to Automate SCCM Tasks
+  This module explains how to use constructs such as if, switch, foreach, and for alongside cmdlets to create scripts that automate various Configuration Manager tasks.
+  #### Lessons
+  - Review of Scripting Constructs
+  - Introduction to the Configuration Manager WMI Classes
+
+
+  #### Lab &#58; Writing Scripts for Configuration Manager Activities
+  - Establishing the Infrastructure
+  - Deploy Software
+  - Run the Full Script
+
+  After completing this module, students will be able to&#58;
+  - Write PowerShell scripts to automate SCCM tasks
+
+  #### Additional Reading
+  To help you prepare for this class, review the following resources&#58;
+  - None

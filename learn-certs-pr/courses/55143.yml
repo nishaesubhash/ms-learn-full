@@ -1,0 +1,196 @@
+### YamlMime:Course
+title: 'Microsoft Office Excel 2010: Basic Workbooks, Formulas, and Functions'
+metadata:
+  title: 'Course 55143-A: Microsoft Office Excel 2010: Basic Workbooks, Formulas, and Functions'
+  description: 'Course 55143-A: Microsoft Office Excel 2010: Basic Workbooks, Formulas, and Functions'
+uid: course.55143
+courseNumber: '55143-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate the Excel 2010 user interface and work with common Excel tools and features.
+- skill: Perform calculations on worksheet data.
+- skill: Modify worksheets.
+- skill: Format worksheets.
+- skill: Print workbooks.
+- skill: Manage workbooks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This course presents students with the fundamental knowledge and skills necessary to store and analyze data using Microsoft Office Excel 2010.
+
+  #### Audience profile
+  This course presents students with the fundamental knowledge and skills necessary to store and analyze data using Microsoft Office Excel 2010.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience using personal computers with a keyboard and a mouse.
+  - Experience working in the Windows 7 environment.
+  - The ability to manage information using Windows 7.
+  - Experience opening and closing applications, navigating basic file structures, and managing files and folders.
+outlineSection: |-
+  ### Module 1&#58; Getting Started with Microsoft Office Excel 2010
+  So, you want to use Microsoft Office Excel 2010 to store and analyze data for your organization. But, you’re new to Excel and it’s hard to know where to begin. In order to take advantage of everything Excel has to offer, you must first understand the lay of the land. How do you interact with Excel? What, precisely, can it do? How do you get Excel to do these things for you? These are questions you likely have in mind. It is precisely these types of questions this module aims to answer.
+  
+  Like many Microsoft Office applications, Excel has a standard layout that provides you with access to all of the commands, work areas, options, and settings you will need to begin developing and using electronic worksheets in you daily work life. Taking the time to become familiar with Excel’s layout, its various parts, its commands, and its terminology is a critical first step toward your goal of storing and analyzing organizational data.
+  #### Lessons
+  - Navigate the Excel User Interface
+  - Use Excel Commands
+  - Create and Save a Basic Workbook
+  - Enter Cell Data
+  - Use Excel Help
+
+
+  #### Lab &#58; Use Excel Help
+
+  #### Lab &#58; Using Excel Commands
+
+  #### Lab &#58; Creating and Saving a Basic Workbook
+
+  #### Lab &#58; Entering Cell Data
+
+  #### Lab &#58; Using Excel Help
+
+  After completing this module, students will be able to&#58;
+
+  - Navigate the Excel user interface.
+  - Use Excel commands.
+  - Create and save a basic workbook.
+  - Enter cell data.
+  - Use Excel Help.
+
+
+  ### Module 2&#58; Performing Calculations
+  So far, you have navigated the Excel environment, created and saved basic workbooks, and entered data into cells. Additionally, you have used the Excel Help system to start finding answers to your Excel-related questions. So, now what? You know the true power of Excel lies in its ability to help you analyze your organizational data. But, you may not quite know how to transform your raw data into actionable business intelligence. Excel contains an incredible array of functionality to help you do this. And, like many other business and organizational tasks, getting started boils down to just some basic math. 
+  
+  It should come as no surprise that most people no longer use a pencil and paper to perform calculations. There are numerous pitfalls you can avoid by having a machine perform your calculations for you. Fortunately, Excel offers you this and a host of other benefits when you let it crunch your numbers. In order to take full advantage of everything Excel can do for you, you must first understand how Excel thinks, what it can do for you, and how to tell it what to do. In this lesson, you'll begin to do just that.
+  #### Lessons
+  - Create Worksheet Formulas
+  - Insert Functions
+  - Reuse Formulas
+
+
+  #### Lab &#58; Creating Worksheet Formulas
+
+  #### Lab &#58; Inserting Functions
+
+  #### Lab &#58; Reusing Formulas
+
+  After completing this module, students will be able to&#58;
+
+  - Create worksheet formulas.
+  - Insert functions.
+  - Reuse formulas.
+
+
+  ### Module 3&#58; Modifying a Worksheet
+  From time to time, you'll need to make changes to your worksheets and workbooks. But, what if those changes go beyond simply re-entering a formula or updating a value? What if you need to add a whole new column or row to your worksheet? What if that column or row is in the middle of existing data? What if you discover you've made the same mistake over and over? Or, what if you need to check your spelling throughout all worksheets in a workbook? 
+  
+  These days, changes occur rapidly. You'll need to be able to react quickly to keep your workbooks and your worksheet data up-to-date and accurate. And you don't want to waste any of the effort you've already put into developing your workbooks to do so. This is why, Excel 2010 provides you with a wide variety of options for making significant changes to your worksheets. Understanding how this functionality works will help you keep your documents updated without compromising all of the valuable work you've already done.
+  #### Lessons
+  - Insert, Delete, and Adjust Cells, Columns, and Rows
+  - Search for and Replace Data
+  - Use Proofing and Research Tools
+
+
+  #### Lab &#58; Adjusting Cells, Columns, and Row
+
+  #### Lab &#58; Searching for and Replacing Data
+
+  #### Lab &#58; Checking the Spelling in a Worksheet
+
+  After completing this module, students will be able to&#58;
+
+  - Insert, delete, and adjust cells, columns, and rows.
+  - Search for and replace data.
+  - Use proofing and research tools.
+
+
+  ### Module 4&#58; Formatting a Worksheet
+  The ability to enter your data into Excel worksheets and to use Excel's powerful mathematical capabilities to your advantage forms the foundation you'll need to extract actionable intelligence from your organizational data. But, Excel can also help you do so much more. Large worksheets with thousands, or perhaps millions, of data entries can be difficult to read. This can be especially true if you're working with a variety of numeric data types, such as dollar amounts, percentages, and figures with varied numbers of decimal places. Plus, you may need to organize your data according to department, region, job role, or other important distinctions. And, some data is simply more important than other data and should stand out even at first glance. In other words, you could potentially have a limitless need to present data in a wide variety of formats. Fortunately, Excel 2010 allows you to do just that.
+  
+  Excel provides you with a staggering variety of formatting options that can help you present your data in precisely the right way to suit your needs. Understanding how to use, and, perhaps more importantly, when and why to use these formatting options will help you make your worksheets easy to read, professional in their appearance, and simply more useful. Additionally, you can avoid the hassle of the wasted time, frustration, and headaches that can accompany trying to force data to behave the way you want it to when it's not properly formatted.
+  #### Lessons
+  - Modify Fonts
+  - Add Borders and Colors to Worksheets
+  - Apply Number Formats
+  - Align Cell Contents
+  - Apply Styles and Themes
+  - Apply Basic Conditional Formatting
+  - Modifying Fonts and Adding Hyperlinks
+
+
+  #### Lab &#58; Modifying Fonts and Adding Hyperlinks
+
+  #### Lab &#58; Adding Borders and Colors to Worksheets
+
+  #### Lab &#58; Applying Number Formats
+
+  #### Lab &#58; Aligning Cell Contents
+
+  #### Lab &#58; Applying Styles and Themes
+
+  #### Lab &#58; Applying Basic Conditional Formatting
+
+  #### Lab &#58; Creating a Template
+
+  After completing this module, students will be able to&#58;
+
+  - Modify fonts.
+  - Add borders and colors to worksheets.
+  - Apply number formats.
+  - Align cell contents.
+  - Apply styles and themes.
+  - Apply basic conditional formatting.
+  - Create and use templates.
+
+
+  ### Module 5&#58; Printing Workbooks
+  You put a lot of hard work into creating, populating, and formatting your workbook. Now it's time to share the final product with your colleagues, supervisor, or organizational leaders. In some cases, you may simply need to email your workbook file to the necessary recipients or project it in front of a live audience, but this will not always be the case. For any number of reasons, you may need to print hard copies of your workbooks to share with others. Your workbooks may contain multiple worksheets, each of which could contain thousands of data entries, formulas, and results. Do you really want to print that many pages to distribute to your audience? What information should you include and what do you do if you need to print a bit from here and a bit from there? 
+  
+  Fortunately, Excel provides you with a wide array of options when it comes to printing hard copies of your workbooks. Understanding how to set your worksheets up for printing and how to print only what you need will allow you to deliver only the necessary critical information to your audience. This will not only save your organization paper and money, but it will also prevent your document recipients from having to sift through excessive amounts of irrelevant data.
+  #### Lessons
+  - Preview and Print a Workbook
+  - Configuring and Previewing a Print Job
+
+
+  #### Lab &#58; Configuring and Previewing a Print Job
+
+  #### Lab &#58; Defining the Page Layout
+
+  After completing this module, students will be able to&#58;
+
+  - Preview and print a workbook.
+  - Define the page layout.
+
+
+  ### Module 6&#58; Managing Workbooks
+  So far, you have largely worked within workbooks and worksheets to enter, view, analyze, format, and present your organizational data. But there's more to being proficient in Excel than simply working within your workbooks. What if you need to add or remove worksheets from your workbooks? What if you want to preserve certain data, but not display it to colleagues or supervisors? Perhaps you need to work with multiple workbooks or multiple worksheets within a single workbook simultaneously. And, after a time, there's a good chance you'll have amassed a large number of workbook files that you'll need to reference later, perhaps even years down the road. These are but a few of the situations in which you'll need to know how to manage your Excel workbooks.
+  
+  Managing the overall structure of your workbooks, manipulating how you view your workbooks, and knowing how to find the workbook you need when you need it are all critical tasks you'll need to perform from time to time. Understanding what functionality is available and knowing how to use it when you need it will ensure that you're able to get the most out of the workbooks, worksheets, and data you've already worked so hard to create.
+  #### Lessons
+  - Manage Worksheets
+  - Manage Workbook and Worksheet Views
+  - Managing Worksheets
+
+
+  #### Lab &#58; Managing Worksheets
+
+  #### Lab &#58; Managing Workbook and Worksheet View
+
+  #### Lab &#58; Managing Workbook Properties
+
+  After completing this module, students will be able to&#58;
+
+  - Manage worksheets.
+  - Manage workbook and worksheet views.
+  - Manage workbook properties.
+
+  #### Additional Reading
+  None

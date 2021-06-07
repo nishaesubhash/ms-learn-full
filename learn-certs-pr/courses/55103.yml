@@ -1,0 +1,152 @@
+### YamlMime:Course
+title: Creating and Sharing Interactive Dashboards with PowerPivot, Power View and SharePoint Server
+metadata:
+  title: 'Course 55103-A: Creating and Sharing Interactive Dashboards with PowerPivot, Power View and SharePoint Server'
+  description: 'Course 55103-A: Creating and Sharing Interactive Dashboards with PowerPivot, Power View and SharePoint Server'
+uid: course.55103
+courseNumber: '55103-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand how to develop multiple dashboards.
+- skill: Understand how to change deployed dashboards.
+- skill: Understand how to provide interactive help for dashboards.
+- skill: Understand how to monitor dashboard utilization.
+- skill: Understand how to control dashboard updates.
+- skill: Understand how to import data.
+- skill: Understand how to relate data.
+- skill: Understand how to enrich data.
+- skill: Understand how to use time calculations.
+- skill: Source data.
+- skill: Understand tabular data.
+- skill: Understand visual data.
+- skill: Understand linked tables.
+- skill: Create a dashboard.
+- skill: Understand how to add drillthrough.
+- skill: Understand visualizations in Power View.
+- skill: Add interactivity.
+- skill: Understand how to deploy to SharePoint.
+- skill: Understand automatic data refresh.
+- skill: Share using SharePoint Excel Services.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  In this course students will learn how to create and share interactive dashboards using Excel PowerPivot, Power View and SharePoint. Students will walk through the development of a dashboard project with the steps, concepts, formulas, and functions that are used explained in detail.
+
+  #### Audience profile
+  This course is targeted at Business Intelligence developers and Power Users that are currently, or are in process of, developing Excel dashboards.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience installing PC hardware and devices.
+  - Basic understanding of TCP/IP and networking concepts.
+  - Basic Windows and Active Directory knowledge.
+  - The skills to map network file shares.
+  - Experience working from a command prompt.
+  - Basic knowledge of the fundamentals of applications. For example, how client computer applications communicate with the server.
+  - Basic understanding of security concepts such as authentication and authorization.
+  - An understanding of the fundamental principles of using printers.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  After completing this module, students will be able to&#58;
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Dashboard Principles
+  #### Lessons
+  - Develop Multiple Dashboards
+  - Change Deployed Dashboards
+  - Provide Interactive Help For Your Dashboards
+  - Monitor Dashboard Utilization
+  - Control Dashboard Updates
+
+
+  After completing this module, students will be able to&#58;
+
+  - Understand how to develop multiple dashboards.
+  - Understand how to change deployed dashboards.
+  - Understand how to provide interactive help for dashboards.
+  - Understand how to monitor dashboard utilization.
+  - Understand how to control dashboard updates.
+
+
+  ### Module 3&#58; Sourcing the Data
+  #### Lessons
+  - Importing Data
+  - Relating Data
+  - Enriching Data
+  - Time Calculations
+
+
+  #### Lab &#58; Sourcing the Data
+
+  After completing this module, students will be able to&#58;
+
+  - Understand how to import data.
+  - Understand how to relate data.
+  - Understand how to enrich data.
+  - Understand how to use time calculations.
+  - Source data.
+
+
+  ### Module 4&#58; Creating the Excel Dashboard
+  #### Lessons
+  - Tabular Data
+  - Visual Data
+  - Linked Tables
+
+
+  #### Lab &#58; Creating the Excel Dashboard
+
+  After completing this module, students will be able to&#58;
+
+  - Understand tabular data.
+  - Understand visual data.
+  - Understand linked tables.
+  - Create a dashboard.
+
+
+  ### Module 5&#58; Adding Interactivity
+  #### Lessons
+  - Adding Drillthrough
+  - Visualizations with Power View
+
+
+  #### Lab &#58; Adding Interactivity
+
+  After completing this module, students will be able to&#58;
+
+  - Understand how to add drillthrough.
+  - Understand visualizations in Power View.
+  - Add interactivity.
+
+
+  ### Module 6&#58; Sharing with SharePoint Excel Services
+  #### Lessons
+  - Deploy to SharePoint
+  - Automatic Data Refresh
+
+
+  #### Lab &#58; Sharing with SharePoint Excel Services
+
+  After completing this module, students will be able to&#58;
+
+  - Understand how to deploy to SharePoint.
+  - Understand automatic data refresh.
+  - Share using SharePoint Excel Services.

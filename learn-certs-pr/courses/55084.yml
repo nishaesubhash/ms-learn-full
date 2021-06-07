@@ -1,0 +1,191 @@
+### YamlMime:Course
+title: Excel 2013 Self-Service Analytics with No Code for the End User
+metadata:
+  title: 'Course 55084-A: Excel 2013 Self-Service Analytics with No Code for the End User'
+  description: 'Course 55084-A: Excel 2013 Self-Service Analytics with No Code for the End User'
+uid: course.55084
+courseNumber: '55084-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore SharePoint 2013 interface
+- skill: Understand pivot tables (optional)
+- skill: Explore the PowerPivot user interface
+- skill: Import data
+- skill: Import large datasets
+- skill: Import data with a query
+- skill: Create relationships
+- skill: Create a cascading relationship
+- skill: Create a relationship between tables from different sources
+- skill: Hide columns, change data types, sort, and filter
+- skill: Create and configure calculated columns and calculated fields
+- skill: Add a calculated field from the pivot table
+- skill: Filter context using one table
+- skill: Understand row context and dynamic selection
+- skill: Use FILTER function
+- skill: Use CALCULATE function
+- skill: Build a date table
+- skill: Relate a table to an Excel calendar table
+- skill: Create and configure Time Intelligence
+- skill: Create and configure perspectives
+- skill: Create and configure hierarchies
+- skill: Create and configure KPIs
+- skill: Create a report using Power View
+- skill: Explore and connect to data sources using Power Query
+- skill: Extract, transform, and load data using Power Query
+- skill: Perform online searches
+- skill: Managing data sources and queries
+- skill: Create and configure a Power Map report
+- skill: Create and configure a Tour
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This course is designed for the end users and analysts that are interested in exploring the new self-service business intelligence tools in Excel and SharePoint Server 2013.
+  Videos  
+  Included with the course and intended for you to take away are videos of each of the critical lessons taught in the course.
+
+  #### Audience profile
+  This course is intended for all business professionals including IT professional, developers, managers, project leads, project managers, and team leads, but we do not expect coding skills, just thinking skills!
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience working with Excel.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; Microsoft Business Intelligence Vision
+  #### Lessons
+  - What is Business Intelligence?
+  - Enterprise Business Intelligence
+  - Team Business Intelligence
+  - Self-Service Business Intelligence
+
+
+  #### Lab &#58; Microsoft Business Intelligence Vision
+  After completing this module, students will be able to&#58;
+  - Explore SharePoint 2013 interface.
+
+
+  ### Module 3&#58; Excel 2013 PowerPivot
+  In this module we will explore PowerPivot and its analytical capabilities. PowerPivot is a data analysis add-on for Microsoft Excel that allows large amounts of data to be collected, aggregated, and analyzed in one workbook. Sound powerful? It is! We’ll cover everything you need to know to get you up, running, and analyzing.
+  #### Lessons
+  - Best Things That PowerPivot Brings to Excel
+  - What Will PowerPivot Do for the Analyst?
+  - Introduction to PivotTables (Optional)
+  - PowerPivot Versions
+  - New 2013 PowerPivot Features
+  - VLOOKUP Not Required (Use Relationships)
+  - Architectural Changes in Excel 2013
+  - PowerPivot and Excel 2013
+  - PowerPivot and SharePoint
+  - Enterprise Business Intelligence and PowerPivot
+  - Importing Data
+  - Data Models
+  - Relationships
+  - Simple PivotTable Reports
+  - Calculated Columns and Calculated Fields
+  - Refreshing Data
+  - Calculations
+  - SharePoint Sharing
+
+
+  #### Lab &#58; Excel 2013 PowerPivot
+  After completing this module, students will be able to&#58;
+  - Understand pivottables (optional).
+  - Explore the PowerPivot user interface.
+  - Import data.
+  - Import large datasets.
+  - Import data with a query.
+  - Create relationships.
+  - Create a cascading relationship.
+  - Create a relationship between tables from different sources.
+  - Hide columns, change data types, sort, and filter.
+  - Create and configure calculated columns and calculated fields.
+  - Add a calculated field from the pivottable.
+  - Filter context using one table.
+  - Understand row context and dynamic selection.
+  - Use FILTER function.
+  - Use CALCULATE function.
+  - Build a date table.
+  - Relate a table to an Excel calendar table.
+  - Create and configure Time Intelligence.
+  - Create and configure perspectives.
+  - Create and configure hierarchies.
+  - Create and configure KPIs.
+
+
+  ### Module 4&#58; Power View
+  In this module we will cover Power View and the reporting that can be created. From tables to charts and sharing on SharePoint, this module will have you ready to visualize your data in a variety of ways.
+  #### Lessons
+  - Report Design Principles
+  - New 2013 Power View Features
+  - Microsoft Power View User Interface
+  - Tables
+  - Charts
+  - BI Semantic Models
+  - Saving and Sharing
+
+
+  #### Lab &#58; Power View
+  After completing this module, students will be able to&#58;
+  - Create a report using Power View.
+
+
+  ### Module 5&#58; Power Query
+  This module explains how to use Power Query effectively.
+  #### Lessons
+  - Power Query and Power Query Formulas
+  - ETL with Power Query
+  - Online Search
+  - Data Refresh
+  - Managing Data Sources and Queries
+
+
+  #### Lab &#58; Power Query
+  After completing this module, students will be able to&#58;
+  - Explore and connect to data sources using Power Query.
+  - Extract, transform, and load data using Power Query.
+  - Perform online searches.
+  - Managing data sources and queries.
+
+
+  ### Module 6&#58; Power Map
+  This module explores Power Map, a new 3D visualization add-in for mapping, exploring, and interacting with geographical and temporal data, enabling users to discover and share new insights.
+  #### Lessons
+  - What is Power Map and How Does It Work?
+  - Data Visualizations and 3D Mapping Using Power Map
+  - What is a Tour?
+
+
+  #### Lab &#58; Power Map
+  After completing this module, students will be able to&#58;
+  - Create and configure a Power Map report.
+  - Create and configure a Tour.
+
+
+  ### Module 7&#58; Summary Lab Exercises
+  This module includes concept reinforcement scenarios to encourage students to use what they’ve learned throughout this course. Scenario solutions are provided.
+  #### Lessons
+  - Summary  Scenario xx
+  - Summary  Scenario xx
+  - Summary  Scenario xx
+
+
+  #### Lab &#58; Summary Lab Solutions

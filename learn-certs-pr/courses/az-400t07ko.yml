@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: DevOps 전략 설계
+metadata:
+  title: 'Course AZ-400T07KO-A: DevOps 전략 설계'
+  description: 'Course AZ-400T07KO-A: DevOps 전략 설계'
+uid: course.az-400t07ko
+courseNumber: 'AZ-400T07KO-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 동일한 목표 및 일정을 사용하여 변환을 계획합니다.
+- skill: 프로젝트를 선택하고 프로젝트 메트릭 및 KPI를 식별합니다.
+- skill: 팀 및 Agile 조직 구조를 만듭니다.
+- skill: 프로젝트 품질 전략을 개발합니다.
+- skill: 안전한 개발 관행 및 규정 준수 규칙을 계획합니다.
+- skill: 아티팩트를 마이그레이션하고 통합합니다.
+- skill: 소스 제어 방법을 마이그레이션하고 통합합니다.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- intermediate
+roles:
+- devops-engineer
+products:
+- azure
+summary: |-
+  이 과정에서는 DevOps 전략을 설계하기 위한 지식과 기술을 제공합니다. 변환을 계획하는 방법, 프로젝트를 선택하는 방법 및 팀 구조를 만드는 방법을 학습합니다. 또한 품질 및 보안 전략을 개발하는 방법을 학습합니다. 이 과정에서는 아티팩트 및 소스 제어의 마이그레이션 및 통합을 계획하는 방법도 다룹니다.
+
+  #### Audience profile
+  이 과정은 DevOps Projects를 계획하는 데 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험을 통과해야 하는 학생들을 대상으로 합니다.
+prerequisitesSection: |-
+  - 수강생은 Azure, 버전 제어, Agile 소프트웨어 개발 및 핵심 소프트웨어 개발 원칙에 대한 기본 지식을 가지고 있어야 합니다. 소프트웨어를 제공하는 조직에서 근무한 경험이 도움이 될 수 있습니다.
+  - 또한 Azure Portal에 대한 지식에 더해 IDE 작업 경험이 있는 것이 좋습니다. 이러한 기술에 대한 기술적 배경 지식은 없지만 문화적 변화로서의 DevOps 관행에 관심이 있는 경우라면 연속 통합의 절차 및 정의에 관한 설명을 이해할 수 있는 수준이어야 합니다.
+outlineSection: |-
+  ### 모듈 1&#58; DevOps 계획
+  이 모듈에서는 변환 계획, 프로젝트 선택 및 팀 구조에 대해 학습합니다.
+  #### 과목
+  - 변환 계획
+  - 프로젝트 선택
+  - 팀 구조
+
+
+  ### 연습실 &#58; Azure Boards를 통한 Agile 계획 및 포트폴리오 관리
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 동일한 목표 및 일정을 사용하여 변환을 계획합니다.
+  - 프로젝트를 선택하고 프로젝트 메트릭 및 KPI를 식별합니다.
+  - 팀 및 Agile 조직 구조를 만듭니다.
+
+
+  ### 모듈 2&#58; 품질 및 보안 계획
+  이 모듈에서는 품질 전략을 개발하고 안전한 개발을 계획하는 방법을 학습합니다.
+  #### 과목
+  - 품질 전략 계획
+  - 안전한 개발 계획
+
+
+  ### 연습실 &#58; LaunchDarkly 및 AzureDevOps를 통한 기능 플래그 관리
+  이모듈을완료하면다음과같은역량을갖추게됩니다.
+  - 프로젝트품질전략을개발합니다.
+  - 안전한개발관행및규정준수규칙을계획합니다.
+
+
+  ### 모듈 3&#58; 아티팩트 및 도구 마이그레이션 및 통합
+  이 모듈에서는 아티팩트의 마이그레이션 및 통합과 소스 제어 방법의 마이그레이션 및 통합에 대해 학습합니다.
+  #### 과목
+  - 아티팩트 마이그레이션 및 통합
+  - 소스 제어 마이그레이션 및 통합
+
+
+  ### 연습실 &#58; Azure Repos 및 Azure Pipelines와 Eclipse 통합
+  이 모듈을 완료하면 다음과 같은 역량을 갖추게 됩니다.
+  - 아티팩트를 마이그레이션하고 통합합니다.
+  - 소스 제어 방법을 마이그레이션하고 통합합니다.

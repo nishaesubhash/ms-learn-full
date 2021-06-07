@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Microsoft SharePoint Server Content Management for SharePoint 2013 and 2016
+metadata:
+  title: 'Course 55198-A: Microsoft SharePoint Server Content Management for SharePoint 2013 and 2016'
+  description: 'Course 55198-A: Microsoft SharePoint Server Content Management for SharePoint 2013 and 2016'
+uid: course.55198
+courseNumber: '55198-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Plan, organize and manage SharePoint content.
+- skill: Configure and use SharePoint library features such as versioning, content approval and validation.
+- skill: Create and manage metadata.
+- skill: Create, distribute and use Site Columns and Content Types.
+- skill: Configure and use Auditing and Retention.
+- skill: Configure and use library organization features such as Folders, View, Document Sets and the Content Organizer.
+- skill: Choose and configure automation features such as workflows and alerts.
+- skill: Plan for, configure and use SharePoint’s Record Management features.
+- skill: Improve the end user search experience for libraries.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This two-day instructor-led is intended for SharePoint Site Owners and Content Owners. In this course, students learn how to configure and use SharePoint’s library content management features.
+
+  #### Audience profile
+  - SharePoint end users
+  - SharePoint Site Owners and Power
+  - SharePoint administrators and developers
+  - SharePoint Governance Team members
+prerequisitesSection: |-
+  - Attended a SharePoint Site Owners class or have strong SharePoint Site Owner / Site Collection Administrator experience.
+  - Knowledge of their business requirements for content, records and governance.
+outlineSection: |-
+  ### Module 1&#58; SharePoint Content Management
+  This module supplies an overview of SharePoint content management features and a review of SharePoint security.
+  #### Lessons
+  - SharePoint’s Content Management Features
+  - SharePoint Security
+  - Sharing SharePoint Content
+  - SharePoint Sync
+
+
+  #### Lab &#58; SharePoint Security and Sync Configuration
+  - Securing a Library
+  - Working with Users and Groups
+  - Managing Share and Sync
+
+  After completing this module, students will be able to&#58;
+  - Describe the SharePoint Content Management Features.
+  - Configure List and Library Security.
+  - Understand the risks of “Share” and “Sync”.
+
+
+  ### Module 2&#58; Library Configuration
+  This module explains how to create and configure SharePoint libraries. Here, we will review and expand on topics covered in typical Site Owner training.
+  #### Lessons
+  - Versioning
+  - Content Approval
+  - Check Out/In
+  - Ratings and Likes
+  - Column and Item Validation Settings
+  - RSS and Incoming Email
+
+
+  #### Lab &#58; Library Configuration
+  - Create and Configure a “Products” Library
+  - Exploring Library Features
+  - Uploading Content
+
+  After completing this module, students will be able to&#58;
+  - Create and configure libraries.
+
+
+  ### Module 3&#58; Metadata and Taxonomy
+  In this module we will explore the concepts of metadata and a formal taxonomy. We will explore Managed Metadata Services from the farm level and the site level.
+  #### Lessons
+  - Definitions!
+  - Who Creates and Manages Your Taxonomy?
+  - Using Metadata
+  - The Managed Metadata Service
+  - Enterprise Metadata and Keywords Settings
+
+
+  #### Lab &#58; Metadata and Taxonomy
+  - Working with Ad Hoc Columns
+  - Working with Choice, Lookup and Metadata Columns
+  - Creating and Using Term Sets
+  - Configuring Library Metadata Options
+
+  After completing this module, students will be able to&#58;
+  - Describe SharePoint Metadata and Taxonomy features.
+  - Create and Consume Managed Metadata Term Sets.
+
+
+  ### Module 4&#58; Site Columns and Content Types
+  This module explains how to formalize, standardize and automate the collection of metadata by using Site Columns and Content Types.
+  #### Lessons
+  - Working with Site Columns and Content Types
+  - Site Columns
+  - Content Types
+  - The Content Type Hub
+
+
+  #### Lab &#58; Site Columns and Content Types
+  - Creating and using Site Columns
+  - Creating and using Content Types
+  - Working with the Content Type Hub
+
+  After completing this module, students will be able to&#58;
+  - Define, and know when to use, Site Columns and Content Types.
+  - Manage content using Site Columns and Content Types.
+  - Centrally manage Content Types using a Content Type Hub.
+
+
+  ### Module 5&#58; Auditing and Retention Policies
+  This module explores the Information Management Policies features, including activity auditing and document retention policies.
+  #### Lessons
+  - Information Management Policy Settings
+  - Creating a Site Collection Policy template
+  - Configuring Document Retention
+  - Configuring Document Auditing
+  - Creating Policies for a List or Library
+  - List and Document Activity Reports
+
+
+  #### Lab &#58; Auditing and Retention Policies
+  - Configuring Information Management Policy Settings for a Library
+  - Configuring Information Management Policy Settings for a Content Type
+  - Using List and Document Activity Reports
+
+  After completing this module, students will be able to&#58;
+  - Describe SharePoint’s features for auditing and retention policies.
+  - Configure Information Management Policy Settings for a Library or Content Type.
+  - Use List and Document Activity Reports.
+
+
+  ### Module 6&#58; Organizing Content
+  This module explains how organize and manage large libraries.
+  #### Lessons
+  - Folders
+  - Views
+  - Document Sets
+  - The Content Organizer
+
+
+  #### Lab &#58; Organizing Content
+  - Working with Folders and Views
+  - Creating a Custom Document Set
+  - Configuring the Content Organizer to move documents
+
+  After completing this module, students will be able to&#58;
+  - Know when to use folders vs. views.
+  - Create custom Document Sets.
+  - Work with the Content Organizer to automatically move documents.
+
+
+  ### Module 7&#58; Library Automation
+  This module explains how to use SharePoint’s automation tools to manage documents. These include Alerts, Retention Policies and Workflows. This module will provide an overview of workflow creation using SharePoint Designer.
+  #### Lessons
+  - SharePoint’s Automation Tools&#58; Alerts, Policies, Workflows and Flow
+  - The Out of the Box Workflows
+  - SharePoint Designer Workflows
+
+
+  #### Lab &#58; Library Automation
+  - Using the Out of the Box Approval Workflow
+  - Creating a SharePoint Designer Workflow
+
+  After completing this module, students will be able to&#58;
+  - Describe the SharePoint Automation features.
+  - Configure the out of the box features and workflows.
+  - Get started with SharePoint Designer workflows.
+
+
+  ### Module 8&#58; Records Management
+  This module explores records and SharePoint’s record management features. Both the Records Center and In Place Records Management are covered.
+  #### Lessons
+  - Records
+  - In Place Records Management
+  - The Records Center
+
+
+  #### Lab &#58; Records Management
+  - Configuring In Place Records Management.
+  - Creating a Records Center site.
+  - Managing Records.
+
+  After completing this module, students will be able to&#58;
+  - Identify and plan for records.
+  - Enable and use In Place Records Management.
+  - Create and configure a Records Center site.
+
+
+  ### Module 9&#58; Search Optimization for Libraries
+  This module explains how to configure a better search experience for your library users by modifing the search schema to take advantage of your metadata. (For complete coverage of Search Administration see course&#58; “55122AC Microsoft SharePoint 2013 Search Administration”.)
+  #### Lessons
+  - Tips for Searching Library Content
+  - From Site Column to Managed Property
+  - The Search Schema
+  - Improving the Search Experience
+
+
+  #### Lab &#58; Search Optimization for Libraries
+  - Searching Libraries
+  - Creating a Search Managed Property
+  - Improving Title and Author Searches
+
+  After completing this module, students will be able to&#58;
+  - Describe the relationship between Site Columns and Search Managed Properties.
+  - Create new Managed Properties from Site Columns.
+  - Improve user search results by “tweaking” the search schema.

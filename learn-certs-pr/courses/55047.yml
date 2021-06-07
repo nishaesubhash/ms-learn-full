@@ -1,0 +1,395 @@
+### YamlMime:Course
+title: Windows 7, Técnico de Soporte Enterprise Desktop
+metadata:
+  title: 'Course 55047-A: Windows 7, Técnico de Soporte Enterprise Desktop'
+  description: 'Course 55047-A: Windows 7, Técnico de Soporte Enterprise Desktop'
+uid: course.55047
+courseNumber: '55047-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar y Solucionar Problemas de Aplicaciones para Equipos de Escritorio
+- skill: Identificar la Causa de Problemas con la Red y Solucionarlas
+- skill: Administrar y Mantener Sistemas que ejecutan Windows 7
+- skill: Proveer Soporte a Usuarios Móbiles
+- skill: Identificar la Causa de Problemas de Seguridad, y Solucionarlos
+learningPartnersLink: /learn/certifications/partners
+locales:
+- es
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows
+summary: |-
+  Después de tomar este curso de cinco días, dirigido por un instructor,los estudiantes tendrán el conocimiento y habilidades para precisamente identificar, documentar y resolver problemas de ordenadores desktop o laptop que utilizen Windows 7. También, será de ayuda para los que están tomando los exámenes 70-685 y 70-682.
+
+  #### Audience profile
+  Este curso está diseñado para los técnicos de servicio de mantenimiento de Windows 7, quiénes resuelven problemas de Nivel 1 y 2 encontrados en equipos de escritorio. Se recomienda que tales técnicos tengan un mínimo de tres años de experiencia en configuración y mantenimiento de sistemas operativos para computadores de escritorio o de portátiles.
+prerequisitesSection: |-
+  - Habilidades en cuanto a solucionar problemas relacionados con TCP/IP
+  - Experiencia en cuanto a trabajar en un entorno de dominio
+  - Experiencia en cuanto a utilizar herramientas de computadoras de escritorio y de línea de comandos
+  - Experiencia en instalar y solucionar problemas relacionados con las aplicaciones de escritorio
+  - Experiencia en configurar el Registro de Windows y directivas de grupo
+outlineSection: |-
+  ### Módulo 1&#58; Identificar y Solucionar Problemas relacionados con la Instalación de Nuevos Programas
+  En este módulo el estudiante aprenderá cómo solucionar problemas que ocurren durante la instalación de programas nuevos.
+  #### Lecciones
+  - Información General
+  - Planificar la Implementación de Programas Nuevos
+  - Implementación multilingüe
+  - Utilizar la Directiva de Grupo para instalar programas
+  - Utilizar las Directivas de Restricciones de Software
+  - Firmar el Software digitalmente
+  - Utilizar el WMI
+  - Utilizar Applocker
+  - Utilizar la Virtualización para Pruebas
+  - Solucionar Problemas de Instalación del Software
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas relacionados con la Instalación de Nuevos Programas
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Entender las opciones distintas para instalar Windows 7
+  - Entender las opciones distintas para instalar aplicaciones de Windows 7
+  - Solucionar problemas relacionados con la instalación de Windows 7
+  - Impedir que usuarios ejecuten aplicaciones no aprobadas
+
+
+  ### Módulo 2&#58; Solucionar Problemas de Configuración de Software
+  En este módulo el estudiante aprenderá cómo solucionar problemas de instalación causados por programas heredados o nuevas caracteristicas y opciones.
+  #### Lecciones
+  - Información General
+  - Cambiar los Parámetros de Configuración Predeterminados en la Imagen
+  - Activar y Desactivar Caracteristicas
+  - Apuntar a un Recurso de la Red
+  - Configurar Actualizaciones
+  - Solucionar Problemas de Configuración con Directiva de Grupo
+  - Actualizaciones de Controladores
+  - Grabación de Acciones de Usuario
+  - Solucionar Problemas de Configuración del Software
+  - Resúmen
+
+
+  #### Lab &#58; Solucionar Problemas de Configuración de Software
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Crear un disco VHD
+  - Configurar características del sistema operativo
+  - Entender el impacto de Actualizaciones de Controladores
+  - Corregir problemas de configuración de software
+  - Utilizar la Grabación de acciones de usuario
+
+
+  ### Módulo 3&#58; Solucionar Errores del Software
+  En este módulo el estudiante aprenderá cómo solucionar problemas con aplicaciones que experimentan problemas después de ser instaladas.
+  #### Lecciones
+  - Información General
+  - Visor de Sucesos
+  - Reenvío de Eventos
+  - Kit de herramientas de compatibilidad de aplicaciones
+  - Plataforma de solución de problemas de Windows
+  - Evaluación de la Experiencia de Windows
+  - Probar la Compatibilidad con Modo Seguro
+  - Restaurar Sistema
+  - Solucionar Errores del Software
+  - Resúmen
+
+
+  #### Lab &#58; Solucionar Errores del Software
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Configurar Reenvío de Eventos
+  - Utilizar Restaurar Sistema para corregir problemas de equipos de escritorio.
+  - Crear un Solucionador de Problemas para Windows 7
+
+
+  ### Módulo 4&#58; Identificar y Solucionar Problemas de Inicio de Sesión
+  En este módulo el estudiante aprenderá cómo solucionar problemas de inicio de sesiones, además de configurar perfiles de inicio de sesión locales y móviles.
+  #### Lecciones
+  - Información General
+  - Proceso de Autenticación
+  - Cuentas de Equipos
+  - Relaciones de Confianza
+  - Servicios de Redes
+  - Propiedades de Cuenta de Usuario
+  - Perfiles de Usuarios
+  - Solucionar Problemas de inicio de sesión
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Inicio de Sesión
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Crear Perfiles de Usuario Obligatorios y Móviles
+  - Configurar Cuentas de Equipos en Active Directory
+  - Configurar Propiedades de Cuenta de Usuario en Active Directory
+
+
+  ### Módulo 5&#58; Identificar y Solucionar Problemas de Conectividad de Red
+  En este módulo el estudiante aprenderá cómo corregir problemas de conectividad y red para equipos cliente.
+  #### Lecciones
+  - Información General
+  - Alcance del Problema
+  - Problemas de Hardware
+  - Configuración TCP/IP
+  - Enrutamiento de red
+  - Configuración IPSec
+  - Herramientas de Conectividad de Red
+  - BranchCache
+  - Solucionar Problemas de Conectividad de Red
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Conectividad de Red
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Utilizar herramientas de línea de comando para solucionar problemas de conectividad.
+  - Utilizar la Herramienta de Correción de Problemas de Windows para corregir problemas de configuración.
+  - Configurar opciones avanzadas TCP/IP en un equipo cliente
+
+
+  ### Módulo 6&#58; Identificar y Solucionar Problemas de Resolución de Nombres
+  En este módulo el estudiante aprenderá cómo utilizar los servicios de red y archivos de computadora locales para resolver nombres de equipos.
+  #### Lecciones
+  - Información General
+  - Resolución de Nombres DNS
+  - Utilizar un archivo de Hosts
+  - Configuración WINS
+  - Utilizar archivos LMHOSTS
+  - Orden de Resolución de Nombres
+  - Configuración Manual vs DHCP
+  - Solucionar Problemas de Resolución de Nombres
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Resolución de Nombres
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Configurar registros en un servidor DNS
+  - Configurar registros HOSTS
+  - Utilizar herramientas de línea de comando y scripts para configurar parámetros de configuración TCP/IP.
+
+
+  ### Módulo 7&#58; Identificar y Solucionar Problemas de Impresora de Red
+  En este módulo el estudiante aprenderá cómo configurar parámetros de configuración y seguridad de impresora.
+  #### Lecciones
+  - Información General
+  - Conectar a una Impresora de Red
+  - Administrar Cola de impresión
+  - Configurar Prioridades de Impresora
+  - Crear Grupos de Impresión
+  - Configurar Controladores
+  - Horarios de Impresora
+  - Permisos de Impresora
+  - Administrar Impresoras con Configurarciones de Directivas de Grupo
+  - Solucionar Problemas de Impresora de Red
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Impresora de Red
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Optimizar el rendimiento de la Cola de Impresión
+  - Redireccionar Trabajos de Impresión de Impresoras que no están en funcionamiento
+  - Administrar registro de Active Directory de Impresoras
+  - Administrar Permisos de Impresora
+
+
+  ### Módulo 8&#58; Identificar y Solucionar Problemas de Rendimiento
+  En este módulo el estudiante aprenderá cómo mejorar el rendimiento de un sistema por medio de monitorear y controlar el uso de recursos de las aplicaciones.
+  #### Lecciones
+  - Información General
+  - Analizar Registros de Eventos
+  - Configurar Adminstración de Energía
+  - Optimizar Uso de Procesador
+  - Optimizar Uso de Memoria
+  - Optimizar Uso de Disco Duro
+  - Optimizar Uso de Red
+  - Herramientas de Rendimiento
+  - Solucionar Problemas de Rendimiento
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Rendimiento
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Configurar respuestas automáticas para errores de Servicio
+  - Administrar el uso de recursos de Procesamiento por aplicaciones
+  - Ver y controlar conexiones activas a una computadora
+  - Optimizar rendimiento del Disco Duro.
+
+
+  ### Módulo 9&#58; Identificar y Solucionar Problemas de Errores de Hardware
+  En este módulo el estudiante aprenderá cómo diagnosticar problemas en un equipo.
+  #### Lecciones
+  - Información General
+  - Diagnosticar Problemas de Errores de Memoria
+  - Problemas de Disco Duro
+  - Problemas de Tarjeta de Red
+  - Problemas de Sistema de Alimentación
+  - Herramientas de Diagnóstico de Hardware Windows
+  - Solucionar Problemas de Errores de Hardware
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Errores de Hardware
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Entender cómo tratar proactivamente los problemas de hardware
+  - Utilizar Herramientas de Diagnóstico de Hardware Windows 7
+
+
+  ### Módulo 10&#58; Identificar y Solucionar Problemas de Conectividad Inalámbrica
+  En este módulo el estudiante aprenderá cómo configurar conectividad inalámbrica confiable y segura para equipos cliente.
+  #### Lecciones
+  - Información General
+  - Intensidad de Señal
+  - Seguridad Inalámbrica
+  - Perfiles Inalámbricos
+  - Opciones de Administración para Aparatos Inalámbricos
+  - Solucionar Problemas de Conectividad Inalámbrica
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Conectividad Inalámbrica
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Entender las opciones de cifrado que están disponibles para las redes inalámbricas
+  - Utilizar las opciones de Seguridad inalámbrica para Windows 7
+  - Corregir problemas con conectividad de cliente
+
+
+  ### Módulo 11&#58; Identificar y Solucionar Problemas de Acceso Remoto
+  En este módulo el estudiante aprenderá cómo configurar conexiones de red remota para equipos cliente.
+  #### Lecciones
+  - Información General
+  - Métodos de Acceso Remoto
+  - Configuración de Acceso Telefónico
+  - Configuración VPN
+  - Configuración DirectAccess
+  - Protocolos de Autenticación
+  - Solucionar Problemas de Acceso Remoto
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Acceso Remoto
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Entender las opciones de seguridad disponibles al crear conexiones de acceso remoto
+  - Entender las nuevas características de conexiones VPN que utilizan DirectAccess
+  - Solucionar problemas de conectividad para conexiones VPN y Acceso Telefónico
+
+
+  ### Módulo 12&#58; Administrar Sincronización de Archivos
+  En este módulo el estudiante aprenderá  cómo permitir a los usuarios finales que utilicen archivos de red que están siendo sincronizados en sus equipos de escritorio o portátiles.
+  #### Lecciones
+  - Información General
+  - Configurar el Acceso a Archivos Sin Conexión
+  - Parámetros de Configuración de Sincronización
+  - Almacenamiento en Caché Transparente
+  - Perfiles Móviles
+  - Restaurar Archivos de Red
+  - Solucionar Problemas con Sincronización de Archivos
+  - Resúmen
+
+
+  #### Lab &#58; Administrar Sincronización de Archivos
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Configurar el Almacenamiento en Caché Transparente
+  - Restaurar archivos de red eliminados
+
+
+  ### Módulo 13&#58; Identificar y Solucionar Problemas relacionados a Internet Explorer
+  En este módulo el estudiante aprenderá cómo configurar las características de seguridad en Internet Explorer para proteger la información y la privacidad del usuario.
+  #### Lecciones
+  - Información General
+  - Configurar la Zona de Seguridad
+  - Configurar los Niveles de Seguridad
+  - Configurar los parámetros de configuración de Privacidad
+  - Administrar Complementos
+  - Configurar Filtro Pantalla Inteligente
+  - Otros Problemas de Seguridad
+  - Solucionar Problemas de Seguridad de Internet Explorer
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Seguridad de Internet Explorer
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Saber cómo utilizar nuevas características de seguridad como el Filtro Pantalla Inteligente
+  - Administrar Complementos de Internet Explorer
+  - Utilizar características de IE para advertir al usuario acerca de problemas de seguridad potenciales
+  - Entender nuevas características en Internet Explorer 9
+
+
+  ### Módulo 14&#58; Identificar y Solucionar Problemas de Firewall
+  En este módulo el estudiante aprenderá cómo configurar Windows Firewall para proteger el tráfico y aplicaciones de red en un equipo.
+  #### Lecciones
+  - Información General
+  - Asegurar Aplicaciones y Características de Red
+  - Excepciones de Programas y Puertos
+  - Configurar Notificaciones y Registros
+  - Herramientas de Seguridad de Red
+  - Solucionar Problemas con el Firewall
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas con el Firewall
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Impedir que aplicaciones se comuniquen mediante la red
+  - Grabar y configurar notificaciones de comunicaciones de red no aprobadas
+  - Corregir problemas causados por configuración incorrecta de Windows Firewall
+
+
+  ### Módulo 15&#58; Identificar y Solucionar Problemas Debido a Software Malintencionado
+  En este módulo el estudiante aprenderá cómo restaurar un sistema de computadora después de haber sido atacado por viruses u otro software malintencionado.
+  #### Lecciones
+  - Información General
+  - Protección Malware Proactiva
+  - Proteger Internet Explorer
+  - Actualizaciones para Windows y Anti-Virus
+  - Recuperarse de Infección de Malware
+  - Solucionar Problemas Causados por Software Malintencionado
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas Debido a Software Malintencionado
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Identificar problemas causados por viruses y malware.
+  - Cómo proteger Internet Explorer y aplicaciones de correo electrónico de ataques por malware.
+  - Cómo prevenir la pérdida de datos y reparar un equipo después de un ataque por malware.
+  - Instalar y configurar Microsoft Security Essentials
+
+
+  ### Módulo 16&#58; Identificar y Solucionar Problemas de Cifrado
+  En este módulo el estudiante aprenderá cómo corregir problemas causados por el utilizar cifrado en un equipo Windows.
+  #### Lecciones
+  - Información General
+  - Configurar un Agente de Recuperación
+  - Utilizar EFS
+  - Utilizar Bitlocker
+  - Herramientas de Cifrado
+  - Solucionar Problemas de Cifrado
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas de Cifrado
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Recuperarse de claves de cifrado perdidas
+  - Cómo cifrar archivos individuales utilizando EFS
+  - Utilizar BitLocker para proteger computadoras portatiles y equipos inseguros
+
+
+  ### Módulo 17&#58; Identificar y Solucionar Problemas relacionados con Actualizaciones de Software
+  En este módulo el estudiante aprenderá  cómo activar y utilizar las características de actualización de software que están disponibles en Windows 7.
+  #### Lecciones
+  - Información General
+  - Tipos de Windows Update
+  - Utilizar Windows Update
+  - Utilizar Microsoft Update
+  - Solucionar Problemas de Actualizaciones de Software
+  - Resúmen
+
+
+  #### Lab &#58; Identificar y Solucionar Problemas relacionados con Actualizaciones de Software
+  Después de completar este curso, los estudiantes podrán&#58;
+  - Configurar equipos clientes para recibir actualizaciones de la red local en vez de desde el internet
+  - Entender las diversas opciones disponibles cuando se actualice el sistema operativo
+  - Entender cómo configurar actualizaciones automáticas para aplicaciones de Microsoft
+
+  #### Additional Reading
+  Para ayudarle a prepararse para esta clase, repase los siguientes recursos&#58;
+  - Entrenamiento de Clase&#58; Curso 6292
+  - Microsoft Press Books&#58; Kit de Formación Personalizada MCTS (Exámen 70-680)&#58; Configurando Microsoft Windows 7

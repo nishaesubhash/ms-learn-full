@@ -1,0 +1,303 @@
+### YamlMime:Course
+title: Administering and Maintaining Windows 7
+metadata:
+  title: 'Course 50292-C: Administering and Maintaining Windows 7'
+  description: 'Course 50292-C: Administering and Maintaining Windows 7'
+uid: course.50292
+courseNumber: '50292-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: How to use the various installation types and upgrade paths available
+- skill: Configure and manage the Windows 7 desktop
+- skill: Add a Windows 7 desktop to an active IPV4/IPV6 network
+- skill: Configure Windows 7 for an Active Directory environment and the new Group Policy settings
+- skill: Configure the Windows 7 Administration tools and applications
+- skill: Understand the Windows 7 remote capabilities and utilities
+- skill: Understand how to use Windows Firewall with Advanced Features and network profiles
+- skill: Configure Windows 7 remote access and remote capabilities
+- skill: Understand how to use the Windows 7 Mobility Center to manage mobile Windows 7 machines
+- skill: Secure the Windows 7 desktop
+- skill: Configure and use the User account control in various network profiles
+- skill: Configure Windows 7 third-party applications with Standard User Analyzer and the Application Compatibility toolkit
+- skill: Monitor and troubleshoot Windows 7 computers for problems with the operating system, hardware, network security, and applications
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  This five-day instructor-led course provides students with the knowledge and skills to successfully administer, maintain, and troubleshoot Windows 7 computers. You will also discuss the features of Windows 7 SP1. Through practical labs, you'll get invaluable experience with installation and upgrades, remote access, and the new desktop environment. You will learn how Windows 7 allows for vast improvements to security, overall system performance, and deployment-a robust combination unparalleled in the market.
+  
+  In this Windows 7 training course, you'll focus on successful configuration of the IT Pro tools and applications that ship with Windows 7. You will learn to identify technical problems that can occur on your organization's client computers, and you'll discover the Windows 7 tools used to monitor and maintain those computers. By the end of this course, you will have installed and configured a Windows 7 desktop that is secure and on the network, while focusing on five main troubleshooting areas&#58; operating system, hardware, networking, security, and applications.
+
+  #### Audience profile
+  This course is intended for Experienced enterprise-level IT professionals who focus on a broad range of desktop operating system, desktop application, networking, and hardware support issues, who have experience with Windows server operating systems, and whose jobs require them to stay knowledgeable and skilled on new versions and technology updates as defined by the business environment.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Familiarity with computer hardware and devices, such as the ability to look into Device Manager and look for unsupported devices
+  - Experience supporting previous versions of the Windows operating system
+  - Basic TCP/IP knowledge, such as knowing why you need to have a valid IP address
+  - Basic Windows and Active Directory knowledge, such as knowledge about domain user accounts, domain vs. local user accounts, user profiles, and group membership
+outlineSection: |-
+  ### Module 1&#58; Introducing Windows 7
+  This module will provide a high level evolution of the Windows client operating system. It also describes the features of Windows 7 product line, features, and its hardware and compatibility requirements.
+  #### Lessons
+  - Evolution of the Windows Desktop Operating System
+  - Windows 7 Products and Features
+  - Windows 7 Hardware Requirements and Software Compatibility Tools
+  - New Features of Windows 7 SP1
+
+
+  #### Lab &#58; Exploring the Features of Windows 7
+  After completing this module, students will be able to&#58;
+  - Explain at a high level the evolution of the Windows cleint operating system
+  - Describe the features of Windows 7 products
+  - Explain the hardware requirements for Windows 7
+  - Describe the tools you can use for application compatibility testing
+  - Describe the Windows 7 SP1 features and benefits
+
+
+  ### Module 2&#58; Installing Windows 7
+  This module explains the features of the Windows 7 boot process and how to perform a clean installations as well as an upgrade. Finally, this section describes the Windows Server 2008 R2 deployment technologies that you can use with Windows 7.
+  #### Lessons
+  - Windows 7&#58; New Installation
+  - Upgrading to Windows 7
+  - Windows Server 2008 R2 Deployment Technologies for Windows 7
+  - Windows 7 Boot Process
+
+
+  #### Lab &#58; Installing Windows 7
+  After completing this module, students will be able to&#58;
+  - Explain the Windows 7 installation process
+  - Explain the process of upgrading to a Windows 7 desktop operating system
+  - Describe the Windows Server 2008 R2 deployment technologies that are used with Windows 7
+  - Explain the Windows 7 boot process
+
+
+  ### Module 3&#58; Configuring and Managing Windows 7 Settings
+  This module discusses the tools available for the user and administrator to personalize a desktop. This module will describe the personalization center and other tools available to allow for more user productivity.
+  #### Lessons
+  - System Properties
+  - Using Windows 7 Control Panel
+  - Managing Accounts and User Profiles
+  - Windows 7 Search and Indexing Service
+  - Computer Management Console
+
+
+  #### Lab &#58; Configuring and Managing Windows 7
+  After completing this module, students will be able to&#58;
+  - List the system properties of Windows 7
+  - Explain the purpose of the Windows 7 Control Panel utilities
+  - List the features of the Windows 7 Ease of Access Center utility
+  - Describe the Windows 7 accounts and user profiles
+  - Describe the Windows Search and Indexing Services
+  - Explain the purpose of the Computer Management Console utilities
+
+
+  ### Module 4&#58; Customizing the Windows 7 User Interface
+  This module introduces the features of Windows Display Driver Model and reviews the changes to the Start Menu and Taskbar Settings. This module will take you through the steps of how to personalize the Windows 7 desktop and describe the Windows Aero graphics package.
+  #### Lessons
+  - The New Windows Display Driver Model
+  - Start Menu and Taskbar Settings
+  - Desktop Personalization
+  - The Windows 7 Aero Experience
+
+
+  #### Lab &#58; Customizing the Windows 7 User Interface
+  After completing this module, students will be able to&#58;
+  - Explain the differences between Windows Vista and Windows 7 display driver technologies
+  - Explain how to configure the Start menu and taskbar settings
+  - Explain how to personalize the Windows 7 desktop to your requirements
+  - Describe the Windows Aero graphics package
+  - List the hardware and software requirements of the Windows Aero graphics package
+
+
+  ### Module 5&#58; Managing Windows 7 in the Workgroup
+  This module explains how to leverage the Windows 7 workgroup features so that you will be able to support the largest segment of computer networks in the market place. In this module you will be introduced to two different network types, the Workgroup and the Domain.
+  #### Lessons
+  - Exploring Workgroups vs. Active Directory Domains
+  - Joining a Windows 7 Workgroup
+  - Configuring Windows 7 Homegroups
+  - Creating Windows 7 Libraries
+  - Sharing Resources
+
+
+  #### Lab &#58; Windows 7 in the Workgroup
+  After completing this module, students will be able to&#58;
+  - Define the terms workgroup and domain
+  - List the different methods used to join a Windows 7 workgroup
+  - Explain how to configure a Windows HomeGroup
+  - List the options used to set up data sharing
+  - Describe the process used to create a new Windows 7 library
+  - Describe Windows 7 resource sharing
+
+
+  ### Module 6&#58; Integrating Windows 7 with Active Directory
+  This module explains how to utilize the server side technologies that are available with Windows Server 2008 R2 and the enterprise abilities of Windows 7. This information will help you understand the things that you can do in your own network to make your job easier and make your data that much more available and secure.
+  #### Lessons
+  - DNS Overview
+  - Windows Server 2008 R2 Active Directory
+  - Join an Active Directory Domain
+  - Using Active Directory Tools Remotely
+  - Implementing Group Policy
+
+
+  #### Lab &#58; Integrating Windows 7 with Active Directory
+  After completing this module, students will be able to&#58;
+  - Describe at a high level the Domain Name Service for Windows Server
+  - Define Windows Server 2008 R2 Active Directory
+  - Explain how to join an Active Directory domain
+  - Identify the tool used to configure the Windows 7 local security policy
+  - List the Windows 7 Active Directory tools used to remotely administer Active Directory
+  - Explain the purpose of Windows 7 ADMX templates
+  - List the Windows 7 Group Policy settings
+  - Explain how to configure the Windows 7 Group Policy Settings
+
+
+  ### Module 7&#58; Windows 7 Networking
+  This module explains how to successfully manage and monitor you networks so they can operate smoothly and efficiently. This module introduces you to the Windows 7 networking technologies as well as networking in general.
+  #### Lessons
+  - TCP/IP Fundamentals
+  - Next Generation TCP/IP Stack
+  - Dynamic Host Configuration Protocols
+  - Network and Sharing Center
+  - BranchCache
+
+
+  #### Lab &#58; Windows 7 Networking
+  After completing this module, students will be able to&#58;
+  - Explain the fundamentals of TCP/IP with Windows 7
+  - Describe the Windows 7 enhancements to IPv6
+  - Describe the fundamentals of DHCP
+  - Describe the features of the Networking and Sharing Center
+  - Explain the role of Windows 7 within a BranchCache network
+
+
+  ### Module 8&#58; Windows 7 Remote Access and Mobile Computing
+  This module explores the available remote access technologies that are present and available with Windows 7 as well as some features that are brand new and only function within a Windows Server 2008 R2 environment. You will learn how to configure the Windows 7 Firewall to support the RDP client connections
+  #### Lessons
+  - Windows 7 Virtual Private Networking
+  - Windows 7 DirectAccess
+  - Remote Desktop
+  - Power Management Options
+  - Offline Files and Folders
+
+
+  #### Lab &#58; Windows 7 Remote Access and Mobile Computing
+  After completing this module, students will be able to&#58;
+  - Describe the Windows 7 VPN technologies
+  - Describe the benefits of Windows 7 DirectAccess
+  - Describe the features of the RDP version 7 client
+  - Explain how to configure the Windows 7 Firewall to support the RDP client connections
+  - Describe the Windows 7 power management plans
+  - Explain the purpose of offline files and folders
+
+
+  ### Module 9&#58; Working with File Systems
+  This module examines the NTFS that is preinstalled on Windows 7. It explains SIDs, including the NTFS permissions and share permissions. This module also explains the Encrypting File System.
+  #### Lessons
+  - Disk Management and Partitioning
+  - Mounting VHD Files
+  - NTFS Version 6.x Features
+  - File System Security
+  - Using EFS to Secure Files
+
+
+  #### Lab &#58; Working with File Systems
+  After completing this module, students will be able to&#58;
+  - Describe the different types of VHD files
+  - Define NTFS
+  - List the features of NTFS
+  - Describe the purpose of the NTFS security principals and security identifiers
+  - Describe the purpose of the NTFS permissions
+  - Describe how permissions are assigned when NTFS and share permissions are combined
+  - Describe the Windows 7 encryption process
+
+
+  ### Module 10&#58; Securing Windows 7
+  This module explains how to use the various technologies that you can employ to secure your Windows 7 installations, such as User Access Control, NAP (Network Access Protection), the Windows firewall and a host of other tools.
+  #### Lessons
+  - User Account Control Settings
+  - Configuring the Windows 7 Firewall
+  - Microsoft Security Essentials
+  - Windows Update
+  - Using BitLocker to Secure the Disk
+  - Implementing Network Access Protection
+
+
+  #### Lab &#58; Securing Windows 7
+  After completing this module, students will be able to&#58;
+  - Describe the advanced User Account Control settings
+  - Explain the purpose of Microsoft Security Essentials
+  - Describe the Windows 7 updates mechanism from Microsoft
+  - Explain the purpose of the Windows Server Update Services feature
+  - Explain how to configure Windows 7 to use Windows Server Update Services
+  - Explain the purpose of BitLocker and BitLocker To Go
+  - List the requirements of BitLocker and BitLocker To Go
+  - Explain the purpose of Network Access Protection
+
+
+  ### Module 11&#58; Windows 7 Backup and Recovery
+  This module introduces the backup and recovery tools available in the event that Windows 7 does have a problem.
+  #### Lessons
+  - Windows 7 System Protection
+  - Restoring Previous Versions of Files
+  - Backup and Restore
+  - Windows 7 System Image Backup
+  - Building a Windows 7 System Repair Disc
+  - Building a Custom WinRE Disc
+
+
+  #### Lab &#58; Windows 7 Backup and Recovery
+  After completing this module, students will be able to&#58;
+  - Describe the purpose of the Windows 7 System Protection feature
+  - Explain how to revert to a previous version of a file
+  - Describe the purpose of the Windows 7 Backup and Restore center
+  - Explain how to configure data backups and data restorations
+  - Describe the system image backup process
+  - Explain how to configure a Windows 7 computer for a complete system backup and restore process
+  - Explain how to configure the Windows 7 system repair disc
+  - Explain how to configure a custom WinRE disc
+
+
+  ### Module 12&#58; Troubleshooting and Monitoring Windows 7
+  This module explains how to use the Windows 7 Reliability Monitor, the Performance Monitor, and the other utilities to maintain and monitor your Windows 7 network.
+  #### Lessons
+  - Analyzing System Performance
+  - Monitoring Tools
+  - Troubleshooting Tools
+  - Optimizing Windows 7 Performance
+
+
+  #### Lab &#58; Troubleshooting and Monitoring Windows 7
+  After completing this module, students will be able to&#58;
+  - Compare the reactive and proactive methods of monitoring system performance
+  - Describe the purpose of the Reliability Monitor
+  - Describe the purpose of the Performance Monitor
+  - Describe how to troubleshoot all aspects of Windows 7 networking
+  - Describe the purpose of the MSCONFIG utility
+  - Explain how to use the MSCONFIG utility to troubleshoot a Windows 7 computer
+  - Explain how to use the Windows Task Manager to manage and troubleshoot a Windows 7 computer
+  - Explain the role of the Windows Problem Reports and Solutions utility
+  - Describe the Windows 7 performance options
+
+
+  ### Module 13&#58; Running and Troubleshooting Applications on Windows 7
+  This module explains how to use Windows 7 and other stand alone utilities for application compatibility, remediation, and mitigation.
+  #### Lessons
+  - Application Compatibility Tools
+  - Windows 7 File and Registry Virtualization
+  - Microsoft Virtual PC and XP Mode
+
+
+  #### Lab &#58; Running and Troubleshooting Applications on Windows 7
+  After completing this module, students will be able to&#58;
+  - Describe the purpose of each of the Application Compatibility Tools
+  - Describe the UAC settings for applications
+  - Describe the purpose of the Windows Virtual PC with XP mode
+  - Explain how to use the Windows Virtual PC with XP mode

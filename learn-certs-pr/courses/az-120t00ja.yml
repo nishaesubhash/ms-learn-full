@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: SAP ワークロードのための Microsoft Azure の計画と管理
+metadata:
+  title: 'Course AZ-120T00JA-A: SAP ワークロードのための Microsoft Azure の計画と管理'
+  description: 'Course AZ-120T00JA-A: SAP ワークロードのための Microsoft Azure の計画と管理'
+uid: course.az-120t00ja
+courseNumber: 'AZ-120T00JA-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: SAP HANA、S/4HANA、SAP NetWeaver を Azure に移行する
+- skill: Azure portal、Cloud Shell、Azure PowerShell、CLI、および Resource Manager を活用する
+- skill: VNET ピアリングや VNet-to-VNet 接続などのサイト間接続機能を使用する
+- skill: Azure Active Directory (AAD) や Azure AD Connect を使用する
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  このコースは、SAP ソリューションの経験を豊富に持つ IT プロフェッショナルを対象に、仮想マシン、仮想ネットワーク、ストレージ アカウントのデプロイや構成を含む Azure リソースと、ハイブリッド ID の実装や管理を含む Azure AD を活用する方法について説明します。このコースの受講者は、SAP on Azure ソリューションの移行と運用について最適に計画し実装する方法について、概念、シナリオ、手順、およびハンズオン ラボから学習します。サブスクリプション、仮想マシンの作成とスケーリング、ストレージ ソリューションの実装、仮想ネットワークの構成、データのバックアップと共有、Azure サイトとオンプレミス サイトの接続、ネットワーク トラフィックの管理、Azure Active Directory の実装、ID のセキュリティ保護、ソリューションの監視に関するガイダンスを受けます。
+
+  #### Audience profile
+  このコースは、Azure 上の SAP ソリューションを移行し管理する Azure 管理者を対象としています。Azure 管理者は、IT ライフサイクル全体を通じて各種サービスの深い知識を活用し、ストレージ、ネットワーキング、クラウド機能のコンピューティングにわたるクラウド サービスを管理します。管理者は、新しいクラウド アプリケーションに対するエンド ユーザーの要求を受け取り、最適なパフォーマンスと拡張性、および必要に応じてプロビジョニング、サイジング、監視、および調整に使用するサービスに関して推奨を行います。この役割には、ベンダーとのコミュニケーションと調整が必要になります。Azure 管理者は Azure portal を使用しより熟練するにつれて PowerShell とコマンド ライン インターフェイスを使用します。
+outlineSection: |-
+  ### セクション 1&#58; 概要
+  SAP および Microsoft Partner の概要が含まれます。
+
+  ### セクション 2&#58; SAP ワークロードのための Azure 基礎
+  以下に関する短いレッスンが含まれます。
+
+  - Azure Compute
+  - Azure Storage
+  - Azure ネットワーク
+  - SAP HANA for Azure (Large Instances)
+  - ID サービス
+  - ガバナンスおよび管理機能
+  - バックアップとデータ保護サービス
+  - および移行サービス
+
+  ### セクション 3&#58; Azure での SAP 認定オファリング
+  以下に関するレッスンが含まれます。
+
+  - 一般的な前提条件 (パブリック クラウド環境での SAP サポート)
+  - SAP ワークロードのための Azure の デプロイ オプション
+  - Azure の SAP 製品固有のサポート
+  - SAP ワークロードのための Azure オペレーティング システム サポート
+  - SAP ワークロードのための Azure ストレージ サポート
+  - SAP のネットワーク サポート
+  - SAP のデータベース サポート
+  - SAP の高可用性とディザスター リカバリー サポート
+  - SAP の監視要件
+
+  #### ラボ &#58; オンライン ラボ&#58; Azure VM 上に Linux クラスタリングを実装する
+
+  #### ラボ &#58; オンライン ラボ&#58; Azure VM 上に Windows クラスタリングを実装する
+
+  ### セクション 4&#58; SAP on Azure 参照アーキテクチャ
+  以下に関するレッスンが含まれます。
+
+  - AnyDB を使用した SAP NetWeaver
+  - SAP S4 HANA
+  - および Azure VM 上の SAP HANA on Azure (Large Instances)
+
+
+  ### セクション 5&#58; Azure での SAP ソリューションの実装計画
+  以下に関するレッスンが含まれます。
+
+  - Azure VM コンピューティング、ネットワークおよびストレージに関する考慮事項
+  - Azure VM の高可用性およびディザスター リカバリー同様
+  - Azure VM バックアップに関する考慮事項
+  - Azure VM 監視の考慮事項
+  - Azure VM のセキュリティに関する考慮事項
+  - および Azure VM の認証およびアクセス制御に関する考慮事項。
+
+  ### セクション 6&#58; SAP ワークロードを Azure に移行するための計画
+  以下に関するレッスンが含まれます。
+
+  - SAP システムを Microsoft Azure に移行するための戦略および
+  - SAP ワークロード計画およびデプロイのチェックリスト
+
+  ### セクション 7&#58; Azure VM ベースの SAP ソリューションの実装
+  以下に関するレッスンが含まれます。
+
+  - Azure VM デプロイ方法
+  - 単一インスタンスの実装 (2 層または 3 層)
+  - AnyDB を使用して Azure VMに HA SAP NetWeaver を実装
+  - Azure VM での HA SAP HANA の実装
+  - SAP 用 Azure Enhanced Monitoring Extension の構成
+  - および AD および Azure AD ベース認証の実装。
+
+  ### セクション 8&#58; モジュール 8 - HANA Large Instances (HLI) のデプロイ
+  HANA Large Instances (HLI) に関するレッスンが含まれます。
+
+
+  ### セクション 9&#58; SAP ワークロードの Azure への移行
+  以下に関するレッスンが含まれます。
+
+  - 移行オプション
+  - DMO の方法
+  - クラウド移行オプション
+  - および Azure への大規模なデータベースの移行。
+
+
+
+  #### ラボ &#58; オンライン ラボ – Linux を実行している Azure VM で SAP アーキテクチャを実装する
+
+  #### ラボ &#58; オンライン ラボ - Windows を実行する Azure VM に SAP アーキテクチャーを実装する
+
+  ### セクション 10&#58; SAP ワークロードのための Azure メンテナンス
+  以下に関するレッスンが含まれます。
+
+  - リモート管理
+  - バックアップと復元の実行
+  - OS およびワークロードの更新
+  - 垂直方向および水平方向のスケーリング
+  - およびディザスター リカバリー (DR)。
+
+
+  ### セクション 11&#58; SAP on Azure の監視とトラブルシューティング
+  以下に関するレッスンが含まれます。
+
+  - Azure VM の監視
+  - SAP HANA on Azure (Large Instances) の監視
+  - および SAP ソリューションと Microsoft Cloud Services の統合。

@@ -7,20 +7,20 @@ uid: exam.ms-900
 displayName: MS-900
 summary: |-
   <div>
-  <div><strong>The content of this exam was updated on July 8, 2020. Please download the skills measured document below to see what changed.</strong><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on April 23, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   </div>
   
   This exam is designed for candidates looking to demonstrate foundational-level knowledge on the considerations and benefits of adopting cloud services in general and the Software as a Service (SaaS) cloud model. Candidates should have knowledge of available options and benefits gained by implementing Microsoft 365 cloud service offerings.
   
   Candidates should have the requisite knowledge to recommend solutions that address common organizational IT challenges and to differentiate Microsoft 365 solutions from the competition in the market. Candidates should also have fundamental knowledge of offerings, optimizing licensing for cost effectiveness, and support options for organizations.
-
+  
   Candidates should be able to differentiate between Microsoft’s services and products (Microsoft 365, Azure, and Dynamics 365).
   
   You may be eligible for ACE college credit if you pass this certification exam. See [ACE college credit for certification exams](/learn/certifications/ace-credit-for-certification-exams) for details.
 subTitle: Prove that you understand cloud concepts; core Microsoft 365 services and concepts; security, compliance, privacy, and trust in Microsoft 365; and Microsoft 365 pricing and support.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
-practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 - ja
@@ -39,11 +39,11 @@ providers:
 levels:
 - beginner
 skills:
-- The content of this exam was updated on July 8, 2020. Please download the exam skills outline below to see what changed.
-- Describe cloud concepts (10-15%) 
-- Describe core Microsoft 365 services and concepts (30-35%) 
-- Explain security, compliance, privacy, and trust in Microsoft 365 (30-35%) 
-- Describe Microsoft 365 pricing and support (20-25%) 
+- The content of this exam was updated on April 23, 2021. Please download the exam skills outline below to see what changed.
+- Describe cloud concepts (10-15%)
+- Describe core Microsoft 365 services and concepts (30-35%)
+- Explain security, compliance, privacy, and trust in Microsoft 365 (30-35%)
+- Describe Microsoft 365 pricing and support (20-25%)
 roles:
 - administrator
 products:
@@ -66,10 +66,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Support for certification exams
   description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
   href: ../help.md

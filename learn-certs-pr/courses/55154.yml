@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: Office 365 for the End-User
+metadata:
+  title: 'Course 55154-B: Office 365 for the End-User'
+  description: 'Course 55154-B: Office 365 for the End-User'
+uid: course.55154
+courseNumber: '55154-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand Office 365
+- skill: Navigate Office 365
+- skill: Use Outlook Online
+- skill: Use Skype for Business
+- skill: Use SharePoint Online
+- skill: Understand OneDrive for Business
+- skill: Manage Outlook features, contacts, groups, distribution groups, and calendars
+- skill: Use SharePoint Online to collaborate with others, manage documents and site navigation
+- skill: Use Skype for Business to collaborate with internal and external contacts
+- skill: Create, organize, and manage OneNote notebooks
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-365
+summary: |-
+  This 1 day course is designed for information workers who are using or will use Office 365. This course will provide students with the knowledge and skills to efficiently use Office 365 on a day-to-day basis. The course is designed with real world scenarios in mind. Students will learn how to use Outlook Online, Skype for Business, OneDrive for Business, SharePoint Online, and OneNote. At the end of this course students will be able to effectively navigate Office 365 and make use  of all of the features of Office 365.
+
+  #### Audience profile
+  This course is intended for anyone who is using or will use Office 365. The course is also intended for decision makers who are trying to  understand the features and benefits of Office 365 and how it can increase employee productivity.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic understanding of Microsoft Office
+  - Basic understanding of Microsoft Windows Operating systems
+outlineSection: |-
+  ### Module 1&#58; Office 365 Overview
+  This module will help students understand what Office 365 is and the components that make up Office 365. Students will learn how Office 365 can increase work productivity by allowing them to work when and where they need to.
+  #### Lessons
+  - Office 365 Overview
+  - Accessing Office 365
+  - Managing Office 365 profiles
+
+
+  #### Lab &#58; Getting to Know Office 365
+  - Sign up for Office 365
+  - Explore Office 365 and manage your profile
+
+  After completing this module, students will be able to&#58;
+  - Understand Office 365
+  - Describe the different components of Office 365
+  - Sign in to Office 365
+  - Manage your Office 365 profile
+
+
+  ### Module 2&#58; Using Outlook Online
+  This module describes how to use Outlook Online. Students will learn how to manage their email, create contacts, create groups, manage attachments, create calendar views, and manage Outlook settings.
+  #### Lessons
+  - Manage Email
+  - Managing Calendars
+  - Managing Contacts
+  - Configuring Outlook Options
+
+
+  #### Lab &#58; Using Outlook Online
+  - Managing email
+  - Working with attachments
+  - Working with calendar views
+  - Managing contacts
+  - Configuring Outlook Online options
+
+  After completing this module, students will be able to&#58;
+  - Create, send, and reply to email
+  - Search and filter email
+  - Create appointments
+  - Manage reminders
+  - Add and share calendars
+  - Add and update contact information
+  - Import contacts, create groups, and search contacts
+  - Use automatic rules to manage and organize email
+  - Manage distribution groups
+
+
+  ### Module 3&#58; Using Skype for Business
+  This module will introduce students to Skype for Business. Students will learn how to use Skype for Business for instant messaging, web conferencing, and audio and video conferencing.
+  #### Lessons
+  - Skype for Business overview
+  - Instant Messaging in Skype for Business
+  - Conferencing in Skype for Business
+
+
+  #### Lab &#58; Using Skype for Business
+  - Managing contacts and groups in Skype for Business
+  - Using Instant Messaging with Skype for Business
+  - Conferencing in Skype for Business
+
+  After completing this module, students will be able to&#58;
+  - Describe the features of Skype for Business
+  - Use Skype for Business for Instant Messaging
+  - Create Audio and Web conferences
+  - Manage contacts and groups in Skype for Business
+
+
+  ### Module 4&#58; Using SharePoint Online
+  This module introduces students to SharePoint Online. Students will learn how locate and share documents in SharePoint Online. After completing this module students will be able to customize their SharePoint site, search for content, customize workflows in SharePoint Online, and configure list-based information management.
+  #### Lessons
+  - Working with site content and navigation
+  - Managing workflows in SharePoint Online
+  - Implement information management policies
+
+
+  #### Lab &#58; Using SharePoint Online
+  - Search site content
+  - Customize site navigation
+  - Manage content approval
+
+  After completing this module, students will be able to&#58;
+  - Search site content
+  - Customize SharePoint Online sites
+  - Implement information policies
+  - Manage content approval workflows
+  - Understand content organizer
+
+
+  ### Module 5&#58; Using OneDrive for Business and OneNote Online
+  This module will show students how to create, modify, save, and share documents using OneDrive for Business. Students will learn how to create and open OneNote notebooks and work with OneNote sections and pages and how to add new content to a new OneNote page.
+  #### Lessons
+  - OneDrive Overview
+  - OneNote Online Overview
+
+
+  #### Lab &#58; Using OneDrive for Business
+  - Create, view, and edit files with OneDrive for Business
+  - Manage your files with OneDrive for Business
+
+
+  #### Lab &#58; Using OneNote Online
+  - Create and organize a OneNote notebook
+  - Take and manage notes
+  - Locate and share information
+
+  After completing this module, students will be able to&#58;
+  - Describe the difference between OneDrive and OneDrive for Business
+  - Create and manage files using OneDrive for Business
+  - See your OneDrive files from other devices
+  - Share your OneDrive files with others
+  - Create and organize OneNote notebooks
+  - Share information from a notebook
+  - Find information in a notebook
+  - Manage notebook content

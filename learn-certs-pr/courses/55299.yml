@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: SharePoint 2019 Site Owner Training
+metadata:
+  title: 'Course 55299-A: SharePoint 2019 Site Owner Training'
+  description: 'Course 55299-A: SharePoint 2019 Site Owner Training'
+uid: course.55299
+courseNumber: '55299-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Learn to navigate a SharePoint 2019 Team Site.
+- skill: Learn to create and edit web page content.
+- skill: Learn to create site columns and content types.
+- skill: Learn to integrate Office applications with SharePoint 2019.
+- skill: Learn to manage basic permissions
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This SharePoint 2019 Site Owner class is for site owners/managers new to working in a SharePoint 2019 environment.
+
+  #### Audience profile
+  This course is intended for site owners/managers new to working in a SharePoint 2019 environment.
+prerequisitesSection: |-
+  Introductory level experience with SharePoint.
+outlineSection: |-
+  ### Module 1&#58; Working with Sites
+  All SharePoint content is accessed through a site. A SharePoint site is the container for lists and libraries and provides a starting point for basic administration. The content, lists, libraries, and basic look and feel of a site is initially determined by the Site Template used to create the site.
+
+  #### Lessons
+  - Site Templates
+  - Creating Sites
+  - Creating a Team Site
+  - Site Navigation
+  - Managing Site Navigation
+
+
+  #### Lab &#58; Exercises
+  - Creating Team Sites
+  - Creating a Meeting Workspace
+  - Creating a Blog Site
+
+  After completing this module, students will be able to&#58;
+  - Understand what Site Templates are.
+  - Understand the different Tpes of Site Templates that come "Out of the Box"
+  - Creating a new site using Site Templates
+  - Create a Project site.
+  - Create a Team site.
+  - Create a Community site.
+  - Create a Blog site.
+  - Manage the sites listed in the Top Link Bar.
+
+
+  ### Module 2&#58; Page Content
+  SharePoint offers a couple of ways to add content to the pages in a site. The latest technique and the one implemented by the Team Site template is through site style pages. Another method that has been part of SharePoint in past is the use of Wiki and Web Part pages. The Wiki and Web Part techniques are similar in the output that can be created, and both share the ability to add Web Parts (an instance of an app with a view) to them.
+
+  #### Lessons
+  - Wiki Library Pages
+  - Editing the Team Site Home Page
+  - Web Part pages
+  - Creating a Web Part Page
+  - Working with Web Parts
+  - Adding Web Parts to Pages
+
+
+  #### Lab &#58; Exercises
+  - Working with Wiki Pages
+  - Working with Web Part Pages and Web Parts
+
+  After completing this module, students wil be able to&#58;
+  - Understand what site pages are.
+  - Understand what wiki pages are.
+  - Understand what Web Parts are.
+  - Understand how to add content to the Site Home page.
+  - Understand how to create a wiki page library.
+  - Understand how to add Web Parts.
+  - Understand how to manage Web Parts.
+
+
+  ### Module 3&#58; Site Columns and Content Types
+  One method of customizing SharePoint, in a way that can be reused throughout the site or site collection or even the whole farm, is to create Site Columns and Content Types. Site columns are the simplest element; they are essentially the same as list and library columns except that you create them at the site level and then they can be used throughout that site and any child site. Content Types are a combination of Site Columns as well as additional settings and information such as document templates and workflows. Content Types, once created, can then be linked to lists and libraries.
+  #### Lessons
+  - Site Column Gallery
+  - Explore the Site Column Gallery
+  - Creating Site Columns
+  - Create a Custom Site Column
+  - Add a Site Column to a List
+  - Site Content Type Gallery
+  - Explore the Site Content Types Gallery
+  - Creating Content Types
+  - How to Create and Use Content Types
+
+
+  #### Lab &#58; Exercises
+  - Creating and working with content types
+  - Adding a content type to a library
+
+  After completing this module, students will be able to&#58;
+  - Understand Site Columns.
+  - Understane Content Types.
+  - Understand how to create Site Columns.
+  - Understand howt o create Content Types.
+  - Understand how to create a document template for a Content Type.
+  - Understan how to assign a Content Type to a list or library.
+  - Understand how to create new items based on a custom Content Type.
+
+
+  ### Module 4&#58; Managing SharePoint Site Permissions
+  Permissions on a SharePoint site are assigned when a site is created. The default is that permissions assigned to the root of a site collection are inherited by child sites. At any time, permissions inheritance can be turned off at a site, list, library, or even at the item level in a list or library. The permissions themselves can be assigned to either SharePoint groups, individual users, or groups created outside of SharePoint such as Windows groups.
+
+  #### Lessons
+  - SharePoint Groups
+  - Assigning Permissions
+  - Permissions Levels
+  - Permissions Inheritance
+
+  After completing this module, students will be able to&#58;
+  - Understand SharePoint groups.
+  - Understand how to create SharePoint groups.
+  - Understand how to assign permission in SharePoint.
+  - Understand how to view permission levels.
+  - Understand how to manage permission inheritance at the site level.
+  - Understand how to manage permission inheritance at the list or library level.
+
+
+  ### Module 5&#58; Participating in User Communities
+  SharePoint offers users a place for social collaboration in the form of personal sites. The experience and functionality is very similar to popular social media sites such as Facebook and LinkedIn. The main difference being that it is controlled by the SharePoint Farm and exposure is typically limited to internal networks.
+
+  #### Lessons
+  - Configure User Profiles and My Sites
+  - Newsfeeds
+  - People Newsfeeds
+  - Documents Newsfeeds
+  - Documents Newsfeed
+  - Sites Newsfeed
+  - Tags Newsfeed
+  - Managing Personal Sites
+
+
+  #### Lab &#58; Exercises
+  - Managing and Viewing Personal Information and Content
+
+  After completing this module, students will be able to&#58;
+  - Understand how to edit a personal profile.
+
+  #### Additional Reading
+  None

@@ -6,10 +6,10 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>The content of this exam will be updated on February 24, 2021. Please download the skills measured document below to see what will be changing.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>The content of this exam was updated on May 25, 2021. Please download the skills measured document below to see what changed.</strong></font><br/><br/></div>
   
   Candidates for this exam are Microsoft 365 Enterprise Administrators who take part in evaluating, planning, migrating, deploying, and managing Microsoft 365 services. They perform Microsoft 365 tenant management tasks for an enterprise, including its identities, security, compliance, and supporting technologies.
-
+  
   Candidates have a working knowledge of Microsoft 365 workloads and should have been an administrator for at least one Microsoft 365 workload (Exchange, SharePoint, Skype for Business, or Windows as a Service). Candidates also have a working knowledge of networking, server administration, and IT fundamentals such as DNS, Active Directory, and PowerShell.
 subTitle: 'This exam measures your ability to accomplish the following technical tasks: implement modern device services; implement Microsoft 365 security and threat management; and manage Microsoft 365 governance and compliance.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -22,9 +22,9 @@ locales:
 levels:
 - advanced
 skills:
-- The content of this exam will be updated on February 24, 2021. Please download the exam skills outline below to see what will be changing.
-- Implement modern device services (30-35%)
-- Implement Microsoft 365 security and threat management (30-35%)
+- The content of this exam was updated on May 25, 2021. Please download the exam skills outline below to see what changed.
+- Implement modern device services (40-45%)
+- Implement Microsoft 365 security and threat management (20-25%)
 - Manage Microsoft 365 governance and compliance (35-40%)
 roles:
 - administrator
@@ -53,10 +53,10 @@ relatedCertifications:
 resources:
 - title: Training and certification guide
   description: Explore all certifications in a concise training and certifications guide.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certification poster
   description: Check out an overview of fundamentals, role-based and specialty certifications.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: See two great offers to help boost your odds of success.
   href: ../deals.md

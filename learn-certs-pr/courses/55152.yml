@@ -1,0 +1,140 @@
+### YamlMime:Course
+title: Fundamentals of Active Directory
+metadata:
+  title: 'Course 55152-A: Fundamentals of Active Directory'
+  description: 'Course 55152-A: Fundamentals of Active Directory'
+uid: course.55152
+courseNumber: '55152-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the industry standards used in Active Directory and their importance.
+- skill: Recognize the functionality of Domain Controllers and Active Directory Replication mechanisms.
+- skill: Understand Forest, Domain and OU structure.
+- skill: Recognize and understand the role of Active Directory Sites.
+- skill: Skills needed to determine Domain Controller Server versions, Forest and Domain Functional levels.
+- skill: Describe authentication Mechanisms in Active Directory NTLM and Kerberos.
+- skill: Optimize and maintain Group Policy Objects (GPO) used in Active Directory.
+- skill: Understand the functioning of Active Directory Partitions and the Global Catalog.
+- skill: Fundamental understanding of using Active Directory with Cloud Services like Federation Services and Azure.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  This one-day instructor-led class is intended for IT professionals and IT managers who work with Active Directory or supervise IT professionals that work with Active Directory. Additionally, IT professionals that work with products that integrate with Active Directory such as Exchange
+  can also benefit. In this course, students learn how and why Active Directory was developed by Microsoft, the fundamental architecture, basic design, management, as well as security and fundamentals for cloud integration with services like Azure.
+
+  #### Audience profile
+  This course is intended for both novice and experienced IT professionals, Network Administrators new to Active Directory, Help Desk Personnel, Network Support Personal, Desktop Support Personal, Managers that oversee IT personnel, Developers that create products that interact with Active Directory and Exchange Administrators.
+prerequisitesSection: |-
+  - Basic understanding of networking concepts.
+  - Basic Windows knowledge.
+  - Basic understanding of security concepts such as authentication and authorization
+outlineSection: |-
+  ### Module 1&#58; Principles of Active Directory
+  This module lays the fundamental groundwork for understanding all major principles of active directory from management and design to integrating with other forests and the cloud. All of the foundational terminology and standards used in Active Directory are clearly defined and explained.
+  #### Lessons
+  - Development of Active Directory
+  - What is X.500
+  - LDAP
+  - Active Directory Architecture
+  - NTLM and Kerberos
+  - Managing operating systems with GPOs, Workplace Join and InTune
+  - Active Directory Groups&#58; Domain Local, Global and Universal
+  - Using and Managing Active Directory Domain Controllers
+  - Forest and Domain Functional Levels
+  - Introduction to Active Directory Partitions and the Global Catalog
+  - Basic Forest Structure and Design
+  - Basic Domain Structure and Design
+  - Basic OU Structure and Design
+  - Describe the key features and editions of Active Directory
+  - Understand all of the principle components of Active Directory including Sites, Domains, OUs and their use.
+  - Describe the authentication mechanisms used by Active Directory and how they are implemented.
+  - Understand the common design scenarios used when implementing Active Directory.
+  - Describe the techniques used by Active Directory to manage computers and network resources.
+
+
+  ### Module 2&#58; Fundamentals of WAN management with Active Directory
+  This module explains how to use the wide area networking features of Active Directory such as Active Directory Sites and Site Link Objects to control and manage replication, login traffic and site aware applications.
+  #### Lessons
+  - Understanding AD Sites and WAN Traffic Management
+  - Basic AD Sites and Logon Traff
+  - Introduction to AD Sites and Replication Traffic
+  - Bridgehead Servers and Site Link Objects
+  - Site Aware Applications
+  - Describe the key features, in Active Directory used to manage WAN logon and replication traffic.
+  - Understand the function of the Knowledge Consistency Checker and the Inter-Site Topology Generator.
+  - Fundamentals of WAN design with Active Directory.
+  - Resolve common WAN traffic issues.
+
+
+  ### Module 3&#58; Introduction to Active Directory Group Policy Object
+  This module explains Active Directory Group Policy, how it functions, how it is used and the fundamental features and limitations. Students will understand all major features of GPOs and how they can be effectively implemented to avoid common issues.
+  #### Lessons
+  - Introduction to Group Policy
+  - Administrative Templates
+  - Fundamental Concepts of GPO Scripts
+  - Introduction to Creating and Using GPOs
+  - Principles of Managing Multiple GPOs
+  - Block, Enforce and Inheritance
+  - GPOs and Active Directory Versions
+  - Introduction to Controlling and Installing Software with GPOs, SRP and App Locker
+  - Describe the key features, editions, and hardware requirements Active Directory Group Policy.
+  - Principles of managing multiple GPOs and inheritance.
+  - Upgrade and Migrate to new Administrative Templates.
+  - Understand Block, Enforce, GPO scripts and container linking.
+  - Introduction to software installation with GPOs and application control.
+  - Resolve common issues
+
+
+  ### Module 4&#58; Principles of Active Directory Integration
+  This module explains how Active Directory can be integrated and used with other Active Directory Forests, X.500 Realms, LDAP services and Cloud services.
+  #### Lessons
+  - Active Directory and “The Cloud”
+  - User Principle Names, Authentication and Active Directory Federated Services
+  - Active Directory and “The Cloud”
+
+
+  #### Lab &#58; What version of Active Directory are you running?
+  - Determine server operating system version of a Domain Controller
+  - Determine Domain Functional Level
+  - Determine Forest Functional Level
+  - Raise Domain and Forest Functional Level
+  - Create a logical Active Directory Diagram
+
+
+  #### Lab &#58; Authenticate with a UPN logon
+  - Authenticate and login using both Pre-Windows 2000 and User Principle Name login methods.
+  - Understand the use and limitations of Active Directory authentication methods.
+
+
+  #### Lab &#58; Explore Active Directory Objects and Utilities
+  - Explore and use the Active Directory Users and Computers Utility
+  - Create OU containers, users and delegate rights and permissions
+  - Explore the Active Directory Administrative Center.
+  - Understand common issues.
+
+
+  #### Lab &#58; Explore the default GPO configuration
+  - Explore and use the Group Policy Management Editor
+  - Explore and understand the settings in the default Active Directory GPOs
+
+
+  #### Lab &#58; Make your own GPO
+  - Create a new Group Policy Object using the Group Policy Management Editor
+  - Apply and test application of the new GPO
+  - Describe the key features of Active Directory that can be used for extra WAN resource sharing
+  - Understand the term Cloud and the advantage of Cloud services.
+  - Understand the principles of Authentication outside of an Active Directory Forest.
+  - Describe the role of Kerberos, Single Sign On and User Principle Names.
+  - Experience and use the principle Active Directory management tools described in the course.
+  - Create, edit and apply a Group Policy Object.
+
+  #### Additional Reading
+  None

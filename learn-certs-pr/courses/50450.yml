@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: Creating and Analyzing Database Using Microsoft Excel 2007 & 2010
+metadata:
+  title: 'Course 50450-B: Creating and Analyzing Database Using Microsoft Excel 2007 & 2010'
+  description: 'Course 50450-B: Creating and Analyzing Database Using Microsoft Excel 2007 & 2010'
+uid: course.50450
+courseNumber: '50450-B'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Working with Databases
+- skill: Using AutoFilter
+- skill: Working with Advanced Filters
+- skill: Lookup Formulas
+- skill: Exporting and Importing Data
+- skill: Creating/Revising PivotTable
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-excel
+summary: |-
+  This 1 day course provides students with the knowledge and skills to use advanced features in creating and analyzing databases. Students will learn how to sort and manage data in lists; filter and query data; apply lookup and database functions. Students will also learn how to analyze and evaluate the information in databases by creating pivot table and pivot charts.
+
+  #### Audience profile
+  This course is intended for Information workers who have at least a year experience in using Microsoft Office Excel 2003/2007.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - An intermediate usage of Microsoft Office Excel 2003/2007 for at least 1 year.
+outlineSection: |-
+  ### Module 1&#58; Working with Databases
+  This module explains how to make use of Excel to create a sample database format.
+  #### Lessons
+  - Creating a Database
+  - Modifying a Database
+  - Sorting Records by Multiple Fields
+  - Using Data Validation
+  - Validating Data using a List
+  - Creating a Custom Error Message
+  - Removing Data Validation
+  - Creating Subtotals in a List
+  - Removing Subtotals from a List
+
+
+  #### Lab &#58; Practice 1
+
+  After completing this module, students will be able to&#58;
+  - Creating and Modify Database
+  - Using Data Validation
+  - Creating, Removing Subtotals
+
+
+  ### Module 2&#58; Using AutoFilter
+  This module explains how to use AutoFilter to get their desired details from Excel List.
+  #### Lessons
+  - Enabling AutoFilter
+  - Using AutoFilter to Filter a List
+  - Clearing AutoFilter Criteria
+  - Creating a Custom AutoFilter
+
+
+  #### Lab &#58; Practice 2
+
+  After completing this module, students will be able to&#58;
+  - Use AutoFilter to get their desired details from Excel list.
+  - Create Custom AutoFilter.
+
+
+  ### Module 3&#58; Working with Advanced Filters
+  This module explains how to make use of the advanced filter to set criteria range and copy the result to another location in Excel ranges.
+  #### Lessons
+  - Creating a Criteria Range
+  - Using a Criteria Range
+  - Showing All Records
+  - Using an Advanced And Condition
+  - Using an Advanced Or Condition
+  - Copying Filtered Records
+  - Using Database Functions
+
+
+  #### Lab &#58; Practice 3
+
+  After completing this module, students will be able to&#58;
+  - Set Criteria range for the advanced filters.
+  - Copying Filtered record to another location in Excel ranges.
+  - Use Database function for calculating required results.
+
+
+  ### Module 4&#58; Lookup Formulas
+  This module explains how to make use of Vlookup, Hlookup to retrieve desired items in Excel Tables.
+  #### Lessons
+  - Using VLookup
+  - Using HLookup
+
+
+  #### Lab &#58; Practice 4
+
+  After completing this module, students will be able to&#58;
+  - Make use of Vlookup and Hlookup
+
+
+  ### Module 5&#58; Exporting and Importing Data
+  This module explains how to import and export Excel data to text formats. It also shows how to import data from the web.
+  #### Lessons
+  - Exporting Data to Other Applications
+  - Exporting to XML
+  - Importing Data from Text Files
+  - Changing External Data Range Properties
+  - Importing Data from Other Applications
+  - Removing the Query Definition
+  - Importing Dynamic Data from the Web
+  - Copying a Table from a Web Page
+
+
+  #### Lab &#58; Practice 5
+
+  After completing this module, students will be able to&#58;
+  - Import and export data to Text format
+  - Import data from other applications
+  - Import data from the Web
+
+
+  ### Module 6&#58; Creating/Revising PivotTables
+  This module explains how to use determine the source needed to create its PivotTable/PivotChart report.
+  #### Lessons
+  - Creating a PivotTable Report
+  - Adding PivotTable Report Fields
+  - Selecting a Page Field Item
+  - Refreshing a PivotTable Report
+  - Changing the Summary Function
+  - Adding New Fields to a PivotTable Report
+  - Moving PivotTable Report Fields
+  - Hiding/Unhiding PivotTable Report Items
+  - Deleting PivotTable Report Fields
+  - Creating a Page Field Report
+  - Formatting a PivotTable Report
+  - Creating a PivotChart Report
+  - Publishing PivotTable Reports to the Web
+
+
+  #### Lab &#58; Practice 6
+
+  After completing this module, students will be able to&#58;
+  - Determine the source needed for its PivotTable
+  - Create the PivotTable
+  - Adding/removing Fields for the PivotTable
+  - Creating Page Field Report
+  - Creating a PivotChart Report
+  - Publishing PivotTable Report to the Web

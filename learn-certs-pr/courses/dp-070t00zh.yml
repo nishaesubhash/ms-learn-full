@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: 将开源数据工作负荷迁移至 Azure
+metadata:
+  title: 'Course DP-070T00ZH-A: 将开源数据工作负荷迁移至 Azure'
+  description: 'Course DP-070T00ZH-A: 将开源数据工作负荷迁移至 Azure'
+uid: course.dp-070t00zh
+courseNumber: 'DP-070T00ZH-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 将本地 MySQL 迁移到 Azure SQL DB for MySQL
+- skill: 将本地 PostgreSQL 迁移到 Azure SQL DB for PostgreSQL
+learningPartnersLink: /learn/certifications/partners
+locales:
+- zh-cn
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  本课程向学生介绍 Azure SQL 数据库，并教授给学生将 MySQL 和 PostgreSQL 工作负荷迁移到 Azure SQL 数据库所需的知识。
+
+  #### Audience profile
+  本课程的主要受众是计划将 MySQL 或 Postgres DB 工作负荷迁移到 Azure SQL DB 的数据库开发者。
+  本课程的次要受众是想要深入认识 Azure SQL DB 的功能和优势的 MySQL/Postgres 管理员。
+prerequisitesSection: |-
+  除了专业经验外，参加此培训的学生还应具有以下技术知识&#58; 
+  - 关于开源关系数据库管理系统（例如 Postgres 和/或 MySQL）、SQL 管理、备份和恢复技术（即转储表数据）的一些知识
+outlineSection: |-
+  ### Module 1&#58; 迁移到 Azure SQL DB for MySQL 和 Azure SQL DB for PostgreSQL
+  本模块说明 Azure SQL DB 的优势和体系结构。
+  #### Lessons
+  - OSS 数据库概述
+  - 常见 OSS 数据库工作负荷
+  - 迁移过程中的客户挑战
+
+
+  #### Lab &#58; 创建源 OSS 数据库
+  - 安装 Postgres 迁移 DB 服务器
+  - 安装 MySQL 迁移 DB 服务器
+  - 来自 Postgres/MySQL 的备份/数据转储
+  - 从数据转储还原
+
+  完成本模块后，学生将能够&#58; 
+  - OSS 数据库概述
+  - 常见 OSS 数据库工作负荷
+  - 迁移过程中的客户挑战
+
+
+  ### Module 2&#58; 将本地 MySQL 迁移到 Azure SQL DB for MySQL
+  本模块说明将 MySQL 工作负荷迁移到 Azure SQL DB 的好处和过程
+  #### Lessons
+  - 配置和管理 Azure SQL DB for MySQL
+  - 将本地 MySQL 迁移到 SQL DB for MySQL
+  - 应用程序迁移
+  - 迁移后注意事项
+
+
+  #### Lab &#58; 将 MySQL DB 工作负荷迁移到 Azure SQL DB
+  - 将 MySQL DB 工作负荷迁移到 Azure SQL DB
+  - 定义源 DB 和目标 DB
+  - 执行迁移
+  - 验证迁移
+
+  完成本模块后，学生将能够&#58; 
+  - 配置和管理 Azure SQL DB for MySQL
+  - 将本地 MySQL 迁移到 SQL DB for MySQL
+  - 应用程序迁移
+  - 迁移后注意事项
+
+
+  ### Module 3&#58; 将本地 PostgreSQL 迁移到 Azure SQL DB for PostgreSQL
+  本模块说明将 PostgreSQL DB 工作负荷迁移到 Azure SQL DB 的好处和过程
+  #### Lessons
+  - 配置和管理 Azure SQL DB for PostgreSQL
+  - 将本地 MySQL 迁移到 SQL DB for PostgreSQL
+  - 应用程序迁移
+  - 迁移后注意事项
+
+
+  #### Lab &#58; 将 PostgreSQL DB 工作负荷迁移到 Azure SQL DB
+  - 配置 Azure SQL DB for PostgreSQL
+  - 定义源 DB 和目标 DB
+  - 执行迁移
+  - 验证迁移
+
+  完成本模块后，学生将能够&#58; 
+  - 配置和管理 Azure SQL DB for PostgreSQL
+  - 将本地 MySQL 迁移到 SQL DB for PostgreSQL
+  - 应用程序迁移
+  - 迁移后注意事项

@@ -1,0 +1,142 @@
+### YamlMime:Course
+title: The ITIL® Practitioner Certificate in IT Service Management
+metadata:
+  title: 'Course 55159-A: The ITIL® Practitioner Certificate in IT Service Management'
+  description: 'Course 55159-A: The ITIL® Practitioner Certificate in IT Service Management'
+uid: course.55159
+courseNumber: '55159-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Using IT Service Management concepts that are important drivers of Continual Service Improvement.
+- skill: Appling the ITSM guiding principles in a real-world context.
+- skill: Appling the CSI approach to manage improvements in a given organizational context.
+- skill: Using metrics and measurements to enable Continual Service Improvement.
+- skill: Communicating effectively to enable Continual Service Improvement.
+- skill: Appling organizational change management to support Continual Service Improvement.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  The purpose of the ITIL Practitioner course to help organizations and individuals develop and increase the value they obtain from using ITIL by offering additional practical guidance to adopt and adapt the framework to support the business. It is the next step after ITIL Foundation
+  for professionals who have already learned the basics of IT Service Management
+  (ITSM) and the business value of well-designed and delivered services.
+
+  #### Audience profile
+  The target audience of the ITIL Practitioner certificate in IT Service Management is IT professionals who must demonstrate the skills to apply ITIL concepts in their organization, ensuring maximum business value by delivering fit-for-purpose and fit-for-use services.
+prerequisitesSection: |-
+  - ITIL Foundation is a prerequisite to take ITIL Practitioner as it supplements, rather than substitutes the Foundation qualification. To that end the ITIL Practitioner syllabus will require delegates to have passed their ITIL Foundation exam and be familiar with the principles of ITSM and the organization-wide common language of ITIL. These learnings will be put in context to answer the ‘how’ of successful improvement initiatives with ITIL Practitioner, which is the next step after Foundation, not a substitution.
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module cover success in service management, the nature of a service, delivery models, and service management versus IT service management.
+  #### Lessons
+  - 1.1 Using ITIL – adopt and adapt
+  - 1.2 Understanding service
+  - 1.3 Delivery models
+  - 1.4 Service management versus IT service management
+
+  After completing this module, students will be
+  able to&#58;
+  - 1. Use IT Service Management concepts that are important drivers of continual service improvement.
+  - 1.1 Apply the concept of “Adopt and Adapt” when using ITIL guidance in a given context.
+  - 1.2 Analyze the importance of each element of the definition of a service when planning and implementing service improvements&#58; Value, Customer, Outcome, Cost, Risk.
+
+
+  ### Module 2&#58; Guiding Principles
+  This module introduces the guiding principles, proceeds to detail each, and ends with a discussion of how to apply them.
+  #### Lessons
+  - 2.1 Focus on value
+  - 2.2 Design for experience
+  - 2.3 Start where you are
+  - 2.4 Work holistically
+  - 2.5 Progress iteratively
+  - 2.6 Observe directly
+  - 2.7 Be transparent
+  - 2.8 Collaborate
+  - 2.9 Keep it simple
+  - 2.10 Applying the guiding principles
+
+  After completing this module, students will be able to&#58;
+  - 2. Apply the ITSM guiding principles in a real-world context.
+  - 2.1 Apply the ITSM guiding principles in a given context when planning and implementing service improvements&#58;
+  - Focus on value, Design for experience, Start where you are, Work holistically, Progress iteratively, Observe directly, Be transparent, Collaborate, Keep it simple.
+
+
+  ### Module 3&#58; The CSI Approach
+  This module introduces the CSI approach and then details a step-by-step guide to applying the CSI approach.
+  #### Lessons
+  - 3.1 Characteristics of the CSI approach
+  - 3.2 Step-by-step guide to the CSI approach
+
+  After completing this module, students will be able to&#58;
+  - Apply the CSI approach to manage improvements in a given organizational context.
+  - Describe the purpose and main outputs of each step of the CSI Approach.
+  - Use the CSI Approach tools and techniques successfully in a given specific context&#58; Orientation Worksheet, Benefits Realization Review Template, CSI registers.
+  - Apply the CSI approach to a given context, including a holistic view of the guiding principles and how the three critical competencies contribute to an improvement (Communication, Metrics & Measurement, Organizational Change Management (OCM)).
+
+
+  ### Module 4&#58; Metrics and Measurement
+  This module introduces measurement and metrics, what measurement is for, Critical Success Factors and Key Performance Indicators, metric cascades and hierarchies, metric categories, assessments, reporting, and ends with a discussion on continual improvement of metrics and measurement
+  #### Lessons
+  - 4.1 What is measurement for?
+  - 4.2 Critical success factors and key performance indicators
+  - 4.3 Metric cascades and hierarchies
+  - 4.4 Metric categories
+  - 4.5 Assessments
+  - 4.6 Reporting
+  - 4.7 Continual improvement of metrics and measurement
+
+  After completing this module, students will be able to&#58;
+  - Use metrics and measurement to enable continual service improvement.
+  - Define critical success factors (CSFs) using a relevant hierarchical approach&#58; a) Vision to measurement b) Balanced scorecard c) Organizational cascade.
+  - Choose key performance indicators (KPIs) to underpin a critical success factor.Analyze CSFs and KPIs in a given context to ensure they are balanced among four categories&#58; a) Technology, process, service b) Progress compliance, effectiveness, efficiency c) Leading, trailing d) Inside-out, outside-in.
+  - Define a current state assessment plan in a given context&#58; a) Goal b) Scope c) Assessment criteria d) Required outputs e) Available resources and skills.
+  - Design a report in a given context.
+  - Apply knowledge of metrics/measurement when planning and implementing improvement, particularly in the context of the CSI approach/guiding principles.
+
+
+  ### Module 5&#58; Communication
+  This module covers communications, then details making good communication work.
+  #### Lessons
+  - 5.1 Why good communication is important
+  - 5.2 Communication principles
+  - 5.3 Communication techniques
+
+
+  ### Module 6&#58; Organizational Change Management
+  This module covers what organization change management is, its impact, understanding people’s transition through change, key activities for effective organizational change management, and continual improvement of organizational change management.
+  #### Lessons
+  - 6.1 Essentials for successful improvement
+  - 6.2 Clear roles and responsibilities
+  - 6.3 OCM and ITIL change management
+  - 6.4 Impact of organizational change management
+  - 6.5 Understanding people’s transition through change
+  - 6.6 Key activities for effective organizational change management
+  - 6.7 Continual improvement of organizational change management
+
+  After completing this module, students will be able to&#58;
+  - Apply organizational change management to support continual service improvement.
+  - Explain the role and impact of Organizational Change Management (OCM) in successful improvement.
+  - Describe the purpose and value of OCM activities&#58; a) Create a sense of urgency b) Manage stakeholders c) Manage sponsors d) Analyze training needs e) Manage resistance to change f) Use reinforcement to embed the change.
+  - Use relevant OCM tools and techniques to support improvement in a given context&#58; a) Sponsor diagram b) Stakeholder worksheet c) Stakeholder map d) RACI matrix.
+  - Apply knowledge of OCM when planning and implementing improvements, particularly in the context of the CSI approach and/or the guiding principles.
+
+
+  ### Module 7&#58; Summary and Exam Preparation
+  This module summarizes the course and prepares you to take the ITIL Practitioner certification examination.
+  #### Lessons
+  - Review and summarize main concepts of ITIL Practitioner
+  - Format of the ITIL Practitioner Certification Examination
+  - Tips for taking the ITIL Practitioner Exam
+
+  After completing this module, students will be able to&#58;
+  - Use IT Service Management concepts that are important drivers of CSI
+  - Apply the IT Service Management guiding principles in a real-world context
+  - Apply the CSI approach to manage improvements in a given organizational context
+  - Use metrics and measurements to enable Continual Service Improvement
+  - Communicate effectively to enable Continual Service Improvement
+  - Apply organizational change management to support CSI

@@ -1,0 +1,223 @@
+### YamlMime:Course
+title: SharePoint 2010 Business Intelligence Services
+metadata:
+  title: 'Course 55003-A: SharePoint 2010 Business Intelligence Services'
+  description: 'Course 55003-A: SharePoint 2010 Business Intelligence Services'
+uid: course.55003
+courseNumber: '55003-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with the SharePoint 2010 Business Intelligence Center.
+- skill: Use PerformancePoint Services.
+- skill: Use Business Connectivity Services.
+- skill: Use Excel Services.
+- skill: Use Visio Services.
+- skill: Use PowerPivot.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This four-day instructor-led course provides students with the necessary knowledge to work with all the associated SharePoint 2010 Business Intelligence services including PerformancePoint Service, Excel Services, Business Connectivity Services, Visio Services and the Business Intelligence Center.
+  
+  The focus of this course is on the SharePoint business intelligence platform and not on the SQL business intelligence services.The course uses SQL 2012, however, as far as possible the course design is agnostic towards the version of SQL used from SQL 2008 forward with the exception of certain features which are clearly pointed out in the courseware.
+  
+  Again as far as possible each of the modules are standalone allowing for customization of the course for those audiences that may not have an interest in a certain service. The course includes a complete build guide for use of the students that they may duplicate the environment in which they learned on their work computer. This would have certain hardware and software requirements which would need to be met.
+
+  #### Audience profile
+  This course is intended for Power Users, Business Intelligence Developers and IT Professionals that will be involved with the design, development and maintenance of SharePoint 2010 Business Intelligence solutions.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - An understanding of the benefits of business intelligence.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  After completing this module, students will be able to&#58;
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; The Business Intelligence Stack
+  We have split this module into sections. First, we are going to look at the three different ways in which business intelligence can be viewed. Then, we're going to look at the services the SQL 2012 provides us and how they apply to business intelligence. We will then move to SharePoint 2010 and look at the SharePoint Services to examine their relevance and how we can use them in business intelligence to surface data. Finally, we will look at PowerPivot.
+  #### Lessons
+  - Business Intelligence in Three Ways
+  - SQL 2012 Business Intelligence
+  - SharePoint 2010 Business Intelligence
+  - PowerPivot
+
+
+  #### Lab &#58; The Business Intelligence Stack
+
+  After completing this module, students will be able to&#58;
+  - Browse the data within a cube using SQL Server Management Studio.
+  - Browse data using Visual Studio 2010.
+  - Connect to a tabular source, import tables, and explore the data.
+
+
+  ### Module 3&#58; SharePoint 2010 Business Intelligence Center
+  In this module, we are going to cover specifically the Business Intelligence Center template within SharePoint. We are also going to cover some things that generically apply to SharePoint that you can use within business intelligence. Also covered are some concepts such as content types, which are handy to have a working knowledge of for anyone that works within SharePoint.
+  #### Lessons
+  - SharePoint Central Administration
+  - The Business Intelligence Center
+  - Permissions and Roles
+  - Document Libraries and Lists Included
+
+
+  #### Lab &#58; SharePoint 2010 Business Intelligence Center
+
+  After completing this module, students will be able to&#58;
+  - Explore the options and settings available within Central Administration.
+  - Create a new web application and business intelligence site while exploring the features of both.
+
+
+  ### Module 4&#58; SharePoint 2010 Excel Services
+  In this module, we will explore the core components of Excel Services. We will cover Excel Web Access and it's capabilities along with any differences you may encounter in the browser as opposed to the desktop client. Lastly we will explain the save and share process and have a look at best practices.
+  #### Lessons
+  - Core Components
+  - Excel Web Access (EWA)
+  - What Excel Web Access is Not
+  - Differences in the Browser vs. Desktop
+  - SharePoint Libraries to Store Workbooks
+  - The Save and Share Process
+  - Excel Web Part
+  - Best Practices
+
+
+  #### Lab &#58; SharePoint 2010 Excel Services
+
+  After completing this module, students will be able to&#58;
+  - Create a SharePoint library to hold Excel workbooks and explore trusted file locations.
+  - Create an Excel workbook with a parameter and save it to a SharePoint document library.
+  - Add Web Parts to a webpage
+
+
+  ### Module 5&#58; SharePoint 2010 PerformancePoint Services
+  In this module, we will give you an overview of PerformancePoint Services. Dashboard Designer is covered along with many of the objects and connections available within.
+  #### Lessons
+  - Overview of PerformancePoint Services
+  - Dashboard Designer
+  - Data Sources
+  - Indicators
+  - KPIs
+  - Visual Reports
+  - Filters
+  - Scorecards
+  - Dashboards
+
+
+  #### Lab &#58; SharePoint 2010 PerformancePoint Services
+
+  After completing this module, students will be able to&#58;
+  - Explore the Dashboard Designer interface and create and configure a data source.
+  - Create and configure a standard KPI and a scorecard.
+  - Create and configure a leaf KPI and a new scorecard.
+  - Create two blank KPI's and then roll them into an objective KPI.
+  - Create and configure an analytic chart and an analytic grid, then add them to a dashboard, deploy them to SharePoint, and explore the options available.
+  - Create and configure a filter, and then tie the filter into both the analytic chart and analytic grid created earlier.
+  - Create and configure a cascading filter and then tie it into a new analytic chart and grid.
+  - Create a Time Intelligence data connection, a Time Intelligence filter, and create a report using both.
+  - Create four copies of the Objective Scorecard, configure settings in each of the four copies, and deploy them to SharePoint in a dashboard.
+  - Create a new leaf KPI and use that KPI in two new scorecards, one with a filter configured, and one without.
+  - Create a new dashboard with two pages and review editing options.
+
+
+  ### Module 6&#58; SharePoint 2010 Visio Services
+  Visio drawings can be very effective and in this module, we cover the shared service that allows users to share and view them. Also discussed in this module are data-connected drawings and how to configure them, along with a section on viewing drawings within a browser.
+  #### Lessons
+  - Visio Graphics Service
+  - Visio Drawings in the Browser
+  - Visio Graphics Web Access Part
+  - Visio Drawings with Data Connections
+
+
+  #### Lab &#58; SharePoint 2010 Visio Services
+
+  After completing this module, students will be able to&#58;
+  - Create a drawing, upload the document to the Student BI Site site documents library, and view the drawing in a browser.
+  - Create a data connected drawing and upload the document to the Student BI Site documents library.
+  - Create an objective scorecard and matching strategy map, place them in a dashboard, and then upload the dashboard to the Student BI Site.
+
+
+  ### Module 7&#58; PowerPivot
+  PowerPivot is not a feature of SharePoint Business Intelligence but an Excel workbook with PowerPivot can be saved to a SharePoint site and then used in a business intelligence scenario. This module is intended as an overview of the product only.
+  #### Lessons
+  - PowerPivot and Excel
+  - PowerPivot and SharePoint
+  - Enterprise Business Intelligence and PowerPivot
+  - Importing Data
+  - Enriching Data
+  - SharePoint Sharing
+
+
+  #### Lab &#58; PowerPivot
+
+  After completing this module, students will be able to&#58;
+  - Use PowerPivot within Excel to import a table from SQL Server.
+  - View the relationships existing within the tables they just imported from SQL Server and then import an additional table and configure a relationship between it and the existing.
+  - Explore how to hide columns you don't want reflected in the resulting PivotTable.
+  - Create a PivotTable within the existing worksheet.
+
+
+  ### Module 8&#58; SharePoint 2010 Business Connectivity Services
+  In this module we will cover Business Connectivity Services, how to configure the security and explain the terminology.
+  #### Lessons
+  - What is Business Connectivity Services?
+  - BCS Terminology
+  - BCS Security
+  - Using SharePoint Designer with BCS
+  - Surfacing the BCS Data
+
+
+  #### Lab &#58; SharePoint 2010 Business Connectivity Services
+
+  After completing this module, students will be able to&#58;
+  - Assign administrators and permissions on the BDC Metadata Store.
+  - Create a new dashboard and explore three different ways to connect the Web Parts.
+  - Explore the different content types available in SharePoint and learn how to locate them and their corresponding settings.
+  - Create a document library, configure it to accept specific content types, and then delete the document library.
+  - Create and configure a new external content type.
+  - Create an external list associated with the new external content type.
+  - Create a new external content type and a new host URL then create an external list and profile page.
+  - Add a custom action to an external list.
+
+
+  ### Module 9&#58; Dashboards
+  Monitoring, analyzing, and managing dashboards are discussed along with details on how to use them most effectively. Our coverage of the excellent tool Microsoft Report Builder 3.0 is sparse as this course focuses on the SharePoint space.
+  #### Lessons
+  - Three Types of Dashboards
+  - Successful Dashboards
+  - Tables or Graphs
+  - Types of Graphs
+  - Choosing a Chart Type
+  - Key Performance Indicators
+  - Pitfalls In Dashboard Design
+  - Microsoft Report Builder 3.0
+  - Plan Your Reports
+  - Datasets
+  - SharePoint Designer
+  - Dashboards
+
+
+  #### Lab &#58; Dashboards
+
+  After completing this module, students will be able to&#58;
+  - Navigate the Report Builder 3.0 interface.
+  - Create an embedded data source into SQL 2012 Engine.
+  - Create an embedded data source into SQL 2012 Analysis Services.
+  - Create a shared data source using the Report Manager.
+  - Create a shared dataset using the shared data source.
+  - Create a new dashboard and explore three different ways to connect the Web Parts.

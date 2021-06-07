@@ -1,0 +1,240 @@
+### YamlMime:Course
+title: Project Server 2013 Development
+metadata:
+  title: 'Course 55077-A: Project Server 2013 Development'
+  description: 'Course 55077-A: Project Server 2013 Development'
+uid: course.55077
+courseNumber: '55077-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Develop applications for Project Server using PSI and CSOM.
+- skill: Develop and create Project Server workflows.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This course will show students how to develop application using the various APIs available in Project Server including Project Server Interface (PSI), .NET Client Side Object Model, JavaScript Object Model and REST. In addition, you will learn how to extend on-premise Project Server installs via web parts, local and remote event handlers, Apps via the new App Model and workflows.
+
+  #### Audience profile
+  This course is intended for anyone that needs to build applications that leverage Project Server 2013.
+prerequisitesSection: |-
+  Understanding of Project Server basic concepts (projects, resources, tasks, assignments, etc), SharePoint navigation, and common web technologies like HTML, Javascript and JQuery. A firm understanding of .NET C# is also required.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  #### Lessons
+  - N/A
+
+
+  After completing this module, students will be able to&#58;
+
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; Project Server Introduction
+  In this module you will be introduced to Project Server 2013 features and architecture and a brief review of the Microsoft Enterprise Project Management (EPM) stack.
+  #### Lessons
+  - Introduction
+  - Architecture
+  - Development Basics
+
+
+  #### Lab &#58; Installing Project Server 2013
+
+  After completing this module, students will be able to&#58;
+
+  - Understand the Microsoft EPM solution stack
+  - Describe the new features of Project Server 2013
+  - Describe the architecture of Project Server 2013
+  - How to install Project Server 2013
+  - How to setup and configure a Project Web App site
+
+
+  ### Module 3&#58; Project Service Interface (PSI)
+  Description&#58; In this module you will learn about Project Server Interface (PSI).  Each of the PSI ASMX and WCF interfaces will be explored and you will learn how to use these endpoints in your own applications.
+  #### Lessons
+  - Project Server Interface
+
+
+  #### Lab &#58; Creating a PSI Proxy
+
+  #### Lab &#58; Programming with PSI
+
+  #### Lab &#58; Implementing Impersonation
+
+  #### Lab &#58; Using Windows PowerShell with PSI
+
+  #### Lab &#58; Creating a PSI Extension
+
+  After completing this module, students will be able to&#58;
+
+  - Describe Project Server Interface (PSI)
+  - Describe each PSI endpoint service
+  - Create updated PSI Proxy assemblies
+  - Build applications that create and modify various Project Server objects using PSI
+  - How to extend PSI with your own end points
+
+
+  ### Module 4&#58; Client Side Object Model
+  In this module you explore the new .NET Client Side Object Model (CSOM) of Project and SharePoint Server and how it differs from developing with PSI.
+  #### Lessons
+  - Client Side Object Model
+  - JavaScript Object Model
+
+
+  #### Lab &#58; Using Client Side Object Model
+
+  #### Lab &#58; Using JavaScript Object Model
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the .NET CSOM libraries
+  - How to create applications that use the CSOM
+  - How the CSOM formats and sends requests to Project Server and SharePoint
+  - How to debug CSOM calls using Fiddler
+  - Understand the CSOM message size limits
+  - Describe JavaScript Object Model (JSOM)
+  - How to use the JavaScript Object Model in applications
+  - Describe best practices when using JSOM
+  - Describe how to make cross-domain calls with the Cross Domain library
+
+
+  ### Module 5&#58; REST API
+  In this module you will learn how to use the Project Server REST APIs in your applications.  In addition, you will learn about the OData specification and how to format your REST urls to limit, sort and filter the returned data.
+  #### Lessons
+  - REST APIs
+
+
+  #### Lab &#58; Programming with REST
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the Project Server REST API
+  - Describe how OData works with the REST API
+  - Use OData to filter your REST data
+  - Use REST to create, retrieve, update and delete Project Server objects
+  - Learn about useful tools to help aid your REST development
+
+
+  ### Module 6&#58; Programming Project Server
+  In this module you explore how to develop and deploy various extensions to Project Server 2013.  These include custom actions, Web Parts, and local and remote event receivers.  Additionally you will learn to interact with the JS Grid control.
+  #### Lessons
+  - Extending Project Server UI
+  - Event Receivers
+
+
+  #### Lab &#58; Adding Ribbon Actions and JSGrid Events
+
+  #### Lab &#58; Creating Event Handlers
+
+  #### Lab &#58; Remote Event Receivers
+
+  #### Lab &#58; Creating Web Parts
+
+  After completing this module, students will be able to&#58;
+
+  - Extend Project Server with custom actions (ribbon and items)
+  - Understand the JS Grid control features and how to extend it
+  - Create and deploy Project Server web parts
+  - Create server event handlers
+  - Create remote event receivers
+
+
+  ### Module 7&#58; Developing Reports
+  In this module you will learn about many of the Business Intelligence and Reporting features of Project Server 2013.  This includes the default set of Excel Services Reports and how to use the more advanced reporting features like Analysis Services, PowerPivot and PerformancePoint.
+  #### Lessons
+  - Portfolio Analysis
+  - Business Intelligence Features
+  - Managing Reports
+  - Common Errors
+
+
+  #### Lab &#58; Configure Business Intelligence
+
+  #### Lab &#58; Reports and Dashboards
+
+  #### Lab &#58; Managing Strategy Drivers
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the Business Intelligence and Reporting features of Project Server
+  - Describe the default reports in the ProjectBICenter site
+  - How to setup and use the Analysis Services feature
+  - How to create customized Reports and Dashboards
+  - How to use BI related web parts
+  - How to use Excel Services, PerformancePoint, Reporting Services and Analysis Services for reporting
+
+
+  ### Module 8&#58; Developing Apps
+  In this module you explore how to create various types of Apps for Project and Project Server using the various APIs explored in the previous modules.  You will also learn how to publish your Apps to the SharePoint App store for others to take advantages of.  Additionally you will gain a deep understanding of the authentication models of Apps.
+  #### Lessons
+  - Developing Project Apps
+  - Project Server Apps
+
+
+  #### Lab &#58; Creating Project Server SharePoint Hosted Apps
+
+  #### Lab &#58; Creating Project Task Pane Apps (Manual)
+
+  #### Lab &#58; Creating Project Task Pane Apps (Visual Studio)
+
+  #### Lab &#58; Creating Provider Hosted Project Apps
+
+  #### Lab &#58; Using the SharePoint Web Proxy
+
+  #### Lab &#58; Developing App Packages
+
+  #### Lab &#58; Creating Public SharePoint AppStore Apps
+
+  After completing this module, students will be able to&#58;
+
+  - Create Project Task Pane Apps
+  - Create SharePoint and Provider hosted Apps
+  - Describe how OAuth works with Apps
+  - Describe the difference between High and Low Trust Apps
+  - Describe the various deployment methods for Office and SharePoint Apps
+  - How to work with Project Server App Packaging
+  - Describe how to create and publish Apps to the SharePoint App Store
+
+
+  ### Module 9&#58; TFS and Project Server Integration
+  In this module you will learn what TFS is and how it integrates with Project Server to manage development projects.
+  #### Lessons
+  - Team Foundation Server
+  - TFS and Project Server Integration
+
+
+  #### Lab &#58; TFS and Project Server
+
+  After completing this module, students will be able to&#58;
+
+  - Describe TFS and Project Server integration
+  - Install and configure TFS extensions for Project Server
+  - Manage project tasks with TFS and Project Server
+
+
+  ### Module 10&#58; Developing Workflows
+  In this module you will learn how to work with SharePoint and Project Server workflows.
+  #### Lessons
+  - SharePoint Workflows
+  - Project Server Workflows
+
+
+  #### Lab &#58; Creating Project Workflows (SP Designer)
+
+  #### Lab &#58; Creating Project Workflows (Visual Studio)
+
+  After completing this module, students will be able to&#58;
+
+  - Describe the Project Server workflow architecture
+  - Create Project Server workflows with SharePoint Designer
+  - Create Project Server workflows with Visual Studio
+  - Create workflow Stages and Phases
+  - Design a project approval workflow

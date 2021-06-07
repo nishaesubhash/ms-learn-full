@@ -1,0 +1,207 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Sales
+metadata:
+  title: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+  description: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+uid: course.55258
+courseNumber: '55258-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the features and tools that exist in Microsoft Dynamics 365 for SR’s and Sales Managers
+- skill: Be familiar with the stages of the Sales Order Process in Microsoft Dynamics 365
+- skill: Understand the fundamentals of Lead and Opportunity Management. Be able to track, manage, qualify Leads and convert to Opportunities and related customer records in Microsoft Dynamics 365
+- skill: Know how to disqualify and cancel Leads, and convert Activity records to Leads and Opportunities
+- skill: Understand how to collaborate on Opportunities with other SR’s and close Opportunity records as Won and Lost
+- skill: Be able to track Competitors and Stakeholders
+- skill: Understand how to view Resolution Activities
+- skill: Add Products and Write-In Products to Opportunities
+- skill: Build and maintain a repository of Products, Product Bundles and Product Families in the Product Catalog
+- skill: Configure Unit Groups, Price Lists and Discount Lists
+- skill: Work with Product Properties and view a Product Hierarchy
+- skill: Create Quotes and add Products
+- skill: Work with the Sales Order Process to convert Quotes to Orders and Invoices
+- skill: Fulfill Orders and manage Invoice payments
+- skill: Explore the Sales Reports and create a custom Sales Report using the Reporting Wizard in Microsoft Dynamics 365
+- skill: Understand the significance of Sales Goal Management and Metrics in Microsoft Dynamics 365
+- skill: Explore the Sales Charts and Dashboards and create a custom Sales Dashboard in Microsoft Dynamics 365
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  This course provides students with a detailed hands-on experience of the Sales features and components of Microsoft Dynamics 365.
+
+  Attendees of this course will gain an in-depth understanding into the management of the Sales Pipeline in Dynamics 365, including Lead and Opportunity management, working with the Sales Order Process, the Product Catalog, Quotes, Orders and Invoices. The Sales Analysis features such as the Sales Reports, Sales Goal Management, Sales Charts and Dashboards are also presented in this course.  
+
+  The course applies to both Business and Enterprise Editions of Dynamics 365 as well as Online and On-premise deployments.
+
+  #### Audience profile
+  This course is intended for Sales Representatives (SR), Sales Managers and End-users who have an interest in the Sales components of Dynamics 365. Students should have an existing working knowledge of either Microsoft Dynamics 365 or Microsoft Dynamics CRM. As a minimum, students should attend the prerequisite course ‘Introduction to Microsoft Dynamics 365’.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - A working knowledge of Microsoft Dynamics 365 or Microsoft Dynamics CRM
+  - OR
+  - Successful completion of the ‘Introduction to Microsoft Dynamics 365’ course
+outlineSection: |-
+  ### Module 1&#58; Introduction
+  This module provides the attendee with an introduction to the concept of Sales in Microsoft Dynamics 365.
+  #### Lessons
+  - Sales Order Process Scenarios
+  - An Introduction to Sales in Dynamics 365
+  - The Dynamics 365 Platform
+  - Dynamics 365 Sales Fundamentals
+  - Security Considerations
+  - Where to get Help
+  - Further Reading and Resources
+
+
+  #### Lab &#58; Sales in Dynamics 365 Orientation
+  - Explore the Sales features in Dynamics 365
+
+  After completing this module, students will be able to&#58;
+  - Understand the Sales Order Process in regards to the Dynamics 365 Sales App.
+  - Be familiar with the Sales features of the Dynamics 365 App.
+  - Understand the impact of Security configuration on the Dynamics 365 Sales App.
+  - Know where to get help when navigating and using the Dynamics 365 Sales App.
+  - Be familiar with the further reading and resources available to users.
+
+
+  ### Module 2&#58; Lead Management
+  This module presents the Lead Management Process in Dynamics 365. We examine the process to create and assign Lead records, how to create Leads from Activities and how to qualify and disqualify Leads. We also look at the various stages of the Lead to Opportunity Sales Process in Dynamics 365.
+  #### Lessons
+  - The Lead Management Process
+  - Working with Lead Records
+  - Working with the Lead Form
+  - Lead Assignment
+  - Leads and Activities
+  - Qualifying a Lead
+  - Disqualifying a Lead
+
+
+  #### Lab &#58; Working with Leads
+  - Create a Lead record
+  - Update a Lead record
+  - Qualify a Lead to an Opportunity record
+  - Disqualify a Lead record
+  - Convert an Email activity to a Lead record
+
+  After completing this module, students will be able to&#58;
+  - Understand the Lead Management Process in regards to the Dynamics 365 Sales App.
+  - Know how to create and manage Lead Records.
+  - Be able to work with Leads and Activities.
+  - Understand the Lead Qualification Process.
+
+
+  ### Module 3&#58; Opportunities Management
+  This module presents the concepts of Opportunities in Dynamics 365. We examine the Opportunity Views and Forms, and the Opportunity Sales Process when closing an Opportunity record. We also look at Resolution Activities and how they influence the Sales Order Process.
+  #### Lessons
+  - Introduction to Opportunities
+  - The Opportunity Views
+  - The Opportunity Form
+  - Opportunity Sales Process
+  - Closing an Opportunity
+  - Resolution Activities
+
+
+  #### Lab &#58; Working with Opportunities
+  - Working on Opportunities
+  - Closing an Opportunity as Lost
+  - Closing an Opportunity as Won
+
+  After completing this module, students will be able to&#58;
+  - Understand the Opportunity Management Process in regards to the Dynamics 365 Sales App.
+  - Interact with the Opportunity Views and Forms to manage Opportunity Records.
+  - Work with Opportunity Records in a Sales Process Flow.
+  - Close Opportunities as Won and Lost.
+  - Understand the significance of Resolution Activities.
+
+
+  ### Module 4&#58; Products
+  In this module we will start to look at the Product Catalog in Dynamics 365. We look at how to create Products and configure Unit Groups and Price Lists. Finally, we look at Product Properties, Product Bundles and Product Families.
+  #### Lessons
+  - Introduction to the Product Catalog
+  - Adding Products
+  - Configuring Unit Groups
+  - Price Lists and Price List Items
+  - Product Properties, Bundles and Families
+
+
+  #### Lab &#58; Configuring the Product Catalog
+  - Configure Unit Groups
+  - Add a Product
+  - Create and Configure a Price List
+
+
+  #### Lab &#58; Working with the Product Catalog
+  - Clone a Product
+  - Create a Product Bundle
+  - Create a Product Family
+
+  After completing this module, students will be able to&#58;
+  - Be familiar with Product Catalog feature in Dynamics 365.
+  - Add and manage Products, configure Unit Groups and relate Price Lists.
+  - Work with Price Lists and Price List Items.
+  - Understand Product Properties and create Product Bundles and Families.
+
+
+  ### Module 5&#58; Quotes, Orders and Invoices
+  This module presents Quotes, Orders and Invoices in Microsoft Dynamics 365. We look at how to add Products from the Product Catalog to Opportunities and Quotes, and when to use ‘write-in’ Products. This module also steps through the process to convert Quotes to Orders, Order fulfillment and the procedure of Invoice management.
+  #### Lessons
+  - Introduction to Order Processing
+  - Adding Products to an Opportunity
+  - Working with Quotes
+  - Working with Orders
+  - Working with Invoices
+
+
+  #### Lab &#58; Working with Quotes, Orders and Invoices
+  - Add Products to an Opportunity
+  - Add a Quote to an Opportunity
+  - Convert a Quote to an Order and Invoice
+
+  After completing this module, students will be able to&#58;
+  - Be familiar with Order Process Flow in Dynamics 365.
+  - Add Products and ‘write-in’ Products to an Opportunity and Quote Record.
+  - Work with Quotes, Orders and Invoice Records.
+
+
+  ### Module 6&#58; Sales Analysis
+  This module looks at the different methods available to analyze sales information that is stored in Dynamics 365. We look at the out of the box sales reports and the process to create a custom report using the Dynamics 365 Report Wizard. This module also demonstrates the Chart and Dashboard designer, as well as reviewing the out of the box sales dashboards to analyze service data.
+  #### Lessons
+  - Introduction to Sales Analysis in Dynamics 365
+  - The Sales Reports
+  - The Reporting Wizard
+  - Working with Sales Charts
+  - Working with Sales Dashboards
+  - Working with Sales Goals and Metrics
+
+
+  #### Lab &#58; Explore the Sales Reports
+  - Exploring the Sales Pipeline Report
+  - Exploring the Quote Report
+
+
+  #### Lab &#58; Sales Goals and Metrics
+  - Create Goals for the Sales Team
+  - Create a Personal View
+  - View Sales Goals and Chart
+
+
+  #### Lab &#58; Explore the Sales Charts and Dashboards
+  - Explore the Lead and Opportunity Charts
+  - Create a custom Sales Chart
+  - Explore the Sales Dashboards
+  - Create a custom Sales Dashboard
+
+  After completing this module, students will be able to&#58;
+  - Understand the different ways to analyze Sales data in Dynamics 365.
+  - Work with the ‘out of the box’ Sales Reports in Dynamics 365.
+  - Create a custom Sales report using the Reporting Wizard.
+  - Work with the Sales Charts and Dashboards.
+  Create Sales Goals and KPI Visualizations in Dynamics 365.

@@ -1,0 +1,189 @@
+### YamlMime:Course
+title: Licensing and Managing Virtualized and Cloud Services
+metadata:
+  title: 'Course 55188-B: Licensing and Managing Virtualized and Cloud Services'
+  description: 'Course 55188-B: Licensing and Managing Virtualized and Cloud Services'
+uid: course.55188
+courseNumber: '55188-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Lizensierung einer virtualisierten Infrastruktur
+- skill: Unterscheidung der Cloud-Dienste
+- skill: Lizensierung von Cloud-basierten Lösungen
+- skill: Konfiguration einer Office-365-Subscription
+- skill: Verwaltung von Benutzern und Lizenzen in Office 365
+- skill: Unterstützung der Benutzer bei der Verwendung der Komponenten von Office 365
+- skill: Konfiguration einer Azure-Subscription
+- skill: Navigation im alten und neuen Azure-Portal
+- skill: Konfiguration von Azure-Verwaltungskonten und Delegierung von Kontrolle
+- skill: Einsicht in die Abrechnung und Kosten bei Azure
+- skill: Anlegen neuer Dienste in Azure
+learningPartnersLink: /learn/certifications/partners
+locales:
+- de
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Die dreitägige angeleitete Schulung richtet  sich an IT-Fachkräfte und IT-Entscheidungsträger, die ihr Wissen und ihre  fachlichen Fertigkeiten zu Virtualisierung und Cloud-Infrastrukturlösungen  erweitern wollen. Im Kurs lernen die Teilnehmenden, wie die virtualisierte  oder Cloud-basierte Microsoft-Infrastruktur lizensiert wird. Außerdem werden technische Details erläutert. Es werden Office-365- und Azure-Subscriptions  konfiguriert und ein Testlauf mit verschiedenen Diensten wie Office 365, dem Azure-Portal, virtuellen Maschinen in Azure etc. durchgeführt.
+
+  Der Kurs bietet einen technischen Einblick in die Lösungen und ist eine gute Vorbereitung für Entscheidungen.
+
+  #### Audience profile
+  Der Kurs richtet sich an IT-Fachkräfte und Entscheidungsträger mit mindestens zwei Jahren Erfahrung mit der Microsoft-Infrastruktur, die es sich vorstellen können, mit Cloud-Lösungen zu arbeiten.
+prerequisitesSection: |-
+  Zur Teilnahme sollten die folgenden Vorkenntnisse vorhanden sein&#58;
+  - Grundlegende Kenntnisse der Microsoft-Komponenten in der Enterprise-Infrastruktur
+  - Grundlegende Kenntnisse von Virtualisierungstechnologien
+  - Grundlegende Kenntnisse von TCP/IP und von Netzwerkkonzepten
+  - Grundlegende Kenntnisse von Windows und Active Directory
+  - Grundlegende Kenntnisse von Anwendungen Beispiel&#58; Kommunikation von Client
+  - Computeranwendungen mit dem Server
+  - Grundlegende Kenntnisse von Sicherheitskonzepten wie Authentifizierung und Berechtigung
+  - Grundlegende Bereitschaft, mit Cloud-Lösungen zu arbeiten
+outlineSection: |-
+  ### Modul 1&#58; Technische Grundlagen
+  In diesem Modul werden grundlegende technische Begriffe erklärt und die Unterschiede zwischen virtualisierten, nicht virtualisierten und Cloud-basierten Lösungen aufgezeigt.
+  #### Lektionen
+  - Begriffsdefinitionen
+
+
+  #### Lab &#58; Einübung der Begriffsdefinitionen
+  - Einübung der Begriffsdefinitionen
+
+  Nach Abschluss des Moduls haben die Teilnehmenden das Folgende gelernt&#58;
+  - Unterscheidung der Begriffsdefinitionen
+  - Technische Definitionen und Dokumentationen
+
+
+  ### Modul 2&#58; Grundlegendes zur Virtualisierung und zur Cloud
+  In diesem Modul werden die unterschiedlichen Virtualisierungstechnologien und die verfügbaren Cloud-Dienste erklärt.
+  #### Lektionen
+  - Überblick über Virtualisierungstechnologien
+  - Überblick über Cloud-Dienste (IaaS, PaaS, SaaS)
+
+
+  #### Lab &#58; Einübung der technischen Unterschiede
+  - Einübung der technischen Unterschiede
+
+  Nach Abschluss des Moduls haben die Teilnehmenden das Folgende gelernt&#58;
+  - Kenntnisse über die verfügbaren Virtualisierungstechnologien
+  - Kenntnisse über die verfügbaren Cloud-Dienste
+  - Unterschiede zwischen IaaS, PaaS und SaaS
+
+
+  ### Modul 3&#58; Lizensierung einer virtualisierten Infrastruktur
+  In diesem Modul wird die Lizensierung von virtualisierten Infrastrukturen und von auf diesen laufenden Anwendungen erklärt.
+  #### Lektionen
+  - Lizensierung virtualisierter Betriebssysteme
+  - Lizensierung von Anwendungen auf virtualisierten Infrastrukturen
+
+
+  #### Lab &#58; Einübung der Lizensierung von virtualisierten Infrastrukturen
+  - Einübung der Lizensierung von virtualisierten Infrastrukturen – Szenarien
+
+  Nach Abschluss des Moduls haben die
+  Teilnehmenden das Folgende gelernt&#58;
+  - Lizensierung virtualisierter Betriebssysteme
+  - Lizensierung von Anwendungen auf virtuellen Systemen
+  - Benötigte Lizenzen für die einzelnen Lösungen
+
+
+  ### Modul 4&#58; Lizensierung bei Azure und Office 365
+  In diesem Modul wird die Lizensierung bei Office 365 und Azure erklärt. Die Teilnehmenden erfahren mehr zu den Office-365-Plänen und -Add-Ons und können sich die Kosten für Azure-Dienste erschließen.
+  #### Lektionen
+  - Überblick über die Office-365-Pläne und -Add-Ons
+  - Lizensierung von Office 365 für Unternehmen
+  - Lizensierung bei Azure
+  - Komponenten und Kosten der Azure-Dienste
+
+
+  #### Lab &#58; Lizensierungsszenarien bei Office 365
+  - Lizensierungsszenarien bei Office 365 – Szenarien
+
+
+  #### Lab &#58; Lizensierungsszenarien bei Azure
+  - Lizensierungsszenarien bei Azure – Szenarien
+
+  Nach Abschluss des Moduls haben die
+  Teilnehmenden das Folgende gelernt&#58;
+  - Auswahl des für die jeweiligen Bedürfnisse passenden Office-365-Plans oder -Add-Ons
+  - Lizensierung von Office 365
+  - Berechnung der Kosten für Azure
+  - Lizensierung der Azure-Dienste
+
+
+  ### Modul 5&#58; Technische Grundlagen zur Lizensierung und Verwaltung von Office 365
+  In diesem Modul wird die grundlegende Konfiguration eines neuen Office-365-Mandanten und die Verwaltung von Benutzern und Lizenzen im Mandanten erläutert. Die Teilnehmenden arbeiten direkt im Programm und erarbeiten sich die Fähigkeiten von Office 365 und grundlegende Kenntnisse im Umgang mit Fehlern
+  #### Lektionen
+  - Voraussetzungen für einen Office-365-Mandanten
+  - Überblick über das Administrationsportal von Office 365
+  - Verwaltung von Benutzern in Office 365
+  - Zuteilung von Lizenzen bei Office 365
+  - Anwendung der Office-365-Dienste
+  - Umgang mit Fehlern bei Office-365-Benutzern und -Lizenzen
+
+
+  #### Lab &#58; Anlegen eines Office-365-Testmandanten
+  - Anlegen eines Microsoft-Kontos
+  - Anlegen eines Office-365-Mandanten
+  - Anmeldung im Office-365-Portal
+
+
+  #### Lab &#58; Verwaltung von Lizenzen bei Office 365
+  - Einblick in das Administrationsportal von Office 365
+  - Anlegen eines neuen Benutzers bei Office 365
+  - Verwaltung von Lizenzen im Administrationsportal von Office 365
+  - Verwaltung von Lizenzen mit PowerShell
+
+
+  #### Lab &#58; Eigenarbeit mit Office 365
+  - Anmeldung als Benutzer bei Office 365
+  - Einblick in das Benutzerportal von Office 365
+
+  Nach Abschluss des Moduls haben die Teilnehmenden das
+  Folgende gelernt&#58; Konfiguration eines Office-365-Mandanten
+  - Anlegen von Benutzern in Office 365
+  - Verwaltung der Lizenzen im Portal
+  - Verwaltung von Lizenzen mit PowerShell
+  - Hilfe für Benutzer in Office 365
+
+
+  ### Modul 6&#58; Technische Grundlagen zur Lizensierung und Verwaltung von Azure
+  In diesem Modul werden das Anlegen einer neuen Azure-Subscription und die grundlegenden Einstellungen erklärt. Außerdem werden die Verwaltung der Lizenzen bei Azure und die Verwendung der Dienste innerhalb der Konsolen erläutert.
+  #### Lektionen
+  - Voraussetzungen für eine Azure-Subscription
+  - Überblick über das Azure-Portal (alte und neue Version)
+  - Verwaltung der Subscriptions
+  - Handhabung der Ausgabenlimits
+  - Verfügbare Azure-Dienste
+  - Verwaltung der abonnierten Azure-Dienste
+
+
+  #### Lab &#58; Anlegen einer Azure-Subscription
+  - Anlegen einer neuen Azure-Subscription
+
+
+  #### Lab &#58; Navigation im Azure-Portal
+  - Navigation im alten Azure-Portal
+  - Navigation im neuen Azure-Portal
+
+
+  #### Lab &#58; Verwaltung der Azure-Subscriptions und Kosten
+  - Steuerung der Azure-Subscriptions
+  - Überprüfung der Kosten für Azure
+  - Handhabung der Ausgabenlimits
+
+
+  #### Lab &#58; Anlegen und Verwalten der Dienste bei Azure
+  - Anlegen einer neuen virtuellen Maschine in Azure
+  - Daten zur virtuellen Maschine
+
+  Nach Abschluss des Moduls haben die
+  Teilnehmenden das Folgende gelernt&#58;
+  - Anlegen einer Azure-Subscription
+  - Verwaltung von Subscriptions und Kosten
+  - Erstellung neuer Dienste in Azure
+  - Einsicht in Daten über laufende Dienste

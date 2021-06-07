@@ -1,0 +1,215 @@
+### YamlMime:Course
+title: Project Server 2013 Inside Out
+metadata:
+  title: 'Course 55034-A: Project Server 2013 Inside Out'
+  description: 'Course 55034-A: Project Server 2013 Inside Out'
+uid: course.55034
+courseNumber: '55034-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Use and work with Project Server 2013 features.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-project-server
+summary: |-
+  This 5-day Instructor Lead course how to work with Microsoft Project Server 2013.  You will also create and management projects and schedules, resources, tasks and timesheets with Project Web App. Create and configure Business Intelligence for customized project reporting. Other topics include how to backup and restore and troubleshoot Project Server 2013.
+
+  #### Audience profile
+  This course is intended for anyone that will need to manage and use Project Server 2013. This includes the IT Administrators, Project Managers, Project Schedulers, Managers, Supervisors, Team Leads, Consultants and other people responsible for managing projects. Also anyone responsible for scheduling, estimating, coordinating, controlling, budgeting and staffing of projects and supporting Microsoft Project Server 2013.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Experience with managing projects using Microsoft Project as well as fundamental understanding of basic project management concepts and terminology.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor.
+
+
+  ### Module 2&#58; Architecture, Installation and Upgrade
+  In this module you will be introduced to Project Server 2013 features and architecture and a brief review of the Microsoft Enterprise Project Management (EPM) stack. You will also learn how to install Project Server 2013 and upgrade older Project Server 2010 instances.
+  #### Lessons
+  - Architecture
+  - Introduction
+  - Installation
+  - Upgrading
+
+
+  #### Lab &#58; Installing Project Server 2013
+
+  After completing this module, students will be able to&#58;
+  - Understand the Microsoft EPM solution stack
+  - Describe the new features of Project Server 2013
+  - Describe the architecture of Project Server 2013
+  - How to install Project Server 2013
+  - How to setup and configure a Project Web App site
+  - How to upgrade a Project Server 2010 instance to Project Server 2013
+
+
+  ### Module 3&#58; Setup and Administer Project Web Access
+  In this module you will learn about Project Web App (PWA). You will learn about the different areas of the PWA site and what each are used for, what steps are required when starting with a new PWA site (such as cost types, departments and resources) and lastly how to configure the various branding aspects of PWA.
+  #### Lessons
+  - Configure Project Web Access
+  - Customizing Project Web App
+  - Project Web Access
+
+
+  #### Lab &#58; Exploring Project Web Access
+
+  #### Lab &#58; Creating Cost Types and Departments
+
+  #### Lab &#58; Creating Resources
+
+  #### Lab &#58; Creating Projects and Tasks
+
+  #### Lab &#58; Customizing Project Web Access
+
+  #### Lab &#58; Managing Operational Policies
+
+  After completing this module, students will be able to&#58;
+  - Describe the various areas of Project Web App
+  - Create Cost Types
+  - Create Departments
+  - Create Resources
+  - Create Projects and Tasks
+  - Import Projects and Resources
+  - Customize Project Web Access
+
+
+  ### Module 4&#58; Permissions and Security
+  In this module you explore the permissions modes of Project Server 2013. This includes the new SharePoint Permission mode and the older Project Server permission mode. Project Server permission mode includes the review of Categories, Templates and Resource Breakdown Structures (RBS) and how each interacts with user project visibility.
+  #### Lessons
+  - Permissions And Security
+
+
+  #### Lab &#58; SharePoint Permission Mode
+
+  #### Lab &#58; Project Server Permission Mode
+
+  #### Lab &#58; Creating Resource Breakdown Structure (RBS)
+
+  After completing this module, students will be able to&#58;
+  - Describe Permission and Security feature of Project Server
+  - How to use SharePoint Permission Mode
+  - How to use Project Server Permission Mode
+  - Describe and work with Categories
+  - Describe and work with Templates
+  - How to define and assign Resource Breakdown Structures
+
+
+  ### Module 5&#58; Enterprise Custom Calendars, Fields and Lookup Tables
+  In this module you will learn to create and manage Enterprise Calendars, Custom Fields and Lookup Tables.
+  #### Lessons
+  - Lookup tables
+  - Enterprise Custom Fields
+
+
+  #### Lab &#58; Enterprise Custom Fields and Lookup Tables
+
+  After completing this module, students will be able to&#58;
+  - Describe and use Enterprise Calendars
+  - Describe and use Enterprise Custom Fields
+  - Understand how to create Custom Field formulas
+  - Describe and use Enterprise Custom Lookup Tables
+
+
+  ### Module 6&#58; Time and Task Management
+  In this module you will learn how to use Project Server to perform Time and Task management.  This includes defining Fiscal Periods, managing timesheets, requesting status reports and managing resource allocations.
+  #### Lessons
+  - Time Management
+  - Task Management
+
+
+  #### Lab &#58; Time and Task Management
+
+  #### Lab &#58; Advanced Task Assignments
+
+  #### Lab &#58; Assigning and Working With Resources
+
+  #### Lab &#58; Working With Timesheets
+
+  #### Lab &#58; Working With Project Schedules
+
+  #### Lab &#58; Integrating Exchange
+
+  After completing this module, students will be able to&#58;
+  - Describe the Task and Time management features of Project Server
+  - Learn to create and manage Fiscal Periods
+  - Learn to manage Timesheets
+  - Understand how Exchange 2013 integrates with Project Server
+  - Understand how to use the &quot;My Tasks&quot; feature of SharePoint 2013
+
+
+  ### Module 7&#58; Business Intelligence and Reporting
+  In this module you will learn about many of the Business Intelligence and Reporting features of Project Server 2013.  This includes the default set of Excel Services Reports and how to use the more advanced reporting features like Analysis Services, PowerPivot and PerformancePoint.
+  #### Lessons
+  - Managing Reports
+  - Common Errors
+  - Business Intelligence Features
+
+
+  #### Lab &#58; Configure Business Intelligence
+
+  #### Lab &#58; Reports and Dashboards
+
+  After completing this module, students will be able to&#58;
+  - Describe the Business Intelligence and Reporting features of Project Server
+  - Describe the default reports in the ProjectBICenter site
+  - How to setup and use the Analysis Services feature
+  - How to create customized Reports and Dashboards
+  - How to use BI related web parts
+  - How to use Excel Services, PerformancePoint, Reporting Services and Analysis Services for reporting
+
+
+  ### Module 8&#58; Project Sites
+  In this module you explore the features of a Project Site connected to SharePoint.  This includes how to work with and manage Document libraries and the various SharePoint list types (Tasks, Risks and Issues, Discussion, Contacts and Calendars).
+  #### Lessons
+  - Managing Project Sites
+
+
+  #### Lab &#58; Working With Project Sites
+
+  After completing this module, students will be able to&#58;
+  - Describe the features of a Project Site
+  - How to create and manage Project Sites
+  - How to manage Project Site Lists
+
+
+  ### Module 9&#58; Backup and Recovery
+  In this module you explore how to Backup and Restore Project Web App and the projects stored on it.  You also review how to backup Project Sites tied to the Projects.
+  #### Lessons
+  - Backup
+  - Recovery
+
+
+  #### Lab &#58; Backup and Recovery
+
+  After completing this module, students will be able to&#58;
+  - Describe the backup and restore process
+  - How to Backup Project Server and Projects
+  - How to Restore Project Server and Projects
+  - How to Backup and Restore Project Sites
+
+
+  ### Module 10&#58; Troubleshooting and Maintenance
+  In this module you will learn how to troubleshoot and maintain Project Server.  This includes deleting Enterprise Objects, managing the Project Server queue, and reading the ULS logs.
+  #### Lessons
+  - Maintaining Project Server
+  - Troubleshooting
+
+
+  #### Lab &#58; Troubleshooting and Maintenance
+
+  After completing this module, students will be able to&#58;
+  - Delete Project Server Enterprise Objects
+  - Troubleshoot workflows
+  - Troubleshoot the Project Server Queue
+  - Review ULS logs for issues

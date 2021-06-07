@@ -1,0 +1,419 @@
+### YamlMime:Course
+title: Managing Projects using Microsoft Project 2010 Desktop
+metadata:
+  title: 'Course 55100-A: Managing Projects using Microsoft Project 2010 Desktop'
+  description: 'Course 55100-A: Managing Projects using Microsoft Project 2010 Desktop'
+uid: course.55100
+courseNumber: '55100-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explain the new user interface of Microsoft Project 2010.
+- skill: Initialize Microsoft Project settings.
+- skill: Create a Work Breakdown Structure (WBS)
+- skill: Create task relationships in a project schedule.
+- skill: Configure advanced task information and use the Task Inspector.
+- skill: Create and manage resources.
+- skill: Assign and level work resources.
+- skill: Review and finalize the project schedule.
+- skill: Track and update project schedules.
+- skill: Customize Project 2010 features.
+- skill: Communicate project information in your organization.
+- skill: Manage multiple projects and resource pools.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-project
+summary: |-
+  The goal of this three-day instructor-led course is to provide students with the knowledge and skills necessary to effectively manage projects using Microsoft Project 2010 desktop.
+
+  #### Audience profile
+  This course is intended for Project Managers, Project Schedulers, Managers, Supervisors, Team Leads and other people responsible for managing projects. These individuals are involved in or responsible for scheduling, estimating, coordinating, controlling, budgeting and staffing of projects and supporting other users of Microsoft Project 2010. Typical products and technologies that are used include Microsoft Project 2010, Microsoft Excel 2010 and Microsoft SharePoint Server.
+prerequisitesSection: |-
+  - Basic project management concepts and terminology.
+  - Basic Windows navigation skills.
+outlineSection: |-
+  ### Module 1&#58; Overview of Microsoft Project 2010
+  This module provides an overview of Project 2010. Lessons presented in this module will review the success factors to project management and explore the new user interface (the Ribbon). You will learn about the project database, types of data included and what constitutes a database view.
+  #### Lessons
+  - Success Factors to Project Management
+  -    What is a Project?
+  -    Project Management Software
+  -    Why use Microsoft Project 2010?
+  -    Formulate a Strategy
+  -    Success Checklist
+  - Exploring the Ribbon
+  -    What is the Ribbon?
+  -    Task Tab
+  -    Resource Tab
+  -    Project Tab
+  -    View Tab
+  -    Format Tab
+  -    File Tab (Backstage) Task Tab
+  - Exploring the Project 2010 Views
+  -    What is a View?
+  -    Task Views
+  -    Resource Views
+  -    Combining Views
+  - Understand the success factors for your project schedule
+  - Understand the Project 2010 ribbon
+  - Understand Project 2010 views
+
+
+  ### Module 2&#58; Initializing a Project
+  This module explains how to initialize a project schedule prior to performing any work on your schedule. Lessons presented in this module will review how calendars work in Project and how to create and configure calendars. You will review the difference between duration and work/effort and understanding how they drive your project scheduling. You will also learn how to create project schedules from various methods.
+  #### Lessons
+  - Creating and Configuring Calendars
+  -    How Calendars work in Project 2010
+  -    Creating a Base Calendar
+  -    Setting Working Hours and Days
+  -    Setting Calendar Options
+  -    Setting Non-Working Hours and Days
+  -    Setting Calendar Options
+  -    Saving the Base Calendar to the Global Template
+  - Configuring Schedule/Display Options
+  -    Understanding Duration vs. Work / Effort
+  -    What is Effort Driven Scheduling?
+  -    Understanding Task Types
+  -    Setting Schedule Options
+  -    Setting Display and General Options
+  - Creating and Saving a Project Schedule
+  -    Creating a New Project Schedule
+  -    Adding Project Information
+  -    Creating a Schedule from an Excel Workbook
+  -    Creating a Schedule from a SharePoint Task List
+  -    Importance of Naming Standards
+  -    Saving the Schedule
+  -    Setting Read-Only and Password Attributes
+  -    Save and Send Options
+
+
+  #### Lab &#58; Creating Calendars
+
+
+  - Create a new project schedule.
+  - Add project information.
+  - Create a schedule from an Excel workbook.
+  - Create a schedule from a SharePoint task List.
+  - Understand the importance of naming standards.
+  - Set read-only and password attributes.
+  - Save the schedule.
+  - Understand Save and Send options.
+
+
+  ### Module 3&#58; Creating a Work Breakdown Structure
+  This module describes working with a Work Breakdown Structure (WBS). Lessons presented in this module will review what a WBS is and why it is important. You will then create the WBS by entering tasks and estimating task lengths. You will also learn to set milestones and applying milestone filters.
+  #### Lessons
+  - Overview of the WBS
+  -    What is a WBS?
+  -    Task categories
+  -    Best Practices
+  - Creating the Work Breakdown Structure
+  -    Entering Tasks
+  -    Working with Task Information
+  -    Outlining Tasks into a Hierarchy
+  -    Displaying Outline Numbers & WBS
+  -    Customizing WBS Codes
+  - Estimating Task Lengths
+  -    Overview of Estimating
+  -    Entering Estimates
+  - Entering Milestones
+  -    How to Set a Milestone
+  -    Apply Milestone Filters
+  -    Best Practices
+
+
+  #### Lab &#58; Creating a Work Breakdown Structure
+
+  #### Lab &#58; Entering Estimates
+
+  #### Lab &#58; Entering Milestones
+
+
+  - Understand what a Work Breakdown Structure is.
+  - Best practices of creating a WBS.
+  - Entering tasks and creating a hierarchy.
+  - Overview of estimating task lengths.
+  - Understand what a milestone is and how it may be used.
+
+
+  ### Module 4&#58; Creating Task Relationships
+  This module describes how to task relationships work in a project schedule. Lessons presented in this module will explain the difference between automatic and manual scheduling and when to use them. You will work with task dependencies, understanding predecessors and how they work. You will also know the difference between leads and lags and when to use them.
+  #### Lessons
+  - Automatic vs. Manual Scheduling
+  -    Scheduling Overview
+  -    Manual vs. Automatic Scheduling
+  -    When to Use Manual Scheduling
+  -    Setting Scheduling Options
+  -    Adjusting Tasks in Manual Mode
+  - Working with Dependencies
+  -    Task Dependency Types
+  -    Creating Dependencies
+  -    Viewing Dependencies
+  -    Best Practices for Using Dependencies
+  - Understanding Leads and Lags
+  -    What is Lead Time?
+  -    What is Lag Time?
+  -    Best Practices
+
+
+  #### Lab &#58; Working with Manual and Automatic Scheduling
+
+  #### Lab &#58; Working with Dependencies
+
+  #### Lab &#58; Working with Leads and Lags
+
+
+  - Understand scheduling.
+  - Know the features of manual and automatic scheduling.
+  - Know when to use manual and automatic scheduling.
+  - Set scheduling options.
+
+
+  ### Module 5&#58; Configuring Advanced Task Information
+  This module describes how to work with advanced task information. Lessons presented in this module will explain task constraints and what actions create constraints automatically. You will learn about task deadlines, task form views. You will also learn how to split tasks and how to use the Task Inspector to examine your tasks to make suggestions.
+  #### Lessons
+  - Working with Task Constraints
+  -    What are Constraints?
+  -    Constraint Types
+  -    Actions that Create Automatic Constraints
+  - Advanced Task Management
+  -    Task Deadlines
+  -    Using the Task Inspector
+  -    Using Task Form Views
+  -    Adding Notes to Tasks
+  -    Applying a Calendar to a Task
+  -    Splitting Tasks
+  -    Working with Timescale
+
+
+  #### Lab &#58; Working with Task Constraints
+
+  #### Lab &#58; Working with Advanced Task Management
+
+
+  - Work with task constraints.
+  - Understand advanced task management techniques.
+
+
+  ### Module 6&#58; Creating Resources
+  This module describes how to create resources in your project schedule. Lessons presented in this module will explain the different resource types and how to create them. You will also learn how to assign material, cost and budget resources to the project schedule.
+  #### Lessons
+  - Resource Types
+  -    Work Resources
+  -    Cost Resources
+  -    Material Resources
+  -    Budget Resources
+  - Creating Work and Material Resources
+  -    Creating a Work Resource
+  -    Resource Information – General
+  -    Resource Information – Costs
+  -    Resource Information – Notes and Custom Fields
+  -    Inserting Resources
+  -    Creating a Material Resource
+  - Assigning Material, Cost and Budget Resources
+  -    Assign a Cost Resource
+  -    Assign a Material Resource
+  -    Assign a Budget Resource
+
+
+  #### Lab &#58; Creating Work and Material Resources
+
+  #### Lab &#58; Creating Cost and Budget Resources
+
+  #### Lab &#58; Working with Resources
+
+
+  - Understand resource types.
+  - Create resources&#58; work, cost, budget and material.
+  - Assign cost, budget and material resources.
+
+
+  ### Module 7&#58; Assigning and Leveling Work Resources
+  This module describes how to assign and level work resources against a project schedule. Lessons presented in this module will explain what an assignment is and how create various assignments. You will learn about factors that affect assignments and how to view resource assignments. You will also learn how to view and resolve resource allocations using manual and automatic resource leveling.
+  #### Lessons
+  - Overview of Assignments
+  -    What is an Assignment
+  -    Assignment Formula
+  -    How to Create Assignments
+  -    Creating Fixed Unit Assignments
+  -    Creating Fixed Duration Assignments
+  -    Creating Fixed Work Tasks
+  - Factors that Affect Assignments
+  -    Percentage Complete
+  -    Assignment Units and Peak Units Values
+  -    Resource Calendar
+  -    Delaying an Assignment
+  -    Rules for Creating Assignments
+  -    Best Practices
+  - Resolving Resource Overallocations
+  -    Understanding Overallocations
+  -    Views to Identify Overallocations
+  -    Leveling Resources – Project Manager
+  -    Leveling Resources – Microsoft Project
+
+
+  #### Lab &#58; Creating Assignments
+
+  #### Lab &#58; Working with Factors that Affect Assignments
+
+  #### Lab &#58; Viewing Resource Assignments
+
+  #### Lab &#58; Resolving Resource Overallocations
+
+
+  - Understand task types and effort-driven concepts.
+  - Understand what is an assignment.
+  - Understand the scheduling formula.
+  - Create fixed units assignments.
+  - Create fixed duration assignments.
+  - Create fixed work assignments.
+
+
+  ### Module 8&#58; Reviewing and Finalizing the Schedule
+  This module describes how to review and finalize the project schedule. Lessons presented in this module will explain what are groups and filters and how to use them. You will learn the Critical Path Method and how to format and view the critical path of a project schedule. You will also learn about project baselines and how to set and update a baseline.
+  #### Lessons
+  - Working with Groups and Filters
+  -    What are Groups?
+  -    How to Use Groups
+  -    What are Filters?
+  -    How to Use Filters
+  -    How to Use Highlights
+  -    How to Use AutoFilter
+  - Understanding the Critical Path Method
+  -    What is a Critical Path?
+  -    Formatting Views to Display Critical Path
+  -    Setting Slack Tolerance
+  -    Shortening the Critical Path
+  - Setting a Project Baseline
+  -    What is a Baseline
+  -    Fields Used in Setting a Baseline
+  -    Setting the Baseline
+  -    Updating a Baseline
+  -    Views Using Baseline Data
+  - Appendix
+  -    Appendix A – Default Groups
+  -    Appendix B – Default Filters
+
+
+  #### Lab &#58; Working with Groups and Filters
+
+  #### Lab &#58; Working with the Critical Path
+
+  #### Lab &#58; Setting a Project Baseline
+
+
+  - Filter and group schedule data.
+  - Understand and exam the critical path.
+  - Set the schedule baseline.
+
+
+  ### Module 9&#58; Tracking and Updating Projects
+  This module describes how to track and update a project schedule. Lessons presented in this module will explain tracking and how to use the various tracking methods. You will learn how to update milestones, material and cost resources. You will also learn about project status and how to update the project status.
+  #### Lessons
+  - Overview of Tracking Projects
+  -    What is Tracking?
+  -    Tracking Methods
+  -    Options that Affect Tracking
+  -    Best Practices of Tracking
+  - Tracking Projects
+  -    Preparing a Task to be Tracked
+  -    Using Percent Complete
+  -    Using Task Level Tracking – Task Duration
+  -    Using Task Level Tracking – Task Work
+  -    Using Resource Level Tracking – Task Details
+  -    Using Resource Level Tracking – Resource Usage
+  - Updating Milestones, Material and Cost Resources
+  -    Updating Milestones
+  -    Updating Material Resources
+  -    Updating Cost Resources
+  - Updating Project Status
+  -    Overview of the Tracking Cycle
+  -    Setting a Status Date
+  -    Rescheduling Incomplete Work
+  -    Getting the Project Back on Track
+
+
+  #### Lab &#58; Working with Tracking Methods
+
+  #### Lab &#58; Updating Milestones, Materials and Cost Resources
+
+  #### Lab &#58; Updating Project Status
+
+
+  - Understand tracking and tracking methods.
+  - Enter tracking data for work resources.
+  - Update costs, materials and milestone tasks.
+  - Reschedule incomplete work.
+
+
+  ### Module 10&#58; Managing Multiple Projects and Resource Pools
+  This module describes managing multiple projects and resource pools. Lessons presented in this module will explain what a resource pool is and how to create and share them with other users. You will learn about linking multiple projects and analyzing the effects of changing values in one project. You will also learn about master projects, how to create them and how to insert sub-projects.
+  #### Lessons
+  - Linking Multiple Projects
+  -  Overview of Multiple Projects
+  -  Cross-Linking Projects
+  -  Analyzing the Effects of Changing Values
+  - Working with Master and Sub-Projects
+  -  Overview of Master Projects
+  -  Creating a Master Project and Inserting Sub-Projects
+  -  Leveling Resources Across Projects
+  - Working with Resource Pools
+  -  What is a Resource Pool?
+  -  Creating a Resource Pool
+  -  How to Share Resources across Multiple Projects
+  -  Viewing Resource Usage in the Resource Pool
+  - Appendix A – Customizing Project 2010 Features
+  - Customizing the User Interface
+  -  Customize the Quick Access Toolbar
+  -  Customizing the Ribbon
+  -  Exporting/Importing the Customization Files
+  - Customizing Formats and Styles
+  -  Overview on Custom Formats and Styles
+  -  Customizing Gantt Views
+  -  Customizing Timeline Views
+  - Working with the Organizer
+  -  What is an Object and Available Objects
+  -  Define Settings in Organizer
+  -  Using the Organizer to Share Objects
+  - Creating Custom Objects
+  -  Creating a Custom Field
+  -  Creating a Custom Filter
+  -  Creating a Custom Group
+  -  Creating a Custom Table
+  -  Creating a Custom View
+  - Appendix B – Communicating Project Information
+  - Defining Print Settings
+  -  Print Settings
+  -  Define Page Setup
+  -  Working with Copy Picture to Office Wizard
+  - Working with Project Reports
+  -  Selecting Project Reports
+  -  Editing Project Reports
+  -  Creating Custom Project Reports
+  - Working with Visual Reports
+  -  Overview of Visual Reports
+  -  Anatomy of a Pivot Table
+  -  Viewing Visual Reports
+  -  Creating Visual Report Templates
+  - Collaborating Project Information
+  -  Export Project Table to Excel
+  -  Publish a Project to a SharePoint List
+  -  Import a SharePoint List into Project
+
+
+  #### Lab &#58; Linking Multiple Projects
+
+  #### Lab &#58; Working with Master and Sub-Projects
+
+  #### Lab &#58; Working with Resource Pools
+
+
+  - Link multiple projects.
+  - Work with resource pools.
+  - Create master projects.

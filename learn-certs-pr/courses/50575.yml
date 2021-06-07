@@ -1,0 +1,215 @@
+### YamlMime:Course
+title: SharePoint 2010 End User
+metadata:
+  title: 'Course 50575-A: SharePoint 2010 End User'
+  description: 'Course 50575-A: SharePoint 2010 End User'
+uid: course.50575
+courseNumber: '50575-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate a SharePoint 2010 Team Site.
+- skill: Create SharePoint lists.
+- skill: Customize SharePoint lists.
+- skill: Create SharePoint libraries.
+- skill: Manage library document versions.
+- skill: Create SharePoint list and library views.
+- skill: Create sub sites using various SharePoint templates.
+- skill: Create and edit Web page content.
+- skill: Create InfoPath Forms and Form libraries.
+- skill: Create Site columns and content types.
+- skill: Integrate Office applications with SharePoint 2010.
+- skill: Manage basic permissions of SharePoint 2010 resources.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This three-day instructor-ledcourse is for end users working in a SharePoint 2010 environment. The course teaches SharePoint basics such as working with lists and libraries as well as basic page customizations.
+
+  #### Audience profile
+  In this SharePoint 2010 End User training class, you'll gain a solid understanding of working in the SharePoint 2010 environment. The course covers basics including working with lists and libraries and creating list and library views and then moves on to working with sites, page content, forms, and site columns. You will also learn to integrate SharePoint with other Office programs and learn to manage SharePoint site permissions.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic knowledge of Microsoft Office applications and Web site navigation.
+outlineSection: |-
+  ### Module 1&#58; SharePoint 2010 Introduction
+  SharePoint 2010 is a collaboration tool at is heart. Its primary goal is to make it easy for users to find and share information and there are many features built into SharePoint to facilitate this. SharePoint's library system feature can provide a superior alternative to the traditional file server. SharePoint lists can be an easy-to-design and easy-to-use alternative to sharing spreadsheet files or more formal database tables. Both lists and libraries can be customized and extended to provide enhanced appearances and functionality such as calendars and discussion boards to name a couple. All of this collaboration can be done through a browser interface and, in some cases, through integration with Microsoft Office applications.
+  #### Lessons
+  - SharePoint Versions
+  - Team Site Layout and Navigation
+
+
+  #### Lab &#58; SharePoint 2010 Introduction
+  After completing this module, students will&#58;
+  - Know about the versions of SharePoint
+  - Know the Share Point site hierarchy.
+  - Understand the Team Site Layout
+  - Be able to navigate within a Team Site.
+
+
+  ### Module 2&#58; SharePoint List Basics
+  Lists are a fundamental building block in SharePoint that provide a way for users to store and view data. SharePoint comes "out of the box" with many predefined list templates that are easy to use. Lists can be further customized by adding columns to store just about any type of information. Additionally, list columns can be validated as well as linked between lists. Lists are a very flexible and powerful tool in SharePoint.
+  #### Lessons
+  - List TemplatesCreating ListsList columnsColumn Validation
+
+
+  #### Lab &#58; SharePoint List Basics
+  After completing this module, students will&#58;
+  - Understand what List Templates are.
+  - Know how to work with default lists in a Team Site.
+  - Know how to create a new list from a List Template.
+  - Know how to create a custom list.
+  - Know how to add columns to a list.
+  - Know how to control and validate input into list fields.
+  - Know how to link data from separate lists.
+
+
+  ### Module 3&#58; Library Basics
+  SharePoint Libraries share the same characteristics as SharePoint lists such as columns, views, and validation to name a few. What distinguishes SharePoint libraries is that each item in a library has an underlying document. Therefore, in addition to the data stored in library columns the document stores its own data based on the type of document. Because of the extra data that can be stored in columns that can be used to filter and search by and because of features such as versioning, libraries are considered a great replacement for the more traditional file server system. Libraries are, like lists, a fundamental building block in a SharePoint site.
+  #### Lessons
+  - Library Templates
+  - Creating Libraries
+  - Managing Documents and Versioning
+
+
+  #### Lab &#58; Library Basics
+  After completing this module, students will be able to&#58;
+  - Create new libraries using library templates.
+  - Work with the different libraries in a default Team Site.
+  - Add columns to a library.
+  - Check out documents for editing.
+  - Delete and restore documents from document libraries.
+  - Enable versioning on a library.
+  - Revert a library document to an earlier version.
+
+
+  ### Module 4&#58; Working with Lists and Library Views
+  Views provide a flexible system to display SharePoint list and library data in an easy-to-read and easy-to-use manner. Every SharePoint list and library can have multiple views created and configured, and some list and library templates come with special views preconfigured. Views can be defined for personal use or shared use.
+  #### Lessons
+  - Default Views
+  - Custom Views
+
+
+  #### Lab &#58; Working with Lists and Library Views
+  After completing this module, students will be able to&#58;
+  - Use default views built into lists and libraries.
+  - Create personal views.
+  - Create shared views.
+  - Configure views.
+  - Set the default view for a list or library.
+
+
+  ### Module 5&#58; Working with Sites
+  All SharePoint content is accessed through a site. A SharePoint site is the container for lists and libraries and provides a starting point for basic administration. The content, lists, libraries, and basic look and feel of a site is initially determined by the Site Template used to create the site.
+  #### Lessons
+  - Site Templates
+  - Creating Sites
+  - Site Navigation
+
+
+  #### Lab &#58; Working with Sites
+  After completing this module, students will be able to&#58;
+  - Create a new site using Site Templates.
+  - Create a Blank site.
+  - Create a Team site.
+  - Create a Meeting Workspace site.
+  - Create a Blog site.
+  - Manage the sites listed in the Top Link Bar.
+
+
+  ### Module 6&#58; Page Content
+  SharePoint offers a couple of ways to add content to the pages in a site. The latest technique and the technique implemented by the Team Site template is through Wiki style pages. Another method that has been part of SharePoint since the beginning is the use of Web Parts and Web Part pages. Both techniques are similar in the output that can be created and both Web Part pages and wiki pages support share the ability to add Web Parts to them. Web Part pages still have one advantage in that you can connect Web Parts so information can pass between them. That option is not available on a wiki page.
+  #### Lessons
+  - Wiki Library Pages
+  - Web Part Pages
+  - Working with Web Parts
+
+
+  #### Lab &#58; Page Content
+  After completing this module, students will be able to&#58;
+  - Add content to the Team Site Home page.
+  - Change the layout of the Team Site Home page.
+  - Create a Web Part page.
+  - Create a Wiki page library.
+  - Add Web Parts.
+  - Manage Web Parts.
+
+
+  ### Module 7&#58; Forms Library
+  SharePoint Forms library is a special library designed to store Microsoft InfoPath form documents. Microsoft InfoPath comes with a designer tool for graphically creating forms with a wide assortment of fields and controls. The InfoPath Designer can then be used to publish the forms you design to SharePoint, rendering them as web page templates for Forms libraries.
+  #### Lessons
+  - Creating a Forms Library
+  - Creating InfoPath Forms
+  - Publishing InfoPath Forms to SharePoint
+
+
+  #### Lab &#58; Forms Library
+  After completing this module, students will be able to&#58;
+  - Create a Form Library.
+  - Use InfoPath Designer to design a basic form template.
+  - Publish an InfoPath Designer form template to a Form Library.
+  - Designate form template fields as library columns.
+  - Create instances of documents in a Form Library.
+
+
+  ### Module 8&#58; Site Columns and Content Types
+  One method of customizing SharePoint, in a way that can be reused throughout the site or site collection or even the whole farm, is to create Site Columns and Content Types. Site columns are the simplest element; they are essentially the same as list and library columns except that you create them at the site level and then they can be used throughout that site and any child site. Content Types are a combination of Site Columns as well as additional settings and information such as document templates and workflows. Content Types, once created, can then be linked to lists and libraries.
+  #### Lessons
+  - Site Column Gallery
+  - Creating Site Columns
+  - Site Content Type Gallery
+
+
+  #### Lab &#58; Site Columns and Content Types
+  After completing this module, students will be able to&#58;
+  - Create Site Columns.
+  - Create Content Types.
+  - Create a document template for a Content Type.
+  - Assign a Content Type to a list or library.
+  - Create new items based on a custom Content Type.
+
+
+  ### Module 9&#58; Office Integration
+  One of the nice features of SharePoint is its ability to integrate with Microsoft Office applications. Just about every Office application offers some level of integration with SharePoint whether it be simple, such as importing a spreadsheet to create a new list, or more full features, such as SharePoint Workspace. Some integration features enhance what is available online through a browser, while others allow access to SharePoint content offline such as a mobile computer environment. This lesson will use a series of demonstrations and exercises to show how each Office application can integrate with SharePoint.
+  #### Lessons
+  - Excel Integration
+  - Outlook Integration
+  - Access Integration
+  - SharePoint Workspaces
+
+
+  #### Lab &#58; Office Integration
+  After completing this module, students will be able to&#58;
+  - Create a list from and Excel spreadsheet.
+  - Update a spreadsheet view of SharePoint list data.
+  - Create an Alert.
+  - Subscribe and view an RSS feed from a SharePoint list.
+  - Copy of a library in Outlook.
+  - Use the Datasheet view.
+  - Open and edit a list in Access.
+  - Configure and use SharePoint Workspace.
+
+
+  ### Module 10&#58; Managing SharePoint Site Permissions
+  Permissions on a SharePoint site are assigned when a site is created. The default is that permissions assigned to the root of a site collection are inherited by child sites. At any time, permissions inheritance can be turned off at a site, list, library, or even at the item level in a list or library. The permissions themselves can be assigned to either SharePoint groups, individual users, or groups created outside of SharePoint such as Windows groups.
+  #### Lessons
+  - SharePoint Groups
+  - Assigning Permissions
+  - Permission Levels
+  - Permissions Inheritance
+
+
+  #### Lab &#58; Managing SharePoint Site Permissions
+  After completing this module, students will be able to&#58;
+  - Create SharePoint groups.
+  - Assign permission in SharePoint.
+  - View permission levels.
+  - Manage permission inheritance at the site level.
+  - Manage permission inheritance at the list or library level.
+  - Manage permission inheritance at the item level.

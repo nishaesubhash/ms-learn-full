@@ -1,0 +1,67 @@
+### YamlMime:Course
+title: Microsoft Azure セキュリティ技術
+metadata:
+  title: 'Course AZ-500T00JA-A: Microsoft Azure セキュリティ技術'
+  description: 'Course AZ-500T00JA-A: Microsoft Azure セキュリティ技術'
+uid: course.az-500t00ja
+courseNumber: 'AZ-500T00JA-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure での専門的データの分類について説明する
+- skill: Azure データ保護のメカニズムを特定する
+- skill: Azure データの暗号化方法を実装する
+- skill: インターネット プロトコルのセキュリティを保護し、それを Azure で実装する方法を理解する
+- skill: Azure セキュリティ サービスと機能を説明する
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- security-engineer
+products:
+- azure
+summary: |-
+  このコースでは、各種セキュリティ ツールを使用して、セキュリティ制御の実装、セキュリティに対する姿勢の維持、脆弱性の特定と修復に必要な知識とスキルを習得します。このコースでは、スクリプトと自動化、仮想化、およびクラウド N 階層アーキテクチャについても説明します。
+
+  #### Audience profile
+  このコースを受講するには、Azure ワークロードを保護するための 1 年以上の実践的な経験と、Azure のワークロードのセキュリティ制御の経験が必要です。
+prerequisitesSection: |-
+  このコースに参加するには、次の知識が必要です。
+  - Microsoft Azure 管理者業務
+outlineSection: |-
+  ### セクション 1&#58; ID とアクセス
+  #### レッスン
+  - Azure ワークロードとサブスクリプション向け Azure Active Directory の設定
+  - Azure AD Privileged Identity Management の設定
+  - Azure サブスクリプション向けのセキュリティ設定
+
+
+  ### セクション 2&#58; プラットフォームの保護
+  #### レッスン
+  - クラウド セキュリティの理解
+  - ネットワーク構築
+  - ネットワークのセキュリティ保護
+  - プラットフォーム セキュリティの実装
+  - サブスクリプション セキュリティの実装
+
+
+  ### セクション 3&#58; セキュリティ オペレーション
+  #### レッスン
+  - セキュリティ サービスの設定
+  - Azure Security Center を使用したセキュリティ ポリシーの設定
+  - セキュリティ アラートの管理
+  - セキュリティ問題への対応と修正
+  - セキュリティ ベースラインの作成
+
+
+  ### セクション 4&#58; データとアプリケーション
+  #### レッスン
+  - データを管理するためのセキュリティ ポリシーの設定
+  - データ インフラストラクチャ向けセキュリティの設定
+  - 保存データの暗号化の設定
+  - アプリケーション セキュリティの理解
+  - Implemアプリケーション ライフサイクル向けセキュリティの実装
+  - アプリケーションのセキュリティ保護
+  - Azure Key Vault の設定と管理

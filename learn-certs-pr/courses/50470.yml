@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Microsoft SharePoint Server 2010 for the Site Owner/Power User
+metadata:
+  title: 'Course 50470-B: Microsoft SharePoint Server 2010 for the Site Owner/Power User'
+  description: 'Course 50470-B: Microsoft SharePoint Server 2010 for the Site Owner/Power User'
+uid: course.50470
+courseNumber: '50470-B'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Manage Sites and Site Collections.
+- skill: Add users and groups and manage site, list, folder and item security.
+- skill: Add and configure web parts.
+- skill: Configure sites, include themes, title, description and icon.
+- skill: Configure site navigation.
+- skill: View site activity reports.
+- skill: Customize lists and libraries.
+- skill: Work with Site Columns and Site Content Types.
+- skill: Create Forms libraries.
+- skill: Configure Check out/in, Content Approval and Versioning.
+- skill: Create and modify pages and web part pages.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This two-day instructor-led course is designed for the site owner/”power user” of a SharePoint site who needs to know how to create sites and lists, manage user access and customize lists and pages. This class uses the SharePoint Server 2010 version of SharePoint. While it is of equal value for users of SharePoint Foundation, it does include a few features not found in Foundation.
+
+  #### Audience profile
+  This course is designed for the site owner/ “power user” of a SharePoint site who needs to know how to create sites and lists, manage user access and customize lists and pages.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Working knowledge of SharePoint 2010 and know how to navigate a SharePoint site and SharePoint lists.
+outlineSection: |-
+  ### Module 1&#58; The Role of the Site Owner
+  #### Lessons
+  - The role of the site owner/power user
+  - The tools for the site owner
+
+
+  ### Module 2&#58; SharePoint Review
+  #### Lessons
+  - A review of SharePoint basics
+
+
+  ### Module 3&#58; Using and Customizing Lists
+  #### Lessons
+  - List Settings
+  - Customizing Columns
+  - Site Columns
+  - Content Types
+  - Creating Lists by Importing Excel Files
+  - Creating and Modifying Views
+  - Content Types
+  - Communications Options
+  - Overview of Workflows
+
+
+  ### Module 4&#58; Creating Forms Libraries
+  #### Lessons
+  - Creating Forms Libraries from InfoPath
+
+
+  ### Module 5&#58; Creating Web Pages
+  #### Lessons
+  - Creating Web Pages
+  - Creating Web Part Pages
+
+
+  ### Module 6&#58; Sites and Workspaces
+  #### Lessons
+  - Site Customization
+  - Site Navigation
+  - Web Parts
+
+
+  ### Module 7&#58; Users and Groups
+  #### Lessons
+  - Users and Groups
+  - Permissions
+  - Adding users
+  - Adding Site Collection Administrators
+  - Reviewing permissions
+  - Sending E-mail to site users
+  - List and Library Permissions
+  - Creating Groups
+  - Creating Custom Permission Levels
+  - Audiences
+  - Managing User Alerts
+
+
+  ### Module 8&#58; Activity
+  #### Lessons
+  - Site Web Analytics Reports
+  - Site Collection Web Analytics Reports

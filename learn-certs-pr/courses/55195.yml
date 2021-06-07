@@ -1,0 +1,177 @@
+### YamlMime:Course
+title: Introduction to Microsoft Cloud Computing
+metadata:
+  title: 'Course 55195-A: Introduction to Microsoft Cloud Computing'
+  description: 'Course 55195-A: Introduction to Microsoft Cloud Computing'
+uid: course.55195
+courseNumber: '55195-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Describe and understand the types of Cloud Infrastructure and Types of Cloud Services.
+- skill: Understand how to utilize Cloud systems.
+- skill: Describe Cloud infrastructure technologies such as LDAP, X.500, E.509 and SSO in Microsoft environments.
+- skill: Understand SLA agreements and change management in the cloud.
+- skill: Describe security and Privacy considerations, Privileged User Access, Regulatory Compliance,
+- skill: Investigative Support, Data Segregation, Recovery, Long-Term Viability and Transfer of Data.
+- skill: Understand the fundamentals of PKI and Digital Signing.
+- skill: Describe Cloud authentication and Authorization techniques.
+- skill: Understand the roles of Microsoft Azure, Office 365, One Drive and InTune.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  This one-day instructor-led is intended for IT professionals who are interested in expanding their knowledge base and technical skills with an understanding of the Cloud and Microsoft Cloud Products such as Azure, Office 365, One Drive and InTune. In this course, students learn high level terminology, structure, security, deployment and migration practices as well as the general scope of Microsoft Cloud product offerings.
+
+  #### Audience profile
+  This course is intended for both novice and experienced IT professionals and managers of IT professionals who
+  have basic Windows navigation skills and want to get started using cloud resources and products.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic understanding of networking concepts.
+  - Basic Windows knowledge.
+  - Basic understanding of security concepts such as authentication and authorization.
+outlineSection: |-
+  ### Module 1&#58; The Term “The Cloud”?
+  This module explains where the term “The Cloud” came from, what it means and how to tell Cloud Technologies from other IT services. Additionally it covers the various kinds of Cloud infrastructure and Cloud services.
+  #### Lessons
+  - Types of Cloud Infrastructure
+  - Private Cloud
+  - Public Cloud
+  - Hybrid Cloud
+  - Types of Cloud Services
+  - Infrastructure As A Service (IaaS)
+  - Platform As A Service (PaaS)
+  - Software As A Service (SaaS)
+
+  After completing this module, students will be able to&#58;
+  - Describe and understand the types of Cloud Infrastructure and Types of Cloud Services.
+  - Compare Private, Public and Hybrid cloud deployments and scenarios.
+  - Understand how to evaluate products based on their type of service, IaaS, PaaS and SaaS.
+
+
+  ### Module 2&#58; Understanding and Utilizing Cloud Systems
+  This module explains how to look at cloud systems in such a way that students can analyze how they can be used to benefit an organization.
+  #### Lessons
+  - The Cloud as a Utility Model
+  - The Cloud as a Housing Model
+  - Cloud systems adoption by industry
+  - The Cloud mobile advantage
+
+  After completing this module, students will be able to&#58;
+  - Explain how to look at cloud systems and analyze how they can be used to benefit an organization.
+  - Understand common analogies used to describe Cloud systems.
+  - Describe the Cloud housing model.
+  - Compare On-Premieis and Cloud models.
+  - Compare Cloud adoption by industry.
+  - Describe the advantage Clouds systems have with connecting to and configuring mobile devices.
+
+
+  ### Module 3&#58; Cloud Infrastructure Technologies
+  This module explains how and what protocols and standards are used in Cloud systems, what X.500 Directories are, how X.509 certificates are used and the concepts surrounding the forms of SSO.
+  #### Lessons
+  - LDAP Lightweight Directory Access Protocol
+  - X.500 Directory Systems
+  - X.509 Certificate Services and PKI
+  - Single Sign On (SSO) and Same Sign On (SSO)
+  - Some SSO Designs in Microsoft environments
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features, of LDAP and why they are important.
+  - Understand what X.500 systems are and how they relate to Active Directory and Cloud systems.
+  - Describe X.509 certificate services and now PKI is used with Directories and Cloud services for Authentication and Encryption.
+  - Understand why SSO is important and to be able to distinguish between Same and Single Sign On.
+  - Describe the common Microsoft implementations of Same and Single Sign On.
+
+
+  ### Module 4&#58; Control of Data and Continuity of Services
+  This module explains Service Level Agreements, Change Management and the roles and responsibilities of every organization for making computing services and data secure and available.
+  #### Lessons
+  - Service Level Agreements (SLA)
+  - Change Management
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features, of a Service Level Agreement for typical Cloud systems.
+  - Understand the meaning of 99.9% uptime and how it relates to an SLA.
+  - Describe how Change Management is often very different in the Cloud then On-Premises.
+
+
+  ### Module 5&#58; Security & Privacy Considerations
+  This module explains the principle security topics important to know for all cloud products and services as well as regulatory requirements, eDiscovery, Investigative Support, Data Segregation, Long Term Viability and auditing.
+  #### Lessons
+  - How Secure is the Cloud?
+  - Privileged User Access
+  - Regulatory Compliance
+  - Investigative Support
+  - Data Segregation
+  - Recovery
+  - Long-Term Viability – Transfer of Data
+
+  After completing this module, students will be able to&#58;
+  - Describe security concerns and mitigations in cloud systems.
+  - Understand how regulatory compliance and auditing is handled in a cloud environment.
+  - Answer critical questions about long term systems management and viability.
+
+
+  ### Module 6&#58; Review Questions
+  This module reviews all of the major topics covered in this one day class providing students to an opportunity to increase retention of the topics and expound on any related topics. This section also provides the instructor with feedback on how the presentation was comprehended by the learners and to fill in any knowledge gaps.
+  #### Lessons
+  - Cloud Advantages
+  - Cloud Terms and Acronyms
+  - Microsoft Cloud Products
+  - Security and Regulations
+
+  After completing this module, students will be able to&#58;
+  - Show a firm understanding and comprehension of the principle topics of this course.
+
+
+  ### Module 7&#58; PKI Fundamentals (optional)
+  This module explains how an understanding of Public Key Infrastructure (PKI) is critical to all cloud technology design, maintenance and management.
+  Nearly every technology that supports the cloud and access to it includes PKI components. PKI is not a standalone system but rather a series of technologies that are incorporated by developers into security and access systems.
+  #### Lessons
+  - PKI Fundamentals
+  - Digital Signing
+  - PKI Review Questions
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features, and functions of PKI.
+  - Understand the importance of underlying cloud technologies.
+  - Describe how PKI Authentication, Encryption and Digital Signing works.
+
+
+  ### Module 8&#58; Understanding Cloud Authentication and Authorization (optional)
+  This module explains how Authentication is making sure entities such as users or computers are whom they claim to be. Authorization is a system of determine what rights or permissions a user or computer has.
+  SID, GUID and traditional ACLs pose a potential problem in Hybrid Cloud environments or SSO implementations because these identification systems are unique to a vendor or network system. This module explains how new systems are being deployed to overcome these issues.
+  #### Lessons
+  - Understanding Cloud Authentication and Authorization
+  - How Claims systems can replace GUID and ACL biased systems.
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features used in traditional systems and how new claims biased systems have an advantage in the cloud.
+
+
+  ### Module 9&#58; Labs and Demonstrations (optional)
+  Depending on the time allotted and audience, the instructor may choose to present a selection of these demonstrations, or if equipment is available, give time for students to acquire some hands on experience.
+  #### Lessons
+  - Azure Availability Evaluation
+  - Office 365 simulation walkthrough
+
+
+  #### Lab &#58; Azure Availability Evaluation
+  - Evaluating Microsoft Azure Cloud Services
+
+
+  #### Lab &#58; Office 365 Simulation Walkthrough
+  - Administrating Office 365 Part 1
+  - Administrating Office 365 Part 2
+  - Administrating Office 365 Part 3
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features for evaluating Microsoft Azure availability.
+  - Perform walkthrough of Office 365 management environments.

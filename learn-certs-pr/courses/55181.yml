@@ -1,0 +1,161 @@
+### YamlMime:Course
+title: 'Microsoft Project 2016: Digging Deeper'
+metadata:
+  title: 'Course 55181-A: Microsoft Project 2016: Digging Deeper'
+  description: 'Course 55181-A: Microsoft Project 2016: Digging Deeper'
+uid: course.55181
+courseNumber: '55181-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Work with the advanced formatting features of the Gantt chart and network diagrams.
+- skill: Create master projects and sub projects in Project 2016.
+- skill: Create customized project reports.
+- skill: Work with resource pools.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-project
+summary: |-
+  This Intermediate Microsoft Project 2016&#58; Digging Deeper class takes an in-depth approach to key features of Project 2016 including task entry and linking, resource and resource management, and examining and updating projects. You will learn to efficiently manage projects, create master projects and sub-projects, create and customize visual reports, work with resource pools, and learn about costing.
+
+  #### Audience profile
+  This course is intended for students who want to start with the basics and learn how to use Microsoft Project 2016.
+outlineSection: |-
+  ### Module 1&#58; Starting a Project from an Existing Project, Excel Workbook, or SharePoint Task List
+  This module explains how to get started with a project.
+  #### Lessons
+  - Starting a Project
+
+
+  #### Lab &#58; Starting a Project from an Existing Project, Excel Workbook, or SharePoint Task List
+  - Starting a Project
+
+  After completing this module, students will be able to&#58;
+  - Set project options.
+  - Create a project from an existing project.
+  - Create a project from an Excel spreadsheet.
+  - Create a project from a SharePoint list.
+
+
+  ### Module 2&#58; Advanced Methods for Managing Tasks and Resources
+  This module explains how to use advanced methods for managing tasks and resources.
+  #### Lessons
+  - Managing Tasks and Resources
+  - Understanding Elapsed versus Actual Time Settings
+  - Setting Task Constraints
+  - Splitting and Delaying Tasks
+  - Using the Task Inspector
+  - Analyzing Critical Tasks and Critical Path
+  - Using Lag Time and Lead Time
+  - Analyzing Task Assignments
+  - Using the Team Planner
+  - Using a Resource Pool and Sharing Resources
+  - Managing Resource Availability and Pay Rates
+
+
+  #### Lab &#58; Advanced Methods for Managing Tasks and Resources
+  - Change the Task Dependency
+  - Creating a Task Constraint
+  - To Split a Task&#58; Using the Gantt Chart View
+  - Viewing the Task Inspector
+  - Viewing the Critical Path
+  - Set Lag Time and Lead Time
+  - Adding a Note through the Assignment Information Dialog Box
+  - Displaying a Team Planner and Apply Formatting
+  - Sharing a Resource Pool
+  - Changing a Pay Rate
+
+  After completing this module, students will be able to&#58;
+  - Work with task dependencies.
+  - Distinguish elapsed versus actual time settings.
+  - Set task constraints.
+  - Split and delay tasks.
+  - Use the Task Inspector.
+  - Analyze critical tasks and the critical path.
+  - Use lag time and lead time.
+  - Analyze task assignments.
+  - Use the team planner.
+  - Use a resource pool and share resources.
+  - Manage resource availability and pay rates.
+
+
+  ### Module 3&#58; Managing the Project with Advanced Techniques
+  This module explains how to manage projects with advanced techniques in Microsoft Project 2016.
+  #### Lessons
+  - Using Leveling to Solve Resource Overallocations
+  - Amending Tasks
+  - Understanding Baseline and Interim Plans
+  - Analyzing Project Costs and Creating Budgets
+
+
+  #### Lab &#58; Managing the Project with Advanced Techniques
+  - Using Leveling to Solve Resource Overallocations&#58; Using the Gantt
+  - To Amend Tasks
+  - Setting Additional Baselines
+  - Creating Budgets
+
+  After completing this module, students will be able to&#58;
+  - Use leveling to solve resource overallocation.
+  - Amend tasks.
+  - Understand baseline and interim plans.
+  - Analyze project costs and create budgets.
+
+
+  ### Module 4&#58; Formatting and Customizing Views
+  This module explains how to format and customize views.
+  #### Lessons
+  - Customize the Gantt Chart
+  - Creating a Custom View
+  - Applying Filters
+  - Using Work Breakdown Structure (WBS) Codes
+
+
+  #### Lab &#58; Formatting and Customizing Views
+  - Customizing the Gantt Chart Using Gantt Chart View
+  - Creating a Custom View
+  -	Applying Filters
+  - Using Work Breakdown Structure (WBS) Codes
+
+  After completing this module, students will be able to&#58;
+  - Customize the Gantt chart.
+  - Create a custom view.
+  - Apply filters.
+  - Use Work Breakdown Structure (WBS) codes
+
+
+  ### Module 5&#58; Reporting
+  This module explains how to use reporting in Microsoft Project 2016.
+  #### Lessons
+  - Creating Visual Reports
+  - Editing Reports
+
+
+  #### Lab &#58; Reporting
+  - Creating Visual Reports
+  - Editing a Report
+
+  After completing this module, students will be able to&#58;
+  - Create visual reports.
+  - Edit reports.
+
+
+  ### Module 6&#58; Working with Templates
+  This module explains how to work with templates in Microsoft Project 2016.
+  #### Lessons
+  - Using Sub project within a Project
+  - Using the Organizer to Maintain Templates
+
+
+  #### Lab &#58; Working with Templates
+  - Using Sub projects within a Project
+  - Using the Organizer
+
+  After completing this module, students will be able to&#58;
+  - Use sub project within a project.
+  - Use the Organizer to maintain templates.

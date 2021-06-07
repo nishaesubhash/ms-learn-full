@@ -1,0 +1,114 @@
+### YamlMime:Course
+title: ITIL Foundation Certification Course
+metadata:
+  title: 'Course 55062-A: ITIL Foundation Certification Course'
+  description: 'Course 55062-A: ITIL Foundation Certification Course'
+uid: course.55062
+courseNumber: '55062-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: The course shares with students the skills and knowledge to understand how an integrated IT Service Management framework, based on ITIL best practice guidelines, can be adopted and adapted within their own organizations. It provides proven practical guidance on how to successfully introduce an integrated IT Service Management framework based on the ITIL best practice service lifecycle approach.
+- skill: This course also helps students prepare for the ITIL Foundation Certificate in IT Service Management examination. There will be reinforcement in the form of exercises throughout the course with the objective of instilling a deeper understanding of IT Service Management.
+- skill: 'The focus of the course is to help students understand the value to the business provided by each phase of the Service Management Lifecycle as covered by the 5 core books: Service Strategy; Service Design; Service Transition; Service Operation; Continual Service Improvement; '
+
+- skill: 'There is particular importance placed on developing an underlying service culture within the IT organization. Topics covered include: Introduction to Service Management; The importance of Service Management; Definition of a Service and Service Management; The need for a service culture; Service Management as a practice; The Service Lifecycle;'
+
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+summary: |-
+  This three-day instructor-led course is intended for IT Managers and Practitioners. This course provides students with a practical understanding of the key concepts, principles, processes and functions that enables successful IT Service Management provision. It also prepares delegates for the ITIL Foundation Certificate Examination. The course is based on the ITIL best practice service lifecycle approach.  This course provides 21 contact hours.
+
+  #### Audience profile
+  This course is for IT Managers and Practitioners involved in the strategy, design, implementation, and on-going delivery of business-used IT services and for anyone who requires an insight into Service Management best practice.
+prerequisitesSection: |-
+  There are no prerequisites for this course.
+outlineSection: |-
+  ### Module 1&#58; Review of IT Service Management (ITSM) and IT Infrastructure Library (ITIL)
+  This module reviews ITIL's history, in particular how the ITIL v2 content in Service Support and Service Delivery became how many companies viewed ITIL Service Management. This section also introduces the ITIL Lifecycle and its five phases, terms of interest, the goals and benefits of the ITIL v3 Refresh and 2011 Refresh, key processes, the Qualification Scheme and the RACI organizational context.
+
+  - Review what topics will be covered in the three day course.
+  - Understand how the course will be delivered with Lecture, Case Study and Practice exams.
+  - Discuss the conception and evolution of  ITIL.
+  - Define Service Management, Best Practices and itSMF.
+  - Locate additional complementary materials.
+
+  ### Module 2&#58; Service Lifecycle Approach
+  This module discusses all the terms of interest that are critical to understanding ITIL's approach to Service Management. Value Creation, the benefits of ITIL, Organizational Context, Governance, the Process Model and the overall ITIL Lifecycle are discussed.
+
+  - Describe the ITIL Key Concepts.
+  - State the 5 Core Books.
+  - Discuss the LifeCycle Terms of Interest and Five Phases.
+  - Review the Capabilities and Resources.
+  - Understand the Benefits of ITIL.
+  - Discuss the RACI and Organizational Structure.
+  - Understand the role of Automation in IT Service Management.
+  - Discuss Governance, Risk Management and the ITIL Service Lifecycle.
+  - Understand the Process Model and the Four Ps of Design.
+  - Discuss the ITIL Processes.
+
+  ### Module 3&#58; Service Strategy
+  This module speaks to Service Strategy as a starting point within the lifecycle and identifies the Strategic Perspective. You will explore business needs and plans, map IT strategies to business, focus on Service as a Value and discuss how to source appropriately. Also covered are strategy terms of interest, Financial Management for IT Services, Service Portfolio Management and Business Relationship Management.
+
+  - Describe the Key Concepts of Service Strategy and Terms of Interest.
+  - Define Utility and Warranty = Value.
+  - Describe Service Provider Types.
+  - Understand Service Strategy Processes.
+  - Review Financial Management for IT Services.
+  - Provide Service Justification&#58; Business Case.
+  - Define Service Portfolio Management.
+  - Describe Demand Management.
+  - Recognize Business Relationship Management.
+
+
+  ### Module 4&#58; Service Design
+  This module discusses how Service Design is a part of the overall business change process and how it fits within the overall business strategy. Highlighted are terms of interest, Service Providers, Service Design Path and Design Aspects, Design Management and Constraints, Service Catalog Management, Service Level Management, Availability Management, Capacity Management, IT Service Continuity Management, Supplier Management and Information Security Management.
+  - Describe the Key Concepts of Service Design and Terms of Interest.
+  - Define Business Change Process.
+  - Recognize Design Management.
+  - Describe the Five Aspects of Service Design.
+  - State the Four Ps.
+  - Define Design Constraints.
+  - Recognize Services Design and Design Coordination Processes.
+  - Describe Service Catalog Management, Service Level Management, Availability Management and Capacity Management. 
+  - Understand IT Service Continuity Management Objectives.
+  - Define Information Security Management.
+  - Describe Supplier Management Objectives.
+
+
+  ### Module 5&#58; Service Transition
+  This module discusses the purpose and focus of Service Transition; terms of interest; the Management of Change and Risk; integration with Business Change; processes that support the Service Lifecycle&#58; Change Management, Asset and Configuration Management, Knowledge Management; and processes within Service Transition&#58; Transition Planning and Support, Release and Deployment Management, Service Validation and Testing and Change Evaluation.
+  - Describe the Key Concepts of Service Transition and Terms of Interest.
+  - Define Service Transition Processes.
+  - Describe Change Management, Service Assist and Configuration Management, Knowledge Management, and Release and Deployment Management.
+  - Recognize Transition Planning and Support.
+  - State Service Validation and Testing.
+  - Discuss Change Evaluation.
+
+
+  ### Module 6&#58; Service Operation
+  This module focuses on the day-to-day management of the service used by customers and the processes that focus on support and restore activities. Value as seen by the customer is overviewed, terms of interest, Operational Functions and new processes&#58; Event, Request Fulfillment, Access as well as changed processes&#58; Incident Management and Problem Management.
+  - Describe the Key Concepts of Service Operation and Terms of Interest.
+  - Define the Role of Communications in Operations.
+  - Describe Operation Processes.
+  - Define Incident Management, Problem Management, and Event Management.
+  - State Request Fulfillment.
+  - Discuss Access Management.
+  - Describe Service Operation Functions.
+
+
+  ### Module 7&#58; Continual Service Improvement
+  This module explains how the Continual Service Improvement book is efficient, effective and economic. Discussed is the continual realignment of IT to business requirements, the aim to improve all processes within the Service Lifecycle, growth and maturity of Service and the Management Processes of Measure, Analyze, Review.
+
+  - Describe the Key Concepts of Continual Service Improvement and Terms of Interest.
+  - Define Demins’ Constant Improvement.
+  - Describe the Sever-Step Improvement Process.
+  - Recognize the CSI Model.
+  - Describe the Role of Measurements.
+  - Understand Focus on the Business Needs.
+  - Describe Methods and Techniques for Continual Service Improvement.

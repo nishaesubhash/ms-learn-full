@@ -1,0 +1,254 @@
+### YamlMime:Course
+title: Systems Center 2012 Operations Manager
+metadata:
+  title: 'Course 55006-A: Systems Center 2012 Operations Manager'
+  description: 'Course 55006-A: Systems Center 2012 Operations Manager'
+uid: course.55006
+courseNumber: '55006-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Design and build a Production Service Monitoring Program
+- skill: Configure and administer Operations Manager 2012
+- skill: Deploy monitoring for servers, applications and services
+- skill: Deploy management packs
+- skill: Create monitors and rules
+- skill: Tune monitors and rules for maximum benefit
+- skill: Create and configure reports for IT and business consumption
+- skill: Meet and exceed SLAs to add value to business partners
+- skill: Configure monitoring views and administrative tasks
+- skill: Deploy monitoring for UNIX/Linux and Network Devices
+- skill: Configure Operations Manager 2012 role-based security
+- skill: Configure notifications, subscribers and subscriptions
+- skill: Configure general Operations Manager 2012 maintenance settings
+- skill: Describe the Operations Manager 2012 Gateway Server
+- skill: Automate Operations Manager with PowerShell
+- skill: Meet and exceed SLA's in order to bring value to business partners
+- skill: Integrate Operations Manager with other tools
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This five-day instructor-led course provides students with the necessary knowledge to successfully design and deploy Microsoft System Center 2012 Operations Manager. In this course, students are introduced to the basic theory of service monitoring. They will also learn about configuration, deployment, monitoring, and operation of Operations Manager 2012.
+
+  After completing this course, students will have the skills necessary to manage Operations Manager for maximum business benefit.  This course incorporates case studies and hands-on learning opportunities so students can practice applying business solutions to real-world scenarios.
+
+  #### Audience profile
+  This course is for IT Professionals who already have some prerequisite technical knowledge and want to learn the skills necessary to implement a comprehensive service monitoring system for their production environment. This course is also for IT Professionals who want to learn how to communicate relevant business information about the operational status of the IT environment.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Windows Server 2008 R2 operating system
+  - Active Directory Domain Services (AD DS)
+  - Experience with PowerShell and SQL Server and SQL Server Reporting Services
+  - Familiarity with data center management processes
+  - Previous work with IT Infrastructure Library (ITIL)
+  - Previous work with Microsoft Operations Framework (MOF)
+  - Knowledge of previous versions of Operations Manager
+  - Knowledge of the product(s) that you plan to monitor
+outlineSection: |-
+  ### Module 1&#58; Introduction to System Center 2012 Operations Manager
+  #### Lessons
+  - History and Evolution of System Center
+  - System Center 2012 Product Suite
+  - System Center 2012 Licensing
+  - System Center 2012 Operations Manager
+
+
+  #### Lab &#58; Introduction to System Center 2012 Operations Manager
+
+  After completing this module, students will be able to&#58;
+  - Explain the history and evolution of System Center
+  - Differentiate between each of the System Center 2012 products
+  - Describe System Center 2012 licensing
+  - Identify the purpose and function of Operations Manager 2012
+
+
+  ### Module 2&#58; Plan for Service Monitoring
+  #### Lessons
+  - Introducing ITIL and MOF
+  - Designing the Service Monitoring Process
+  - Documenting the Service Monitoring Process
+
+
+  #### Lab &#58; Plan for Service Monitoring
+
+  After completing this module, students will be able to&#58;
+  - Provide an overview of ITIL and MOF
+  - Design and document a service monitoring plan
+
+
+  ### Module 3&#58; Plan an Operations Manager 2012 Deployment
+  #### Lessons
+  - Defining the Operations Manager 2012 Core Components
+  - Designing for High Availability
+  - Defining Core Hardware and Software Requirements
+  - Designing Network Device Monitoring Requirements
+  - Designing UNIX/LINUX Monitoring Requirements
+  - Designing Windows-Based Monitoring Requirements
+
+
+  #### Lab &#58; Plan an Operations Manager 2012 Deployment
+
+  After completing this module, students will be able to&#58;
+  - Define what a management group and its components are
+  - Design a highly available System Center 2012 Operations Manager environment
+  - Plan and design the necessary hardware and software components
+  - Describe the necessary components for network device monitoring
+  - Describe the necessary components for UNIX/LINUX-based server monitoring
+  - Implement Windows-based server monitoring
+
+
+  ### Module 4&#58; Deploy Operations Manager 2012
+  #### Lessons
+  - Reviewing Environmental Prerequisites
+  - Installing Operations Manager 2012
+  - Verifying Operations Manager 2012 Installation and Additional Configuration
+  - Creating and Using Run As Accounts
+  - Implementing Active Directory Integration
+  - Designing and Implementing Role-Based Administration
+
+
+  #### Lab &#58; Deploy Operations Manager 2012
+
+  After completing this module, students will be able to&#58;
+  - List the environmental prerequisites needed to install Operations Manager 2012 and Active Directory accounts
+  - Describe how to install and configure a management group and its components
+  - Verify the successful implementation of basic management group components
+  - Create and use Run As accounts
+  - Design a role-based administrative model
+  - Explain what Active Directory Integration is
+
+
+  ### Module 5&#58; Deploy the Operations Manager 2012 Agent
+  #### Lessons
+  - Reviewing the Operations Manger 2012 Agent
+  - Deploying the Operations Manager 2012 Agent
+  - Introducing Agent Failover
+
+
+  #### Lab &#58; Deploy the Operations Manager 2012 Agent
+
+  After completing this module, students will be able to&#58;
+  - Explain the agent architecture
+  - Explain agent deployment methods
+  - Describe what Active Directory auto assignment is
+  - Describe how the agent will handle a primary management server failure
+
+
+  ### Module 6&#58; Deployment and Administration of Monitoring (Management) Packs
+  #### Lessons
+  - Introducing Monitoring (Management) Packs
+  - Understanding Most Commonly Used Monitoring (Management) Packs
+  - Modifying and Expanding Monitoring (Management) Packs&#58; Overrides
+  - Monitoring (Management) Pack Administration Best Practices
+
+
+  #### Lab &#58; Deployment and Administration of Monitoring (Management) Packs
+
+  After completing this module, students will be able to&#58;
+  - Explain what a monitoring (management) pack is
+  - Describe the components of a monitoring (management) pack
+  - Explain how to obtain a monitoring (management) pack
+  - Deploy monitoring (management) pack
+  - Explain the difference between sealed and unsealed monitoring (management) packs
+  - Override a monitoring (management) pack
+  - Describe best practices for monitoring (management) pack administration
+
+
+  ### Module 7&#58; Tune Monitoring (Management) Packs
+  #### Lessons
+  - Introducing Alerts
+  - Tuning a Monitoring (Management) Pack
+  - Using Operations Manager Baseline Monitors and Rules
+  - Documenting Changes to Monitoring (Management) Packs
+
+
+  #### Lab &#58; Tune Monitoring (Management) Packs
+
+  After completing this module, students will be able to&#58;
+  - Describe alerts
+  - Describe the monitoring (management) pack tuning process
+  - Describe baseline monitors and rules
+  - Document overrides
+
+
+  ### Module 8&#58; Monitor Administration
+  #### Lessons
+  - Exploring the Operations Console - Monitoring Pane
+  - Administering Alerts
+  - Exploring Agent-Based Monitoring
+  - Customizing the Monitoring Pane
+
+
+  #### Lab &#58; Monitor Administration
+
+  After completing this module, students will be able to&#58;
+  - Navigate the monitoring pane in the Operations console
+  - Investigate an alert
+  - Use Health Explorer
+  - Explain maintenance mode
+  - Describe and create Views
+
+
+  ### Module 9&#58; Advanced Monitoring
+  #### Lessons
+  - Monitoring Network Devices
+  - Monitoring UNIX/LINUX-Based Computers
+  - Monitoring .NET-Based Applications
+  - Expanding Operations Manager 2012 Monitoring
+
+
+  #### Lab &#58; Advanced Monitoring
+
+  After completing this module, students will be able to&#58;
+  - Monitor network devices
+  - Monitor UNIX/LINUX-based computers
+  - Monitor .NET-based applications
+  - Monitor distributed applications
+  - Expand monitoring by using monitoring (management) pack templates
+
+
+  ### Module 10&#58; Reports
+  #### Lessons
+  - Using Operations Manager 2012 Reporting
+  - Administering Reports
+  - Customizing Reports
+
+
+  #### Lab &#58; Reports
+
+  After completing this module, students will be able to&#58;
+  - Understand how Operations Manager 2012 Reporting and SQL Server Reporting Services work together
+  - Manage default Operations Manager 2012 reports
+  - Create customized reports
+
+
+  ### Module 11&#58; Notifications and Operations Manager 2012 Maintenance
+  #### Lessons
+  - Introducing Alert Notifications
+  - Designing Maintenance and Disaster Recovery
+
+
+  #### Lab &#58; Notifications and Operations Manager 2012 Maintenance
+
+  After completing this module, students will be able to&#58;
+  - Describe and configure Operations Manager 2012 notifications
+  - Plan and perform routine maintenance
+  - Create a disaster recovery plan
+
+
+  ### Module 12&#58; System Center 2012 Integration
+  #### Lessons
+  - n/a
+
+
+  #### Lab &#58; System Center 2012 Integration
+
+  After completing this module, students will be able to&#58;
+  - Describe System Center 2012 Integration

@@ -1,0 +1,220 @@
+### YamlMime:Course
+title: Microsoft Azure 管理者
+metadata:
+  title: 'Course AZ-104T00JA-A: Microsoft Azure 管理者'
+  description: 'Course AZ-104T00JA-A: Microsoft Azure 管理者'
+uid: course.az-104t00ja
+courseNumber: 'AZ-104T00JA-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ja
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+summary: |-
+  このコースでは、IT プロフェッショナルに、Azure サブスクリプションの管理、ID のセキュリティ保護、インフラストラクチャの管理、仮想ネットワークの構成、Azure とオンプレミス サイトの接続、ネットワーク トラフィックの管理、ストレージ ソリューションの実装・作成方法、仮想マシンの拡張、Web アプリとコンテナーの実装、データのバックアップと共有、ソリューションの監視を説明します。
+
+  #### Audience profile
+  このコースは Azure 管理者向けです。Azure管理者は、クラウド環境における ID、ガバナンス、ストレージ、コンピューティング、および仮想ネットワークを、実装、管理、監視します。Azure 管理者は、必要に応じてリソースのプロビジョニング、サイズ設定、監視、調整を行います。
+prerequisitesSection: |-
+  このコースの前提条件は次のとおりです。
+  - Azure 管理者は、オペレーティング システム、仮想化、クラウド インフラストラクチャ、ストレージ構造、およびネットワーキングに関する経験によって、この役割を開始します。
+  - 次を含む、オンプレミス仮想化テクノロジーに関する解釈&#58; VM、仮想ネットワーク、バーチャル バーチャル ハード ディスク。
+  - TCP/IP、ドメイン ネーム システム (DNS)、仮想プライベート ネットワーク (VPN)、ファイアウォール、暗号化テクノロジーなどを含む、ネットワーク構成に関する理解。
+  - ドメイン、フォレスト、ドメイン コントローラー、レプリケーション、Kerberos プロトコル、 ライトウェイト ディレクトリ アクセス プロトコル (LDAP) を含む、アクティブ ディレクトリに関する理解。
+  - バックアップや復元操作を含む、回復性およびディザスター リカバリーに関する理解。
+outlineSection: |-
+  ### セクション 1&#58; ID
+  このモジュールでは、Azure Active Directory で ID のセキュリティを確保し、ユーザーとグループを実装する方法について説明します。
+  #### レッスン
+  - Azure Active Directory
+  - ユーザーとグループ
+
+
+  #### ラボ &#58; Azure Active Directory ID の管理
+  このモジュールを修了すると、次のことが可能になります。
+  - Azure Active Directory を使用して ID のセキュリティ保護と管理を行う。
+  - ユーザーとグループを実装および管理する。
+
+
+  ### セクション 2&#58; ガバナンスとコンプライアンス
+  このモジュールでは、サブスクリプションとアカウントの管理、Azure ポリシーの実装、およびロールベースのアクセス制御の使用について説明します。
+  #### レッスン
+  - サブスクリプションとアカウント
+  - Azure Policy
+  - ロールベースのアクセス制御（RBAC）
+
+
+  #### ラボ &#58; サブスクリプションと　RBAC の管理
+
+  #### ラボ &#58; Azure Policy を介したガバナンスの管理
+  このモジュールを修了すると、次のことが可能になります。
+  - Azure サブスクリプションとアカウントを実装および管理する。
+  - カスタム ポリシーを含む Azure Policy を実装する。
+  - RBAC を使用してアクセス許可を割り当てる。
+
+
+  ### セクション 3&#58; Azure Administration
+  このモジュールでは、Azure 管理者がインフラストラクチャを管理するために使用するツールについて説明します。Azure portal、Cloud Shell、Azure PowerShell、CLI、Resource Manager Templatesなどが含まれます。このモジュールには、次のものが含まれます。
+  #### レッスン
+  - Azure Resource Manager
+  - Azure portal と Cloud Shell
+  - Azure PowerShell および CLI
+  - ARM テンプレート
+
+
+  #### ラボ &#58; Azure portal を使用して Azure リソースを管理する
+
+  #### ラボ &#58; ARM テンプレートを使用して Azure リソースを管理する
+
+  #### ラボ &#58; Azure PowerShell を使用して Azure リソースを管理する
+
+  #### ラボ &#58; Azure CLI を使用して Azure リソースを管理する
+  このモジュールを修了すると、次のことが可能になります。
+  - Azure Resource Manager を使用してリソースを整理する。
+  - Azure portal と Cloud Shell を使用する。
+  - Azure PowerShell および CLI を使用する。
+  - ARM テンプレートを使用してリソースをデプロイする。
+
+
+  ### セクション 4&#58; 仮想ネットワーク
+  このモジュールでは、仮想ネットワークとサブネット化、IP アドレスの指定、ネットワーク セキュリティ グループ、Azure Firewall、および Azure DNS などの基本的な仮想ネットワークの概念について説明します。
+  #### レッスン
+  - 仮想ネットワーク
+  - IP アドレス指定
+  - ネットワーク セキュリティ グループ
+  - Azure Firewall
+  - Azure DNS
+
+
+  #### ラボ &#58; 仮想ネットワーキングの実装
+  このモジュールを修了すると、次のことが可能になります。
+  - 仮想ネットワークおよびサブネットを実装する。
+  - パブリック IP アドレスおよびプライベート IP アドレスを取得する。
+  - ネットワーク セキュリティ グループを設定する。
+  - Azure Firewall を実装する。
+  - プライベートおよびパブリック DNS ゾーンを構成する。
+
+
+  ### セクション 5&#58; サイト間接続
+  このモジュールでは、サイト間接続性機能 (VNET ピアリング、仮想ネットワーク ゲートウェイ、サイト間接続性など) の機能について説明します。
+  #### レッスン
+  - VNET ピアリング
+  - VPN Gateway 接続
+  - ExpressRoute および Virtual WAN
+
+
+  #### ラボ &#58; サイト間の接続性の実装
+  このモジュールを修了すると、次のことが可能になります。
+  - VNET ピアリングを構成する。
+  - VPN ゲートウェイを構成する。
+  - 適切なサイト間接続性ソリューションを選択する。
+
+
+  ### セクション 6&#58; ネットワーク トラフィック管理
+  このモジュールでは、ネットワーク ルーティングとサービス エンドポイント、Azure Load Balancer、Azure Application Gateway、Traffic Manager などのネットワーク トラフィック戦略について説明します。
+  #### レッスン
+  - ネットワーク ルーティングおよびエンドポイント
+  - Azure Load Balancer
+  - Azure Application Gateway
+  - Traffic Manager
+
+
+  #### ラボ &#58; Traffic Manager の実装
+  このモジュールを修了すると、次のことが可能になります。
+  - カスタム ルートおよびサービス エンドポイントなどのネットワーク ルーティングを構成する。
+  - Azure Load Balancer を構成する。
+  - Azure Application Gateway を構成する。
+  - 適切なネットワーク トラフィック ソリューションを選択する。
+
+
+  ### セクション 7&#58; Azure Storage
+  このモジュールでは、ストレージ アカウント、Blob Storage、Azure Files と File Sync、ストレージ セキュリティ、ストレージ ツールなどの基本的なストレージ機能について説明します。
+  #### レッスン
+  - ストレージ アカウント
+  - Blob Storage
+  - ストレージ セキュリティ
+  - Azure Files および File Sync
+  - ストレージの管理
+
+
+  #### ラボ &#58; Azure Storage の管理
+  このモジュールを修了すると、次のことが可能になります。
+  - Azure ストレージ アカウントを作成する。
+  - BLOB コンテナーを構成する。
+  - Azure Storage をセキュリティ保護する。
+  - Azure Files 共有および File Sync を構成する。
+  - Storage Explorer などのツールを使用してストレージを管理する。
+
+
+  ### セクション 8&#58; Azure Virtual Machines
+  このモジュールでは、Azure 仮想マシンについてその計画、作成、可用性、拡張機能とともに説明します。
+  #### レッスン
+  - 仮想マシンのプラン
+  - 仮想マシンの作成
+  - 仮想マシンの可用性
+  - 仮想マシンの拡張機能
+
+
+  #### ラボ &#58; 仮想マシンの管理
+  このモジュールを修了すると、次のことが可能になります。
+  - 仮想マシンの実装を計画する。
+  - 仮想マシンを作成する。
+  - スケール セットなど仮想マシンの可用性を構成する。
+  - 仮想マシンの拡張機能を使用する。
+
+
+  ### セクション 9&#58; サーバーレス コンピューティング
+  このモジュールでは、Azure App Service、Azure Container Instances、Kubernetes などのサーバーレス コンピューティング機能の管理について説明します。
+  #### レッスン
+  - Azure App Service プラン
+  - Azure App Service
+  - コンテナー サービス
+  - Azure Kubernetes Service
+
+
+  #### ラボ &#58; Web Apps の実装
+
+  #### ラボ &#58; Azure コンテナー インスタンスを使用する。
+
+  #### ラボ &#58; Azure Kubernetes Service を使用する。
+  このモジュールを修了すると、次のことが可能になります。
+  - App Service プランを作成する。
+  - ウエブ アプリを作成する。
+  - Azure コンテナー インスタンスを使用する。
+  - Azure Kubernetes Service を使用する。
+
+
+  ### セクション 10&#58; データ保護
+  このモジュールでは、ファイルとフォルダーのバックアップ、および仮想マシンのバックアップについて説明します。
+  #### レッスン
+  - ファイルとフォルダーのバックアップ
+  - 仮想マシン バックアップ
+
+
+  #### ラボ &#58; プラットフォーム保護の実装
+  このモジュールを修了すると、次のことが可能になります。
+  - ファイルとフォルダーをバックアップして復元する。
+  - 仮想マシンをバックアップして復元する。
+
+
+  ### セクション 11&#58; 監視
+  このモジュールでは、Azure Monitor、アラート、ログ分析など、Azure インフラストラクチャの監視について説明します。
+  #### レッスン
+  - Azure Monitor
+  - Azure Alerts
+  - Log Analytics
+  - Network Watcher
+
+
+  #### ラボ &#58; 監視の実装
+  このモジュールを修了すると、次のことが可能になります。
+  - Azure Monitor を使用する。
+  - Azure アラートを作成する。
+  - Log Analytics を使用してクエリする。
+  - Network Watcher を使用する。

@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: Installing and Configuring Service Level Dashboard
+metadata:
+  title: 'Course 50524-A: Installing and Configuring Service Level Dashboard'
+  description: 'Course 50524-A: Installing and Configuring Service Level Dashboard'
+uid: course.50524
+courseNumber: '50524-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure objects within System Center Operations Manager 2007 R2 to support Service Level Objectives.
+- skill: Create Service Level Objectives within System Center Operations Manager 2007 R2.
+- skill: Install and configure Service Level Desktop 2.0.
+- skill: Configure settings and permissions on the Service Level Desktop.
+- skill: Create new Service Level Desktop sites and site collections.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- msc-operations-manager
+summary: |-
+  This two-day instructor-led course provides students with the knowledge and skills to create Service Level Dashboards to monitor the Service Level Objectives defined in System Center Operations Manager 2007 R2.
+
+  #### Audience profile
+  This course is intended for IT Professionals responsible for building dashboard representations of Service Level Agreements.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Understanding of SharePoint Services 3.0.
+  - Understanding of System Center Operations Manager 2007 R2.
+  - Understanding of Service Level Agreements.
+outlineSection: |-
+  ### Module 1&#58; What is the Service Level Dashboard
+  This module explains what the Service Level Dashboard is and how it functions within the System Center Operations Manager 2007 R2 Management Group.
+  #### Lessons
+  - Service Level Dashboard Overview
+  - System Center Operations Manager 2007 R2
+  - Windows SharePoint Services 3.0 SP1
+  - Web Parts
+  - Service Level Dashboard Audience
+
+  After completing this module, students will be able to&#58;
+  - Understand what the Service Level Dashboard is
+  - Understand the System Center Operations Manager 2007 R2 requirements
+  - Understand the Windows SharePoint Services 3.0 SP1 requirements
+  - Understand what Web Parts are
+
+
+  ### Module 2&#58; Configuring System Center Operations Manager 2007 R2
+  This module explains how to Configure System Center Operations Manager 2007 R2 to support the Service Level Desktop.
+  #### Lessons
+  - Management Pack Components
+  - Service Level Objectives
+
+
+  #### Lab &#58; Creating a Group
+
+  #### Lab &#58; Creating Availability Service Level Objective
+
+  #### Lab &#58; Creating Service Level Objectives
+  After completing this module, students will be able to&#58;
+  - Explain the tie-in between System Center Operations Manager 2007 R2 and Service Level Dashboard.
+  - Explain what a Service Level Objective is.
+
+
+  ### Module 3&#58; Installing Service Level Dashboard
+  This module explains how to install the Service Level Dashboard.
+  #### Lessons
+  - Prerequisites
+  - Installing the Service Level Dashboard
+
+
+  #### Lab &#58; Installing the Service Level Dashboard
+  After completing this module, students will be able to&#58;
+  - Explain how to install the Service Level Dashboard
+  - Successfully install the Service Level Dashboard
+
+
+  ### Module 4&#58; Configuring the Service Level Dashboard
+  This module explains how to install the Service Level Dashboard.
+  #### Lessons
+  - Configuring the Initial Dashboard Settings
+  - Granting Permissions
+  - Creating Additional Service Level Dashboard Sites
+
+
+  #### Lab &#58; Configuring Initial Dashboard Settings
+
+  #### Lab &#58; Viewing and Changing the Display
+
+  #### Lab &#58; Creating a New Site
+
+  #### Lab &#58; Creating a New Site Collection
+  After completing this module, students will be able to&#58;
+  - Perform initial configuration tasks
+  - Alter the display of information
+  - Configure permissions for users
+  - Create new sites and site collections

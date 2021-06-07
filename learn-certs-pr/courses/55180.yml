@@ -1,0 +1,139 @@
+### YamlMime:Course
+title: 'Introduction to Microsoft Project 2016: Getting Started'
+metadata:
+  title: 'Course 55180-A: Introduction to Microsoft Project 2016: Getting Started'
+  description: 'Course 55180-A: Introduction to Microsoft Project 2016: Getting Started'
+uid: course.55180
+courseNumber: '55180-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create and manage simple projects.
+- skill: Enter and manage tasks.
+- skill: Work with a project calendar.
+- skill: Add and manage project resources and work with the resource sheet.
+- skill: Create basic reports for your project.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-project
+summary: |-
+  In this Introduction to Microsoft Project 2016&#58; Getting Started class, students will spend time getting comfortable with the Project 2016 user interface, including project views and the ribbon. They will also learn to enter, organize, and link tasks, work with resources, create basic reports, and create projects independently. The course allows time to practice fundamental basic skills essential for efficient use of this program.
+
+  #### Audience profile
+  This course is intended for students new to Microsoft Project.
+outlineSection: |-
+  ### Module 1&#58; Components of a Project
+  This module explains how to identify the components of a project and map a project. It also explains the sample projects used throughout this course.
+  #### Lessons
+  - Project Components
+  - Mapping a Project
+  - Exercise&#58; Mapping a Project
+  - Sample Projects Used in This Course
+
+  After completing this module, students will be able to&#58;
+  - Identify components of a project.
+  - Map a project.
+  - Understand the sample projects that are used in this course.
+
+
+  ### Module 2&#58; Getting Around Microsoft Project 2016
+  This module explains how to get around in Microsoft Project 2016.
+  #### Lessons
+  - Starting Project
+  - The Ribbon
+  - Exercise&#58; Understanding the Ribbon
+  - The Backstage View
+  - Exercise&#58; Open and Save a Project
+  - Exercise&#58; Enter Project Information
+  - Tour of the Quick Access Toolbar
+  - Exercise&#58; Add and Delete Commands from the Quick Access Toolbar
+  - Basic Formatting
+
+  After completing this module, students will be able to&#58;
+  - Start Project 2016.
+  - Understand tabs, groups, and commands on the Ribbon.
+  - Hide the Ribbon.
+  - Enter project information.
+  - Customize the Quick Access Toolbar.
+  - Use basic formatting in Project 2016.
+
+
+  ### Module 3&#58; Calendars
+  This module explains how to work with Calendars in Microsoft Outlook 2016.
+  #### Lessons
+  - Project Start Date
+  - Exercise&#58; Set the Project Start Date
+  - Creating a Project Calendar
+  - Connecting a Calendar to a Project
+  - Formatting the Timeline to Match a Custom Calendar
+  - Exercise&#58; Create and Link a Project Calendar
+
+  After completing this module, students will be able to&#58;
+  - How to set a project’s start and finish dates.
+  - Change a project calendar.
+  - Format the timeline of the Gantt chart view.
+
+
+  ### Module 4&#58; Working with Tasks
+  This module explains how to work with tasks in Microsoft Outlook 2016.
+  #### Lessons
+  - Creating a Task
+  - Entering Durations
+  - Exercise&#58; Enter Tasks and Durations
+  - Scheduling Tasks
+  - Exercise&#58; Set a Task to Manual Scheduling
+  - Milestone Tasks
+  - Exercise&#58; Add a Milestone Task
+  - Linking Tasks
+  - Exercise&#58; Link Tasks
+  - Adding Notes to Tasks
+  - Exercise&#58; Add a Note to a Task
+  - Add a Calendar to a Task
+  - Exercise&#58; Add to Your Map
+  - Exercise&#58; Practice of Topics covered in Lessons 1 to 4
+
+
+  ### Module 5&#58; Creating and Working with Resources
+  This module explains how to create and work with resources.
+  #### Lessons
+  - The Resource Sheet
+  - Exercise&#58; Enter Work, Material, and Cost Resources
+  - Assigning Resources to Tasks
+  - Exercise&#58; Assign Resources to Tasks
+
+  After completing this module, students will be able to&#58;
+  - Add resources to a project.
+  - Assign resources to tasks.
+
+
+  ### Module 6&#58; Managing a Project
+  This module explains how to manage a project using Microsoft Project 2016.
+  #### Lessons
+  - Viewing a Project
+  - Reviewing and Making Adjustments to a Project
+  - Exercise&#58; Review the Project
+  - Setting a Baseline
+  - Viewing the Baseline
+  - Exercise&#58; Set and View a Baseline
+  - Recording Progress
+  - Exercise&#58; Record Progress
+  - Reporting on Projects
+  - Exercise&#58; Create a Report
+  - Sending Data to Excel
+  - Exercise&#58; Send Data to Excel
+
+  After completing this module, students will be able to&#58;
+  - Use different way to view a project.
+  - Review and make adjustments to a project.
+  - Set a baseline.
+  - Update a project.
+  - Create and format reports.
+  - Send data to Excel for analysis.
+
+  #### Additional Reading

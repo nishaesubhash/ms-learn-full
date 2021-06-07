@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Implementing Continuous Delivery
+metadata:
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+uid: course.az-400t03
+courseNumber: 'AZ-400T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Differentiate between a release and a deployment
+- skill: Define the components of a release pipeline
+- skill: Explain things to consider when designing your release strategy
+- skill: Classify a release versus a release process and outline how to control the quality of both
+- skill: Describe the principle of release gates and how to deal with release notes and documentation
+- skill: Explain deployment patterns, both in the traditional sense and in the modern sense
+- skill: Choose a release management tool
+- skill: Explain the terminology used in Azure DevOps and other Release Management Tooling
+- skill: Describe what a Build and Release task is, what it can do, and some available deployment tasks
+- skill: Classify an Agent, Agent Queue, and Agent Pool
+- skill: Explain why you sometimes need multiple release jobs in one release pipeline
+- skill: Differentiate between multi-agent and multi-configuration release job
+- skill: Use release variables and stage variables in your release pipeline
+- skill: Deploy to an environment securely using a service connection
+- skill: Embed testing in the pipeline
+- skill: List the different ways to inspect the health of your pipeline and release by using alerts, service hooks, and reports
+- skill: Create a release gate
+- skill: Describe deployment patterns
+- skill: Implement Blue Green Deployment
+- skill: Implement Canary Release
+- skill: Implement Progressive Exposure Deployment
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  This course provides the knowledge and skills to implement continuous delivery. Students will learn how to design a release strategy, set up a release management workflow, and implement an appropriate deployment pattern.
+
+  #### Audience profile
+  Students in this course are interested in implementing DevOps processes or in passing the Microsoft Azure DevOps Solutions certification exam.
+prerequisitesSection: |-
+  Fundamental knowledge about Azure, version control, Agile software development, and core software development principles. It would be helpful to have experience in an organization that delivers software.
+outlineSection: |-
+  ### Module  1&#58; Design a Release Strategy
+  #### Lessons
+  - Introduction to Continuous Delivery
+  - Release strategy recommendations
+  - Building a High Quality Release pipeline
+  - Choosing a deployment pattern
+  - Choosing the right release management tool
+
+
+  #### Lab &#58; Building a release strategy
+  After completing this module, students will be able to&#58;
+  - Differentiate between a release and a deployment
+  - Define the components of a release pipeline
+  - Explain things to consider when designing your release strategy
+  - Classify a release versus a release process and outline how to control the quality of both
+  - Describe the principle of release gates and how to deal with release notes and documentation
+  - Explain deployment patterns, both in the traditional sense and in the modern sense
+  - Choose a release management tool
+
+
+  ### Module  2&#58; Set up a Release Management Workflow
+  #### Lessons
+  - Create a Release Pipeline
+  - Provision and Configure Environments
+  - Manage and Modularize Tasks and Templates
+  - Integrate Secrets with the release pipeline
+  - Configure Automated Integration and Functional Test Automation
+  - Automate Inspection of Health
+
+
+  #### Lab &#58; Automating your infrastructure deployments in the Cloud with Terraform and Azure Pipelines
+
+  #### Lab &#58; Setting up secrets in the pipeline with Azure Key vault
+
+  #### Lab &#58; Setting up and Running Load Tests
+
+  #### Lab &#58; Setting up and Running Functional Tests
+
+  #### Lab &#58; Using Azure Monitor as release gate
+
+  #### Lab &#58; Creating a Release Dashboard
+  After completing this module, students will be able to&#58;
+  - Explain the terminology used in Azure DevOps and other Release Management Tooling
+  - Describe what a Build and Release task is, what it can do, and some available deployment tasks
+  - Classify an Agent, Agent Queue, and Agent Pool
+  - Explain why you sometimes need multiple release jobs in one release pipeline
+  - Differentiate between multi-agent and multi-configuration release job
+  - Use release variables and stage variables in your release pipeline
+  - Deploy to an environment securely using a service connection
+  - Embed testing in the pipeline
+  - List the different ways to inspect the health of your pipeline and release by using alerts, service hooks, and reports
+  - Create a release gate
+
+
+  ### Module  3&#58; Implement an appropriate deployment pattern
+  #### Lessons
+  - Introduction to Deployment Patterns
+  - Implement Blue Green Deployment
+  - Feature Toggles
+  - Canary Releases
+  - Dark Launching
+  - AB Testing
+  - Progressive Exposure Deployment
+
+
+  #### Lab &#58; Blue-Green Deployments
+
+  #### Lab &#58; Traffic Manager
+  After completing this module, students will be able to&#58;
+  - Describe deployment patterns
+  - Implement Blue Green Deployment
+  - Implement Canary Release
+  - Implement Progressive Exposure Deployment

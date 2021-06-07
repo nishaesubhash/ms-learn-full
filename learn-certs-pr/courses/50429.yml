@@ -1,0 +1,245 @@
+### YamlMime:Course
+title: SharePoint 2010 Business Intelligence
+metadata:
+  title: 'Course 50429-B: SharePoint 2010 Business Intelligence'
+  description: 'Course 50429-B: SharePoint 2010 Business Intelligence'
+uid: course.50429
+courseNumber: '50429-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explore the new Business Intelligence Center, Analysis Services, Excel Services, Business Connectivity Services, Visio Services, Access Services, Power Pivot, Performance Point and Bing Maps.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This 5-day Instructor Led course How to use SharePoint as your platform for Business Intelligence. Journey through the SharePoint Business Intelligence Center, Excel Services, Reporting Services, Analysis Service, Performance Point and PowerPivot to implement your BI Strategies and enable your decision makers to see data in new and dynamic ways! This course will take you down a path of building a BI environment from scratch to full interactive dashboards using the Microsoft BI Stack.
+
+  #### Audience profile
+  Sr Business Intelligence Architects and Consultants, Sr Business Analysts, anyone responsible for implementing BI with SharePoint.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Understanding of SharePoint 2010 User Interface, database reporting concepts and familiarity with Data Marts and Data Warehouses.
+outlineSection: |-
+  ### Module 1&#58; Overview
+  A simple introduction module.
+  After completing this module, students will be able to&#58;
+  - Understand your course, classroom, classmates, facility and instructor
+
+
+  ### Module 2&#58; Business Intelligence
+  In this module we review what Business Intelligence (BI) is and what the typical BI goals are. We also explore how Microsoft BI tools are enabling more advanced Business Intelligence features to filter down/up to the decision makers and Information Workers in general.
+  #### Lessons
+  - Business Intelligence
+
+
+  #### Lab &#58; Business Intelligence Worksheet
+  After completing this module, students will be able to&#58;
+  - Define Business Intelligence
+  - Understand what P=R-C means to BI
+  - Accept that empowering end users is a GOOD thing
+  - Understand your BI will only be as good as your data, tools and processes
+
+
+  ### Module 3&#58; Business Intelligence Center
+  In this module we are going to explore the Business Intelligence Center site definition that comes with SharePoint 2010.
+  #### Lessons
+  - Business Intelligence Center
+
+
+  #### Lab &#58; Business Intelligence Center
+  After completing this module, students will be able to&#58;
+  - Navigate the Business Intelligence Center Site Definition
+  - Understand what a SharePoint Dashboard is
+  - Understand what a KPI is and what data they can analyze
+  - Understand what integration points are compatible with the Business Intelligence Center
+
+
+  ### Module 4&#58; Data Mart and Data Warehouses
+  In this module we explore what data is and some of the many forms that it takes. We then explore and define the terms Data Warehouse and Data Mart. This module is important in that as we move through the remainder of the course, we will need to have data to manipulate and work with to build our BI components.
+  #### Lessons
+  - Understanding Data and Data Formats
+  - Building Data Marts and Data Warehouses
+
+
+  #### Lab &#58; Data and Data Formats
+
+  #### Lab &#58; Build A Data Warehouse
+
+  #### Lab &#58; Extract and Load
+
+  #### Lab &#58; Transform and Load
+
+  #### Lab &#58; Granularity
+
+  #### Lab &#58; Build A Data Mart
+
+  #### Lab &#58; SQL Server to SharePoint Lists
+  After completing this module, students will be able to&#58;
+  - Differentiate between multiple data formats
+  - Understand differences between data warehouse and data marts
+  - Be able to describe what happens in an Extract, Transform and Load (ETL) process
+
+
+  ### Module 5&#58; Business Connectivity Services
+  In this module we are going to take a look at the new Business Connectivity Services.
+  #### Lessons
+  - Business Connectivity Services
+
+
+  #### Lab &#58; BCS Basics
+
+  #### Lab &#58; BCS With Data Warehouse
+
+  #### Lab &#58; Office and BCS for BI
+  After completing this module, students will be able to&#58;
+  - Understand how BCS works
+  - How to build new BCS applications
+  - How to Upgrade your older BDC applications
+
+
+  ### Module 6&#58; Analysis Services
+  In this module we will explore the feature of SQL Server called Analysis Services (SSAS). When regular SQL queries can't handle your data, MDX queries in SSAS can!
+  #### Lessons
+  - Analysis Services
+
+
+  #### Lab &#58; Analysis Services
+
+  #### Lab &#58; Building An Analysis Services Database
+  After completing this module, students will be able to&#58;
+  - Describe OLAP terms
+  - Understand how to navigate Analysis Services
+  - How to build a simple cube
+  - How to write simple MDX queries
+  - How to use data mining models
+
+
+  ### Module 7&#58; Filter Web Parts
+  In this module we will explore Filter Web Parts and the important role they play in building Business Intelligence portals.
+  #### Lessons
+  - Filter Web Parts
+
+
+  #### Lab &#58; Filter Web Parts
+
+  #### Lab &#58; User Profiles and Filters
+  After completing this module, students will be able to&#58;
+  - Describe what Filter Web Parts are
+  - Work with Filter Web Parts
+  - Understand how to integrate Filter Web Parts into other BI technologies
+
+
+  ### Module 8&#58; Excel Services
+  In this module we will explore and work with the various features of SharePoint's Excel Services.
+  #### Lessons
+  - Excel Services
+
+
+  #### Lab &#58; Create An Excel Report
+
+  #### Lab &#58; Excel Services
+
+  #### Lab &#58; MDX
+
+  #### Lab &#58; Sparklines
+
+  #### Lab &#58; Filters and Excel Services
+
+  #### Lab &#58; REST and Web Services
+  After completing this module, students will be able to&#58;
+  - Setup and configure Excel Services
+  - Use the Excel Services Web Parts
+  - Use Excel to modify MDX queries
+  - Use Excel to create Sparklines
+  - Use Excel Services REST-ful APIs
+
+
+  ### Module 9&#58; PowerPivot
+  In this module we explore the new PowerPivot tools of SQL Server 2008 R2 and Excel 2010.
+  #### Lessons
+  - PowerPivot For SharePoint
+  - PowerPivot For Excel
+
+
+  #### Lab &#58; Install Power Pivot
+
+  #### Lab &#58; Use PowerPivot
+  After completing this module, students will be able to&#58;
+  - Create PowerPivot enabled spreadsheets
+  - Utilize common PowerPivot functions and tools
+
+
+  ### Module 10&#58; Reporting Services
+  In this module we will explore Reporting Services, its integration with SharePoint and how to build Reporting Services reports.
+  #### Lessons
+  - Reporting Services
+  - Reports
+
+
+  #### Lab &#58; Install Reporting Services
+
+  #### Lab &#58; Building Reports with Reporting Services
+
+  #### Lab &#58; Create Advanced Reporting Services reportFilter Web Parts and Reports
+
+  #### Lab &#58; Reporting Services and PowerPivot
+  After completing this module, students will be able to&#58;
+  - Understand and describe the integration between reporting services and SharePoint
+  - Build Reporting Services reports
+  - Use the Reporting Services web part
+  - Create Report and Report Part Libraries
+  - Integrate Reporting Services and PowerPivot
+
+
+  ### Module 11&#58; Performance Point
+  In this module we will explore Performance Point and how it supercharges your BI Dashboards and Key Performance Indicators.
+  #### Lessons
+  - Performance Point
+
+
+  #### Lab &#58; Performance Point
+  After completing this module, students will be able to&#58;
+  - Describe features of Performance Point
+  - Create Performance Point Scorecards and KPIs
+  - Use Time Intelligence features in your BI solutions
+
+
+  ### Module 12&#58; Visio and Access Services
+  In this module we will explore Visio and Access Services and how to integrate it into your Report process.
+  #### Lessons
+  - Visio Services
+  - Access Services
+
+
+  #### Lab &#58; Visio Servcies
+
+  #### Lab &#58; Access Services
+  After completing this module, students will be able to&#58;
+  - Create and deploy interactive Visio diagrams to SharePoint
+  - Create and deploy Access databases to SharePoint
+
+
+  ### Module 13&#58; GeoSpatial Data with Charts and Maps
+  In this module we will explore GeoSpatial data and how to use the new .NET Charts and Mapping features of SharePoint 2010.
+  #### Lessons
+  - Charts and Maps
+  - GeoSpatial Data
+
+
+  #### Lab &#58; GeoSpatial Data with SQL Server
+
+  #### Lab &#58; Bing Maps
+
+  #### Lab &#58; .NET Charts
+
+  #### Lab &#58; Google Maps
+  After completing this module, students will be able to&#58;
+  - Understand how .NET Charts are used in SharePoint 2010
+  - How to build geospatial maps using BI data

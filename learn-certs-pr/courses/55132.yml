@@ -1,0 +1,153 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2013
+metadata:
+  title: 'Course 55132-A: Advanced Microsoft Excel 2013'
+  description: 'Course 55132-A: Advanced Microsoft Excel 2013'
+uid: course.55132
+courseNumber: '55132-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Create pivot tables and charts.
+- skill: Trace precedents and dependents.
+- skill: Convert text and validate and consolidate data.
+- skill: Collaborate with others by protecting worksheets and workbooks.
+- skill: Create, use, edit, and manage macros.
+- skill: Import and export data.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  This Advanced Microsoft Excel 2013 training class is designed for students to gain the skills necessary to use pivot tables, audit and analyze worksheet data, utilize data tools, collaborate with others, and create and manage macros.
+
+  #### Audience profile
+  This course is intended for students who have intermediate skills with Microsoft Excel 2013 who want to learn more advanced skills or students who want to learn the topics covered in this course in the 2013 interface.
+prerequisitesSection: |-
+  - Familiarity with using a personal computer, mouse, and keyboard.
+  - Comfortable in the Windows environment.
+  - Ability to launch and close programs; navigate to information stored on the computer; and manage files and folders.
+  - Basic Excel 2013 skills.Basic understanding of security concepts such as authentication and authorization. 
+  - An understanding of the fundamental principles of using printers.
+outlineSection: |-
+  ### Module 1&#58; Using Pivot Tables
+  This is module explains how to work with pivot tables.
+  #### Lessons
+  - Creating Pivot Tables
+  - Inserting Slicers
+  - Working with Pivot Tables
+  - Inserting Pivot Charts
+  - More Pivot Table Functionality
+
+
+  #### Lab &#58; Using Pivot Tables
+  - Use pivot tables to analyze data
+  - Edit pivot tables.
+  - Format pivot tables.
+  - Insert pivot charts.
+  - Use Slicers.
+
+
+  ### Module 2&#58; Auditing Worksheets
+  This module explains how to audit worksheets.
+  #### Lessons
+  - Tracing Precedents
+  - Tracing Dependents
+  - Showing Formulas
+
+
+  #### Lab &#58; Auditing Worksheets
+  - Audit formulas.
+  - Trace precedents to determine which cells impact a specific cell.
+  - Trace dependents to determine which cells are impacted by a specific cell.
+  - Remove precedent and dependent arrows.
+  - Show formulas.
+  - Check for errors frequently found in formulas.
+
+
+  ### Module 3&#58; Data Tools
+  Data Tools in Microsoft Excel are simply tools which make it easy to manipulate data.  Some of them are intended to save you time by extracting or joining data and others perform complex calculations. This lesson covers the most commonly used Data Tools.
+  #### Lessons
+  - Converting Text to Columns
+  - Linking to External Data
+  - Controlling Calculation Options
+  - Data Validation
+  - Consolidating Data
+  - Goal Seek
+
+
+  #### Lab &#58; Data Tools
+  - Convert text to columns.
+  - Use Data Validation to restrict the type of data that can be entered into a cell.
+  - Consolidate data from a number of different ranges into one new range.
+  - Use Goal Seek to figure out the value to input to obtain a specific result.
+
+
+  ### Module 4&#58; Working With Others
+  This module explains how to use features that are useful when sharing and working with others.
+  #### Lessons
+  - Protecting Worksheets and Workbooks
+  - Tracking Changes
+  - Marking a Workbook as Final
+
+
+  #### Lab &#58; Working With Others
+  - Password protect a workbook.
+  - Password protect a worksheet.
+  - Password protect ranges in a worksheet.
+  - Track changes.
+  - Accept and reject changes.
+  - List all changes on a new sheet.
+
+
+  ### Module 5&#58; Recording and Using Macros
+  As you work with Excel, you may find that you repeat certain operations frequently. Instead of performing each step of the operation, you can create a macro that stores these steps. You can then run the macro, or let Excel perform the steps for you, saving you both time and effort.
+  #### Lessons
+  - Recording Macros
+  - Running Macros
+  - Editing Macros
+  - Adding Macros to the Quick Access Toolbar
+
+
+  #### Lab &#58; Recording and Using Macros
+  - Record macros.
+  - Run macros.
+  - Edit macros (kind of).
+  - Add macros to the Quick Access Toolbar.
+  - Manage macro security.
+
+
+  ### Module 6&#58; Random Useful Items
+  This module explains how to use some useful tricks and tools in Excel.
+  #### Lessons
+  - Sparklines
+  - Preparing a Workbook for Internationalization and Accessibility
+  - Importing and Exporting Files
+
+
+  #### Lab &#58; Random Useful Items
+  - Insert sparklines into worksheets.
+  - Customize sparklines.
+  - Import text files into Microsoft Excel.
+  - Copy cells from a worksheet into Microsoft Word.
+  - Copy and paste a chart into Microsoft Word.
+
+
+  ### Module 7&#58; Microsoft Excel 2013 New Features
+  This module explains how to use some new features to help you efficiently and effectively create and edit workbooks.
+  #### Lessons
+  - Using Slicers to Filter Data
+  - Creating a PivotTable Timeline
+  - Creating a Standalone PivotChart
+  - Workspaces in Excel 2013
+
+
+  #### Lab &#58; Microsoft Excel 2013 New Features
+  - Use slicers to filter data.
+  - Create a PivotTable timeline.
+  - Create a standalone PivotChart.

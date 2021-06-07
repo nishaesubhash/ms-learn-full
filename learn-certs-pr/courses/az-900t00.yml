@@ -1,0 +1,136 @@
+### YamlMime:Course
+title: Microsoft Azure Fundamentals (2 Day)
+metadata:
+  title: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  description: 'Course AZ-900T00-A: Microsoft Azure Fundamentals (2 Day)'
+  iltScheduling: true
+uid: course.az-900t00
+courseNumber: 'AZ-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
+- developer
+- security-engineer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  This two-day course will provide foundational level knowledge on core Azure concepts; core Azure services; core solutions and management tools; general security and network security; governance, privacy, and compliance features; Azure cost management and service level agreements.
+  Note&#58; This course provides an Azure pass and time for students to participate in hands-on labs. If you do not need hands-on experience, consider the AZ-900T01&#58; Microsoft Azure Fundamentals (1 day) course. The content for both courses align to the AZ-900 exam objective domain.
+
+  #### Audience profile
+  This course is suitable for IT personnel who are just beginning to work with Azure. This audience wants to learn about our offerings and get hands-on experience with the product. This course primarily uses the Azure portal to create services and does not require scripting skills. Students in this course will gain confidence to take other role-based courses and certifications, such as Azure Administrator. This course provides an Azure pass and optional lab environment. This course combines lecture, demonstrations, and hands-on labs. This course will also help prepare someone for the AZ-900 exam.
+prerequisitesSection: |-
+  There are no prerequisites for taking this course. However, the more technical knowledge a student has, the more they will understand about the cloud.
+outlineSection: |-
+  ### Module 1&#58; Describe core Azure concepts
+  In this module, you'll take an entry level end-to-end look at Azure and its capabilities, which will provide you with a solid foundation for completing the available modules for Azure Fundamentals.
+  #### Lessons
+  - Introduction to Azure fundamentals
+  - Discuss Azure fundamental concepts
+  - Describe core Azure architectural components
+
+  After completing this module, students will be able to&#58;
+  - Understand the benefits of cloud computing in Azure and how it can save you time and money
+  - Explain concepts such as high availability, scalability, elasticity, agility, and disaster recovery
+  - Describe core Azure architecture components such as subscriptions, management groups, resources and 
+  - Summarize geographic distribution concepts such as Azure regions, region pairs, and availability zon
+
+
+  ### Module 2&#58; Describe core Azure services
+  In this module, you learn about core Azure services like Azure database, Azure compute, Azure storage, and Azure Networking.
+  #### Lessons
+  - Explore Azure database and analytics services
+  - Explore Azure compute services
+  - Explore Azure Storage services
+  - Explore Azure networking services
+
+  After completing this module, students will be able to&#58;
+  - Understand the breadth of services available in Azure including compute, network, storage, and datab
+  - Identify virtualization services such as Azure Virtual Machines, Azure Container Instances, Azure Ku
+  - Compare Azure's database services such as Azure Cosmos DB, Azure SQL, Azure Database for MySQL, Azur
+  - Examine Azure networking resources such as Virtual Networks, VPN Gateways, and Azure ExpressRoute
+  - Summarize Azure storage services such Azure Blob Storage, Azure Disk Storage, and Azure File Storage
+
+  ### Module 3&#58; Describe core solutions and management tools on Azure
+  In this module, you'll learn about AI machine learning, Azure DevOps, monitoring fundamentals, management fundamentals, serverless computing fundamentals. and IoT fundamentals.
+
+  #### Lessons
+  - Choose the best AI service for your needs
+  - Choose the best tools to help organizations build better solutions
+  - Choose the best monitoring service for visibility, insight, and outage mitigation
+  - Choose the best tools for managing and configuring your Azure environment
+  - Choose the best Azure serverless technology for your business scenario
+  - Choose the best Azure IoT service for your application
+
+  After completing this module, students will be able to&#58;
+  - Choose the correct Azure Artificial Intelligence service to address different kinds of business chal
+  - Choose the best software development process tools and services for a given business scenario.
+  - Choose the correct cloud monitoring service to address different kinds of business challenges.
+  - Choose the correct Azure management tool to address different kinds of technical needs and challenge
+  - Choose the right serverless computing technology for your business scenario.
+  - Choose the best Azure IoT service for a given business scenario.
+
+  ### Module 4&#58; Describe general security and network security features
+  In this module, you will learn how to protect yourself against security threats, and secure your networks with Azure.
+  #### Lessons
+  - Protect against security threats on Azure
+  - Secure network connectivity on Azure
+
+  After completing this module, students will be able to&#58;
+  - Strengthen your security posture and protect against threats by using Azure Security Center.
+  - Collect and act on security data from many different sources by using Azure Sentinel.
+  - Manage dedicated physical servers to host your Azure VMs for Windows and Linux by using Azure Dedica
+  - Identify the layers that make up a *defense in depth* strategy.
+  - Explain how Azure Firewall enables you to control what traffic is allowed on the network.
+  - Configure network security groups to filter network traffic to and from Azure resources within a Mic
+  - Explain how Azure DDoS Protection helps protect your Azure resources from DDoS attacks.
+
+  ### Module 5&#58; Describe identity, governance, privacy, and compliance features
+  In this module, you will learn about Azure identity services, how to build a cloud governance strategy, and privacy, compliance and data protection standards on Azure.
+  #### Lessons
+  - Secure access to your applications by using Azure identity services
+  - Build a cloud governance strategy on Azure
+  - Examine privacy, compliance, and data protection standards on Azure
+
+  After completing this module, students will be able to&#58;
+  - Explain the difference between authentication and authorization.
+  - Describe how Azure Active Directory provides identity and access management.
+  - Explain the role single sign-on (SSO), multifactor authentication, and Conditional Access play.
+  - Make organizational decisions about your cloud environment by using the CAF for Azure.
+  - Define who can access cloud resources by using Azure role-based access control.
+  - Apply a resource lock to prevent accidental deletion of your Azure resources.
+  - Apply tags to your Azure resources to help describe their purpose.
+  - Control and audit how your resources are created by using Azure Policy.
+  - Enable governance at scale across multiple Azure subscriptions by using Azure Blueprints.
+  - Explain the types of compliance offerings that are available on Azure.
+  - Gain insight into regulatory standards and compliance on Azure.
+  - Explain Azure capabilities that are specific to government agencies.
+
+  ### Module 6&#58; Describe Azure cost management and service level agreements
+  In this module, you will learn how to plan and manage Azure costs, and how to choose the right Azure services though SLAs and service lifecycle.
+  #### Lessons
+  - Plan and manage your Azure costs
+  - Choose the right Azure services by examining SLAs and service lifecycle
+
+  After completing this module, students will be able to&#58;
+  - Use the Total Cost of Ownership Calculator.
+  - Describe the different ways you can purchase Azure products and services.
+  - Use the Pricing calculator to estimate the monthly cost of running your cloud workloads.
+  - Define the major factors that affect total cost and apply recommended practices to minimize cost.
+  - Describe what a service-level agreement (SLA) is and why SLAs are important.
+  - Identify factors, such as the service tier you choose, that can affect an SLA.
+  - Combine SLAs to compute a composite SLA.
+  - Describe the service lifecycle in Azure.

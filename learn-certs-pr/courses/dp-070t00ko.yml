@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Azure로 오픈 소스 데이터 워크로드 마이그레이션
+metadata:
+  title: 'Course DP-070T00KO-A: Azure로 오픈 소스 데이터 워크로드 마이그레이션'
+  description: 'Course DP-070T00KO-A: Azure로 오픈 소스 데이터 워크로드 마이그레이션'
+uid: course.dp-070t00ko
+courseNumber: 'DP-070T00KO-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure SQL DB for MySQL로 온-프레미스 MySQL 마이그레이션
+- skill: Azure SQL DB for PostgreSQL로 온-프레미스 PostgreSQL 마이그레이션
+learningPartnersLink: /learn/certifications/partners
+locales:
+- ko
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  이 과정을 진행하면 Azure SQL Database 관련 사항을 파악할 수 있으며, MySQL 및 PostgreSQL 워크로드를 Azure SQL Database로 마이그레이션할 때 필요한 사항을 확인할 수 있습니다.
+
+  #### Audience profile
+  - 이 과정의 1차 대상 그룹은 MySQL 또는 Postgres DB 워크로드를 Azure SQL DB로 마이그레이션하려는 데이터베이스 개발자입니다.
+  - 그리고 이 과정의 2차 대상 그룹은 Azure SQL DB의 기능과 이점을 더욱 명확하게 파악하려는 MySQL/Postgres 관리자입니다.
+prerequisitesSection: |-
+  이 교육을 진행하는 학생들은 전문적 경험뿐 아니라 다음과 같은 기술적 지식을 보유하고 있어야 합니다.
+  - Postgres 및/또는 MySQL과 같은 오픈 소스 관계형 데이터베이스 관리 시스템, SQL 관리, 백업/복구 기술(예&#58; 테이블 데이터 덤프)과 관련한 일정 수준의 지식
+outlineSection: |-
+  ### 모듈 1&#58; Azure SQL DB for MySQL/PostgreSQL로 마이그레이션
+  이 모듈에서는 Azure SQL DB의 아키텍처와 이점에 대해 설명합니다.
+  #### 과목
+  - OSS 데이터베이스 개요
+  - 일반적인 OSS 데이터베이스 워크로드
+  - 마이그레이션과 관련하여 고객에게 발생하는 문제
+
+
+  ### 연습실 &#58; 원본 OSS 데이터베이스 만들기
+  - Postgres 마이그레이션 DB 서버 설치
+  - MySQL 마이그레이션 DB 서버 설치
+  - Postgres/MySQL의 백업/데이터 덤프
+  - 데이터 덤프에서 복원
+
+  이 모듈을 완료하면 다음 사항을 파악할 수 있습니다.
+  - OSS 데이터베이스 개요
+  - 일반적인 OSS 데이터베이스 워크로드
+  - 마이그레이션과 관련하여 고객에게 발생하는 문제
+
+
+  ### 모듈 2&#58; Azure SQL DB for MySQL로 온-프레미스 MySQL 마이그레이션
+  이 모듈에서는 Azure SQL DB로 MySQL 워크로드를 마이그레이션하는 프로세스와 해당 이점에 대해 설명합니다.
+  #### 과목
+  - Azure SQL DB for MySQL 구성 및 관리
+  - SQL DB for MySQL로 온-프레미스 MySQL 마이그레이션
+  - 애플리케이션 마이그레이션
+  - 마이그레이션 후 고려 사항
+
+
+  ### 연습실 &#58; Azure SQL DB로 MySQL DB 워크로드 마이그레이션
+  - Azure SQL DB로 MySQL DB 워크로드 마이그레이션
+  - 원본 및 대상 DB 정의
+  - 마이그레이션 수행
+  - 마이그레이션 확인
+
+  이 모듈을 완료하면 다음 작업을 수행할 수 있습니다.
+  - Azure SQL DB for MySQL 구성 및 관리
+  - SQL DB for MySQL로 온-프레미스 MySQL 마이그레이션
+  - 애플리케이션 마이그레이션
+  - 마이그레이션 후 고려 사항 파악
+
+
+  ### 모듈 3&#58; Azure SQL DB for PostgreSQL로 온-프레미스 PostgreSQL 마이그레이션
+  이 모듈에서는 Azure SQL DB로 PostgreSQL DB 워크로드를 마이그레이션하는 프로세스와 해당 이점에 대해 설명합니다.
+  #### 과목
+  - Azure SQL DB for PostgreSQL 구성 및 관리
+  - SQL DB for PostgreSQL로 온-프레미스 MySQL 마이그레이션
+  - 애플리케이션 마이그레이션
+  - 마이그레이션 후 고려 사항
+
+
+  ### 연습실 &#58; Azure SQL DB로 PostgreSQL DB 워크로드 마이그레이션
+  - Azure SQL DB for PostgreSQL 구성
+  - 원본 및 대상 DB 정의
+  - 마이그레이션 수행
+  - 마이그레이션 확인
+
+  이 모듈을 완료하면 다음 작업을 수행할 수 있습니다.
+  - Azure SQL DB for PostgreSQL 구성 및 관리
+  - SQL DB for PostgreSQL로 온-프레미스 MySQL 마이그레이션
+  - 애플리케이션 마이그레이션
+  - 마이그레이션 후 고려 사항 파악

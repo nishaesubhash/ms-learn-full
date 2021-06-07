@@ -1,0 +1,168 @@
+### YamlMime:Course
+title: PowerShell for SQL Administration
+metadata:
+  title: 'Course 55207-A: PowerShell for SQL Administration'
+  description: 'Course 55207-A: PowerShell for SQL Administration'
+uid: course.55207
+courseNumber: '55207-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Examine and install modules.
+- skill: Examine and understand SQL Server Cmdlets.
+- skill: Understand SQL Server Management Objects (SMO).
+- skill: Understand recent updates.
+- skill: Retrieve SQL Server instance information.
+- skill: Understand and create logins.
+- skill: Understand how to add files and filegroups.
+- skill: Understand how to detach and attach databases.
+- skill: Understand how to backup and restore databases.
+- skill: Understand how to reorganize/rebuild indexes.
+- skill: Explore available cmdlets.
+- skill: Understand scheduling options.
+- skill: Understand options for tracking performance metrics.
+- skill: Understand and utilize SSAS.
+- skill: Understand and utilize SSIS.
+- skill: Understand and utilize SSRS.
+- skill: Understand the evolution of PowerShell.
+- skill: Understand and utilize the PowerShell environment.
+- skill: Understand and utilize the all-important Help System.
+- skill: Understand and utilize PowerShell.
+- skill: Understand and utilize working with the file system.
+- skill: Understand and utilize parameters.
+- skill: Understand and utilize user-defined variables.
+- skill: Understand and utilize arrays.
+- skill: Understand and utilize hash tables.
+- skill: Understand and execute cmdlets.
+- skill: Understand and utilize the pipeline.
+- skill: Understand how to control the output with formatting.
+- skill: Understand background jobs.
+- skill: Understand aliases.
+- skill: Understand and utilize loops.
+- skill: Understand and utilize While loops.
+- skill: Understand and utilize Do While loops.
+- skill: Understand and utilize Do Until loops.
+- skill: Understand and utilize For loops.
+- skill: Understand and utilize ForEach loops.
+- skill: Understand altering loop execution.
+- skill: Understand and utilize scripting.
+- skill: Understand functions and filters.
+- skill: Understand the basics of script design.
+- skill: Understand scripting pitfalls.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  This course is intended for SQL administrators with little or basic knowledge of PowerShell. The course centers on SQL administrative tasks that are commonly used, and provides the basic understanding needed for administrators to utilize the expanding PowerShell SQL interoperations. The
+  course concludes with a copy of course 752552 PowerShell 5.0 Basics.
+
+  #### Audience profile
+  This course is intended for SQL Administrators and SQL Developers.
+outlineSection: |-
+  ### Module 1&#58; Course Overview
+  This module explains how the class will be structured and introduces course materials and additional administrative information.
+  #### Lessons
+  - Introduction
+  - Course Materials
+  - Facilities
+  - Prerequisites
+  - What We'll Be Discussing
+
+
+  #### Lab &#58; Course Overview
+
+  - Successfully log into their virtual machine.
+  - Have a full understanding of what the course intends to cover.
+
+
+  ### Module 2&#58; PowerShell and SQL
+  In this module, we will be discussing SQL Server Cmdlets and SQL Server Management Objects. In addition, we will look at modules and the process to install the SQLPS Module.
+  #### Lessons
+  - Examining Modules and Installing the SQLPS Module
+  - Examining SQL Server Cmdlets
+  - Discussing SQL Server Management Objects (SMO)
+  - Recent Updates – July 2016
+
+
+  #### Lab &#58; PowerShell and SQL
+  - Installing the PowerShell SQL Module
+  - Examine and install modules.
+  - Examine and understand SQL Server Cmdlets.
+  - Understand SQL Server Management Objects (SMO).
+  - Understand recent updates.
+
+
+  ### Module 3&#58; SQL Administration with PowerShell
+  In this module, we will examine ways of retrieving information pertaining to the SQL Server instance installed, and look at ways of accomplishing many other management and administrative tasks that can be quickly and efficiently tackled with PowerShell.
+  #### Lessons
+  - Examining SQL Information Retrieval
+  - Exploring Logins
+  - Adding Files and Filegroups
+  - Detach and Attach Databases
+  - Understanding Backup and Restore
+  - Examining Indexes
+
+
+  #### Lab &#58; SQL Administration with PowerShell
+  - SQL Server Instances
+  - Databases
+  - Tables
+  - Processes
+  - Features
+  - Jobs
+  - Logins
+  - Files and FileGroups
+  - Detach and Attach Databases
+  - Backup and Restore
+  - Indexes
+
+
+  - Retrieve SQL Server instance information.
+  - Understand and create logins.
+  - Understand how to add files and filegroups.
+  - Understand how to detach and attach databases.
+  - Understand how to backup and restore databases.
+  - Understand how to reorganize/rebuild indexes.
+
+
+  ### Module 4&#58; Monitoring and Automation
+  In this module, we will examine a handful of helpful cmdlets, discuss options for scheduling, and explore ways to track performance metrics.
+  #### Lessons
+  - Exploring Cmdlets
+  - Discussing Scheduling
+  - Understanding Performance Metrics
+
+
+  #### Lab &#58; Monitoring and Automation
+
+  - Explore available cmdlets.
+  - Understand scheduling options.
+  - Understand options for tracking performance metrics.
+
+
+  ### Module 5&#58; SSAS, SSIS, AND SSRS
+  In this module, we will examine ways of working with SQL Server Analysis Services (SSAS), SQL Server Integration Services (SSIS), and SQL Server Reporting Services (SSRS). This module is not meant to be an exhaustive reference but instead is intended to give you a brief look at the capabilities built into the system and encourage you to further explore ways of managing your SQL Server environment using PowerShell.
+  #### Lessons
+  - Examining SQL Server Analysis Services (SSAS)
+  - Exploring SQL Server Integration Services (SSIS)
+  - Utilizing SQL Server Reporting Services (SSRS)
+
+
+  #### Lab &#58; SSAS, SSIS, AND SSRS
+  - SSAS
+  - SSIS
+  - SSRS
+
+
+  - Understand and utilize SSAS.
+  - Understand and utilize SSIS.
+  - Understand and utilize SSRS.
+
+  #### Additional Reading
+  None

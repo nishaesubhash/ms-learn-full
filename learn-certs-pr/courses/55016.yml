@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Introduction to SharePoint 2010
+metadata:
+  title: 'Course 55016-A: Introduction to SharePoint 2010'
+  description: 'Course 55016-A: Introduction to SharePoint 2010'
+uid: course.55016
+courseNumber: '55016-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Navigate SharePoint sites.
+- skill: Manage content in lists and libraries.
+- skill: Create and edit Alerts.
+- skill: Collaborate using Tasks lists and Discussion Boards.
+- skill: Work with libraries, including upload, download, editing, check out/in and versioning.
+- skill: Use the SharePoint social features.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This ½ to full day class is designed for SharePoint team members who need to know how to use the team collaboration and document management features of a Microsoft SharePoint 2010 Team Site.
+
+  #### Audience profile
+  This course is intended for&#58;
+  - SharePoint end users
+  - SharePoint Site Owners and Power Users who will be attending 50470 or equivalent
+  - SharePoint administrators and developers
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic Microsoft Office skills.
+outlineSection: |-
+  ### Module 1&#58; SharePoint Overview
+  This module provides an introduction to the topics covered in the class and introduces SharePoint terminology.
+  #### Lessons
+  - What is SharePoint?
+  - Team Collaboration
+  - Document Management
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  ### Module 2&#58; Accessing SharePoint
+  This module covers the SharePoint user interface and basic site navigation.
+  #### Lessons
+  - Logon
+  - SharePoint Navigation
+  - Regional Settings
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Use a browser to navigate to a SharePoint site, and logon if needed.
+  - Navigate a site using the Ribbon, Quick Launch, Top Link bar, Search and the Crumb Trail.
+  - Work with web part content and links.
+  - Set personal Regional Settings.
+
+
+  ### Module 3&#58; SharePoint Libraries
+  #### Lessons
+  - Document Libraries
+  - Library Navigation
+  - Opening Documents
+  - Checking Out Documents
+  - Creating Alerts
+  - Uploading Documents
+  - Blocked File Types
+  - Creating Folders
+  - Creating New Documents
+  - Views
+  - Picture and Asset Libraries
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Navigate library pages and web parts.
+  - Navigate a library using the Ribbon, document dropdown menus and the Crumb Trail.
+  - Open and edit documents in Word and other applications.
+  - Open and edit documents using Office Web Apps.
+  - Check out and check in documents using browser and Office features.
+  - Delete documents and recover them from the Recycle Bin.
+  - Create and manage alerts.
+  - Upload a single file, multiple files and use Windows Explorer view.
+  - Understand that certain file types are blocked and cannot be uploaded.
+  - Work with folders.
+  - Create new documents from within SharePoint.
+  - Work with document versioning.
+  - Display libraries using views.
+
+
+  ### Module 4&#58; Search
+  This module covers searching SharePoint content.
+  #### Lessons
+  - Search Features
+  - Advanced Search
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Identify what content can be searched.
+  - Use basic search and search scopes.
+  - Use Advanced search.
+  - Use search tools such as metadata tags, include and exclude options and wild cards.
+
+
+  ### Module 5&#58; Using SharePoint Task Lists
+  This module covers team collaboration using Task lists.
+  #### Lessons
+  - Adding and Updating Tasks
+  - Using Task Views
+  - Synchronizing Tasks lists with Outlook
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Create, update and view tasks.
+  - Work with SharePoint tasks from Microsoft Outlook.
+
+
+  ### Module 6&#58; Working with Calendars
+  This module covers the use of team calendars.
+  #### Lessons
+  - Calendar Navigation and Views
+  - Adding Calendar Events
+  - Dealing with long lists of events
+  - Synchronizing SharePoint Calendars with Outlook
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Navigate SharePoint Calendars.
+  - Add and edit calendar events.
+  - Work with calendar views.
+  - Synchronize SharePoint Calendars with Outlook.
+
+
+  ### Module 7&#58; SharePoint Wikis
+  This module covers the use of Wiki libraries.
+  #### Lessons
+  - Creating a knowledgebase with a Wiki
+  - Editing a Wiki
+  - Wiki Versioning
+  - Incoming Links
+  - Wiki Views
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Add and edit Wiki pages.
+  - View versions of Wiki pages.
+  - Work with incoming links and views.
+
+
+  ### Module 8&#58; Discussion Boards
+  This module covers the use of Discussion Boards.
+  #### Lessons
+  - Create new discussions
+  - Read and Reply to discussions
+  - Flat and Threaded Views
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Create new discussions.
+  - Read and reply to discussions.
+  - Choose between Flat and Threaded Views.
+
+
+  ### Module 9&#58; SharePoint Social Features
+  This module covers the use of Blogs, Social Tagging and My Site.
+  #### Lessons
+  - Blogs
+  - Tagging Content
+  - My Sites
+
+
+  #### Lab &#58; Hands-on practice is delivered as part of the instructor’s presentation. The students will use the features of the module in an instructor led collaboration experience.
+
+  After completing this module, students will be able to&#58;
+  - Create and edit blog content.
+  - Use the SharePoint social tagging features.
+  - Use the SharePoint My Site features.

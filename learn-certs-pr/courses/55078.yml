@@ -1,0 +1,124 @@
+### YamlMime:Course
+title: Mobile Device Management
+metadata:
+  title: 'Course 55078-A: Mobile Device Management'
+  description: 'Course 55078-A: Mobile Device Management'
+uid: course.55078
+courseNumber: '55078-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand the various types of mobile devices which may connect to the enterprise.
+- skill: Determine requirements for and connecting mobile devices via domain join, Workplace Join and VPNs.
+- skill: Create a mobile device management strategy.
+- skill: Configure a mobile device management infrastructure using Microsoft System Center products and Windows Server 2012 R2.
+- skill: Secure corporate data when in transit or on the devices with IPSec and BitLocker.
+- skill: Manage data security with Group Policy Objects (GPOs).
+- skill: Synchronize data across multiple mobile devices using Work Folders in Windows 8/Windows 8.1.
+- skill: Connecting to applications via Web Application Proxy.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-system-center
+summary: |-
+  This two-day instructor-led course is intended for IT professionals who are responsible for developing a management strategy for mobile devices in the enterprise. Devices running Windows, iOS and Android operating systems will be covered. Utilizing various Microsoft technologies students will create a mobile device plan, configure mobile device management and master both connectivity and data security on these devices. With the shift to BYOD (bring your own device) it is necessary that enterprises allow users to access information from a variety of devices with a minimum of risk to the loss of that information. The new tools implemented as a part of Windows Server 2012 and Windows Server 2012 R2 as well as System Center will allow for a complete set of BYOD enterprise policies.
+
+  #### Audience profile
+  This course is intended for IT professionals who have experience with mobile devices and some version of Windows client and server operating systems. Previous experience with management tools such as Microsoft System Center Configuration Manager would also be valuable but is not required.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Basic understanding of TCP/IP and networking concepts.
+  - Basic Windows and Active Directory knowledge.
+  - Basic understanding of security concepts such as authentication and authorization.
+  - Basic experience with a mobile device and mobile operating system.
+  - Basic understanding of device management fundamentals.
+outlineSection: |-
+  ### Module 1&#58; Overview of Mobile Device Management
+  In the past organizations either provided laptops or smart phones approved by the IT department and or allowed users to connect from their Windows based computers using options such as VPNs or Remote Desktop Gateways. These options still exist and remain common.  However, the incredible growth of mobile devices from various vendors creates a need for managing access to data and applications from these devices. Organizations must determine the best methods for doing so in a secure manner.
+  #### Lessons
+  - Lesson 1&#58; What is Mobile Device Management?
+  - Lesson 2&#58; Overview of Device Management Options
+
+  After completing this module, students will be able to&#58;
+  - Understand the basics of mobile device management
+  - Gain a high level overview of Microsoft Mobile Device Management tools
+
+
+  ### Module 2&#58; Mobile Device Management Strategy and Infrastructure
+  Every organization has unique needs for connecting mobile devices to the corporate network to increase user productivity.  Based on the principle of People-centric IT (PCIT) a mobile device strategy can be created to meet those needs.  Once the strategy has been determined then it’s time to created the infrastructure.
+  #### Lessons
+  - Lesson 1&#58; Planning for a Mobile Device Management Strategy
+  - Lesson 2&#58; Designing a Mobile Device Management Infrastructure with Windows Server 2012 R2
+
+
+  #### Lab &#58; Create the Mobile Device Management Infrastructure
+  After completing this module, students will be able to&#58;
+  - Create a mobile device management (MDM) strategy.
+  - Design a mobile device management infrastructure based on Windows Server 2012 R2 technologies.
+
+
+  ### Module 3&#58; Workplace Join and Work Folders
+  Allowing device connectivity is important, but more important is managing that connectivity. Workplace Join allows a way to track and control which devices can connect. Once connected users will need access to data, no matter the device.  That data must be current and consistent without users manually copying files. Work Folders creates this ability.
+  #### Lessons
+  - Lesson 1&#58; Workplace Join for Mobile Devices
+  - Lesson 2&#58; Work Folders
+
+
+  #### Lab &#58; Workplace Join Windows and iOS Devices
+
+  #### Lab &#58; Work Folders
+  After completing this module, students will be able to&#58;
+  - Set up the requirements for Workplace Join.
+  - Workplace Join devices to Active Directory.
+  - Create the Work Folders infrastructure.
+  - Test Work Folders on devices.
+  - Resolve common application compatibility issues.
+
+
+  ### Module 4&#58; Web Application Proxy
+  In the previous module we learned how to connect non-domain devices to Active Directory for management and policies with Workplace Join.  In addition we showed how to synchronize data between multiple devices using Work Folders.  However almost always data will be used in some type of application, therefore a part of our MDM (Mobile Device Management) strategy must include accessing those applications from devices.  This is the responsibility of Web Application Proxy.
+  #### Lessons
+  - Lesson 1&#58; Web Application Proxy Overview
+  - Lesson 2&#58; Installing the Web Application Proxy Role Service
+  - Lesson 3&#58; Configuring the WAP and Publishing Applications
+
+
+  #### Lab &#58; Web Application Proxy
+  After completing this module, students will be able to&#58;
+  - Understand the features and benefits of Web Application Proxy (WAP).
+  - Install and configure WAP.
+  - Publish and connect to applications using WAP.
+
+
+  ### Module 5&#58; Mobile Device Management Security
+  One of the primary responsibilities of any IT professional is security.  Physical security, network security and data security are critical.  In this module we will look at how mobile devices affect security plans not just for BYOD, but also for the entire network infrastructure.
+  #### Lessons
+  - Lesson 1&#58; Overview of Enterprise and Mobile Device Management Security
+  - Lesson 2&#58; Hardening the Mobile Device Management Infrastructure
+
+
+  #### Lab &#58; Securing the MDM Infrastructure and Communications
+  After completing this module, students will be able to&#58;
+  - Understand security in the enterprise.
+  - See how previously discussed MDM technologies are secured.
+  - Harden the security infrastructure for mobile devices.
+
+
+  ### Module 6&#58; Mobile Device Lifecycle and Application Management
+  In this module we will discover the process of managing mobile devices throughout their lifecycles.  Technologies including the Microsoft Exchange Connector, System Center Configuration Manager and Windows InTune can be used for these purposes.  We will also see how applications can be managed for mobile devices.
+  #### Lessons
+  - Lesson 1&#58; Mobile Device Lifecycle Management
+  - Lesson 2&#58; Configuring the SCCM Windows InTune Connector
+  - Lesson 3&#58; Mobile Device Application Management
+
+
+  #### Lab &#58; Managing Mobile Devices with SCCM and Windows InTune
+  After completing this module, students will be able to&#58;
+  - Understand the Microsoft Exchange Connector.
+  - Connect System Center Configuration Manager to Windows InTune.
+  - Manage applications for mobile devices.

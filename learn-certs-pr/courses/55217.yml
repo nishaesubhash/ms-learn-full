@@ -1,0 +1,368 @@
+### YamlMime:Course
+title: SharePoint 2016 Power User
+metadata:
+  title: 'Course 55217-A: SharePoint 2016 Power User'
+  description: 'Course 55217-A: SharePoint 2016 Power User'
+uid: course.55217
+courseNumber: '55217-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Understand and describe the functionality of SharePoint 2016
+- skill: Creating and Delete Sites
+- skill: Creating and Managing Web Pages including content such as pictures and videos
+- skill: Define Business Information and Retention to standardize and automate the creation and management of content
+- skill: Adding and Configuring Apps to make sites relevant to specific business requirements
+- skill: Building Processes with Workflow
+- skill: Customizing Security
+- skill: Communicating with Social Tools including Newsfeeds and Community Sites
+- skill: Working with Search
+- skill: Building Business Scenarios using combinations of the above techniques to solve real world problems
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  This course delivers the complete site owner story from start to finish in an engaging and practical way to ensure you have the confidence to plan and create new sites or manage your existing sites. Your goal is to learn how to make SharePoint relevant to your team by using a sites functionality to help you share information and collaborate with your colleagues. During the class you will also learn best practices and ‘what not to do’ as you watch live, interactive demonstrations and put theory into
+  practise with hands on exercises.
+
+  #### Audience profile
+  This course is intended for anyone who wants to become the ultimate site owner; whether you are building sites for yourself or helping other people to create and maintain their sites.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - No previous knowledge is required to attend this course.
+outlineSection: |-
+  ### Module 1&#58; An Introduction to SharePoint 2016
+  Let’s get started with SharePoint 2016 by letting you know about its fantastic selection of features. We will demonstrate popular uses of SharePoint 2016 to manage and share content, create engaging web page, automate business processes and make good business decisions with Business intelligence. We will also discuss who will be the typical users in our sites and the role of the site collection administrator. Site Owners are trusted with functionality that in other business systems would normally only be available to developers. As a new Site Owner we’re sure that you will be amazed with the potential that SharePoint 2016 has to offer an end user.
+
+  #### Lessons
+  - An Overview of SharePoint 2016
+  - SharePoint Versions
+  - Central Repository for Information
+  - Roles in SharePoint
+  - Web Content Management
+  - Site Visitors
+  - Team Collaboration
+  - Site Members
+  - Search
+  - Site Owners
+  - Social Computing
+  - Site Collection Administrator
+  - Workflows
+  - Farm Administrator
+  - Business Intelligence
+  - Security Trimming
+
+
+  #### Lab &#58; The Basics – Navigate, Upload Documents and Add items to a list
+  - View our latest news and director blogs
+  - Migrate your personal files to OneDrive
+  - Request a new laptop from IT and check for service outages
+  - Request a flight from Finance & Administration
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of SharePoint 2016
+  - Navigate around a Site and between multiple sites
+  - Understand the roles of different people in SharePoint from Farm Admins to Visitors
+
+
+  ### Module 2&#58; Creating Sites
+  Whether you are managing existing sites or you have not yet started, we will complement your current situation by discussing site hierarchy and planning your SharePoint sites. As a site owner you will be presented with a selection of site templates. You will use a variety of popular site templates to develop an enhanced understanding of each sites function and appropriate use. Once your site is ready, we will then change the look and feel of your site. You can even try applying your business brand to your test site. We will also build our navigation bar, a simple but powerful way to help users move between
+  websites.
+
+  #### Lessons
+  - An Introduction to Site Topology
+  - Navigating SharePoint Sites
+  - When to Create a Site and Where?
+  - Applying Custom Themes to a Site
+  - How to Create a New Site
+  - Building the Site Navigation Bar
+  - Site Templates
+  - Deleting Sites
+  - Team Sites
+  - Recovering Deleted Sites
+  - Project Sites
+  - Blog Sites
+  - Community Sites
+  - Publishing Sites
+
+
+  #### Lab &#58; Create and Delete Sites
+  - Request a new Training Site Collection
+  - Create new Subsites
+  - Delete a Subsite
+  - Restore a Deleted Subsite
+  - Optional&#58; Themes and Navigation
+
+  After completing this module, students will be able to&#58;
+  - Understand Sites and Site Collections
+  - Create Sites using a variety of Templates
+  - Delete and Restore Sites
+
+
+  ### Module 3&#58; Creating and Managing Web Pages
+  SharePoint boasts a rich selection of ways to build web pages. You will learn how to update the home page of your SharePoint site with text, links, images, videos and web parts. We will also show you best practices when creating multiple pages and linking them together. In most site templates, creating and managing web pages is a simple, fast and rewarding way to present essential information and apps. SharePoint can also be used as an Intranet for internal news and information as well as a public facing website. Due to the high visibility of these web sites, it is common to place more control over the release of new web pages or updates to existing pages. For this reason, SharePoint has Publishing Sites.
+
+  #### Lessons
+  - Introducing Wiki Pages
+  - Introducing the Publishing Site
+  - Adding Wiki Pages
+  - Create and Edit Publishing Pages
+  - Adding Rich Content to Wiki Pages
+  - Using Page Layouts
+  - Promoted Links
+  - Web Page Metadata
+  - Adding and Modifying Web Parts
+  - Site Collection Images
+  - Deleting Wiki Pages
+  - Renditions
+  - Reusable Content
+  - Web Page Approval
+  - Scheduling Pages
+
+
+  #### Lab &#58; Create and Update Pages
+  - Tidy up the Training home page
+  - Add rich content
+  - Optional – Add a YouTube video
+  - Optional – Create a publishing page
+
+  After completing this module, students will be able to&#58;
+  - Describe the types of page available in SharePoint
+  - Create, Edit and Delete Pages
+  - Work with page content including text, tables, link, images and video
+  - Use publishing to control who can see page content during updates
+
+
+  ### Module 4&#58; Defining Business Information & Retention
+  Traditionally teams make use of file templates or manual processes to ensure information is collected and retained correctly. In this module we will help your team establish reusable file templates and automate business processes. An example of this would be removing old unwanted content from your site automatically. To achieve this you will learn about a variety of SharePoint features including content types, policies and in-place records management.
+  #### Lessons
+  - Managed Metadata Service
+  - Information Management Policies
+  - An Introduction to Content Types
+  - The Records Center
+  - Create & Manage Content Types
+  - The Content Organizer
+  - Content Type Settings
+  - Document IDs
+  - Using Content Types in Apps
+  - In Place Records Management
+  - The Content Type Hub
+  - Deploying Content Types
+
+
+  #### Lab &#58; Defining Business Information and Retention
+  - Set up managed metadata terms
+  - Create site columns
+  - Create a site content type
+  - Set up the content organiser
+  - Optional – in place records management
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of SharePoint 2016 to collect and retain business information
+  - Use and configure Content Types, Managed Meta Data and Columns
+  - Create and edit policy
+  - Manage Records in place and with Record Centres
+
+
+  ### Module 5&#58; Adding and Configuring Apps
+  Apps are required to store information such as events, contacts and files in a site. SharePoint provides a selection of apps for different scenarios, all with the option to be customized for a specific business requirement.
+  Apps can be broken down into Lists, Libraries and Market Place Apps. In SharePoint 2016 lists serve as the structure for calendars, discussion boards, contacts, and tasks. This module explains the concept of lists, and then reviews popular options. A document library is a location on a site where you can create, collect, update, and share files including Word, Excel, PowerPoint and PDF. We will show you the benefits of using a library and teach you how best to work with files in a library. An introduction to on premises and SharePoint Marketplace apps is provided to show how to extend site functionality beyond what Microsoft has provided in the SharePoint 2016 platform. Finally, this module provides an essential overview of the Microsoft products which are most commonly used in conjunction with SharePoint 2016 and discusses the advantages of each program when combined with SharePoint.
+
+
+  #### Lessons
+  - Adding List & Library Apps
+  - Popular List & Library Templates
+  - Managing List & Library Settings
+  - Add, Modify, Upload, and Delete Content in Apps
+  - Create and Manage App Columns
+  - Adding Site Columns
+  - Sort and Filter Content
+  - Create and Manage Public Views
+  - Personal Views
+  - Working with Document Sets
+  - Using Alerts in Apps
+  - Creating App Templates
+  - Office 2016 Integration with SharePoint Apps*
+  - On Premises Apps
+  - SharePoint Marketplace Apps
+  - *Office Integration
+  - Integration with Microsoft Office
+  - SharePoint Designer 2013
+  - Co-Authoring
+  - InfoPath Designer 2013
+  - Outlook 2016
+  - OneDrive for Business
+
+
+  #### Lab &#58; Working with Apps Lab 1
+  - Add and remove a library app
+  - Configure the library app
+  - Add and configure list apps
+  - Optional – Test the expenses rule
+  - Optional – Add an app from the store
+
+
+  #### Lab &#58; Working with Apps Lab 2
+  - Migrate existing files into SharePoint
+  - Update file properties
+  - Organize files with views
+  - Create new files, events and tiles
+  - Feature apps on web pages
+
+  After completing this module, students will be able to&#58;
+  - Create Apps to store business information including documents, images and videos
+  - Customize apps to make them relevant to their business requirements using columns, views and app settings
+  - Use apps with other office applications such as Excel and Outlook
+
+
+  ### Module 6&#58; Building Processes with Workflows
+  Workflows are a powerful efficiency tool which can be used to organize and track process driven tasks including approval processes. Workflows will be demonstrated using real world examples. You will be given the opportunity to build workflows and review workflow progress. Also covered is an introduction to Microsoft SharePoint Designer 2013 and third party workflow tools.
+  #### Lessons
+  - An Introduction to Workflows
+  - Adding Workflows
+  - Workflow Scenarios
+  - Removing Workflows
+  - Creating Workflows
+  - Third Party Workflow Tools
+  - Configuring Workflow Settings
+
+
+  #### Lab &#58; Create and Run Workflows
+  - Enable the workflow feature
+  - Create a library for procedures
+  - Add a new publishing workflow
+  - Test the workflow
+  - Optional – submit a new starter request
+
+  After completing this module, students will be able to&#58;
+  - Understand when to use a workflow
+  - Create and edit workflows in the browser
+  - Use workflows to collect approval and feedback information
+
+
+  ### Module 7&#58; Customizing Security
+  Security is an important element of any site. You will see instructor-led demonstrations of the best practices for adding and removing colleagues from your site and defining their level of access. As a site owner, you can customize permission levels. This means that you can create levels of access that are aligned with the responsibilities of your sites users. An example of this would be allowing a group of users the ability to upload
+  content but not delete content.
+  #### Lessons
+  - An Introduction to Security
+  - Creating Groups
+  - Access Requests
+  - How Inheriting Security Works
+  - Share Sites and Files
+  - Securing Apps, Folders, Files/Items
+  - Approving Access Requests
+  - Managed Metadata Security
+  - Creating Permission Levels
+  - OneDrive Security
+
+
+  #### Lab &#58; Configure Site Security
+  - Add staff to your site
+  - Create permission levels and groups
+  - Remove access for a user
+  - Lock down or open up apps
+  - Optional – Test a users permissions
+  - Optional – Add the auditors to a workflow
+
+  After completing this module, students will be able to&#58;
+  - Understand how security works in SharePoint
+  - Use Share to add users to a site
+  - Review security and remove users from a site
+  - Edit security to control what specific groups are users are allowed to do
+
+
+  ### Module 8&#58; Communicating with Social Tools
+  This module covers a new and evolving culture change in the way that we work with business information. Social features are an engaging way for users to collaborate. The variety of social tools available to you is
+  overwhelming. You will learn the differences between each of these tools and when to use them.
+  #### Lessons
+  - An Introduction to Social Tools
+  - Community Sites
+  - Updating your Profile
+  - Community Portal
+  - Blog Sites
+  - Skype for Business
+  - Newsfeeds
+
+
+  #### Lab &#58; Get Social
+  - Follow the company director
+  - Follow a file
+  - Answer questions in the community
+  - Post an update to the Training newsfeed
+  - Optional - Update your profile
+
+  After completing this module, students will be able to&#58;
+  - Understand the benefits of each social tool in SharePoint
+  - Create and configure social tools including community sites and blogs
+  - Add content to social sites
+
+
+  ### Module 9&#58; Working with Search
+  SharePoint provides the ability to store vast amounts of content in a variety of locations. This module covers a set of tools which help you to efficiently locate the information you need.
+  #### Lessons
+  - Searching in SharePoint 2016
+  - How Search Works
+  - Refinements
+  - Promoted Results
+  - Search Criteria
+  - Search Web Parts
+  - People Search
+  - How Can Search be Customised?
+
+
+  #### Lab &#58; Search
+  - Search for the host of a meeting
+  - Find out information on products
+  - Identify company partners
+  - Locate the company car policy
+  - Optional – Create a promoted result
+
+  After completing this module, students will be able to&#58;
+  - Describe the key features of search
+  - Use search to find content including people, sites and videos
+  - Use search web parts to roll up content from multiple locations
+
+
+  ### Module 10&#58; Building Business Scenarios
+  During the class you have seen, discussed and tested many SharePoint components. Before you head home, now is your chance to connect these building blocks together and create an entire SharePoint site based on a real world scenario. This is an opportunity to test yourself and ask questions of your instructor.
+
+  #### Lab &#58; Creation and Storage of Outlines
+  - Basic App and Navigation
+  - Upload Outline Template
+  - Test the Outline Template
+  - Create Columns and Views
+  - Enable Star Rating
+
+
+  #### Lab &#58; Project Expense Claim Processing
+  - Create New Site
+  - Configure Managed Meta
+  - Create Approvers Security
+  - Configure Policy
+  - Rename and Create Column
+  - Views for Data Entry and Reporting
+  - Test your new App
+  - Policy Review
+  - Save Apps as Template
+
+
+  #### Lab &#58; New Course Creation Process
+  - New Top Level Site
+  - Create Site Columns
+  - Create Content Types
+  - New Sub Site (to use as site template)
+  - Customise the Top Level Site
+  - Change the Look of the Site
+  - Test the new site
+  - Migrate Existing Files
+  - Keep up to date with Roll Up
+  - Share the Site
+
+  After completing this module, students will be able to&#58;
+  - Solve simple and complex business requirements by using a combination of SharePoint components

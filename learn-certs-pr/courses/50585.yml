@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: TTT for Latam
+metadata:
+  title: 'Course 50585-A: TTT for Latam'
+  description: 'Course 50585-A: TTT for Latam'
+uid: course.50585
+courseNumber: '50585-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Construcción de Cualidades y Modo de Ser de un Trainer (MCT)
+- skill: Dominio de Inicio o Apertura
+- skill: 'Cierre Efectivo: Importancia para el Futuro (MCT)'
+- skill: Dominio de Cierre Efectivo
+- skill: Dominio de Validación de Objetivos
+- skill: Dominio de Motivación e Interés
+learningPartnersLink: /learn/certifications/partners
+locales:
+- es
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Durante los 3 días de este curso proporcionará las herramientas necesarias para servir como instructor de Microsoft, cómo organizar un curso oficial MOC, los laboratorios, la asociación con un CPLS Local, y las herramientas para que los estudiantes saquen mejor provecho.
+
+  #### Audience profile
+  Este curso está dirigido tanto para principiantes e instructores, preferiblemente un mínimo de tres meses en la enseñanza.
+prerequisitesSection: |-
+  Before attending this course, students must have&#58;
+  - Adquirir una válida certificación de Microsoft para aplicar como MCT o en curso.
+outlineSection: |-
+  ### Módulo 1&#58; Rol del Trainer Construcción de Cualidades y Modo de Ser de un Trainer (MCT)
+  #### Lecciones
+  - 8 Pasos para una Preparación Efectiva
+  - Preguntas Claves antes del Inicio
+
+
+  #### Lab &#58; Demo Inicio
+
+  ### Módulo 2&#58; Desarrollo Fase de Desarrollo
+  #### Lecciones
+  - EJEMPLOS DEMOSTRATIVOS
+  - GRÁFICOS QUE CLARIFIQUEN
+  - ANÉCDOTAS
+  - MODELOS
+
+
+  #### Lab &#58; Manejo de Oreguntas
+
+  ### Módulo 3&#58; Oratoria Comunicación verbal
+  #### Lecciones
+  - Ademanes y expresiones faciales
+  - Contacto Visual
+
+
+  #### Lab &#58; Aspecto de Oratoria
